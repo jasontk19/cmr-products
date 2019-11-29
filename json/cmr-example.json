@@ -1,0 +1,102 @@
+{
+  "feed": {
+      "updated": "2019-11-29T19:53:22.100Z",
+      "id": "https://cmr.earthdata.nasa.gov:443/search/collections.json?include_facets=v2&keyword=C193529902-LPDAAC_ECS%2A&options%5Bscience_keywords_h%5D%5Bor%5D=true&options%5Btemporal%5D%5Blimit_to_granules%5D=true&page_num=1&page_size=20&sort_key%5B%5D=has_granules_or_cwic",
+      "title": "ECHO dataset metadata",
+      "entry": [
+          {
+              "processing_level_id": "2G",
+              "boxes": [
+                  "-90 -180 90 180"
+              ],
+              "time_start": "2000-02-24T00:00:00.000Z",
+              "version_id": "006",
+              "updated": "2015-09-30T10:47:32.717Z",
+              "dataset_id": "MODIS/Terra Surface Reflectance Daily L2G Global 1km and 500m SIN Grid V006",
+              "has_spatial_subsetting": false,
+              "has_transforms": false,
+              "has_variables": false,
+              "data_center": "LPDAAC_ECS",
+              "short_name": "MOD09GA",
+              "organizations": [
+                  "LP DAAC",
+                  "NASA/GSFC/SED/ESD/TISL/MODAPS"
+              ],
+              "title": "MODIS/Terra Surface Reflectance Daily L2G Global 1km and 500m SIN Grid V006",
+              "coordinate_system": "CARTESIAN",
+              "summary": "The MOD09GA Version 6 product provides an estimate of the surface spectral reflectance of Terra MODIS Bands 1-7 corrected for atmospheric conditions such as gasses, aerosols, and Rayleigh scattering. Provided along with the 500 m reflectance and four observation bands are a set of nine 1 km observation bands. The reflectance layers form the MOD09GA are used as the source data for many of the MODIS land products. Validation at stage 3 has been achieved for all MODIS Surface Reflectance products.\r\n\r\n Improvements/Changes from Previous Versions\r\n\r\n•\tImprovement to the aerosol retrieval and correction algorithm and use of new aerosol retrieval Look up Tables.\r\n•\tRefinements to the internal snow, cloud, and cloud shadow detection algorithms. Uses BRDF database to better constraint the different threshold used.\r\n•\tProcesses ocean bands to create a new Surface Reflectance Ocean product and provide QA data sets for these bands.\r\n•\tImproved discrimination of salt pans from cloud and snow and flag salt pan in QA band.\r\n\r\n",
+              "orbit_parameters": {},
+              "id": "C193529902-LPDAAC_ECS",
+              "has_formats": false,
+              "score": 0.5,
+              "original_format": "UMM_JSON",
+              "archive_center": "LP DAAC",
+              "has_temporal_subsetting": false,
+              "browse_flag": true,
+              "online_access_flag": true,
+              "links": [
+                  {
+                      "rel": "http://esipfed.org/ns/fedsearch/1.1/documentation#",
+                      "hreflang": "en-US",
+                      "href": "http://landweb.nascom.nasa.gov/cgi-bin/QA_WWW/qaFlagPage.cgi?sat=terra&ver=C6"
+                  },
+                  {
+                      "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+                      "hreflang": "en-US",
+                      "href": "https://doi.org/10.5067/MODIS/MOD09GA.006"
+                  },
+                  {
+                      "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+                      "hreflang": "en-US",
+                      "href": "https://e4ftl01.cr.usgs.gov/MOLT/MOD09GA.006/"
+                  },
+                  {
+                      "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+                      "hreflang": "en-US",
+                      "href": "https://earthexplorer.usgs.gov/"
+                  },
+                  {
+                      "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+                      "hreflang": "en-US",
+                      "href": "https://search.earthdata.nasa.gov/search?q=C193529902-LPDAAC_ECS"
+                  },
+                  {
+                      "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+                      "hreflang": "en-US",
+                      "href": "https://opendap.cr.usgs.gov/opendap/hyrax/MOD09GA.006/contents.html"
+                  },
+                  {
+                      "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+                      "hreflang": "en-US",
+                      "href": "https://lpdaac.usgs.gov/"
+                  },
+                  {
+                      "rel": "http://esipfed.org/ns/fedsearch/1.1/documentation#",
+                      "hreflang": "en-US",
+                      "href": "https://lpdaac.usgs.gov/documents/306/MOD09_User_Guide_V6.pdf"
+                  },
+                  {
+                      "rel": "http://esipfed.org/ns/fedsearch/1.1/documentation#",
+                      "hreflang": "en-US",
+                      "href": "https://lpdaac.usgs.gov/documents/305/MOD09_ATBD.pdf"
+                  },
+                  {
+                      "rel": "http://esipfed.org/ns/fedsearch/1.1/documentation#",
+                      "hreflang": "en-US",
+                      "href": "https://ladsweb.modaps.eosdis.nasa.gov/filespec/MODIS/6/MOD09GA"
+                  },
+                  {
+                      "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+                      "hreflang": "en-US",
+                      "href": "https://lpdaac.usgs.gov/tools/appeears/"
+                  },
+                  {
+                      "rel": "http://esipfed.org/ns/fedsearch/1.1/browse#",
+                      "hreflang": "en-US",
+                      "href": "https://e4ftl01.cr.usgs.gov//WORKING/BRWS/Browse.001/2019.06.28/BROWSE.MOD09GA.A2019177.h18v04.006.2019179025258.1.jpg?_ga=2.79144020.116070394.1561987039-1109527761.1561753117"
+                  }
+              ]
+          }
+      ]
+  }
+}

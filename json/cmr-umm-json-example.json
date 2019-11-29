@@ -1,0 +1,284 @@
+{
+  "hits": 1,
+  "took": 5,
+  "items": [
+      {
+          "meta": {
+              "revision-id": 77,
+              "deleted": false,
+              "format": "application/vnd.nasa.cmr.umm+json",
+              "provider-id": "LPDAAC_ECS",
+              "user-id": "thouska",
+              "has-formats": false,
+              "has-spatial-subsetting": false,
+              "native-id": "MODIS/Terra Surface Reflectance Daily L2G Global 1km and 500m SIN Grid V006",
+              "has-transforms": false,
+              "has-variables": false,
+              "concept-id": "C193529902-LPDAAC_ECS",
+              "revision-date": "2019-11-21T14:24:10Z",
+              "granule-count": 0,
+              "has-temporal-subsetting": false,
+              "concept-type": "collection"
+          },
+          "umm": {
+              "TilingIdentificationSystems": [
+                  {
+                      "TilingIdentificationSystemName": "MODIS Tile SIN",
+                      "Coordinate1": {
+                          "MinimumValue": 0.0,
+                          "MaximumValue": 35.0
+                      },
+                      "Coordinate2": {
+                          "MinimumValue": 0.0,
+                          "MaximumValue": 17.0
+                      }
+                  }
+              ],
+              "SpatialExtent": {
+                  "SpatialCoverageType": "HORIZONTAL",
+                  "HorizontalSpatialDomain": {
+                      "ZoneIdentifier": "MODIS Sinusoidal Tiling System",
+                      "Geometry": {
+                          "CoordinateSystem": "CARTESIAN",
+                          "BoundingRectangles": [
+                              {
+                                  "WestBoundingCoordinate": -180.0,
+                                  "NorthBoundingCoordinate": 90.0,
+                                  "EastBoundingCoordinate": 180.0,
+                                  "SouthBoundingCoordinate": -90.0
+                              }
+                          ]
+                      }
+                  },
+                  "GranuleSpatialRepresentation": "GEODETIC"
+              },
+              "CollectionProgress": "ACTIVE",
+              "ScienceKeywords": [
+                  {
+                      "Category": "EARTH SCIENCE",
+                      "Topic": "LAND SURFACE",
+                      "Term": "SURFACE RADIATIVE PROPERTIES",
+                      "VariableLevel1": "REFLECTANCE"
+                  }
+              ],
+              "TemporalExtents": [
+                  {
+                      "PrecisionOfSeconds": 1,
+                      "EndsAtPresentFlag": true,
+                      "RangeDateTimes": [
+                          {
+                              "BeginningDateTime": "2000-02-24T00:00:00.000Z"
+                          }
+                      ]
+                  }
+              ],
+              "ProcessingLevel": {
+                  "ProcessingLevelDescription": "Sensor Measurements",
+                  "Id": "2G"
+              },
+              "ShortName": "MOD09GA",
+              "EntryTitle": "MODIS/Terra Surface Reflectance Daily L2G Global 1km and 500m SIN Grid V006",
+              "AccessConstraints": {
+                  "Description": "None"
+              },
+              "DataDates": [
+                  {
+                      "Date": "2010-08-31T14:10:58.666Z",
+                      "Type": "CREATE"
+                  },
+                  {
+                      "Date": "2015-09-30T10:47:32.717Z",
+                      "Type": "UPDATE"
+                  }
+              ],
+              "Abstract": "The MOD09GA Version 6 product provides an estimate of the surface spectral reflectance of Terra MODIS Bands 1-7 corrected for atmospheric conditions such as gasses, aerosols, and Rayleigh scattering. Provided along with the 500 m reflectance and four observation bands are a set of nine 1 km observation bands. The reflectance layers form the MOD09GA are used as the source data for many of the MODIS land products. Validation at stage 3 has been achieved for all MODIS Surface Reflectance products.\r\n\r\n Improvements/Changes from Previous Versions\r\n\r\n•\tImprovement to the aerosol retrieval and correction algorithm and use of new aerosol retrieval Look up Tables.\r\n•\tRefinements to the internal snow, cloud, and cloud shadow detection algorithms. Uses BRDF database to better constraint the different threshold used.\r\n•\tProcesses ocean bands to create a new Surface Reflectance Ocean product and provide QA data sets for these bands.\r\n•\tImproved discrimination of salt pans from cloud and snow and flag salt pan in QA band.\r\n\r\n",
+              "Purpose": "Science Research",
+              "LocationKeywords": [
+                  {
+                      "Category": "GEOGRAPHIC REGION",
+                      "Type": "GLOBAL"
+                  }
+              ],
+              "MetadataDates": [
+                  {
+                      "Type": "CREATE",
+                      "Date": "2017-05-09T14:35:00.000Z"
+                  },
+                  {
+                      "Type": "UPDATE",
+                      "Date": "2019-11-21T14:24:00.000Z"
+                  }
+              ],
+              "Version": "006",
+              "Projects": [
+                  {
+                      "ShortName": "Terra",
+                      "LongName": "Earth Observing System (EOS), Terra",
+                      "Campaigns": [
+                          "Terra"
+                      ]
+                  }
+              ],
+              "DataCenters": [
+                  {
+                      "Roles": [
+                          "ARCHIVER"
+                      ],
+                      "ShortName": "LP DAAC",
+                      "LongName": "Land Processes Distributed Active Archive Center",
+                      "ContactGroups": [
+                          {
+                              "Roles": [
+                                  "User Services"
+                              ],
+                              "ContactInformation": {
+                                  "RelatedUrls": [
+                                      {
+                                          "Description": "The LP DAAC website provides detailed information on discovery, distribution, access, and support of land data products.",
+                                          "URLContentType": "DataContactURL",
+                                          "Type": "HOME PAGE",
+                                          "URL": "https://lpdaac.usgs.gov/"
+                                      }
+                                  ],
+                                  "ServiceHours": "M-F, 8 a.m. to 4 p.m. Central Time",
+                                  "ContactInstruction": "LP DAAC User Services is the point of contact for answering questions concerning data products, data access, and online applications.",
+                                  "ContactMechanisms": [
+                                      {
+                                          "Type": "Telephone",
+                                          "Value": "605-594-6116"
+                                      },
+                                      {
+                                          "Type": "U.S. toll free",
+                                          "Value": "866-573-3222"
+                                      },
+                                      {
+                                          "Type": "Email",
+                                          "Value": "lpdaac@usgs.gov"
+                                      }
+                                  ],
+                                  "Addresses": [
+                                      {
+                                          "StreetAddresses": [
+                                              "U.S. Geological Survey, Earth Resources Observation and Science (EROS) Center"
+                                          ],
+                                          "City": "Sioux Falls",
+                                          "StateProvince": "South Dakota",
+                                          "Country": "United States",
+                                          "PostalCode": "57198"
+                                      }
+                                  ]
+                              },
+                              "GroupName": "LP DAAC User Services"
+                          }
+                      ],
+                      "ContactInformation": {
+                          "RelatedUrls": [
+                              {
+                                  "Description": "The LP DAAC website provides detailed information on discovery, distribution, access, and support of land data products.",
+                                  "URLContentType": "DataCenterURL",
+                                  "Type": "HOME PAGE",
+                                  "URL": "https://lpdaac.usgs.gov/"
+                              }
+                          ],
+                          "ServiceHours": "M-F, 8 a.m. to 4 p.m. Central Time",
+                          "ContactInstruction": "LP DAAC User Services is the point of contact for answering questions concerning data products, data access, and online applications.",
+                          "ContactMechanisms": [
+                              {
+                                  "Type": "Telephone",
+                                  "Value": "605-594-6116"
+                              },
+                              {
+                                  "Type": "Telephone",
+                                  "Value": "866-573-3222"
+                              },
+                              {
+                                  "Type": "Email",
+                                  "Value": "lpdaac@usgs.gov"
+                              }
+                          ],
+                          "Addresses": [
+                              {
+                                  "StreetAddresses": [
+                                      "U.S. Geological Survey, Earth Resources Observation and Science (EROS) Center"
+                                  ],
+                                  "City": "Sioux Falls",
+                                  "StateProvince": "South Dakota",
+                                  "Country": "United States",
+                                  "PostalCode": "57198"
+                              }
+                          ]
+                      }
+                  },
+                  {
+                      "Roles": [
+                          "PROCESSOR"
+                      ],
+                      "ShortName": "NASA/GSFC/SED/ESD/TISL/MODAPS",
+                      "LongName": "MODIS Adaptive Processing System, Terrestrial Information Systems Laboratory, Earth Sciences Division, Science and Exploration Directorate, Goddard Space Flight Center, NASA",
+                      "ContactInformation": {
+                          "RelatedUrls": [
+                              {
+                                  "URLContentType": "DataCenterURL",
+                                  "Type": "HOME PAGE",
+                                  "URL": "https://modaps.modaps.eosdis.nasa.gov/"
+                              }
+                          ],
+                          "ContactInstruction": "Contact for data content concerns",
+                          "ContactMechanisms": [
+                              {
+                                  "Type": "Telephone",
+                                  "Value": "301-614-5515"
+                              },
+                              {
+                                  "Type": "Email",
+                                  "Value": "Edward.J.Masuoka@nasa.gov"
+                              }
+                          ],
+                          "Addresses": [
+                              {
+                                  "StreetAddresses": [
+                                      "NASA/GSFC Code 922"
+                                  ],
+                                  "City": "GREENBELT",
+                                  "StateProvince": "Maryland",
+                                  "Country": "United States",
+                                  "PostalCode": "20771"
+                              }
+                          ]
+                      }
+                  }
+              ],
+              "Platforms": [
+                  {
+                      "Type": "Earth Observation Satellites",
+                      "ShortName": "Terra",
+                      "LongName": "Earth Observing System, Terra (AM-1)",
+                      "Characteristics": [
+                          {
+                              "Name": "EquatorCrossingTime",
+                              "Description": "Local time of the equator crossing and direction (ascending or descending)",
+                              "Value": "10:30, descending",
+                              "Unit": "Local Mean Time",
+                              "DataType": "STRING"
+                          }
+                      ],
+                      "Instruments": [
+                          {
+                              "ShortName": "MODIS",
+                              "LongName": "Moderate-Resolution Imaging Spectroradiometer",
+                              "Technique": "Imaging Spectroradiometry",
+                              "ComposedOf": [
+                                  {
+                                      "ShortName": "MODIS",
+                                      "LongName": "Moderate-Resolution Imaging Spectroradiometer",
+                                      "Technique": "Radiometry"
+                                  }
+                              ]
+                          }
+                      ]
+                  }
+              ]
+          }
+      }
+  ]
+}

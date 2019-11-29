@@ -1,0 +1,19 @@
+  Possible useful keys from cmr entries:
+    id: sring
+    title: string
+    data_center: string
+    archive_center: string
+    organizations: list
+    processing_level_id: string (value: "3", "Level 3")
+    version_id:
+    collection_data_type: string (value: "NEAR_REAL_TIME"
+    associations: dict{ services: array<string> }
+
+  Useful keys from cmr-umm json entries
+    ScienceKewords: [
+      Category: string,
+      Topic: string,
+      Term: string,
+      VariableLevel1: string
+      VariableLevel2: ?
+    ]
