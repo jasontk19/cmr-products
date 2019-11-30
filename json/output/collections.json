@@ -1,0 +1,3597 @@
+{
+  "A2_RainOcn_NRT": {
+    "cmr": [
+      {
+        "id": "C1625129000-GHRC_CLOUD",
+        "titleprocessing_level_id": null,
+        "archive_center": "NASA/MSFC/GHRC",
+        "data_center": "GHRC_CLOUD",
+        "organizations": [
+          "NASA/MSFC/GHRC",
+          "Global Hydrology Resource Center, Marshall Space Flight Center, NASA"
+        ],
+        "score": null
+      },
+      {
+        "id": "C1000000000-LANCEAMSR2",
+        "titleprocessing_level_id": null,
+        "archive_center": null,
+        "data_center": "LANCEAMSR2",
+        "organizations": [
+          "NASA/MSFC/AMSR SIPS/LANCE"
+        ],
+        "score": null
+      }
+    ],
+    "umm": [
+      {
+        "ScienceKeywords": [
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "Atmosphere",
+            "Term": "Atmospheric Water Vapor",
+            "VariableLevel1": "Water Vapor Indicators",
+            "VariableLevel2": "Water Vapor"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "Atmosphere",
+            "Term": "Atmospheric Water Vapor",
+            "VariableLevel1": "Water Vapor Indicators",
+            "VariableLevel2": "Total Precipitable Water"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "Atmosphere",
+            "Term": "Atmospheric Winds",
+            "VariableLevel1": "Surface Winds",
+            "VariableLevel2": "Wind Speed"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "Atmosphere",
+            "Term": "Atmospheric Winds",
+            "VariableLevel1": "Surface Winds",
+            "VariableLevel2": "Wind Direction"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "Atmosphere",
+            "Term": "Precipitation",
+            "VariableLevel1": "Precipitation Rate"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "Oceans",
+            "Term": "Ocean Temperature",
+            "VariableLevel1": "Sea Surface Temperature"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "Atmosphere",
+            "Term": "Clouds",
+            "VariableLevel1": "Cloud Microphysics",
+            "VariableLevel2": "Cloud Liquid Water/Ice"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "Atmosphere",
+            "Term": "Atmospheric Water Vapor",
+            "VariableLevel1": "Water Vapor Profiles"
+          }
+        ],
+        "AncillaryKeywords": null,
+        "TemporalExtents": [
+          {
+            "EndsAtPresentFlag": false,
+            "RangeDateTimes": [
+              {
+                "BeginningDateTime": "2019-07-06T00:21:36.000Z"
+              }
+            ]
+          }
+        ],
+        "ProcessingLevel": {
+          "Id": "2"
+        },
+        "Version": "0",
+        "Projects": [
+          {
+            "ShortName": "LANCE",
+            "LongName": "Land, Atmosphere Near real-time Capability for EOS"
+          }
+        ],
+        "Platforms": [
+          {
+            "Type": "Earth Observation Satellites",
+            "ShortName": "GCOM-W1",
+            "LongName": "Global Change Observation Mission 1st-Water",
+            "Instruments": [
+              {
+                "ShortName": "AMSR2",
+                "LongName": "Advanced Microwave Scanning Radiometer 2"
+              }
+            ]
+          }
+        ],
+        "DataCenters": [
+          {
+            "Roles": [
+              "ARCHIVER"
+            ],
+            "ShortName": "NASA/MSFC/GHRC"
+          },
+          {
+            "Roles": [
+              "ARCHIVER"
+            ],
+            "ShortName": "Global Hydrology Resource Center, Marshall Space Flight Center, NASA",
+            "ContactInformation": {
+              "ContactMechanisms": [
+                {
+                  "Type": "Telephone",
+                  "Value": "+1 256-961-7932"
+                },
+                {
+                  "Type": "Fax",
+                  "Value": "+1 256-824-5149"
+                },
+                {
+                  "Type": "Email",
+                  "Value": "support-ghrc@earthdata.nasa.gov"
+                }
+              ],
+              "Addresses": [
+                {
+                  "StreetAddresses": [
+                    "320 Sparkman Drive"
+                  ],
+                  "City": "Huntsville",
+                  "StateProvince": "Alabama",
+                  "Country": "USA",
+                  "PostalCode": "35805"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "ScienceKeywords": [
+          {
+            "Category": "Earth Science",
+            "Topic": "Atmosphere",
+            "Term": "Atmospheric Water Vapor",
+            "VariableLevel1": "Water Vapor Profiles"
+          },
+          {
+            "Category": "Earth Science",
+            "Topic": "Atmosphere",
+            "Term": "Atmospheric Water Vapor",
+            "VariableLevel1": "Water Vapor Indicators",
+            "VariableLevel2": "Total Precipitable Water"
+          },
+          {
+            "Category": "Earth Science",
+            "Topic": "Atmosphere",
+            "Term": "Atmospheric Winds",
+            "VariableLevel1": "Surface Winds",
+            "VariableLevel2": "Wind Speed"
+          },
+          {
+            "Category": "Earth Science",
+            "Topic": "Atmosphere",
+            "Term": "Atmospheric Winds",
+            "VariableLevel1": "Surface Winds",
+            "VariableLevel2": "Wind Direction"
+          },
+          {
+            "Category": "Earth Science",
+            "Topic": "Atmosphere",
+            "Term": "Precipitation",
+            "VariableLevel1": "Precipitation Rate"
+          },
+          {
+            "Category": "Earth Science",
+            "Topic": "Oceans",
+            "Term": "Ocean Temperature",
+            "VariableLevel1": "Sea Surface Temperature"
+          },
+          {
+            "Category": "Earth Science",
+            "Topic": "Atmosphere",
+            "Term": "Atmospheric Water Vapor",
+            "VariableLevel1": "Water Vapor Indicators",
+            "VariableLevel2": "Water Vapor"
+          },
+          {
+            "Category": "Earth Science",
+            "Topic": "Atmosphere",
+            "Term": "Clouds",
+            "VariableLevel1": "Cloud Microphysics",
+            "VariableLevel2": "Cloud Liquid Water/Ice"
+          }
+        ],
+        "AncillaryKeywords": null,
+        "TemporalExtents": [
+          {
+            "EndsAtPresentFlag": false,
+            "RangeDateTimes": [
+              {
+                "BeginningDateTime": "2019-01-20T00:00:00.000Z"
+              }
+            ]
+          }
+        ],
+        "ProcessingLevel": {
+          "Id": "2"
+        },
+        "Version": "0",
+        "Projects": [
+          {
+            "ShortName": "LANCE",
+            "LongName": "Land, Atmosphere Near real-time Capability for EOS"
+          }
+        ],
+        "Platforms": [
+          {
+            "Type": "Earth Observation Satellites",
+            "ShortName": "GCOM-W1",
+            "LongName": "Global Change Observation Mission 1st-Water",
+            "Instruments": [
+              {
+                "ShortName": "AMSR2",
+                "LongName": "Advanced Microwave Scanning Radiometer 2",
+                "ComposedOf": [
+                  {
+                    "ShortName": "AMSR2"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "DataCenters": [
+          {
+            "Roles": [
+              "DISTRIBUTOR"
+            ],
+            "ShortName": "NASA/MSFC/AMSR SIPS/LANCE",
+            "ContactInformation": {
+              "ContactMechanisms": [
+                {
+                  "Type": "Telephone",
+                  "Value": "+1 256-961-7932"
+                },
+                {
+                  "Type": "Fax",
+                  "Value": "+1 256-824-5149"
+                },
+                {
+                  "Type": "Email",
+                  "Value": "support-ghrc@earthdata.nasa.gov"
+                }
+              ],
+              "Addresses": [
+                {
+                  "StreetAddresses": [
+                    "320 Sparkman Drive"
+                  ],
+                  "City": "Huntsville",
+                  "StateProvince": "Alabama",
+                  "Country": "USA",
+                  "PostalCode": "35805"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "AE_L2A_DAY": {
+    "cmr": [],
+    "umm": []
+  },
+  "AE_L2A_NIGHT": {
+    "cmr": [],
+    "umm": []
+  },
+  "AE_Rain": {
+    "cmr": [
+      {
+        "id": "C1000001740-NSIDC_ECS",
+        "titleprocessing_level_id": null,
+        "archive_center": "NASA NSIDC DAAC",
+        "data_center": "NSIDC_ECS",
+        "organizations": [
+          "NASA NSIDC DAAC",
+          "NASA/MSFC/AMSR-E SIPS"
+        ],
+        "score": null
+      }
+    ],
+    "umm": [
+      {
+        "ScienceKeywords": [
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "Not provided",
+            "Term": "Not provided"
+          }
+        ],
+        "AncillaryKeywords": null,
+        "TemporalExtents": [
+          {
+            "EndsAtPresentFlag": false,
+            "RangeDateTimes": [
+              {
+                "BeginningDateTime": "2002-06-01T00:00:00.000Z",
+                "EndingDateTime": "2011-10-04T23:59:59.999Z"
+              }
+            ]
+          }
+        ],
+        "ProcessingLevel": {
+          "ProcessingLevelDescription": "Derived geophysical variables",
+          "Id": "Level 2B"
+        },
+        "Version": "3",
+        "Projects": null,
+        "Platforms": [
+          {
+            "Type": "Earth Observation Satellites",
+            "ShortName": "AQUA",
+            "LongName": "Earth Observing System, AQUA",
+            "Instruments": [
+              {
+                "ShortName": "AMSR-E",
+                "LongName": "Advanced Microwave Scanning Radiometer-EOS",
+                "Technique": "instrument",
+                "NumberOfInstruments": 1,
+                "ComposedOf": [
+                  {
+                    "ShortName": "AMSR-E",
+                    "LongName": "Advanced Microwave Scanning Radiometer-EOS"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "DataCenters": [
+          {
+            "Roles": [
+              "ARCHIVER"
+            ],
+            "ShortName": "NASA NSIDC DAAC",
+            "ContactInformation": {
+              "RelatedUrls": [
+                {
+                  "Description": "Archiving Data Center",
+                  "URLContentType": "DataCenterURL",
+                  "Type": "HOME PAGE",
+                  "URL": "https://nsidc.org/daac"
+                }
+              ],
+              "ContactMechanisms": [
+                {
+                  "Type": "Telephone",
+                  "Value": "1 303 492 6199"
+                },
+                {
+                  "Type": "Email",
+                  "Value": "nsidc@nsidc.org"
+                }
+              ],
+              "Addresses": [
+                {
+                  "StreetAddresses": [
+                    "National Snow and Ice Data Center",
+                    "CIRES, 449 UCB",
+                    "University of Colorado"
+                  ],
+                  "City": "Boulder",
+                  "StateProvince": "CO",
+                  "Country": "USA",
+                  "PostalCode": "80309-0449"
+                }
+              ]
+            }
+          },
+          {
+            "Roles": [
+              "DISTRIBUTOR"
+            ],
+            "ShortName": "NASA NSIDC DAAC",
+            "ContactInformation": {
+              "RelatedUrls": [
+                {
+                  "Description": "Archiving Data Center",
+                  "URLContentType": "DataCenterURL",
+                  "Type": "HOME PAGE",
+                  "URL": "https://nsidc.org/daac"
+                }
+              ],
+              "ContactMechanisms": [
+                {
+                  "Type": "Telephone",
+                  "Value": "1 303 492 6199"
+                },
+                {
+                  "Type": "Email",
+                  "Value": "nsidc@nsidc.org"
+                }
+              ],
+              "Addresses": [
+                {
+                  "StreetAddresses": [
+                    "National Snow and Ice Data Center",
+                    "CIRES, 449 UCB",
+                    "University of Colorado"
+                  ],
+                  "City": "Boulder",
+                  "StateProvince": "CO",
+                  "Country": "USA",
+                  "PostalCode": "80309-0449"
+                }
+              ]
+            }
+          },
+          {
+            "Roles": [
+              "PROCESSOR"
+            ],
+            "ShortName": "NASA/MSFC/AMSR-E SIPS",
+            "ContactInformation": {
+              "RelatedUrls": [
+                {
+                  "Description": "Originating Data Center",
+                  "URLContentType": "DataCenterURL",
+                  "Type": "HOME PAGE",
+                  "URL": "https://weather.msfc.nasa.gov/AMSR/"
+                }
+              ]
+            }
+          },
+          {
+            "Roles": [
+              "ORIGINATOR"
+            ],
+            "ShortName": "NASA/MSFC/AMSR-E SIPS",
+            "ContactInformation": {
+              "RelatedUrls": [
+                {
+                  "Description": "Originating Data Center",
+                  "URLContentType": "DataCenterURL",
+                  "Type": "HOME PAGE",
+                  "URL": "https://weather.msfc.nasa.gov/AMSR/"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "AE_SI12": {
+    "cmr": [
+      {
+        "id": "C1452437262-NSIDC_ECS",
+        "titleprocessing_level_id": null,
+        "archive_center": "NASA NSIDC DAAC",
+        "data_center": "NSIDC_ECS",
+        "organizations": [
+          "NASA NSIDC DAAC",
+          "NASA/MSFC/AMSR-E SIPS"
+        ],
+        "score": null
+      }
+    ],
+    "umm": [
+      {
+        "ScienceKeywords": [
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "SPECTRAL/ENGINEERING",
+            "Term": "MICROWAVE",
+            "VariableLevel1": "BRIGHTNESS TEMPERATURE "
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "OCEANS",
+            "Term": "SEA ICE",
+            "VariableLevel1": "SEA ICE CONCENTRATION "
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "CRYOSPHERE",
+            "Term": "SEA ICE",
+            "VariableLevel1": "SEA ICE CONCENTRATION "
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "OCEANS",
+            "Term": "SEA ICE",
+            "VariableLevel1": "SNOW DEPTH "
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "CRYOSPHERE",
+            "Term": "SEA ICE",
+            "VariableLevel1": "SNOW DEPTH "
+          }
+        ],
+        "AncillaryKeywords": null,
+        "TemporalExtents": [
+          {
+            "EndsAtPresentFlag": false,
+            "RangeDateTimes": [
+              {
+                "BeginningDateTime": "2002-06-01T00:00:00.000Z",
+                "EndingDateTime": "2011-10-04T23:59:59.999Z"
+              }
+            ]
+          }
+        ],
+        "ProcessingLevel": {
+          "ProcessingLevelDescription": "Geophysical variables mapped on a grid",
+          "Id": "Level 3"
+        },
+        "Version": "3",
+        "Projects": null,
+        "Platforms": [
+          {
+            "Type": "Earth Observation Satellites",
+            "ShortName": "AQUA",
+            "LongName": "Earth Observing System, AQUA",
+            "Instruments": [
+              {
+                "ShortName": "AMSR-E",
+                "LongName": "Advanced Microwave Scanning Radiometer-EOS",
+                "Technique": "instrument",
+                "NumberOfInstruments": 1,
+                "ComposedOf": [
+                  {
+                    "ShortName": "AMSR-E",
+                    "LongName": "Advanced Microwave Scanning Radiometer-EOS"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "DataCenters": [
+          {
+            "Roles": [
+              "ARCHIVER"
+            ],
+            "ShortName": "NASA NSIDC DAAC",
+            "ContactInformation": {
+              "RelatedUrls": [
+                {
+                  "Description": "Archiving Data Center",
+                  "URLContentType": "DataCenterURL",
+                  "Type": "HOME PAGE",
+                  "URL": "https://nsidc.org/daac"
+                }
+              ],
+              "ContactMechanisms": [
+                {
+                  "Type": "Telephone",
+                  "Value": "1 303 492 6199"
+                },
+                {
+                  "Type": "Email",
+                  "Value": "nsidc@nsidc.org"
+                }
+              ],
+              "Addresses": [
+                {
+                  "StreetAddresses": [
+                    "National Snow and Ice Data Center",
+                    "CIRES, 449 UCB",
+                    "University of Colorado"
+                  ],
+                  "City": "Boulder",
+                  "StateProvince": "CO",
+                  "Country": "USA",
+                  "PostalCode": "80309-0449"
+                }
+              ]
+            }
+          },
+          {
+            "Roles": [
+              "DISTRIBUTOR"
+            ],
+            "ShortName": "NASA NSIDC DAAC",
+            "ContactInformation": {
+              "RelatedUrls": [
+                {
+                  "Description": "Archiving Data Center",
+                  "URLContentType": "DataCenterURL",
+                  "Type": "HOME PAGE",
+                  "URL": "https://nsidc.org/daac"
+                }
+              ],
+              "ContactMechanisms": [
+                {
+                  "Type": "Telephone",
+                  "Value": "1 303 492 6199"
+                },
+                {
+                  "Type": "Email",
+                  "Value": "nsidc@nsidc.org"
+                }
+              ],
+              "Addresses": [
+                {
+                  "StreetAddresses": [
+                    "National Snow and Ice Data Center",
+                    "CIRES, 449 UCB",
+                    "University of Colorado"
+                  ],
+                  "City": "Boulder",
+                  "StateProvince": "CO",
+                  "Country": "USA",
+                  "PostalCode": "80309-0449"
+                }
+              ]
+            }
+          },
+          {
+            "Roles": [
+              "PROCESSOR"
+            ],
+            "ShortName": "NASA/MSFC/AMSR-E SIPS",
+            "ContactInformation": {
+              "RelatedUrls": [
+                {
+                  "Description": "Originating Data Center",
+                  "URLContentType": "DataCenterURL",
+                  "Type": "HOME PAGE",
+                  "URL": "https://weather.msfc.nasa.gov/AMSR/"
+                }
+              ]
+            }
+          },
+          {
+            "Roles": [
+              "ORIGINATOR"
+            ],
+            "ShortName": "NASA/MSFC/AMSR-E SIPS",
+            "ContactInformation": {
+              "RelatedUrls": [
+                {
+                  "Description": "Originating Data Center",
+                  "URLContentType": "DataCenterURL",
+                  "Type": "HOME PAGE",
+                  "URL": "https://weather.msfc.nasa.gov/AMSR/"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "AE_SI25": {
+    "cmr": [
+      {
+        "id": "C1489170961-NSIDC_ECS",
+        "titleprocessing_level_id": null,
+        "archive_center": "NASA NSIDC DAAC",
+        "data_center": "NSIDC_ECS",
+        "organizations": [
+          "NASA NSIDC DAAC",
+          "NASA/MSFC/AMSR-E SIPS"
+        ],
+        "score": null
+      }
+    ],
+    "umm": [
+      {
+        "ScienceKeywords": [
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "Not provided",
+            "Term": "Not provided"
+          }
+        ],
+        "AncillaryKeywords": null,
+        "TemporalExtents": [
+          {
+            "EndsAtPresentFlag": false,
+            "RangeDateTimes": [
+              {
+                "BeginningDateTime": "2002-06-01T00:00:00.000Z",
+                "EndingDateTime": "2011-10-04T23:59:59.999Z"
+              }
+            ]
+          }
+        ],
+        "ProcessingLevel": {
+          "ProcessingLevelDescription": "Geophysical variables mapped on a grid",
+          "Id": "Level 3"
+        },
+        "Version": "3",
+        "Projects": null,
+        "Platforms": [
+          {
+            "Type": "Earth Observation Satellites",
+            "ShortName": "AQUA",
+            "LongName": "Earth Observing System, AQUA",
+            "Instruments": [
+              {
+                "ShortName": "AMSR-E",
+                "LongName": "Advanced Microwave Scanning Radiometer-EOS",
+                "Technique": "instrument",
+                "NumberOfInstruments": 1,
+                "ComposedOf": [
+                  {
+                    "ShortName": "AMSR-E",
+                    "LongName": "Advanced Microwave Scanning Radiometer-EOS"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "DataCenters": [
+          {
+            "Roles": [
+              "ARCHIVER"
+            ],
+            "ShortName": "NASA NSIDC DAAC",
+            "ContactInformation": {
+              "RelatedUrls": [
+                {
+                  "Description": "Archiving Data Center",
+                  "URLContentType": "DataCenterURL",
+                  "Type": "HOME PAGE",
+                  "URL": "https://nsidc.org/daac"
+                }
+              ],
+              "ContactMechanisms": [
+                {
+                  "Type": "Telephone",
+                  "Value": "1 303 492 6199"
+                },
+                {
+                  "Type": "Email",
+                  "Value": "nsidc@nsidc.org"
+                }
+              ],
+              "Addresses": [
+                {
+                  "StreetAddresses": [
+                    "National Snow and Ice Data Center",
+                    "CIRES, 449 UCB",
+                    "University of Colorado"
+                  ],
+                  "City": "Boulder",
+                  "StateProvince": "CO",
+                  "Country": "USA",
+                  "PostalCode": "80309-0449"
+                }
+              ]
+            }
+          },
+          {
+            "Roles": [
+              "DISTRIBUTOR"
+            ],
+            "ShortName": "NASA NSIDC DAAC",
+            "ContactInformation": {
+              "RelatedUrls": [
+                {
+                  "Description": "Archiving Data Center",
+                  "URLContentType": "DataCenterURL",
+                  "Type": "HOME PAGE",
+                  "URL": "https://nsidc.org/daac"
+                }
+              ],
+              "ContactMechanisms": [
+                {
+                  "Type": "Telephone",
+                  "Value": "1 303 492 6199"
+                },
+                {
+                  "Type": "Email",
+                  "Value": "nsidc@nsidc.org"
+                }
+              ],
+              "Addresses": [
+                {
+                  "StreetAddresses": [
+                    "National Snow and Ice Data Center",
+                    "CIRES, 449 UCB",
+                    "University of Colorado"
+                  ],
+                  "City": "Boulder",
+                  "StateProvince": "CO",
+                  "Country": "USA",
+                  "PostalCode": "80309-0449"
+                }
+              ]
+            }
+          },
+          {
+            "Roles": [
+              "PROCESSOR"
+            ],
+            "ShortName": "NASA/MSFC/AMSR-E SIPS",
+            "ContactInformation": {
+              "RelatedUrls": [
+                {
+                  "Description": "Originating Data Center",
+                  "URLContentType": "DataCenterURL",
+                  "Type": "HOME PAGE",
+                  "URL": "https://weather.msfc.nasa.gov/AMSR/"
+                }
+              ]
+            }
+          },
+          {
+            "Roles": [
+              "ORIGINATOR"
+            ],
+            "ShortName": "NASA/MSFC/AMSR-E SIPS",
+            "ContactInformation": {
+              "RelatedUrls": [
+                {
+                  "Description": "Originating Data Center",
+                  "URLContentType": "DataCenterURL",
+                  "Type": "HOME PAGE",
+                  "URL": "https://weather.msfc.nasa.gov/AMSR/"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "AE_SI6": {
+    "cmr": [
+      {
+        "id": "C1489168475-NSIDC_ECS",
+        "titleprocessing_level_id": null,
+        "archive_center": "NASA NSIDC DAAC",
+        "data_center": "NSIDC_ECS",
+        "organizations": [
+          "NASA NSIDC DAAC",
+          "NASA/MSFC/AMSR-E SIPS"
+        ],
+        "score": null
+      }
+    ],
+    "umm": [
+      {
+        "ScienceKeywords": [
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "Not provided",
+            "Term": "Not provided"
+          }
+        ],
+        "AncillaryKeywords": null,
+        "TemporalExtents": [
+          {
+            "EndsAtPresentFlag": false,
+            "RangeDateTimes": [
+              {
+                "BeginningDateTime": "2002-06-01T00:00:00.000Z",
+                "EndingDateTime": "2011-10-04T23:59:59.999Z"
+              }
+            ]
+          }
+        ],
+        "ProcessingLevel": {
+          "ProcessingLevelDescription": "Geophysical variables mapped on a grid",
+          "Id": "Level 3"
+        },
+        "Version": "3",
+        "Projects": null,
+        "Platforms": [
+          {
+            "Type": "Earth Observation Satellites",
+            "ShortName": "AQUA",
+            "LongName": "Earth Observing System, AQUA",
+            "Instruments": [
+              {
+                "ShortName": "AMSR-E",
+                "LongName": "Advanced Microwave Scanning Radiometer-EOS",
+                "Technique": "instrument",
+                "NumberOfInstruments": 1,
+                "ComposedOf": [
+                  {
+                    "ShortName": "AMSR-E",
+                    "LongName": "Advanced Microwave Scanning Radiometer-EOS"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "DataCenters": [
+          {
+            "Roles": [
+              "ARCHIVER"
+            ],
+            "ShortName": "NASA NSIDC DAAC",
+            "ContactInformation": {
+              "RelatedUrls": [
+                {
+                  "Description": "Archiving Data Center",
+                  "URLContentType": "DataCenterURL",
+                  "Type": "HOME PAGE",
+                  "URL": "https://nsidc.org/daac"
+                }
+              ],
+              "ContactMechanisms": [
+                {
+                  "Type": "Telephone",
+                  "Value": "1 303 492 6199"
+                },
+                {
+                  "Type": "Email",
+                  "Value": "nsidc@nsidc.org"
+                }
+              ],
+              "Addresses": [
+                {
+                  "StreetAddresses": [
+                    "National Snow and Ice Data Center",
+                    "CIRES, 449 UCB",
+                    "University of Colorado"
+                  ],
+                  "City": "Boulder",
+                  "StateProvince": "CO",
+                  "Country": "USA",
+                  "PostalCode": "80309-0449"
+                }
+              ]
+            }
+          },
+          {
+            "Roles": [
+              "DISTRIBUTOR"
+            ],
+            "ShortName": "NASA NSIDC DAAC",
+            "ContactInformation": {
+              "RelatedUrls": [
+                {
+                  "Description": "Archiving Data Center",
+                  "URLContentType": "DataCenterURL",
+                  "Type": "HOME PAGE",
+                  "URL": "https://nsidc.org/daac"
+                }
+              ],
+              "ContactMechanisms": [
+                {
+                  "Type": "Telephone",
+                  "Value": "1 303 492 6199"
+                },
+                {
+                  "Type": "Email",
+                  "Value": "nsidc@nsidc.org"
+                }
+              ],
+              "Addresses": [
+                {
+                  "StreetAddresses": [
+                    "National Snow and Ice Data Center",
+                    "CIRES, 449 UCB",
+                    "University of Colorado"
+                  ],
+                  "City": "Boulder",
+                  "StateProvince": "CO",
+                  "Country": "USA",
+                  "PostalCode": "80309-0449"
+                }
+              ]
+            }
+          },
+          {
+            "Roles": [
+              "PROCESSOR"
+            ],
+            "ShortName": "NASA/MSFC/AMSR-E SIPS",
+            "ContactInformation": {
+              "RelatedUrls": [
+                {
+                  "Description": "Originating Data Center",
+                  "URLContentType": "DataCenterURL",
+                  "Type": "HOME PAGE",
+                  "URL": "https://weather.msfc.nasa.gov/AMSR/"
+                }
+              ]
+            }
+          },
+          {
+            "Roles": [
+              "ORIGINATOR"
+            ],
+            "ShortName": "NASA/MSFC/AMSR-E SIPS",
+            "ContactInformation": {
+              "RelatedUrls": [
+                {
+                  "Description": "Originating Data Center",
+                  "URLContentType": "DataCenterURL",
+                  "Type": "HOME PAGE",
+                  "URL": "https://weather.msfc.nasa.gov/AMSR/"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "AIRX2RET_DAY": {
+    "cmr": [],
+    "umm": []
+  },
+  "AIRX2RET_NIGHT": {
+    "cmr": [],
+    "umm": []
+  },
+  "AIRS2RET": {
+    "cmr": [
+      {
+        "id": "C1243477381-GES_DISC",
+        "titleprocessing_level_id": null,
+        "archive_center": "NASA/GSFC/SED/ESD/GCDC/GESDISC",
+        "data_center": "GES_DISC",
+        "organizations": [
+          "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+        ],
+        "score": null
+      }
+    ],
+    "umm": [
+      {
+        "ScienceKeywords": [
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "ATMOSPHERIC TEMPERATURE",
+            "VariableLevel1": "SURFACE TEMPERATURE",
+            "VariableLevel2": "AIR TEMPERATURE"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "AIR QUALITY",
+            "VariableLevel1": "CARBON MONOXIDE"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "CLOUDS",
+            "VariableLevel1": "CLOUD PROPERTIES",
+            "VariableLevel2": "CLOUD FRACTION"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "CLOUDS",
+            "VariableLevel1": "CLOUD PROPERTIES",
+            "VariableLevel2": "CLOUD HEIGHT"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "CLOUDS",
+            "VariableLevel1": "CLOUD PROPERTIES",
+            "VariableLevel2": "CLOUD TOP PRESSURE"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "CLOUDS",
+            "VariableLevel1": "CLOUD PROPERTIES",
+            "VariableLevel2": "CLOUD TOP TEMPERATURE"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "CLOUDS",
+            "VariableLevel1": "CLOUD PROPERTIES",
+            "VariableLevel2": "CLOUD VERTICAL DISTRIBUTION"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "LAND SURFACE",
+            "Term": "SURFACE RADIATIVE PROPERTIES",
+            "VariableLevel1": "EMISSIVITY"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "ALTITUDE",
+            "VariableLevel1": "GEOPOTENTIAL HEIGHT"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "ATMOSPHERIC CHEMISTRY",
+            "VariableLevel1": "CARBON AND HYDROCARBON COMPOUNDS",
+            "VariableLevel2": "METHANE"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "ATMOSPHERIC RADIATION",
+            "VariableLevel1": "OUTGOING LONGWAVE RADIATION"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "ATMOSPHERIC CHEMISTRY",
+            "VariableLevel1": "OXYGEN COMPOUNDS",
+            "VariableLevel2": "OZONE"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "ATMOSPHERIC WATER VAPOR",
+            "VariableLevel1": "WATER VAPOR INDICATORS",
+            "VariableLevel2": "TOTAL PRECIPITABLE WATER"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "OCEANS",
+            "Term": "OCEAN TEMPERATURE",
+            "VariableLevel1": "SEA SURFACE TEMPERATURE"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "ATMOSPHERIC PRESSURE",
+            "VariableLevel1": "SURFACE PRESSURE"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "LAND SURFACE",
+            "Term": "SURFACE THERMAL PROPERTIES",
+            "VariableLevel1": "SKIN TEMPERATURE"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "ATMOSPHERIC TEMPERATURE",
+            "VariableLevel1": "SURFACE TEMPERATURE"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "ATMOSPHERIC CHEMISTRY",
+            "VariableLevel1": "SULFUR COMPOUNDS",
+            "VariableLevel2": "SULFUR DIOXIDE"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "ALTITUDE",
+            "VariableLevel1": "TROPOPAUSE"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "AIR QUALITY",
+            "VariableLevel1": "TROPOSPHERIC OZONE"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "ATMOSPHERIC TEMPERATURE",
+            "VariableLevel1": "UPPER AIR TEMPERATURE"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "ATMOSPHERIC WATER VAPOR",
+            "VariableLevel1": "WATER VAPOR PROFILES"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "CLOUDS",
+            "VariableLevel1": "CLOUD MICROPHYSICS",
+            "VariableLevel2": "CLOUD LIQUID WATER/ICE"
+          }
+        ],
+        "AncillaryKeywords": [
+          "ATMOSPHERE",
+          "CALIBRATED",
+          "GEOLOCATED",
+          "TEMPERATURE",
+          "CLOUD",
+          "EOSDIS",
+          "Carbon Monoxide",
+          "Cloud Liquid Water",
+          "Methane",
+          "Ozone",
+          "Spectral IR Surface Emissivities",
+          "TEMPERATURE",
+          "WATER VAPOR",
+          "Water Vapor Saturation Mass Mixing Ratio",
+          "Water Vapor Mass Mixing Ratio"
+        ],
+        "TemporalExtents": [
+          {
+            "EndsAtPresentFlag": true,
+            "RangeDateTimes": [
+              {
+                "BeginningDateTime": "2002-08-30T00:00:00.000Z"
+              }
+            ]
+          }
+        ],
+        "ProcessingLevel": {
+          "Id": "2"
+        },
+        "Version": "006",
+        "Projects": [
+          {
+            "ShortName": "Aqua",
+            "LongName": "Earth Observing System (EOS), Aqua"
+          }
+        ],
+        "Platforms": [
+          {
+            "Type": "Earth Observation Satellites",
+            "ShortName": "Aqua",
+            "LongName": "Earth Observing System, Aqua",
+            "Instruments": [
+              {
+                "ShortName": "AIRS",
+                "LongName": "Atmospheric Infrared Sounder"
+              }
+            ]
+          }
+        ],
+        "DataCenters": [
+          {
+            "Roles": [
+              "ARCHIVER"
+            ],
+            "ShortName": "NASA/GSFC/SED/ESD/GCDC/GESDISC",
+            "LongName": "Goddard Earth Sciences Data and Information Services Center (formerly Goddard DAAC), Global Change Data Center, Earth Sciences Division, Science and Exploration Directorate, Goddard Space Flight Center, NASA",
+            "ContactGroups": [
+              {
+                "Roles": [
+                  "Data Center Contact"
+                ],
+                "ContactInformation": {
+                  "ContactMechanisms": [
+                    {
+                      "Type": "Email",
+                      "Value": "gsfc-help-disc@lists.nasa.gov"
+                    },
+                    {
+                      "Type": "Telephone",
+                      "Value": "301-614-5224"
+                    },
+                    {
+                      "Type": "Fax",
+                      "Value": "301-614-5268"
+                    }
+                  ],
+                  "Addresses": [
+                    {
+                      "StreetAddresses": [
+                        "Goddard Earth Sciences Data and Information Services Center",
+                        "Code 610.2",
+                        "NASA Goddard Space Flight Center"
+                      ],
+                      "City": "Greenbelt",
+                      "StateProvince": "MD",
+                      "Country": "USA",
+                      "PostalCode": "20771"
+                    }
+                  ]
+                },
+                "GroupName": "GES DISC HELP DESK SUPPORT GROUP"
+              }
+            ],
+            "ContactInformation": {
+              "RelatedUrls": [
+                {
+                  "URLContentType": "DataCenterURL",
+                  "Type": "HOME PAGE",
+                  "URL": "https://disc.gsfc.nasa.gov/"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "AIRS2SUP": {
+    "cmr": [
+      {
+        "id": "C1243477382-GES_DISC",
+        "titleprocessing_level_id": null,
+        "archive_center": "NASA/GSFC/SED/ESD/GCDC/GESDISC",
+        "data_center": "GES_DISC",
+        "organizations": [
+          "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+        ],
+        "score": null
+      }
+    ],
+    "umm": [
+      {
+        "ScienceKeywords": [
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "ATMOSPHERIC TEMPERATURE",
+            "VariableLevel1": "SURFACE TEMPERATURE",
+            "VariableLevel2": "AIR TEMPERATURE"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "AIR QUALITY",
+            "VariableLevel1": "CARBON MONOXIDE"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "CLOUDS",
+            "VariableLevel1": "CLOUD PROPERTIES",
+            "VariableLevel2": "CLOUD FRACTION"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "CLOUDS",
+            "VariableLevel1": "CLOUD PROPERTIES",
+            "VariableLevel2": "CLOUD HEIGHT"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "CLOUDS",
+            "VariableLevel1": "CLOUD PROPERTIES",
+            "VariableLevel2": "CLOUD TOP PRESSURE"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "CLOUDS",
+            "VariableLevel1": "CLOUD PROPERTIES",
+            "VariableLevel2": "CLOUD TOP TEMPERATURE"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "CLOUDS",
+            "VariableLevel1": "CLOUD PROPERTIES",
+            "VariableLevel2": "CLOUD VERTICAL DISTRIBUTION"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "LAND SURFACE",
+            "Term": "SURFACE RADIATIVE PROPERTIES",
+            "VariableLevel1": "EMISSIVITY"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "ALTITUDE",
+            "VariableLevel1": "GEOPOTENTIAL HEIGHT"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "ATMOSPHERIC CHEMISTRY",
+            "VariableLevel1": "CARBON AND HYDROCARBON COMPOUNDS",
+            "VariableLevel2": "METHANE"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "ATMOSPHERIC RADIATION",
+            "VariableLevel1": "OUTGOING LONGWAVE RADIATION"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "ATMOSPHERIC CHEMISTRY",
+            "VariableLevel1": "OXYGEN COMPOUNDS",
+            "VariableLevel2": "OZONE"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "ATMOSPHERIC WATER VAPOR",
+            "VariableLevel1": "WATER VAPOR INDICATORS",
+            "VariableLevel2": "TOTAL PRECIPITABLE WATER"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "OCEANS",
+            "Term": "OCEAN TEMPERATURE",
+            "VariableLevel1": "SEA SURFACE TEMPERATURE"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "ATMOSPHERIC PRESSURE",
+            "VariableLevel1": "SURFACE PRESSURE"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "LAND SURFACE",
+            "Term": "SURFACE THERMAL PROPERTIES",
+            "VariableLevel1": "SKIN TEMPERATURE"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "ATMOSPHERIC TEMPERATURE",
+            "VariableLevel1": "SURFACE TEMPERATURE"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "ATMOSPHERIC CHEMISTRY",
+            "VariableLevel1": "SULFUR COMPOUNDS",
+            "VariableLevel2": "SULFUR DIOXIDE"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "ALTITUDE",
+            "VariableLevel1": "TROPOPAUSE"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "AIR QUALITY",
+            "VariableLevel1": "TROPOSPHERIC OZONE"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "ATMOSPHERIC TEMPERATURE",
+            "VariableLevel1": "UPPER AIR TEMPERATURE"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "ATMOSPHERIC WATER VAPOR",
+            "VariableLevel1": "WATER VAPOR PROFILES"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "CLOUDS",
+            "VariableLevel1": "CLOUD MICROPHYSICS",
+            "VariableLevel2": "CLOUD LIQUID WATER/ICE"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "CLOUDS",
+            "VariableLevel1": "CLOUD MICROPHYSICS",
+            "VariableLevel2": "CLOUD DROPLET CONCENTRATION/SIZE"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "CLOUDS",
+            "VariableLevel1": "CLOUD MICROPHYSICS",
+            "VariableLevel2": "CLOUD OPTICAL DEPTH/THICKNESS"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "CLOUDS",
+            "VariableLevel1": "CLOUD TYPES"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "PRECIPITATION",
+            "VariableLevel1": "PRECIPITATION RATE"
+          }
+        ],
+        "AncillaryKeywords": [
+          "ATMOSPHERE",
+          "CALIBRATED",
+          "GEOLOCATED",
+          "TEMPERATURE",
+          "CLOUD",
+          "EOSDIS",
+          "Carbon Monoxide",
+          "Cloud Liquid Water",
+          "Methane",
+          "Ozone",
+          "Spectral IR Surface Emissivities",
+          "TEMPERATURE",
+          "WATER VAPOR",
+          "Water Vapor Saturation Mass Mixing Ratio",
+          "Water Vapor Mass Mixing Ratio",
+          "Cloud Ice/Water Flag",
+          "Layer Molecular Column Density of Carbon Monoxide",
+          "Layer Molecular Column Density of Cloud Liquid Water",
+          "Layer Molecular Column Density of Methane",
+          "Layer Molecular Column Density of Ozone"
+        ],
+        "TemporalExtents": [
+          {
+            "EndsAtPresentFlag": true,
+            "RangeDateTimes": [
+              {
+                "BeginningDateTime": "2002-08-30T00:00:00.000Z"
+              }
+            ]
+          }
+        ],
+        "ProcessingLevel": {
+          "Id": "2"
+        },
+        "Version": "006",
+        "Projects": [
+          {
+            "ShortName": "Aqua",
+            "LongName": "Earth Observing System (EOS), Aqua"
+          }
+        ],
+        "Platforms": [
+          {
+            "Type": "Earth Observation Satellites",
+            "ShortName": "Aqua",
+            "LongName": "Earth Observing System, Aqua",
+            "Instruments": [
+              {
+                "ShortName": "AIRS",
+                "LongName": "Atmospheric Infrared Sounder"
+              }
+            ]
+          }
+        ],
+        "DataCenters": [
+          {
+            "Roles": [
+              "ARCHIVER"
+            ],
+            "ShortName": "NASA/GSFC/SED/ESD/GCDC/GESDISC",
+            "LongName": "Goddard Earth Sciences Data and Information Services Center (formerly Goddard DAAC), Global Change Data Center, Earth Sciences Division, Science and Exploration Directorate, Goddard Space Flight Center, NASA",
+            "ContactGroups": [
+              {
+                "Roles": [
+                  "Data Center Contact"
+                ],
+                "ContactInformation": {
+                  "ContactMechanisms": [
+                    {
+                      "Type": "Email",
+                      "Value": "gsfc-help-disc@lists.nasa.gov"
+                    },
+                    {
+                      "Type": "Telephone",
+                      "Value": "301-614-5224"
+                    },
+                    {
+                      "Type": "Fax",
+                      "Value": "301-614-5268"
+                    }
+                  ],
+                  "Addresses": [
+                    {
+                      "StreetAddresses": [
+                        "Goddard Earth Sciences Data and Information Services Center",
+                        "Code 610.2",
+                        "NASA Goddard Space Flight Center"
+                      ],
+                      "City": "Greenbelt",
+                      "StateProvince": "MD",
+                      "Country": "USA",
+                      "PostalCode": "20771"
+                    }
+                  ]
+                },
+                "GroupName": "GES DISC HELP DESK SUPPORT GROUP"
+              }
+            ],
+            "ContactInformation": {
+              "RelatedUrls": [
+                {
+                  "URLContentType": "DataCenterURL",
+                  "Type": "HOME PAGE",
+                  "URL": "https://disc.gsfc.nasa.gov/"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "AIRS3STD": {
+    "cmr": [
+      {
+        "id": "C1238517289-GES_DISC",
+        "titleprocessing_level_id": null,
+        "archive_center": "NASA/GSFC/SED/ESD/GCDC/GESDISC",
+        "data_center": "GES_DISC",
+        "organizations": [
+          "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+        ],
+        "score": null
+      }
+    ],
+    "umm": [
+      {
+        "ScienceKeywords": [
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "ALTITUDE",
+            "VariableLevel1": "TROPOPAUSE"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "ATMOSPHERIC PRESSURE",
+            "VariableLevel1": "SURFACE PRESSURE"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "ATMOSPHERIC TEMPERATURE",
+            "VariableLevel1": "SURFACE TEMPERATURE",
+            "VariableLevel2": "AIR TEMPERATURE"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "ATMOSPHERIC TEMPERATURE",
+            "VariableLevel1": "UPPER AIR TEMPERATURE"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "ATMOSPHERIC WATER VAPOR",
+            "VariableLevel1": "WATER VAPOR INDICATORS",
+            "VariableLevel2": "TOTAL PRECIPITABLE WATER"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "ATMOSPHERIC WATER VAPOR",
+            "VariableLevel1": "WATER VAPOR INDICATORS",
+            "VariableLevel2": "WATER VAPOR"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "CLOUDS",
+            "VariableLevel1": "CLOUD PROPERTIES",
+            "VariableLevel2": "CLOUD HEIGHT"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "CLOUDS",
+            "VariableLevel1": "CLOUD PROPERTIES",
+            "VariableLevel2": "CLOUD TOP PRESSURE"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "CLOUDS",
+            "VariableLevel1": "CLOUD PROPERTIES",
+            "VariableLevel2": "CLOUD TOP TEMPERATURE"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "CLOUDS",
+            "VariableLevel1": "CLOUD PROPERTIES",
+            "VariableLevel2": "CLOUD VERTICAL DISTRIBUTION"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "LAND SURFACE",
+            "Term": "SURFACE RADIATIVE PROPERTIES",
+            "VariableLevel1": "EMISSIVITY"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "OCEANS",
+            "Term": "OCEAN TEMPERATURE",
+            "VariableLevel1": "SEA SURFACE TEMPERATURE"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "LAND SURFACE",
+            "Term": "SURFACE THERMAL PROPERTIES",
+            "VariableLevel1": "SKIN TEMPERATURE"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "AIR QUALITY",
+            "VariableLevel1": "CARBON MONOXIDE"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "ALTITUDE",
+            "VariableLevel1": "GEOPOTENTIAL HEIGHT"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "ATMOSPHERIC WATER VAPOR",
+            "VariableLevel1": "WATER VAPOR INDICATORS",
+            "VariableLevel2": "HUMIDITY"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "ATMOSPHERIC WATER VAPOR",
+            "VariableLevel1": "WATER VAPOR PROFILES"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "CLOUDS",
+            "VariableLevel1": "CLOUD MICROPHYSICS",
+            "VariableLevel2": "CLOUD LIQUID WATER/ICE"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "ATMOSPHERIC RADIATION",
+            "VariableLevel1": "OUTGOING LONGWAVE RADIATION"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "ATMOSPHERIC CHEMISTRY",
+            "VariableLevel1": "CARBON AND HYDROCARBON COMPOUNDS",
+            "VariableLevel2": "METHANE"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "ATMOSPHERIC CHEMISTRY",
+            "VariableLevel1": "OXYGEN COMPOUNDS",
+            "VariableLevel2": "OZONE"
+          }
+        ],
+        "AncillaryKeywords": [
+          "ATMOSPHERE",
+          "CALIBRATED",
+          "GEOLOCATED",
+          "TEMPERATURE",
+          "CLOUD",
+          "EOSDIS",
+          "Total Ozone",
+          "Global Gridded",
+          "Total Integrated Column Water Vapor Burden",
+          "Total Integrated Column Cloud Liquid Water",
+          "Total Integrated Column Carbon Monoxide",
+          "Spectral IR Surface Emissivities",
+          "Total Integrated Column Ozone Burden",
+          "Outgoing Longwave Radiation Flux",
+          "Clear Sky Outgoing Longwave Radiation Flux",
+          "Relative Humidity Profile",
+          "Cloud Layer Pressure At Coarse Cloud Resolution",
+          "Cloud Layer Pressure At Fine Cloud Resolution",
+          "Water Vapor Mass Mixing Ratio Profile",
+          "Tropopause Height",
+          "Tropopause Temperature",
+          "Effective Methane Volume Mixing Ratio Profile",
+          "Effective Carbon Monoxide Volume Mixing Ratio Profile",
+          "Total Integrated Cloud Liquid Water"
+        ],
+        "TemporalExtents": [
+          {
+            "EndsAtPresentFlag": true,
+            "RangeDateTimes": [
+              {
+                "BeginningDateTime": "2002-08-31T00:00:00.000Z"
+              }
+            ]
+          }
+        ],
+        "ProcessingLevel": {
+          "Id": "3"
+        },
+        "Version": "006",
+        "Projects": [
+          {
+            "ShortName": "Aqua",
+            "LongName": "Earth Observing System (EOS), Aqua"
+          }
+        ],
+        "Platforms": [
+          {
+            "Type": "Earth Observation Satellites",
+            "ShortName": "Aqua",
+            "LongName": "Earth Observing System, Aqua",
+            "Instruments": [
+              {
+                "ShortName": "AIRS",
+                "LongName": "Atmospheric Infrared Sounder"
+              }
+            ]
+          }
+        ],
+        "DataCenters": [
+          {
+            "Roles": [
+              "ARCHIVER"
+            ],
+            "ShortName": "NASA/GSFC/SED/ESD/GCDC/GESDISC",
+            "LongName": "Goddard Earth Sciences Data and Information Services Center (formerly Goddard DAAC), Global Change Data Center, Earth Sciences Division, Science and Exploration Directorate, Goddard Space Flight Center, NASA",
+            "ContactGroups": [
+              {
+                "Roles": [
+                  "Data Center Contact"
+                ],
+                "ContactInformation": {
+                  "ContactMechanisms": [
+                    {
+                      "Type": "Email",
+                      "Value": "gsfc-help-disc@lists.nasa.gov"
+                    },
+                    {
+                      "Type": "Telephone",
+                      "Value": "301-614-5224"
+                    },
+                    {
+                      "Type": "Fax",
+                      "Value": "301-614-5268"
+                    }
+                  ],
+                  "Addresses": [
+                    {
+                      "StreetAddresses": [
+                        "Goddard Earth Sciences Data and Information Services Center",
+                        "Code 610.2",
+                        "NASA Goddard Space Flight Center"
+                      ],
+                      "City": "Greenbelt",
+                      "StateProvince": "MD",
+                      "Country": "USA",
+                      "PostalCode": "20771"
+                    }
+                  ]
+                },
+                "GroupName": "GES DISC HELP DESK SUPPORT GROUP"
+              }
+            ],
+            "ContactInformation": {
+              "RelatedUrls": [
+                {
+                  "URLContentType": "DataCenterURL",
+                  "Type": "HOME PAGE",
+                  "URL": "https://disc.gsfc.nasa.gov/"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "AIRS3STM": {
+    "cmr": [
+      {
+        "id": "C1238517301-GES_DISC",
+        "titleprocessing_level_id": null,
+        "archive_center": "NASA/GSFC/SED/ESD/GCDC/GESDISC",
+        "data_center": "GES_DISC",
+        "organizations": [
+          "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+        ],
+        "score": null
+      }
+    ],
+    "umm": [
+      {
+        "ScienceKeywords": [
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "ALTITUDE",
+            "VariableLevel1": "TROPOPAUSE"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "ATMOSPHERIC PRESSURE",
+            "VariableLevel1": "SURFACE PRESSURE"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "ATMOSPHERIC TEMPERATURE",
+            "VariableLevel1": "SURFACE TEMPERATURE",
+            "VariableLevel2": "AIR TEMPERATURE"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "ATMOSPHERIC TEMPERATURE",
+            "VariableLevel1": "UPPER AIR TEMPERATURE"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "ATMOSPHERIC WATER VAPOR",
+            "VariableLevel1": "WATER VAPOR INDICATORS",
+            "VariableLevel2": "TOTAL PRECIPITABLE WATER"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "ATMOSPHERIC WATER VAPOR",
+            "VariableLevel1": "WATER VAPOR INDICATORS",
+            "VariableLevel2": "WATER VAPOR"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "CLOUDS",
+            "VariableLevel1": "CLOUD PROPERTIES",
+            "VariableLevel2": "CLOUD HEIGHT"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "CLOUDS",
+            "VariableLevel1": "CLOUD PROPERTIES",
+            "VariableLevel2": "CLOUD TOP PRESSURE"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "CLOUDS",
+            "VariableLevel1": "CLOUD PROPERTIES",
+            "VariableLevel2": "CLOUD TOP TEMPERATURE"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "CLOUDS",
+            "VariableLevel1": "CLOUD PROPERTIES",
+            "VariableLevel2": "CLOUD VERTICAL DISTRIBUTION"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "LAND SURFACE",
+            "Term": "SURFACE RADIATIVE PROPERTIES",
+            "VariableLevel1": "EMISSIVITY"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "OCEANS",
+            "Term": "OCEAN TEMPERATURE",
+            "VariableLevel1": "SEA SURFACE TEMPERATURE"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "LAND SURFACE",
+            "Term": "SURFACE THERMAL PROPERTIES",
+            "VariableLevel1": "SKIN TEMPERATURE"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "AIR QUALITY",
+            "VariableLevel1": "CARBON MONOXIDE"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "ALTITUDE",
+            "VariableLevel1": "GEOPOTENTIAL HEIGHT"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "ATMOSPHERIC WATER VAPOR",
+            "VariableLevel1": "WATER VAPOR INDICATORS",
+            "VariableLevel2": "HUMIDITY"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "ATMOSPHERIC WATER VAPOR",
+            "VariableLevel1": "WATER VAPOR PROFILES"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "CLOUDS",
+            "VariableLevel1": "CLOUD MICROPHYSICS",
+            "VariableLevel2": "CLOUD LIQUID WATER/ICE"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "ATMOSPHERIC RADIATION",
+            "VariableLevel1": "OUTGOING LONGWAVE RADIATION"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "ATMOSPHERIC CHEMISTRY",
+            "VariableLevel1": "CARBON AND HYDROCARBON COMPOUNDS",
+            "VariableLevel2": "METHANE"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "ATMOSPHERIC CHEMISTRY",
+            "VariableLevel1": "OXYGEN COMPOUNDS",
+            "VariableLevel2": "OZONE"
+          }
+        ],
+        "AncillaryKeywords": [
+          "ATMOSPHERE",
+          "CALIBRATED",
+          "GEOLOCATED",
+          "TEMPERATURE",
+          "CLOUD",
+          "EOSDIS",
+          "Total Ozone",
+          "Global Gridded",
+          "Total Integrated Column Water Vapor Burden",
+          "Total Integrated Column Cloud Liquid Water",
+          "Total Integrated Column Carbon Monoxide",
+          "Spectral IR Surface Emissivities",
+          "Total Integrated Column Ozone Burden",
+          "Outgoing Longwave Radiation Flux",
+          "Clear Sky Outgoing Longwave Radiation Flux",
+          "Relative Humidity Profile",
+          "Cloud Layer Pressure At Coarse Cloud Resolution",
+          "Cloud Layer Pressure At Fine Cloud Resolution",
+          "Water Vapor Mass Mixing Ratio Profile",
+          "Tropopause Height",
+          "Tropopause Temperature",
+          "Effective Methane Volume Mixing Ratio Profile",
+          "Effective Carbon Monoxide Volume Mixing Ratio Profile",
+          "Total Integrated Cloud Liquid Water"
+        ],
+        "TemporalExtents": [
+          {
+            "EndsAtPresentFlag": true,
+            "RangeDateTimes": [
+              {
+                "BeginningDateTime": "2002-09-01T00:00:00.000Z"
+              }
+            ]
+          }
+        ],
+        "ProcessingLevel": {
+          "Id": "3"
+        },
+        "Version": "006",
+        "Projects": [
+          {
+            "ShortName": "Aqua",
+            "LongName": "Earth Observing System (EOS), Aqua"
+          }
+        ],
+        "Platforms": [
+          {
+            "Type": "Earth Observation Satellites",
+            "ShortName": "Aqua",
+            "LongName": "Earth Observing System, Aqua",
+            "Instruments": [
+              {
+                "ShortName": "AIRS",
+                "LongName": "Atmospheric Infrared Sounder"
+              }
+            ]
+          }
+        ],
+        "DataCenters": [
+          {
+            "Roles": [
+              "ARCHIVER"
+            ],
+            "ShortName": "NASA/GSFC/SED/ESD/GCDC/GESDISC",
+            "LongName": "Goddard Earth Sciences Data and Information Services Center (formerly Goddard DAAC), Global Change Data Center, Earth Sciences Division, Science and Exploration Directorate, Goddard Space Flight Center, NASA",
+            "ContactGroups": [
+              {
+                "Roles": [
+                  "Data Center Contact"
+                ],
+                "ContactInformation": {
+                  "ContactMechanisms": [
+                    {
+                      "Type": "Email",
+                      "Value": "gsfc-help-disc@lists.nasa.gov"
+                    },
+                    {
+                      "Type": "Telephone",
+                      "Value": "301-614-5224"
+                    },
+                    {
+                      "Type": "Fax",
+                      "Value": "301-614-5268"
+                    }
+                  ],
+                  "Addresses": [
+                    {
+                      "StreetAddresses": [
+                        "Goddard Earth Sciences Data and Information Services Center",
+                        "Code 610.2",
+                        "NASA Goddard Space Flight Center"
+                      ],
+                      "City": "Greenbelt",
+                      "StateProvince": "MD",
+                      "Country": "USA",
+                      "PostalCode": "20771"
+                    }
+                  ]
+                },
+                "GroupName": "GES DISC HELP DESK SUPPORT GROUP"
+              }
+            ],
+            "ContactInformation": {
+              "RelatedUrls": [
+                {
+                  "URLContentType": "DataCenterURL",
+                  "Type": "HOME PAGE",
+                  "URL": "https://disc.gsfc.nasa.gov/"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "AIRX3C2M": {
+    "cmr": [
+      {
+        "id": "C1238517293-GES_DISC",
+        "titleprocessing_level_id": null,
+        "archive_center": "NASA/GSFC/SED/ESD/GCDC/GESDISC",
+        "data_center": "GES_DISC",
+        "organizations": [
+          "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+        ],
+        "score": null
+      }
+    ],
+    "umm": [
+      {
+        "ScienceKeywords": [
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "ATMOSPHERIC RADIATION",
+            "VariableLevel1": "ABSORPTION"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "ATMOSPHERIC RADIATION",
+            "VariableLevel1": "RADIATIVE FORCING"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "ATMOSPHERIC CHEMISTRY",
+            "VariableLevel1": "CARBON AND HYDROCARBON COMPOUNDS",
+            "VariableLevel2": "CARBON DIOXIDE"
+          }
+        ],
+        "AncillaryKeywords": null,
+        "TemporalExtents": [
+          {
+            "EndsAtPresentFlag": false,
+            "RangeDateTimes": [
+              {
+                "BeginningDateTime": "2002-09-01T00:00:00.000Z",
+                "EndingDateTime": "2012-02-29T23:59:59.999Z"
+              }
+            ]
+          }
+        ],
+        "ProcessingLevel": {
+          "Id": "3"
+        },
+        "Version": "005",
+        "Projects": [
+          {
+            "ShortName": "Aqua",
+            "LongName": "Earth Observing System (EOS), Aqua"
+          }
+        ],
+        "Platforms": [
+          {
+            "Type": "Earth Observation Satellites",
+            "ShortName": "Aqua",
+            "LongName": "Earth Observing System, Aqua",
+            "Instruments": [
+              {
+                "ShortName": "AIRS",
+                "LongName": "Atmospheric Infrared Sounder"
+              },
+              {
+                "ShortName": "AMSU-A",
+                "LongName": "Advanced Microwave Sounding Unit-A"
+              }
+            ]
+          }
+        ],
+        "DataCenters": [
+          {
+            "Roles": [
+              "ARCHIVER"
+            ],
+            "ShortName": "NASA/GSFC/SED/ESD/GCDC/GESDISC",
+            "LongName": "Goddard Earth Sciences Data and Information Services Center (formerly Goddard DAAC), Global Change Data Center, Earth Sciences Division, Science and Exploration Directorate, Goddard Space Flight Center, NASA",
+            "ContactGroups": [
+              {
+                "Roles": [
+                  "Data Center Contact"
+                ],
+                "ContactInformation": {
+                  "ContactMechanisms": [
+                    {
+                      "Type": "Email",
+                      "Value": "gsfc-help-disc@lists.nasa.gov"
+                    },
+                    {
+                      "Type": "Telephone",
+                      "Value": "301-614-5224"
+                    },
+                    {
+                      "Type": "Fax",
+                      "Value": "301-614-5268"
+                    }
+                  ],
+                  "Addresses": [
+                    {
+                      "StreetAddresses": [
+                        "Goddard Earth Sciences Data and Information Services Center",
+                        "Code 610.2",
+                        "NASA Goddard Space Flight Center"
+                      ],
+                      "City": "Greenbelt",
+                      "StateProvince": "MD",
+                      "Country": "USA",
+                      "PostalCode": "20771"
+                    }
+                  ]
+                },
+                "GroupName": "GES DISC HELP DESK SUPPORT GROUP"
+              }
+            ],
+            "ContactInformation": {
+              "RelatedUrls": [
+                {
+                  "URLContentType": "DataCenterURL",
+                  "Type": "HOME PAGE",
+                  "URL": "https://disc.gsfc.nasa.gov/"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "AIRS3C2M": {
+    "cmr": [
+      {
+        "id": "C1238517264-GES_DISC",
+        "titleprocessing_level_id": null,
+        "archive_center": "NASA/GSFC/SED/ESD/GCDC/GESDISC",
+        "data_center": "GES_DISC",
+        "organizations": [
+          "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+        ],
+        "score": null
+      }
+    ],
+    "umm": [
+      {
+        "ScienceKeywords": [
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "ATMOSPHERIC CHEMISTRY",
+            "VariableLevel1": "CARBON AND HYDROCARBON COMPOUNDS",
+            "VariableLevel2": "CARBON DIOXIDE"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "ATMOSPHERIC RADIATION",
+            "VariableLevel1": "ABSORPTION"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "ATMOSPHERIC RADIATION",
+            "VariableLevel1": "RADIATIVE FORCING"
+          }
+        ],
+        "AncillaryKeywords": null,
+        "TemporalExtents": [
+          {
+            "EndsAtPresentFlag": false,
+            "RangeDateTimes": [
+              {
+                "BeginningDateTime": "2010-01-01T00:00:00.000Z",
+                "EndingDateTime": "2017-02-28T23:59:59.999Z"
+              }
+            ]
+          }
+        ],
+        "ProcessingLevel": {
+          "Id": "3"
+        },
+        "Version": "005",
+        "Projects": [
+          {
+            "ShortName": "Aqua",
+            "LongName": "Earth Observing System (EOS), Aqua"
+          }
+        ],
+        "Platforms": [
+          {
+            "Type": "Earth Observation Satellites",
+            "ShortName": "Aqua",
+            "LongName": "Earth Observing System, Aqua",
+            "Instruments": [
+              {
+                "ShortName": "AIRS",
+                "LongName": "Atmospheric Infrared Sounder"
+              }
+            ]
+          }
+        ],
+        "DataCenters": [
+          {
+            "Roles": [
+              "ARCHIVER"
+            ],
+            "ShortName": "NASA/GSFC/SED/ESD/GCDC/GESDISC",
+            "LongName": "Goddard Earth Sciences Data and Information Services Center (formerly Goddard DAAC), Global Change Data Center, Earth Sciences Division, Science and Exploration Directorate, Goddard Space Flight Center, NASA",
+            "ContactGroups": [
+              {
+                "Roles": [
+                  "Data Center Contact"
+                ],
+                "ContactInformation": {
+                  "ContactMechanisms": [
+                    {
+                      "Type": "Email",
+                      "Value": "gsfc-help-disc@lists.nasa.gov"
+                    },
+                    {
+                      "Type": "Telephone",
+                      "Value": "301-614-5224"
+                    },
+                    {
+                      "Type": "Fax",
+                      "Value": "301-614-5268"
+                    }
+                  ],
+                  "Addresses": [
+                    {
+                      "StreetAddresses": [
+                        "Goddard Earth Sciences Data and Information Services Center",
+                        "Code 610.2",
+                        "NASA Goddard Space Flight Center"
+                      ],
+                      "City": "Greenbelt",
+                      "StateProvince": "MD",
+                      "Country": "USA",
+                      "PostalCode": "20771"
+                    }
+                  ]
+                },
+                "GroupName": "GES DISC HELP DESK SUPPORT GROUP"
+              }
+            ],
+            "ContactInformation": {
+              "RelatedUrls": [
+                {
+                  "URLContentType": "DataCenterURL",
+                  "Type": "HOME PAGE",
+                  "URL": "https://disc.gsfc.nasa.gov/"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "AIRIBRAD_DAY": {
+    "cmr": [],
+    "umm": []
+  },
+  "AIRIBRAD_NIGHT": {
+    "cmr": [],
+    "umm": []
+  },
+  "AIRX2SUP_DAY": {
+    "cmr": [],
+    "umm": []
+  },
+  "AIRX2SUP_NIGHT": {
+    "cmr": [],
+    "umm": []
+  },
+  "amsua15sp": {
+    "cmr": [
+      {
+        "id": "C1625128931-GHRC_CLOUD",
+        "titleprocessing_level_id": null,
+        "archive_center": "NASA/MSFC/GHRC",
+        "data_center": "GHRC_CLOUD",
+        "organizations": [
+          "NASA/MSFC/GHRC",
+          "Global Hydrology Resource Center, Marshall Space Flight Center, NASA"
+        ],
+        "score": null
+      }
+    ],
+    "umm": [
+      {
+        "ScienceKeywords": [
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "Spectral/Engineering",
+            "Term": "Microwave",
+            "VariableLevel1": "Brightness Temperature"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "Atmosphere",
+            "Term": "Atmospheric Temperature",
+            "VariableLevel1": "Upper Air Temperature",
+            "VariableLevel2": "Vertical Profiles"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "Atmosphere",
+            "Term": "Atmospheric Water Vapor",
+            "VariableLevel1": "Water Vapor Profiles"
+          }
+        ],
+        "AncillaryKeywords": null,
+        "TemporalExtents": [
+          {
+            "EndsAtPresentFlag": false,
+            "RangeDateTimes": [
+              {
+                "BeginningDateTime": "1998-08-03T01:51:10.000Z"
+              }
+            ]
+          }
+        ],
+        "ProcessingLevel": {
+          "Id": "2"
+        },
+        "Version": "1",
+        "Projects": [
+          {
+            "ShortName": "NOT APPLICABLE"
+          }
+        ],
+        "Platforms": [
+          {
+            "Type": "Earth Observation Satellites",
+            "ShortName": "NOAA-15",
+            "LongName": "National Oceanic & Atmospheric Administration-15",
+            "Instruments": [
+              {
+                "ShortName": "AMSU-A",
+                "LongName": "Advanced Microwave Sounding Unit-A"
+              }
+            ]
+          }
+        ],
+        "DataCenters": [
+          {
+            "Roles": [
+              "ARCHIVER"
+            ],
+            "ShortName": "NASA/MSFC/GHRC"
+          },
+          {
+            "Roles": [
+              "ARCHIVER"
+            ],
+            "ShortName": "Global Hydrology Resource Center, Marshall Space Flight Center, NASA",
+            "ContactInformation": {
+              "ContactMechanisms": [
+                {
+                  "Type": "Telephone",
+                  "Value": "+1 256-961-7932"
+                },
+                {
+                  "Type": "Fax",
+                  "Value": "+1 256-824-5149"
+                },
+                {
+                  "Type": "Email",
+                  "Value": "support-ghrc@earthdata.nasa.gov"
+                }
+              ],
+              "Addresses": [
+                {
+                  "StreetAddresses": [
+                    "320 Sparkman Drive"
+                  ],
+                  "City": "Huntsville",
+                  "StateProvince": "Alabama",
+                  "Country": "USA",
+                  "PostalCode": "35805"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "amsua16sp": {
+    "cmr": [
+      {
+        "id": "C1625129049-GHRC_CLOUD",
+        "titleprocessing_level_id": null,
+        "archive_center": "NASA/MSFC/GHRC",
+        "data_center": "GHRC_CLOUD",
+        "organizations": [
+          "NASA/MSFC/GHRC",
+          "Global Hydrology Resource Center, Marshall Space Flight Center, NASA"
+        ],
+        "score": null
+      }
+    ],
+    "umm": [
+      {
+        "ScienceKeywords": [
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "Spectral/Engineering",
+            "Term": "Microwave",
+            "VariableLevel1": "Brightness Temperature"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "Atmosphere",
+            "Term": "Atmospheric Temperature",
+            "VariableLevel1": "Upper Air Temperature",
+            "VariableLevel2": "Vertical Profiles"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "Atmosphere",
+            "Term": "Atmospheric Water Vapor",
+            "VariableLevel1": "Water Vapor Profiles"
+          }
+        ],
+        "AncillaryKeywords": null,
+        "TemporalExtents": [
+          {
+            "EndsAtPresentFlag": false,
+            "RangeDateTimes": [
+              {
+                "BeginningDateTime": "2001-05-27T00:41:30.000Z",
+                "EndingDateTime": "2009-07-30T17:30:57.000Z"
+              }
+            ]
+          }
+        ],
+        "ProcessingLevel": {
+          "Id": "2"
+        },
+        "Version": "1",
+        "Projects": [
+          {
+            "ShortName": "NOT APPLICABLE"
+          }
+        ],
+        "Platforms": [
+          {
+            "Type": "Earth Observation Satellites",
+            "ShortName": "NOAA-16",
+            "LongName": "National Oceanic & Atmospheric Administration-16",
+            "Instruments": [
+              {
+                "ShortName": "AMSU-A",
+                "LongName": "Advanced Microwave Sounding Unit-A"
+              }
+            ]
+          }
+        ],
+        "DataCenters": [
+          {
+            "Roles": [
+              "ARCHIVER"
+            ],
+            "ShortName": "NASA/MSFC/GHRC"
+          },
+          {
+            "Roles": [
+              "ARCHIVER"
+            ],
+            "ShortName": "Global Hydrology Resource Center, Marshall Space Flight Center, NASA",
+            "ContactInformation": {
+              "ContactMechanisms": [
+                {
+                  "Type": "Telephone",
+                  "Value": "+1 256-961-7932"
+                },
+                {
+                  "Type": "Fax",
+                  "Value": "+1 256-824-5149"
+                },
+                {
+                  "Type": "Email",
+                  "Value": "support-ghrc@earthdata.nasa.gov"
+                }
+              ],
+              "Addresses": [
+                {
+                  "StreetAddresses": [
+                    "320 Sparkman Drive"
+                  ],
+                  "City": "Huntsville",
+                  "StateProvince": "Alabama",
+                  "Country": "USA",
+                  "PostalCode": "35805"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "amsua17sp": {
+    "cmr": [
+      {
+        "id": "C1625128311-GHRC_CLOUD",
+        "titleprocessing_level_id": null,
+        "archive_center": "NASA/MSFC/GHRC",
+        "data_center": "GHRC_CLOUD",
+        "organizations": [
+          "NASA/MSFC/GHRC",
+          "Global Hydrology Resource Center, Marshall Space Flight Center, NASA"
+        ],
+        "score": null
+      }
+    ],
+    "umm": [
+      {
+        "ScienceKeywords": [
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "Spectral/Engineering",
+            "Term": "Microwave",
+            "VariableLevel1": "Brightness Temperature"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "Atmosphere",
+            "Term": "Atmospheric Temperature",
+            "VariableLevel1": "Upper Air Temperature",
+            "VariableLevel2": "Vertical Profiles"
+          },
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "Atmosphere",
+            "Term": "Atmospheric Water Vapor",
+            "VariableLevel1": "Water Vapor Profiles"
+          }
+        ],
+        "AncillaryKeywords": null,
+        "TemporalExtents": [
+          {
+            "EndsAtPresentFlag": false,
+            "RangeDateTimes": [
+              {
+                "BeginningDateTime": "2002-07-21T00:53:50.000Z",
+                "EndingDateTime": "2003-12-13T01:24:45.000Z"
+              }
+            ]
+          }
+        ],
+        "ProcessingLevel": {
+          "Id": "2"
+        },
+        "Version": "1",
+        "Projects": [
+          {
+            "ShortName": "NOT APPLICABLE"
+          }
+        ],
+        "Platforms": [
+          {
+            "Type": "Earth Observation Satellites",
+            "ShortName": "NOAA-17",
+            "LongName": "National Oceanic & Atmospheric Administration-17",
+            "Instruments": [
+              {
+                "ShortName": "AMSU-A",
+                "LongName": "Advanced Microwave Sounding Unit-A"
+              }
+            ]
+          }
+        ],
+        "DataCenters": [
+          {
+            "Roles": [
+              "ARCHIVER"
+            ],
+            "ShortName": "NASA/MSFC/GHRC"
+          },
+          {
+            "Roles": [
+              "ARCHIVER"
+            ],
+            "ShortName": "Global Hydrology Resource Center, Marshall Space Flight Center, NASA",
+            "ContactInformation": {
+              "ContactMechanisms": [
+                {
+                  "Type": "Telephone",
+                  "Value": "+1 256-961-7932"
+                },
+                {
+                  "Type": "Fax",
+                  "Value": "+1 256-824-5149"
+                },
+                {
+                  "Type": "Email",
+                  "Value": "support-ghrc@earthdata.nasa.gov"
+                }
+              ],
+              "Addresses": [
+                {
+                  "StreetAddresses": [
+                    "320 Sparkman Drive"
+                  ],
+                  "City": "Huntsville",
+                  "StateProvince": "Alabama",
+                  "Country": "USA",
+                  "PostalCode": "35805"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "AQ3_DYSM": {
+    "cmr": [
+      {
+        "id": "C1529467467-NSIDC_ECS",
+        "titleprocessing_level_id": null,
+        "archive_center": "NASA NSIDC DAAC",
+        "data_center": "NSIDC_ECS",
+        "organizations": [
+          "NASA NSIDC DAAC",
+          "NASA/GSFC/SED/ESD/GCDC/OB.DAAC"
+        ],
+        "score": null
+      }
+    ],
+    "umm": [
+      {
+        "ScienceKeywords": [
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "LAND SURFACE",
+            "Term": "SOILS",
+            "VariableLevel1": "SOIL MOISTURE/WATER CONTENT "
+          }
+        ],
+        "AncillaryKeywords": null,
+        "TemporalExtents": [
+          {
+            "EndsAtPresentFlag": false,
+            "RangeDateTimes": [
+              {
+                "BeginningDateTime": "2011-08-25T00:00:00.000Z",
+                "EndingDateTime": "2015-06-07T23:59:59.999Z"
+              }
+            ]
+          }
+        ],
+        "ProcessingLevel": {
+          "ProcessingLevelDescription": "Geophysical variables mapped on a grid",
+          "Id": "Level 3"
+        },
+        "Version": "5",
+        "Projects": null,
+        "Platforms": [
+          {
+            "Type": "Earth Observation Satellites",
+            "ShortName": "SAC-D",
+            "LongName": "Sat\u00e9lite de Aplicaciones Cient\u00edficas",
+            "Instruments": [
+              {
+                "ShortName": "AQUARIUS_RADIOMETER",
+                "LongName": "Aquarius Radiometer",
+                "Technique": "instrument",
+                "NumberOfInstruments": 1,
+                "ComposedOf": [
+                  {
+                    "ShortName": "AQUARIUS_RADIOMETER",
+                    "LongName": "Aquarius Radiometer"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "DataCenters": [
+          {
+            "Roles": [
+              "ARCHIVER"
+            ],
+            "ShortName": "NASA NSIDC DAAC",
+            "ContactInformation": {
+              "RelatedUrls": [
+                {
+                  "Description": "Archiving Data Center",
+                  "URLContentType": "DataCenterURL",
+                  "Type": "HOME PAGE",
+                  "URL": "https://nsidc.org/daac"
+                }
+              ],
+              "ContactMechanisms": [
+                {
+                  "Type": "Telephone",
+                  "Value": "1 303 492 6199"
+                },
+                {
+                  "Type": "Email",
+                  "Value": "nsidc@nsidc.org"
+                }
+              ],
+              "Addresses": [
+                {
+                  "StreetAddresses": [
+                    "National Snow and Ice Data Center",
+                    "CIRES, 449 UCB",
+                    "University of Colorado"
+                  ],
+                  "City": "Boulder",
+                  "StateProvince": "CO",
+                  "Country": "USA",
+                  "PostalCode": "80309-0449"
+                }
+              ]
+            }
+          },
+          {
+            "Roles": [
+              "DISTRIBUTOR"
+            ],
+            "ShortName": "NASA NSIDC DAAC",
+            "ContactInformation": {
+              "RelatedUrls": [
+                {
+                  "Description": "Archiving Data Center",
+                  "URLContentType": "DataCenterURL",
+                  "Type": "HOME PAGE",
+                  "URL": "https://nsidc.org/daac"
+                }
+              ],
+              "ContactMechanisms": [
+                {
+                  "Type": "Telephone",
+                  "Value": "1 303 492 6199"
+                },
+                {
+                  "Type": "Email",
+                  "Value": "nsidc@nsidc.org"
+                }
+              ],
+              "Addresses": [
+                {
+                  "StreetAddresses": [
+                    "National Snow and Ice Data Center",
+                    "CIRES, 449 UCB",
+                    "University of Colorado"
+                  ],
+                  "City": "Boulder",
+                  "StateProvince": "CO",
+                  "Country": "USA",
+                  "PostalCode": "80309-0449"
+                }
+              ]
+            }
+          },
+          {
+            "Roles": [
+              "PROCESSOR"
+            ],
+            "ShortName": "NASA/GSFC/SED/ESD/GCDC/OB.DAAC",
+            "ContactInformation": {
+              "RelatedUrls": [
+                {
+                  "Description": "Originating Data Center",
+                  "URLContentType": "DataCenterURL",
+                  "Type": "HOME PAGE",
+                  "URL": "https://oceancolor.gsfc.nasa.gov"
+                }
+              ]
+            }
+          },
+          {
+            "Roles": [
+              "ORIGINATOR"
+            ],
+            "ShortName": "NASA/GSFC/SED/ESD/GCDC/OB.DAAC",
+            "ContactInformation": {
+              "RelatedUrls": [
+                {
+                  "Description": "Originating Data Center",
+                  "URLContentType": "DataCenterURL",
+                  "Type": "HOME PAGE",
+                  "URL": "https://oceancolor.gsfc.nasa.gov"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "AQ3_WKSM": {
+    "cmr": [
+      {
+        "id": "C1529467762-NSIDC_ECS",
+        "titleprocessing_level_id": null,
+        "archive_center": "NASA NSIDC DAAC",
+        "data_center": "NSIDC_ECS",
+        "organizations": [
+          "NASA NSIDC DAAC",
+          "NASA/GSFC/SED/ESD/GCDC/OB.DAAC"
+        ],
+        "score": null
+      }
+    ],
+    "umm": [
+      {
+        "ScienceKeywords": [
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "LAND SURFACE",
+            "Term": "SOILS",
+            "VariableLevel1": "SOIL MOISTURE/WATER CONTENT "
+          }
+        ],
+        "AncillaryKeywords": null,
+        "TemporalExtents": [
+          {
+            "EndsAtPresentFlag": false,
+            "RangeDateTimes": [
+              {
+                "BeginningDateTime": "2011-08-25T00:00:00.000Z",
+                "EndingDateTime": "2015-06-07T23:59:59.999Z"
+              }
+            ]
+          }
+        ],
+        "ProcessingLevel": {
+          "ProcessingLevelDescription": "Geophysical variables mapped on a grid",
+          "Id": "Level 3"
+        },
+        "Version": "5",
+        "Projects": null,
+        "Platforms": [
+          {
+            "Type": "Earth Observation Satellites",
+            "ShortName": "SAC-D",
+            "LongName": "Sat\u00e9lite de Aplicaciones Cient\u00edficas",
+            "Instruments": [
+              {
+                "ShortName": "AQUARIUS_RADIOMETER",
+                "LongName": "Aquarius Radiometer",
+                "Technique": "instrument",
+                "NumberOfInstruments": 1,
+                "ComposedOf": [
+                  {
+                    "ShortName": "AQUARIUS_RADIOMETER",
+                    "LongName": "Aquarius Radiometer"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "DataCenters": [
+          {
+            "Roles": [
+              "ARCHIVER"
+            ],
+            "ShortName": "NASA NSIDC DAAC",
+            "ContactInformation": {
+              "RelatedUrls": [
+                {
+                  "Description": "Archiving Data Center",
+                  "URLContentType": "DataCenterURL",
+                  "Type": "HOME PAGE",
+                  "URL": "https://nsidc.org/daac"
+                }
+              ],
+              "ContactMechanisms": [
+                {
+                  "Type": "Telephone",
+                  "Value": "1 303 492 6199"
+                },
+                {
+                  "Type": "Email",
+                  "Value": "nsidc@nsidc.org"
+                }
+              ],
+              "Addresses": [
+                {
+                  "StreetAddresses": [
+                    "National Snow and Ice Data Center",
+                    "CIRES, 449 UCB",
+                    "University of Colorado"
+                  ],
+                  "City": "Boulder",
+                  "StateProvince": "CO",
+                  "Country": "USA",
+                  "PostalCode": "80309-0449"
+                }
+              ]
+            }
+          },
+          {
+            "Roles": [
+              "DISTRIBUTOR"
+            ],
+            "ShortName": "NASA NSIDC DAAC",
+            "ContactInformation": {
+              "RelatedUrls": [
+                {
+                  "Description": "Archiving Data Center",
+                  "URLContentType": "DataCenterURL",
+                  "Type": "HOME PAGE",
+                  "URL": "https://nsidc.org/daac"
+                }
+              ],
+              "ContactMechanisms": [
+                {
+                  "Type": "Telephone",
+                  "Value": "1 303 492 6199"
+                },
+                {
+                  "Type": "Email",
+                  "Value": "nsidc@nsidc.org"
+                }
+              ],
+              "Addresses": [
+                {
+                  "StreetAddresses": [
+                    "National Snow and Ice Data Center",
+                    "CIRES, 449 UCB",
+                    "University of Colorado"
+                  ],
+                  "City": "Boulder",
+                  "StateProvince": "CO",
+                  "Country": "USA",
+                  "PostalCode": "80309-0449"
+                }
+              ]
+            }
+          },
+          {
+            "Roles": [
+              "PROCESSOR"
+            ],
+            "ShortName": "NASA/GSFC/SED/ESD/GCDC/OB.DAAC",
+            "ContactInformation": {
+              "RelatedUrls": [
+                {
+                  "Description": "Originating Data Center",
+                  "URLContentType": "DataCenterURL",
+                  "Type": "HOME PAGE",
+                  "URL": "https://oceancolor.gsfc.nasa.gov"
+                }
+              ]
+            }
+          },
+          {
+            "Roles": [
+              "ORIGINATOR"
+            ],
+            "ShortName": "NASA/GSFC/SED/ESD/GCDC/OB.DAAC",
+            "ContactInformation": {
+              "RelatedUrls": [
+                {
+                  "Description": "Originating Data Center",
+                  "URLContentType": "DataCenterURL",
+                  "Type": "HOME PAGE",
+                  "URL": "https://oceancolor.gsfc.nasa.gov"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "AQUARIUS_L3_SSS_SMI_7DAY-RUNNINGMEAN_V5": {
+    "cmr": [
+      {
+        "id": "C1649552426-PODAAC",
+        "titleprocessing_level_id": null,
+        "archive_center": "NASA/JPL/PODAAC",
+        "data_center": "PODAAC",
+        "organizations": [
+          "NASA/JPL/PODAAC",
+          "Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, N",
+          "Aquarius Project NASA/CONAE"
+        ],
+        "score": null
+      }
+    ],
+    "umm": [
+      {
+        "ScienceKeywords": [
+          {
+            "Category": "Earth Science",
+            "Topic": "Oceans",
+            "Term": "Salinity/Density",
+            "VariableLevel1": "Salinity"
+          }
+        ],
+        "AncillaryKeywords": null,
+        "TemporalExtents": [
+          {
+            "EndsAtPresentFlag": false,
+            "RangeDateTimes": [
+              {
+                "BeginningDateTime": "2011-08-25T01:45:23.000Z",
+                "EndingDateTime": "2015-06-07T12:45:21.000Z"
+              }
+            ]
+          }
+        ],
+        "ProcessingLevel": {
+          "Id": "3"
+        },
+        "Version": "5.0",
+        "Projects": [
+          {
+            "ShortName": "AQUARIUS SAC-D"
+          }
+        ],
+        "Platforms": [
+          {
+            "Type": "SPACECRAFT",
+            "ShortName": "Aquarius_SAC-D",
+            "LongName": "Aquarius SAC-D",
+            "Characteristics": [
+              {
+                "Name": "OrbitPeriod",
+                "Description": "Nominal period of a spacecraft?s single revolution on an orbital plane.",
+                "Value": "98.0",
+                "Unit": "Minutes",
+                "DataType": "FLOAT"
+              },
+              {
+                "Name": "InclinationAngle",
+                "Description": "Spacecraft angular distance from orbital plane relative to the Equator.",
+                "Value": "98.0",
+                "Unit": "Degrees",
+                "DataType": "FLOAT"
+              }
+            ],
+            "Instruments": [
+              {
+                "ShortName": "AQUARIUS_RADIOMETER",
+                "LongName": "Aquarius Radiometer",
+                "Characteristics": [
+                  {
+                    "Name": "SwathWidth",
+                    "Description": "Spacecraft angular distance from orbital plane relative to the Equator.",
+                    "Value": "390.0",
+                    "Unit": "Meters",
+                    "DataType": "FLOAT"
+                  }
+                ]
+              },
+              {
+                "ShortName": "AQUARIUS_SCATTEROMETER",
+                "LongName": "Aquarius Scatterometer",
+                "Characteristics": [
+                  {
+                    "Name": "SwathWidth",
+                    "Description": "Spacecraft angular distance from orbital plane relative to the Equator.",
+                    "Value": "390.0",
+                    "Unit": "Meters",
+                    "DataType": "FLOAT"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "DataCenters": [
+          {
+            "Roles": [
+              "PROCESSOR"
+            ],
+            "ShortName": "Aquarius Project NASA/CONAE"
+          },
+          {
+            "Roles": [
+              "ARCHIVER"
+            ],
+            "ShortName": "NASA/JPL/PODAAC"
+          },
+          {
+            "Roles": [
+              "ARCHIVER"
+            ],
+            "ShortName": "Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, N",
+            "LongName": "Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, NASA",
+            "ContactPersons": [
+              {
+                "Roles": [
+                  "Technical Contact"
+                ],
+                "FirstName": "User",
+                "MiddleName": "null",
+                "LastName": "Services"
+              }
+            ],
+            "ContactInformation": {
+              "ContactMechanisms": [
+                {
+                  "Type": "Primary",
+                  "Value": "(818) 393-7165"
+                },
+                {
+                  "Type": "Email",
+                  "Value": "podaac@podaac.jpl.nasa.gov"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "AQUARIUS_L3_SSS_SMI_7DAY_V5": {},
+  "AQUARIUS_L3_SSS_SMI_DAILY_V5": {},
+  "AQUARIUS_L3_SSS_SMI_MONTHLY-CLIMATOLOGY_V5": {},
+  "AQUARIUS_L3_SSS_SMI_SEASONAL-CLIMATOLOGY_V5": {},
+  "AQUARIUS_L3_WIND_SPEED_SMI_7DAY_V4": {},
+  "AQUARIUS_L3_WIND_SPEED_SMI_DAILY_V4": {},
+  "ASTGTM": {},
+  "AU_5DSno": {},
+  "AU_DySno": {},
+  "AU_Land": {},
+  "AU_MoSno": {},
+  "AU_SI12": {},
+  "AU_SI25": {},
+  "AU_SI6": {},
+  "AVISO_L4_DYN_TOPO_1DEG_1MO": {},
+  "CCMP_MEASURES_ATLAS_L4_OW_L3_5A_MONTHLY_WIND_VECTORS_FLK": {},
+  "CER_SYN1deg-Month_Terra-Aqua-MODIS": {},
+  "CERES_EBAF-Surface": {},
+  "CERES_EBAF-TOA": {},
+  "CER_SYN1deg-Month_Terra-MODIS": {},
+  "CYGNSS_L3_V2.1": {},
+  "1328": {},
+  "AVHRR_OI-NCEI-L4-GLOB-v2.0": {},
+  "GHRSST_L4G1SST_LL": {},
+  "GHRSST_L4MUR_LL": {},
+  "GLDAS_NOAH10_M.2.0": {},
+  "GPM_2AGPROFGPMGMI": {},
+  "GPM_1CGPMGMI": {},
+  "TELLUS_GRACE_MASCON_CRI_GRID_RL06_V1": {},
+  "GPM_3IMERGDF": {},
+  "GPM_3IMERGHHE": {},
+  "isslis_p0_nrt": {},
+  "lislip": {},
+  "lisvhrac": {},
+  "lisvhrfc": {},
+  "lisvhrmc": {},
+  "lisvhrsc": {},
+  "lohrfc": {},
+  "LPRM_AMSR2_DS_A_SOILM3": {},
+  "LPRM_AMSR2_DS_D_SOILM3": {},
+  "LPRM_AMSR2_D_SOILM3": {},
+  "LPRM_AMSR2_A_SOILM3": {},
+  "MCD12Q1": {},
+  "MCD15A2H": {},
+  "MCD15A3H": {},
+  "MCD43A3": {},
+  "MCD43A4": {},
+  "MCDAODHD": {},
+  "NSIDC-0477": {},
+  "M2TMNXRAD": {},
+  "M2IMNXGAS": {},
+  "M2IMNPASM": {},
+  "M2TMNXCHM": {},
+  "M2TMNPMST": {},
+  "M2TMNXADG": {},
+  "M2TMNXAER": {},
+  "M2TMNXOCN": {},
+  "M2TMNXINT": {},
+  "M2TMNXLND": {},
+  "M2TMNXCSP": {},
+  "M2IMNPANA": {},
+  "M2TMNXFLX": {},
+  "M2TMNPCLD": {},
+  "M2TMNXGLC": {},
+  "M2IMNXLFO": {},
+  "M2TMNXSLV": {},
+  "M2TMNXLFO": {},
+  "M2IMNXASM": {},
+  "M2IMNXINT": {},
+  "MIL3MAE": {},
+  "MI1B2_ELLIPSOID_AA": {},
+  "MI1B2_ELLIPSOID_AF": {},
+  "MI1B2_ELLIPSOID_AN": {},
+  "MI1B2_ELLIPSOID_BA": {},
+  "MI1B2_ELLIPSOID_BF": {},
+  "MI1B2_ELLIPSOID_CA": {},
+  "MI1B2_ELLIPSOID_CF": {},
+  "MI1B2_ELLIPSOID_DA": {},
+  "MI1B2_ELLIPSOID_DF": {},
+  "MIL3MCLD": {},
+  "MIL3MLS": {},
+  "MIL3MRD": {},
+  "MIL3MAL": {},
+  "ML2CO": {},
+  "ML2H2O": {},
+  "ML2HNO3": {},
+  "ML2N2O": {},
+  "ML2O3": {},
+  "ML2SO2": {},
+  "ML2T": {},
+  "MOD021KM_DAY": {},
+  "MOD021KM_NIGHT": {},
+  "MOD04_3K": {},
+  "MOD04_L2": {},
+  "MOD05_L2_DAY": {},
+  "MOD05_L2_NIGHT": {},
+  "MOD06_L2": {},
+  "MOD06_L2_DAY": {},
+  "MOD06_L2_NIGHT": {},
+  "MOD09GA": {},
+  "MOD09GQ": {},
+  "MOD09A1": {},
+  "MOD09Q1": {},
+  "MOD10_L2": {},
+  "MOD10A1": {},
+  "MOD10A2": {},
+  "MOD10CM": {},
+  "MOD11_L2_DAY": {},
+  "MOD11_L2_NIGHT": {},
+  "MOD11A1": {},
+  "MOD11A2": {},
+  "MOD11C3": {},
+  "MYD13A3": {},
+  "MOD13A3": {},
+  "MOD13Q1": {},
+  "MOD13Q4N": {},
+  "MOD15A2H": {},
+  "MOD17A2H": {},
+  "MOD29": {},
+  "MOD29P1D": {},
+  "MOD29P1N": {},
+  "MOD44W": {},
+  "MODIS_TERRA_L3_SST_THERMAL_8DAY_4KM_DAYTIME_V2014.0": {},
+  "MODIS_TERRA_L3_SST_MID-IR_8DAY_4KM_NIGHTTIME_V2014.0": {},
+  "MODIS_TERRA_L3_SST_THERMAL_8DAY_4KM_NIGHTTIME_V2014.0": {},
+  "MODIS_TERRA_L3_SST_THERMAL_ANNUAL_4KM_DAYTIME_V2014.0": {},
+  "MODIS_TERRA_L3_SST_MID-IR_ANNUAL_4KM_NIGHTTIME_V2014.0": {},
+  "MODIS_TERRA_L3_SST_THERMAL_ANNUAL_4KM_NIGHTTIME_V2014.0": {},
+  "MODIS_TERRA_L3_SST_THERMAL_DAILY_4KM_DAYTIME_V2014.0": {},
+  "MODIS_TERRA_L3_SST_MID-IR_DAILY_4KM_NIGHTTIME_V2014.0": {},
+  "MODIS_TERRA_L3_SST_THERMAL_DAILY_4KM_NIGHTTIME_V2014.0": {},
+  "MODIS_TERRA_L3_SST_THERMAL_MONTHLY_4KM_DAYTIME_V2014.0": {},
+  "MODIS_TERRA_L3_SST_MID-IR_MONTHLY_4KM_NIGHTTIME_V2014.0": {},
+  "MODIS_TERRA_L3_SST_THERMAL_MONTHLY_4KM_NIGHTTIME_V2014.0": {},
+  "MODIS_TERRA_L3_SST_THERMAL_8DAY_9KM_DAYTIME_V2014.0": {},
+  "MODIS_TERRA_L3_SST_MID-IR_8DAY_9KM_NIGHTTIME_V2014.0": {},
+  "MODIS_TERRA_L3_SST_THERMAL_8DAY_9KM_NIGHTTIME_V2014.0": {},
+  "MODIS_TERRA_L3_SST_THERMAL_ANNUAL_9KM_DAYTIME_V2014.0": {},
+  "MODIS_TERRA_L3_SST_MID-IR_ANNUAL_9KM_NIGHTTIME_V2014.0": {},
+  "MODIS_TERRA_L3_SST_THERMAL_ANNUAL_9KM_NIGHTTIME_V2014.0": {},
+  "MODIS_TERRA_L3_SST_THERMAL_DAILY_9KM_DAYTIME_V2014.0": {},
+  "MODIS_TERRA_L3_SST_MID-IR_DAILY_9KM_NIGHTTIME_V2014.0": {},
+  "MODIS_TERRA_L3_SST_THERMAL_DAILY_9KM_NIGHTTIME_V2014.0": {},
+  "MODIS_TERRA_L3_SST_THERMAL_MONTHLY_9KM_DAYTIME_V2014.0": {},
+  "MODIS_TERRA_L3_SST_MID-IR_MONTHLY_9KM_NIGHTTIME_V2014.0": {},
+  "MODIS_TERRA_L3_SST_THERMAL_MONTHLY_9KM_NIGHTTIME_V2014.0": {},
+  "MOP03J": {},
+  "MOP02R_NRT": {},
+  "MOP03JM": {},
+  "MYD021KM_DAY": {},
+  "MYD021KM_NIGHT": {},
+  "MYD04_3K": {},
+  "MYD04_L2": {},
+  "MYD05_L2_DAY": {},
+  "MYD05_L2_NIGHT": {},
+  "MYD06_L2": {},
+  "MYD06_L2_DAY": {},
+  "MYD06_L2_NIGHT": {},
+  "MYD09GA": {},
+  "MYD09GQ": {},
+  "MYD09A1": {},
+  "MYD09Q1": {},
+  "MYD10_L2": {},
+  "MYD10A1": {},
+  "MYD10A2": {},
+  "MYD10CM": {},
+  "MYD11_L2_DAY": {},
+  "MYD11_L2_NIGHT": {},
+  "MYD11A1": {},
+  "MYD11A2": {},
+  "MYD11C3": {},
+  "MYD13Q1": {},
+  "MYD15A2H": {},
+  "MYD17A2H": {},
+  "MYD29": {},
+  "MYD29P1D": {},
+  "MYD29P1N": {},
+  "MODIS_AQUA_L3_SST_THERMAL_8DAY_4KM_DAYTIME_V2014.0": {},
+  "MODIS_AQUA_L3_SST_MID-IR_8DAY_4KM_NIGHTTIME_V2014.0": {},
+  "MODIS_AQUA_L3_SST_THERMAL_8DAY_4KM_NIGHTTIME_V2014.0": {},
+  "MODIS_AQUA_L3_SST_THERMAL_ANNUAL_4KM_DAYTIME_V2014.0": {},
+  "MODIS_AQUA_L3_SST_MID-IR_ANNUAL_4KM_NIGHTTIME_V2014.0": {},
+  "MODIS_AQUA_L3_SST_THERMAL_ANNUAL_4KM_NIGHTTIME_V2014.0": {},
+  "MODIS_AQUA_L3_SST_THERMAL_DAILY_4KM_DAYTIME_V2014.0": {},
+  "MODIS_AQUA_L3_SST_MID-IR_DAILY_4KM_NIGHTTIME_V2014.0": {},
+  "MODIS_AQUA_L3_SST_THERMAL_DAILY_4KM_NIGHTTIME_V2014.0": {},
+  "MODIS_AQUA_L3_SST_THERMAL_MONTHLY_4KM_DAYTIME_V2014.0": {},
+  "MODIS_AQUA_L3_SST_MID-IR_MONTHLY_4KM_NIGHTTIME_V2014.0": {},
+  "MODIS_AQUA_L3_SST_THERMAL_MONTHLY_4KM_NIGHTTIME_V2014.0": {},
+  "MODIS_AQUA_L3_SST_THERMAL_8DAY_9KM_DAYTIME_V2014.0": {},
+  "MODIS_AQUA_L3_SST_MID-IR_8DAY_9KM_NIGHTTIME_V2014.0": {},
+  "MODIS_AQUA_L3_SST_THERMAL_8DAY_9KM_NIGHTTIME_V2014.0": {},
+  "MODIS_AQUA_L3_SST_THERMAL_ANNUAL_9KM_DAYTIME_V2014.0": {},
+  "MODIS_AQUA_L3_SST_MID-IR_ANNUAL_9KM_NIGHTTIME_V2014.0": {},
+  "MODIS_AQUA_L3_SST_THERMAL_ANNUAL_9KM_NIGHTTIME_V2014.0": {},
+  "MODIS_AQUA_L3_SST_THERMAL_DAILY_9KM_DAYTIME_V2014.0": {},
+  "MODIS_AQUA_L3_SST_MID-IR_DAILY_9KM_NIGHTTIME_V2014.0": {},
+  "MODIS_AQUA_L3_SST_THERMAL_DAILY_9KM_NIGHTTIME_V2014.0": {},
+  "MODIS_AQUA_L3_SST_THERMAL_MONTHLY_9KM_DAYTIME_V2014.0": {},
+  "MODIS_AQUA_L3_SST_MID-IR_MONTHLY_9KM_NIGHTTIME_V2014.0": {},
+  "MODIS_AQUA_L3_SST_THERMAL_MONTHLY_9KM_NIGHTTIME_V2014.0": {},
+  "NLDAS_FORA0125_M": {},
+  "NLDAS_FORB0125_M": {},
+  "NLDAS_MOS0125_M": {},
+  "NLDAS_NOAH0125_M": {},
+  "NLDAS_VIC0125_M": {},
+  "OCO2_L2_Lite_SIF": {},
+  "OCO2_L2_Lite_FP": {},
+  "olsdig10": {},
+  "olsdig12": {},
+  "OMAERUVd": {},
+  "OMAEROe": {},
+  "OMAERUV": {},
+  "OMCLDRR": {},
+  "OMNO2d": {},
+  "OMDOAO3e": {},
+  "OMTO3e": {},
+  "OMSO2": {},
+  "OMSO2e": {},
+  "OMUVBd": {},
+  "NMTO3": {},
+  "NMSO2-PCA-L2": {},
+  "OSCAR_L4_OC_third-deg": {},
+  "otdlip": {},
+  "rss1tpwnv7r01": {},
+  "rss1windnv7r01": {},
+  "CIESIN_SEDAC_AGLANDS_CROP2000": {},
+  "CIESIN_SEDAC_AGLANDS_PAS2000": {},
+  "CIESIN_SEDAC_SPECIES_AMP_RICH15": {},
+  "CIESIN_SEDAC_ANTHROMES_v1": {},
+  "CIESIN_CHRR_NDH_CYCLONE_PELRD": {},
+  "CIESIN_CHRR_NDH_CYCLONE_HFD": {},
+  "CIESIN_CHRR_NDH_CYCLONE_MRD": {},
+  "CIESIN_CHRR_NDH_DROUGHT_PELRD": {},
+  "CIESIN_CHRR_NDH_DROUGHT_HFD": {},
+  "CIESIN_CHRR_NDH_DROUGHT_MRD": {},
+  "CIESIN_SEDAC_PD_NETMIG_1970_2000": {},
+  "CIESIN_CHRR_NDH_FLOOD_PELRD": {},
+  "CIESIN_CHRR_NDH_FLOOD_HFD": {},
+  "CIESIN_CHRR_NDH_FLOOD_MRD": {},
+  "CIESIN_SEDAC_ULANDSAT_GMIS_V1": {},
+  "CIESIN_SEDAC_GPWv4_APDENS_WPP_2015": {},
+  "CIESIN_SEDAC_GRUMPv1_EXT": {},
+  "CIESIN_SEDAC_ULANDSAT_HBASE_V1": {},
+  "CIESIN_SEDAC_LWP2_HF_GEOG": {},
+  "CIESIN_CHRR_NDH_LSLIDE_HD": {},
+  "CIESIN_SEDAC_LWP2_LW_GEOG": {},
+  "CIESIN_SEDAC_SDEI_LST2013": {},
+  "CIESIN_SEDAC_SPECIES_MAM_RICH15": {},
+  "CIESIN_SEDAC_LULC_MANGROVES_2000": {},
+  "CIESIN_SEDAC_SDEI_NO2": {},
+  "CIESIN_SEDAC_SDEI_PM25_MMSAOD": {},
+  "CIESIN_SEDAC_SDEI_UHI2013": {},
+  "CIESIN_SEDAC_LECZ_URPLAEv2": {},
+  "CIESIN_SEDAC_LULC_PUEXPANS_2030": {},
+  "CIESIN_CHRR_NDH_VOLCANO_PELRD": {},
+  "CIESIN_CHRR_NDH_VOLCANO_HFD": {},
+  "CIESIN_CHRR_NDH_VOLCANO_MRD": {},
+  "SPL1BTB": {},
+  "SPL1CTB_E": {},
+  "SPL1CTB": {},
+  "SPL2SMP": {},
+  "SPL2SMP_E": {},
+  "SPL2SMAP_S": {},
+  "SPL3FTP": {},
+  "SPL3FTP_E": {},
+  "SPL3SMA": {},
+  "SPL3SMAP": {},
+  "SPL3SMP": {},
+  "SMAP_JPL_L3_SSS_CAP_8DAY-RUNNINGMEAN_V42": {},
+  "SMAP_JPL_L3_SSS_CAP_MONTHLY_V42": {},
+  "SMAP_RSS_L3_SSS_SMI_8DAY-RUNNINGMEAN_V4_70KM": {},
+  "SMAP_RSS_L3_SSS_SMI_MONTHLY_V4_70KM": {},
+  "SPL4SMAU": {},
+  "SPL4CMDL": {},
+  "SPL4SMGP": {},
+  "SRTMGL1": {},
+  "rssmif10d": {},
+  "rssmif11d": {},
+  "rssmif13d": {},
+  "rssmif14d": {},
+  "rssmif15d": {},
+  "rssmif16d": {},
+  "rssmif17d": {},
+  "rssmif08d": {},
+  "SWDB_L305": {},
+  "SWDB_L3M05": {},
+  "ALT_TIDE_GAUGE_L4_OST_SLA_US_WEST_COAST_DAILY": {},
+  "MERGED_TP_J1_OSTM_OST_CYCLES_V4": {},
+  "RECON_SEA_LEVEL_OST_L4_V1": {},
+  "GPM_2AGPROFTRMMTMI_CLIM": {},
+  "GPM_1CTRMMTMI": {},
+  "VNP02IMG_NRT": {},
+  "CLDMSK_L2_VIIRS_SNPP_NRT": {},
+  "AERDB_L2_VIIRS_SNPP_NRT": {},
+  "WELDAKYR": {},
+  "WELDAKMO": {},
+  "WELDAKSE": {},
+  "WELDUSYR": {},
+  "WELDUSMO": {},
+  "WELDUSSE": {},
+  "WELDLCLUC": {},
+  "NSIDC-0484": {},
+  "NISE": {},
+  "NSIDC-0051-0081": {},
+  "NSIDC-0478": {},
+  "NSIDC-0534": {},
+  "SPL3FTA": {},
+  "MYD14": {},
+  "MOD14": {},
+  "CIESIN_SEDAC_GRUMPv1_STLMNT01": {},
+  "VNP14IMG_NRT_DAY": {},
+  "VNP14IMGTDL_NRT": {},
+  "VNP14IMG_NRT_NIGHT": {}
+}

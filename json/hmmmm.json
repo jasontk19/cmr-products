@@ -1,0 +1,73 @@
+{
+  "ML2SO2": {
+    "cmr": [
+      {
+        "processing_level_id": "2",
+        "archive_center": "NASA/GSFC/SED/ESD/GCDC/GESDISC",
+        "data_center": "GES_DISC",
+        "organizations": [
+          "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+        ],
+        "id": "C1251101800-GES_DISC",
+        "score": null
+      },
+      {
+        "processing_level_id": "2",
+        "archive_center": "NASA/GSFC/SED/ESD/GCDC/GESDISC",
+        "data_center": "GES_DISC",
+        "organizations": [
+          "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+        ],
+        "id": "C1251101777-GES_DISC",
+        "score": null
+      }
+    ],
+    "umm": [
+      {
+        "ScienceKeywords": [
+          {
+            "Category": "EARTH SCIENCE",
+            "Topic": "ATMOSPHERE",
+            "Term": "ATMOSPHERIC CHEMISTRY",
+            "VariableLevel1": "SULFUR COMPOUNDS",
+            "VariableLevel2": "SULFUR DIOXIDE"
+          }
+        ],
+        "AncillaryKeywords": null,
+        "TemporalExtents": [
+          {
+            "EndsAtPresentFlag": true,
+            "RangeDateTimes": [
+              {
+                "BeginningDateTime": "2004-08-02T00:00:00.000Z"
+              }
+            ]
+          }
+        ],
+        "ProcessingLevel": {
+          "Id": "2"
+        },
+        "Version": "004",
+        "Projects": [
+          {
+            "ShortName": "Aura",
+            "LongName": "Earth Observing System (EOS), Aura"
+          }
+        ],
+        "Platforms": [
+          {
+            "Type": "Earth Observation Satellites",
+            "ShortName": "Aura",
+            "LongName": "Earth Observing System, Aura",
+            "Instruments": [
+              {
+                "ShortName": "MLS",
+                "LongName": "Microwave Limb Sounder"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -21,37 +21,6 @@
               "concept-type": "collection"
           },
           "umm": {
-              "TilingIdentificationSystems": [
-                  {
-                      "TilingIdentificationSystemName": "MODIS Tile SIN",
-                      "Coordinate1": {
-                          "MinimumValue": 0.0,
-                          "MaximumValue": 35.0
-                      },
-                      "Coordinate2": {
-                          "MinimumValue": 0.0,
-                          "MaximumValue": 17.0
-                      }
-                  }
-              ],
-              "SpatialExtent": {
-                  "SpatialCoverageType": "HORIZONTAL",
-                  "HorizontalSpatialDomain": {
-                      "ZoneIdentifier": "MODIS Sinusoidal Tiling System",
-                      "Geometry": {
-                          "CoordinateSystem": "CARTESIAN",
-                          "BoundingRectangles": [
-                              {
-                                  "WestBoundingCoordinate": -180.0,
-                                  "NorthBoundingCoordinate": 90.0,
-                                  "EastBoundingCoordinate": 180.0,
-                                  "SouthBoundingCoordinate": -90.0
-                              }
-                          ]
-                      }
-                  },
-                  "GranuleSpatialRepresentation": "GEODETIC"
-              },
               "CollectionProgress": "ACTIVE",
               "ScienceKeywords": [
                   {
@@ -78,9 +47,6 @@
               },
               "ShortName": "MOD09GA",
               "EntryTitle": "MODIS/Terra Surface Reflectance Daily L2G Global 1km and 500m SIN Grid V006",
-              "AccessConstraints": {
-                  "Description": "None"
-              },
               "DataDates": [
                   {
                       "Date": "2010-08-31T14:10:58.666Z",
