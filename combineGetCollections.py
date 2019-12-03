@@ -75,8 +75,8 @@ def get_layers_products():
     for key in cmr_data_store:
       get_cmr_data(key)
       count = count+1
-      if count >= 25:
-        break
+      # if count >= 25:
+      #   break
 
   with open('json/output/collections.json', mode='wt', encoding='utf-8') as lp:
     lp.write(json.dumps(cmr_data_store))
