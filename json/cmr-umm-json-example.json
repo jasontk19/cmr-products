@@ -1,88 +1,277 @@
 {
-  "hits": 1,
+  "url": "https://cmr.earthdata.nasa.gov/search/collections.umm_json?short_name=ML2SO2",
+  "hits": 2,
   "took": 5,
   "items": [
       {
           "meta": {
-              "revision-id": 77,
+              "revision-id": 11,
               "deleted": false,
-              "format": "application/vnd.nasa.cmr.umm+json",
-              "provider-id": "LPDAAC_ECS",
-              "user-id": "thouska",
+              "format": "application/dif10+xml",
+              "provider-id": "GES_DISC",
+              "user-id": "jejohns1",
               "has-formats": false,
               "has-spatial-subsetting": false,
-              "native-id": "MODIS/Terra Surface Reflectance Daily L2G Global 1km and 500m SIN Grid V006",
+              "native-id": "ML2SO2_003",
               "has-transforms": false,
               "has-variables": false,
-              "concept-id": "C193529902-LPDAAC_ECS",
-              "revision-date": "2019-11-21T14:24:10Z",
+              "concept-id": "C1251101800-GES_DISC",
+              "revision-date": "2018-11-30T19:57:16Z",
               "granule-count": 0,
               "has-temporal-subsetting": false,
               "concept-type": "collection"
           },
           "umm": {
-              "CollectionProgress": "ACTIVE",
+              "DataLanguage": "eng",
+              "CollectionCitations": [
+                  {
+                      "Creator": "EOS MLS Science Team",
+                      "DataPresentationForm": "Digital Science Data",
+                      "OnlineResource": {
+                          "Linkage": "https://disc.gsfc.nasa.gov/datacollection/ML2SO2_003.html"
+                      },
+                      "Publisher": "Goddard Earth Sciences Data and Information Services Center (GES DISC)",
+                      "Title": "MLS/Aura Level 2 Sulfur Dioxide (SO2) Mixing Ratio V003",
+                      "SeriesName": "ML2SO2",
+                      "ReleaseDate": "2011-01-19T00:00:00.000Z",
+                      "Version": "003",
+                      "ReleasePlace": "Greenbelt, MD, USA"
+                  }
+              ],
+              "SpatialExtent": {
+                  "HorizontalSpatialDomain": {
+                      "Geometry": {
+                          "CoordinateSystem": "CARTESIAN",
+                          "BoundingRectangles": [
+                              {
+                                  "WestBoundingCoordinate": -180.0,
+                                  "NorthBoundingCoordinate": 82.0,
+                                  "EastBoundingCoordinate": 180.0,
+                                  "SouthBoundingCoordinate": -82.0
+                              }
+                          ]
+                      }
+                  },
+                  "GranuleSpatialRepresentation": "CARTESIAN"
+              },
+              "CollectionProgress": "COMPLETE",
               "ScienceKeywords": [
                   {
                       "Category": "EARTH SCIENCE",
-                      "Topic": "LAND SURFACE",
-                      "Term": "SURFACE RADIATIVE PROPERTIES",
-                      "VariableLevel1": "REFLECTANCE"
+                      "Topic": "ATMOSPHERE",
+                      "Term": "ATMOSPHERIC CHEMISTRY",
+                      "VariableLevel1": "SULFUR COMPOUNDS",
+                      "VariableLevel2": "SULFUR DIOXIDE"
                   }
               ],
               "TemporalExtents": [
                   {
-                      "PrecisionOfSeconds": 1,
-                      "EndsAtPresentFlag": true,
+                      "EndsAtPresentFlag": false,
                       "RangeDateTimes": [
                           {
-                              "BeginningDateTime": "2000-02-24T00:00:00.000Z"
+                              "BeginningDateTime": "2004-08-08T00:00:00.000Z",
+                              "EndingDateTime": "2015-06-30T23:59:59.999Z"
                           }
                       ]
                   }
               ],
               "ProcessingLevel": {
-                  "ProcessingLevelDescription": "Sensor Measurements",
-                  "Id": "2G"
+                  "Id": "2"
               },
-              "ShortName": "MOD09GA",
-              "EntryTitle": "MODIS/Terra Surface Reflectance Daily L2G Global 1km and 500m SIN Grid V006",
+              "ShortName": "ML2SO2",
+              "EntryTitle": "MLS/Aura Level 2 Sulfur Dioxide (SO2) Mixing Ratiio V003 (ML2SO2) at GES DISC",
+              "ISOTopicCategories": [
+                  "CLIMATOLOGY/METEOROLOGY/ATMOSPHERE"
+              ],
+              "RelatedUrls": [
+                  {
+                      "URLContentType": "VisualizationURL",
+                      "Type": "GET RELATED VISUALIZATION",
+                      "URL": "https://docserver.gesdisc.eosdis.nasa.gov/public/project/Images/ML2SO2_003.png"
+                  },
+                  {
+                      "Description": "Access the data via HTTPS.",
+                      "URLContentType": "DistributionURL",
+                      "Type": "GET DATA",
+                      "Subtype": "DATA TREE",
+                      "URL": "https://acdisc.gesdisc.eosdis.nasa.gov/data/Aura_MLS_Level2/ML2SO2.003/"
+                  },
+                  {
+                      "Description": "Access the data via the OPeNDAP protocol.",
+                      "URLContentType": "DistributionURL",
+                      "Type": "USE SERVICE API",
+                      "Subtype": "OPENDAP DATA",
+                      "URL": "https://acdisc.gesdisc.eosdis.nasa.gov/opendap/HDF-EOS5/Aura_MLS_Level2/ML2SO2.003/contents.html"
+                  },
+                  {
+                      "Description": "Use the Earthdata Search to find and retrieve data sets across multiple data centers.",
+                      "URLContentType": "DistributionURL",
+                      "Type": "GET DATA",
+                      "Subtype": "Earthdata Search",
+                      "URL": "https://search.earthdata.nasa.gov/search?q=ML2SO2_003"
+                  },
+                  {
+                      "Description": "Data Quality and Description Document",
+                      "URLContentType": "PublicationURL",
+                      "Type": "VIEW RELATED INFORMATION",
+                      "Subtype": "USER'S GUIDE",
+                      "URL": "https://mls.jpl.nasa.gov/data/v3_data_quality_document.pdf"
+                  },
+                  {
+                      "Description": "List of publications.",
+                      "URLContentType": "PublicationURL",
+                      "Type": "VIEW RELATED INFORMATION",
+                      "Subtype": "PUBLICATIONS",
+                      "URL": "https://mls.jpl.nasa.gov/publications.php"
+                  },
+                  {
+                      "Description": "Users are encouraged to register with the MLS science team to obtain updates and information about this data product.",
+                      "URLContentType": "PublicationURL",
+                      "Type": "VIEW RELATED INFORMATION",
+                      "URL": "https://mls.jpl.nasa.gov/forms/reguser.php"
+                  },
+                  {
+                      "Description": "EOS MLS Retrieval Process Algorithm Theoretical Basis",
+                      "URLContentType": "PublicationURL",
+                      "Type": "VIEW RELATED INFORMATION",
+                      "Subtype": "ALGORITHM THEORETICAL BASIS DOCUMENT (ATBD)",
+                      "URL": "https://mls.jpl.nasa.gov/data/eos_algorithm_atbd.pdf"
+                  },
+                  {
+                      "Description": "MLS Science Team Home Page.",
+                      "URLContentType": "CollectionURL",
+                      "Type": "PROJECT HOME PAGE",
+                      "URL": "https://mls.jpl.nasa.gov/"
+                  }
+              ],
+              "ContactGroups": [
+                  {
+                      "Roles": [
+                          "Technical Contact"
+                      ],
+                      "ContactInformation": {
+                          "ContactMechanisms": [
+                              {
+                                  "Type": "Email",
+                                  "Value": "data@mls.jpl.nasa.gov"
+                              },
+                              {
+                                  "Type": "Telephone",
+                                  "Value": "818-354-6716"
+                              }
+                          ],
+                          "Addresses": [
+                              {
+                                  "StreetAddresses": [
+                                      "Mail Stop 183-701, Jet Propulsion Laboratory",
+                                      "4800 Oak Grove Drive"
+                                  ],
+                                  "City": "Pasadena",
+                                  "StateProvince": "CA",
+                                  "Country": "USA",
+                                  "PostalCode": "91109-8099"
+                              }
+                          ]
+                      },
+                      "GroupName": "MLS SCIENCE TEAM"
+                  }
+              ],
               "DataDates": [
                   {
-                      "Date": "2010-08-31T14:10:58.666Z",
+                      "Date": "2011-01-19T00:00:00.000Z",
                       "Type": "CREATE"
                   },
                   {
-                      "Date": "2015-09-30T10:47:32.717Z",
+                      "Date": "2011-01-19T00:00:00.000Z",
                       "Type": "UPDATE"
                   }
               ],
-              "Abstract": "The MOD09GA Version 6 product provides an estimate of the surface spectral reflectance of Terra MODIS Bands 1-7 corrected for atmospheric conditions such as gasses, aerosols, and Rayleigh scattering. Provided along with the 500 m reflectance and four observation bands are a set of nine 1 km observation bands. The reflectance layers form the MOD09GA are used as the source data for many of the MODIS land products. Validation at stage 3 has been achieved for all MODIS Surface Reflectance products.\r\n\r\n Improvements/Changes from Previous Versions\r\n\r\n•\tImprovement to the aerosol retrieval and correction algorithm and use of new aerosol retrieval Look up Tables.\r\n•\tRefinements to the internal snow, cloud, and cloud shadow detection algorithms. Uses BRDF database to better constraint the different threshold used.\r\n•\tProcesses ocean bands to create a new Surface Reflectance Ocean product and provide QA data sets for these bands.\r\n•\tImproved discrimination of salt pans from cloud and snow and flag salt pan in QA band.\r\n\r\n",
-              "Purpose": "Science Research",
+              "Abstract": "ML2SO2 is the EOS Aura Microwave Limb Sounder (MLS) standard product for sulfur dioxide derived from radiances measured by the 240 GHz radiometer. The data version is 3.3/3.4. Spatial coverage is near-global (-82 degrees to +82 degrees latitude), with each profile spaced 1.5 degrees or ~165 km along the orbit track (roughly 15 orbits per day). The recommended useful vertical range is from 215 to 10 hPa, and the vertical resolution is about 3 km. Users of the ML2SO2 data product should read section 3.20 of the EOS MLS Level 2 Version 3.3 and 3.4 Quality Document for more information.\n\nThe data are stored in the version 5 EOS Hierarchical Data Format (HDF-EOS5), which is based on the version 5 Hierarchical Data Format, or HDF-5. Each file contains two swath objects (profile and column data), each with a set of data and geolocation fields, swath attributes, and metadata.",
               "LocationKeywords": [
                   {
                       "Category": "GEOGRAPHIC REGION",
                       "Type": "GLOBAL"
+                  },
+                  {
+                      "Category": "VERTICAL LOCATION",
+                      "Type": "STRATOSPHERE"
                   }
               ],
               "MetadataDates": [
                   {
-                      "Type": "CREATE",
-                      "Date": "2017-05-09T14:35:00.000Z"
+                      "Date": "2010-12-16T00:00:00.000Z",
+                      "Type": "CREATE"
                   },
                   {
-                      "Type": "UPDATE",
-                      "Date": "2019-11-21T14:24:00.000Z"
+                      "Date": "2018-11-30T00:00:00.000Z",
+                      "Type": "UPDATE"
                   }
               ],
-              "Version": "006",
+              "Version": "003",
               "Projects": [
                   {
-                      "ShortName": "Terra",
-                      "LongName": "Earth Observing System (EOS), Terra",
-                      "Campaigns": [
-                          "Terra"
-                      ]
+                      "ShortName": "Aura",
+                      "LongName": "Earth Observing System (EOS), Aura"
+                  }
+              ],
+              "ContactPersons": [
+                  {
+                      "Roles": [
+                          "Investigator"
+                      ],
+                      "ContactInformation": {
+                          "ContactMechanisms": [
+                              {
+                                  "Type": "Email",
+                                  "Value": "livesey@mls.jpl.nasa.gov"
+                              }
+                          ],
+                          "Addresses": [
+                              {
+                                  "StreetAddresses": [
+                                      "Mail Stop 183-701, Jet Propulsion Laboratory, 4800 Oak Grove Drive"
+                                  ],
+                                  "City": "Pasadena",
+                                  "StateProvince": "CA",
+                                  "Country": "USA",
+                                  "PostalCode": "91109-8099"
+                              }
+                          ]
+                      },
+                      "FirstName": "NATHANIEL",
+                      "LastName": "LIVESEY"
+                  },
+                  {
+                      "Roles": [
+                          "Metadata Author"
+                      ],
+                      "ContactInformation": {
+                          "ContactMechanisms": [
+                              {
+                                  "Type": "Email",
+                                  "Value": "James.Johnson@nasa.gov"
+                              },
+                              {
+                                  "Type": "Telephone",
+                                  "Value": "301-614-5121"
+                              }
+                          ],
+                          "Addresses": [
+                              {
+                                  "StreetAddresses": [
+                                      "NASA Goddard Space Flight Center",
+                                      "Code 610.2"
+                                  ],
+                                  "City": "Greenbelt",
+                                  "StateProvince": "MD",
+                                  "Country": "USA",
+                                  "PostalCode": "20771"
+                              }
+                          ]
+                      },
+                      "FirstName": "JAMES",
+                      "MiddleName": "EDWARD",
+                      "LastName": "JOHNSON"
                   }
               ],
               "DataCenters": [
@@ -90,125 +279,51 @@
                       "Roles": [
                           "ARCHIVER"
                       ],
-                      "ShortName": "LP DAAC",
-                      "LongName": "Land Processes Distributed Active Archive Center",
+                      "ShortName": "NASA/GSFC/SED/ESD/GCDC/GESDISC",
+                      "LongName": "Goddard Earth Sciences Data and Information Services Center (formerly Goddard DAAC), Global Change Data Center, Earth Sciences Division, Science and Exploration Directorate, Goddard Space Flight Center, NASA",
                       "ContactGroups": [
                           {
                               "Roles": [
-                                  "User Services"
+                                  "Data Center Contact"
                               ],
                               "ContactInformation": {
-                                  "RelatedUrls": [
-                                      {
-                                          "Description": "The LP DAAC website provides detailed information on discovery, distribution, access, and support of land data products.",
-                                          "URLContentType": "DataContactURL",
-                                          "Type": "HOME PAGE",
-                                          "URL": "https://lpdaac.usgs.gov/"
-                                      }
-                                  ],
-                                  "ServiceHours": "M-F, 8 a.m. to 4 p.m. Central Time",
-                                  "ContactInstruction": "LP DAAC User Services is the point of contact for answering questions concerning data products, data access, and online applications.",
                                   "ContactMechanisms": [
                                       {
-                                          "Type": "Telephone",
-                                          "Value": "605-594-6116"
-                                      },
-                                      {
-                                          "Type": "U.S. toll free",
-                                          "Value": "866-573-3222"
-                                      },
-                                      {
                                           "Type": "Email",
-                                          "Value": "lpdaac@usgs.gov"
+                                          "Value": "gsfc-help-disc@lists.nasa.gov"
+                                      },
+                                      {
+                                          "Type": "Telephone",
+                                          "Value": "301-614-5224"
+                                      },
+                                      {
+                                          "Type": "Fax",
+                                          "Value": "301-614-5268"
                                       }
                                   ],
                                   "Addresses": [
                                       {
                                           "StreetAddresses": [
-                                              "U.S. Geological Survey, Earth Resources Observation and Science (EROS) Center"
+                                              "Goddard Earth Sciences Data and Information Services Center",
+                                              "Code 610.2",
+                                              "NASA Goddard Space Flight Center"
                                           ],
-                                          "City": "Sioux Falls",
-                                          "StateProvince": "South Dakota",
-                                          "Country": "United States",
-                                          "PostalCode": "57198"
+                                          "City": "Greenbelt",
+                                          "StateProvince": "MD",
+                                          "Country": "USA",
+                                          "PostalCode": "20771"
                                       }
                                   ]
                               },
-                              "GroupName": "LP DAAC User Services"
+                              "GroupName": "GES DISC HELP DESK SUPPORT GROUP"
                           }
                       ],
                       "ContactInformation": {
                           "RelatedUrls": [
                               {
-                                  "Description": "The LP DAAC website provides detailed information on discovery, distribution, access, and support of land data products.",
                                   "URLContentType": "DataCenterURL",
                                   "Type": "HOME PAGE",
-                                  "URL": "https://lpdaac.usgs.gov/"
-                              }
-                          ],
-                          "ServiceHours": "M-F, 8 a.m. to 4 p.m. Central Time",
-                          "ContactInstruction": "LP DAAC User Services is the point of contact for answering questions concerning data products, data access, and online applications.",
-                          "ContactMechanisms": [
-                              {
-                                  "Type": "Telephone",
-                                  "Value": "605-594-6116"
-                              },
-                              {
-                                  "Type": "Telephone",
-                                  "Value": "866-573-3222"
-                              },
-                              {
-                                  "Type": "Email",
-                                  "Value": "lpdaac@usgs.gov"
-                              }
-                          ],
-                          "Addresses": [
-                              {
-                                  "StreetAddresses": [
-                                      "U.S. Geological Survey, Earth Resources Observation and Science (EROS) Center"
-                                  ],
-                                  "City": "Sioux Falls",
-                                  "StateProvince": "South Dakota",
-                                  "Country": "United States",
-                                  "PostalCode": "57198"
-                              }
-                          ]
-                      }
-                  },
-                  {
-                      "Roles": [
-                          "PROCESSOR"
-                      ],
-                      "ShortName": "NASA/GSFC/SED/ESD/TISL/MODAPS",
-                      "LongName": "MODIS Adaptive Processing System, Terrestrial Information Systems Laboratory, Earth Sciences Division, Science and Exploration Directorate, Goddard Space Flight Center, NASA",
-                      "ContactInformation": {
-                          "RelatedUrls": [
-                              {
-                                  "URLContentType": "DataCenterURL",
-                                  "Type": "HOME PAGE",
-                                  "URL": "https://modaps.modaps.eosdis.nasa.gov/"
-                              }
-                          ],
-                          "ContactInstruction": "Contact for data content concerns",
-                          "ContactMechanisms": [
-                              {
-                                  "Type": "Telephone",
-                                  "Value": "301-614-5515"
-                              },
-                              {
-                                  "Type": "Email",
-                                  "Value": "Edward.J.Masuoka@nasa.gov"
-                              }
-                          ],
-                          "Addresses": [
-                              {
-                                  "StreetAddresses": [
-                                      "NASA/GSFC Code 922"
-                                  ],
-                                  "City": "GREENBELT",
-                                  "StateProvince": "Maryland",
-                                  "Country": "United States",
-                                  "PostalCode": "20771"
+                                  "URL": "https://disc.gsfc.nasa.gov/"
                               }
                           ]
                       }
@@ -217,33 +332,385 @@
               "Platforms": [
                   {
                       "Type": "Earth Observation Satellites",
-                      "ShortName": "Terra",
-                      "LongName": "Earth Observing System, Terra (AM-1)",
-                      "Characteristics": [
-                          {
-                              "Name": "EquatorCrossingTime",
-                              "Description": "Local time of the equator crossing and direction (ascending or descending)",
-                              "Value": "10:30, descending",
-                              "Unit": "Local Mean Time",
-                              "DataType": "STRING"
-                          }
-                      ],
+                      "ShortName": "Aura",
+                      "LongName": "Earth Observing System, Aura",
                       "Instruments": [
                           {
-                              "ShortName": "MODIS",
-                              "LongName": "Moderate-Resolution Imaging Spectroradiometer",
-                              "Technique": "Imaging Spectroradiometry",
-                              "ComposedOf": [
-                                  {
-                                      "ShortName": "MODIS",
-                                      "LongName": "Moderate-Resolution Imaging Spectroradiometer",
-                                      "Technique": "Radiometry"
-                                  }
-                              ]
+                              "ShortName": "MLS",
+                              "LongName": "Microwave Limb Sounder"
                           }
                       ]
                   }
-              ]
+              ],
+              "ArchiveAndDistributionInformation": {
+                  "FileDistributionInformation": [
+                      {
+                          "FormatType": "Native",
+                          "AverageFileSize": 0.97,
+                          "Format": "HDF-EOS5",
+                          "AverageFileSizeUnit": "MB",
+                          "Media": [
+                              "Online Archive"
+                          ]
+                      }
+                  ]
+              }
+          }
+      },
+      {
+          "meta": {
+              "revision-id": 13,
+              "deleted": false,
+              "format": "application/dif10+xml",
+              "provider-id": "GES_DISC",
+              "user-id": "cloeser",
+              "has-formats": false,
+              "has-spatial-subsetting": false,
+              "native-id": "ML2SO2_004",
+              "has-transforms": false,
+              "has-variables": false,
+              "concept-id": "C1251101777-GES_DISC",
+              "revision-date": "2018-09-04T13:15:23Z",
+              "granule-count": 0,
+              "has-temporal-subsetting": false,
+              "concept-type": "collection"
+          },
+          "umm": {
+              "DataLanguage": "eng",
+              "CollectionCitations": [
+                  {
+                      "Creator": "Read, W. and Livesey, N.",
+                      "DataPresentationForm": "Digital Science Data",
+                      "OnlineResource": {
+                          "Linkage": "https://disc.gsfc.nasa.gov/datacollection/ML2SO2_004.html"
+                      },
+                      "Publisher": "Goddard Earth Sciences Data and Information Services Center (GES DISC)",
+                      "Title": "MLS/Aura Level 2 Sulfur Dioxide (SO2) Mixing Ratio V004",
+                      "SeriesName": "ML2SO2",
+                      "ReleaseDate": "2015-02-19T00:00:00.000Z",
+                      "Version": "004",
+                      "ReleasePlace": "Greenbelt, MD, USA"
+                  }
+              ],
+              "SpatialExtent": {
+                  "HorizontalSpatialDomain": {
+                      "Geometry": {
+                          "CoordinateSystem": "CARTESIAN",
+                          "BoundingRectangles": [
+                              {
+                                  "WestBoundingCoordinate": -180.0,
+                                  "NorthBoundingCoordinate": 82.0,
+                                  "EastBoundingCoordinate": 180.0,
+                                  "SouthBoundingCoordinate": -82.0
+                              }
+                          ]
+                      }
+                  },
+                  "GranuleSpatialRepresentation": "CARTESIAN"
+              },
+              "CollectionProgress": "ACTIVE",
+              "ScienceKeywords": [
+                  {
+                      "Category": "EARTH SCIENCE",
+                      "Topic": "ATMOSPHERE",
+                      "Term": "ATMOSPHERIC CHEMISTRY",
+                      "VariableLevel1": "SULFUR COMPOUNDS",
+                      "VariableLevel2": "SULFUR DIOXIDE"
+                  }
+              ],
+              "TemporalExtents": [
+                  {
+                      "EndsAtPresentFlag": true,
+                      "RangeDateTimes": [
+                          {
+                              "BeginningDateTime": "2004-08-02T00:00:00.000Z"
+                          }
+                      ]
+                  }
+              ],
+              "ProcessingLevel": {
+                  "Id": "2"
+              },
+              "DOI": {
+                  "DOI": "10.5067/Aura/MLS/DATA2020"
+              },
+              "ShortName": "ML2SO2",
+              "EntryTitle": "MLS/Aura Level 2 Sulfur Dioxide (SO2) Mixing Ratio V004 (ML2SO2) at GES DISC",
+              "ISOTopicCategories": [
+                  "CLIMATOLOGY/METEOROLOGY/ATMOSPHERE"
+              ],
+              "RelatedUrls": [
+                  {
+                      "URLContentType": "VisualizationURL",
+                      "Type": "GET RELATED VISUALIZATION",
+                      "URL": "https://docserver.gesdisc.eosdis.nasa.gov/public/project/Images/ML2SO2_004.png"
+                  },
+                  {
+                      "Description": "Access the data via HTTP.",
+                      "URLContentType": "DistributionURL",
+                      "Type": "GET DATA",
+                      "Subtype": "DATA TREE",
+                      "URL": "https://acdisc.gesdisc.eosdis.nasa.gov/data/Aura_MLS_Level2/ML2SO2.004/"
+                  },
+                  {
+                      "Description": "Access the data via the OPeNDAP protocol.",
+                      "URLContentType": "DistributionURL",
+                      "Type": "USE SERVICE API",
+                      "Subtype": "OPENDAP DATA",
+                      "URL": "https://acdisc.gesdisc.eosdis.nasa.gov/opendap/HDF-EOS5/Aura_MLS_Level2/ML2SO2.004/contents.html"
+                  },
+                  {
+                      "Description": "Use the Earthdata Search to find and retrieve data sets across multiple data centers.",
+                      "URLContentType": "DistributionURL",
+                      "Type": "GET DATA",
+                      "Subtype": "Earthdata Search",
+                      "URL": "https://search.earthdata.nasa.gov/search?q=ML2SO2_004"
+                  },
+                  {
+                      "Description": "Data Quality and Description Document",
+                      "URLContentType": "PublicationURL",
+                      "Type": "VIEW RELATED INFORMATION",
+                      "Subtype": "USER'S GUIDE",
+                      "URL": "https://mls.jpl.nasa.gov/data/v4-2_data_quality_document.pdf"
+                  },
+                  {
+                      "Description": "List of publications.",
+                      "URLContentType": "PublicationURL",
+                      "Type": "VIEW RELATED INFORMATION",
+                      "Subtype": "PUBLICATIONS",
+                      "URL": "https://mls.jpl.nasa.gov/publications.php"
+                  },
+                  {
+                      "Description": "Users are encouraged to register with the MLS science team to obtain updates and information about this data product.",
+                      "URLContentType": "PublicationURL",
+                      "Type": "VIEW RELATED INFORMATION",
+                      "URL": "https://mls.jpl.nasa.gov/forms/reguser.php"
+                  },
+                  {
+                      "Description": "EOS MLS Retrieval Process Algorithm Theoretical Basis",
+                      "URLContentType": "PublicationURL",
+                      "Type": "VIEW RELATED INFORMATION",
+                      "Subtype": "ALGORITHM THEORETICAL BASIS DOCUMENT (ATBD)",
+                      "URL": "https://mls.jpl.nasa.gov/data/eos_algorithm_atbd.pdf"
+                  },
+                  {
+                      "Description": "MLS Science Team Home Page.",
+                      "URLContentType": "CollectionURL",
+                      "Type": "PROJECT HOME PAGE",
+                      "URL": "https://mls.jpl.nasa.gov/"
+                  }
+              ],
+              "ContactGroups": [
+                  {
+                      "Roles": [
+                          "Technical Contact"
+                      ],
+                      "ContactInformation": {
+                          "ContactMechanisms": [
+                              {
+                                  "Type": "Email",
+                                  "Value": "data@mls.jpl.nasa.gov"
+                              },
+                              {
+                                  "Type": "Telephone",
+                                  "Value": "818-354-6716"
+                              }
+                          ],
+                          "Addresses": [
+                              {
+                                  "StreetAddresses": [
+                                      "Mail Stop 183-701, Jet Propulsion Laboratory",
+                                      "4800 Oak Grove Drive"
+                                  ],
+                                  "City": "Pasadena",
+                                  "StateProvince": "CA",
+                                  "Country": "USA",
+                                  "PostalCode": "91109-8099"
+                              }
+                          ]
+                      },
+                      "GroupName": "MLS SCIENCE TEAM"
+                  }
+              ],
+              "DataDates": [
+                  {
+                      "Date": "2015-02-19T00:00:00.000Z",
+                      "Type": "CREATE"
+                  },
+                  {
+                      "Date": "2015-02-19T00:00:00.000Z",
+                      "Type": "UPDATE"
+                  }
+              ],
+              "Abstract": "ML2SO2 is the EOS Aura Microwave Limb Sounder (MLS) standard product for sulfur dioxide derived from radiances measured by the 240 GHz radiometer. The data version is 4.2. Spatial coverage is near-global (-82 degrees to +82 degrees latitude), with each profile spaced 1.5 degrees or ~165 km along the orbit track (roughly 15 orbits per day). The recommended useful vertical range is from 215 to 10 hPa, and the vertical resolution is about 3 km. Users of the ML2SO2 data product should read section 3.21 of the EOS MLS Level 2 Version 4 Quality Document for more information.\n\nThe data are stored in the version 5 EOS Hierarchical Data Format (HDF-EOS5), which is based on the version 5 Hierarchical Data Format, or HDF-5. Each file contains two swath objects (profile and column data), each with a set of data and geolocation fields, swath attributes, and metadata.",
+              "LocationKeywords": [
+                  {
+                      "Category": "GEOGRAPHIC REGION",
+                      "Type": "GLOBAL"
+                  },
+                  {
+                      "Category": "VERTICAL LOCATION",
+                      "Type": "STRATOSPHERE"
+                  }
+              ],
+              "MetadataDates": [
+                  {
+                      "Date": "2014-10-16T00:00:00.000Z",
+                      "Type": "CREATE"
+                  },
+                  {
+                      "Date": "2017-12-28T00:00:00.000Z",
+                      "Type": "UPDATE"
+                  }
+              ],
+              "Version": "004",
+              "Projects": [
+                  {
+                      "ShortName": "Aura",
+                      "LongName": "Earth Observing System (EOS), Aura"
+                  }
+              ],
+              "ContactPersons": [
+                  {
+                      "Roles": [
+                          "Investigator"
+                      ],
+                      "ContactInformation": {
+                          "ContactMechanisms": [
+                              {
+                                  "Type": "Email",
+                                  "Value": "livesey@mls.jpl.nasa.gov"
+                              }
+                          ],
+                          "Addresses": [
+                              {
+                                  "StreetAddresses": [
+                                      "Mail Stop 183-701, Jet Propulsion Laboratory, 4800 Oak Grove Drive"
+                                  ],
+                                  "City": "Pasadena",
+                                  "StateProvince": "CA",
+                                  "Country": "USA",
+                                  "PostalCode": "91109-8099"
+                              }
+                          ]
+                      },
+                      "FirstName": "NATHANIEL",
+                      "LastName": "LIVESEY"
+                  },
+                  {
+                      "Roles": [
+                          "Metadata Author"
+                      ],
+                      "ContactInformation": {
+                          "ContactMechanisms": [
+                              {
+                                  "Type": "Email",
+                                  "Value": "James.Johnson@nasa.gov"
+                              },
+                              {
+                                  "Type": "Telephone",
+                                  "Value": "301-614-5121"
+                              }
+                          ],
+                          "Addresses": [
+                              {
+                                  "StreetAddresses": [
+                                      "NASA Goddard Space Flight Center",
+                                      "Code 610.2"
+                                  ],
+                                  "City": "Greenbelt",
+                                  "StateProvince": "MD",
+                                  "Country": "USA",
+                                  "PostalCode": "20771"
+                              }
+                          ]
+                      },
+                      "FirstName": "JAMES",
+                      "MiddleName": "EDWARD",
+                      "LastName": "JOHNSON"
+                  }
+              ],
+              "DataCenters": [
+                  {
+                      "Roles": [
+                          "ARCHIVER"
+                      ],
+                      "ShortName": "NASA/GSFC/SED/ESD/GCDC/GESDISC",
+                      "LongName": "Goddard Earth Sciences Data and Information Services Center (formerly Goddard DAAC), Global Change Data Center, Earth Sciences Division, Science and Exploration Directorate, Goddard Space Flight Center, NASA",
+                      "ContactGroups": [
+                          {
+                              "Roles": [
+                                  "Data Center Contact"
+                              ],
+                              "ContactInformation": {
+                                  "ContactMechanisms": [
+                                      {
+                                          "Type": "Email",
+                                          "Value": "gsfc-help-disc@lists.nasa.gov"
+                                      },
+                                      {
+                                          "Type": "Telephone",
+                                          "Value": "301-614-5224"
+                                      },
+                                      {
+                                          "Type": "Fax",
+                                          "Value": "301-614-5268"
+                                      }
+                                  ],
+                                  "Addresses": [
+                                      {
+                                          "StreetAddresses": [
+                                              "Goddard Earth Sciences Data and Information Services Center",
+                                              "Code 610.2",
+                                              "NASA Goddard Space Flight Center"
+                                          ],
+                                          "City": "Greenbelt",
+                                          "StateProvince": "MD",
+                                          "Country": "USA",
+                                          "PostalCode": "20771"
+                                      }
+                                  ]
+                              },
+                              "GroupName": "GES DISC HELP DESK SUPPORT GROUP"
+                          }
+                      ],
+                      "ContactInformation": {
+                          "RelatedUrls": [
+                              {
+                                  "URLContentType": "DataCenterURL",
+                                  "Type": "HOME PAGE",
+                                  "URL": "https://disc.gsfc.nasa.gov/"
+                              }
+                          ]
+                      }
+                  }
+              ],
+              "Platforms": [
+                  {
+                      "Type": "Earth Observation Satellites",
+                      "ShortName": "Aura",
+                      "LongName": "Earth Observing System, Aura",
+                      "Instruments": [
+                          {
+                              "ShortName": "MLS",
+                              "LongName": "Microwave Limb Sounder"
+                          }
+                      ]
+                  }
+              ],
+              "ArchiveAndDistributionInformation": {
+                  "FileDistributionInformation": [
+                      {
+                          "FormatType": "Native",
+                          "AverageFileSize": 0.97,
+                          "Format": "HDF-EOS5",
+                          "AverageFileSizeUnit": "MB",
+                          "Media": [
+                              "Online Archive"
+                          ]
+                      }
+                  ]
+              }
           }
       }
   ]
