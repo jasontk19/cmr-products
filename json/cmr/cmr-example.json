@@ -1,168 +1,178 @@
 {
-  "feed": {
-      "updated": "2019-12-03T14:46:09.521Z",
-      "id": "https://cmr.earthdata.nasa.gov:443/search/collections.json?shortName=ML2SO2",
-      "title": "ECHO dataset metadata",
-      "entry": [
-          {
-              "processing_level_id": "2",
-              "boxes": [
-                  "-82 -180 82 180"
-              ],
-              "time_start": "2004-08-08T00:00:00.000Z",
-              "dif_ids": [
-                  "ML2SO2_003"
-              ],
-              "version_id": "003",
-              "updated": "2011-01-19T00:00:00.000Z",
-              "dataset_id": "MLS/Aura Level 2 Sulfur Dioxide (SO2) Mixing Ratiio V003 (ML2SO2) at GES DISC",
-              "has_spatial_subsetting": false,
-              "has_transforms": false,
-              "has_variables": false,
-              "data_center": "GES_DISC",
-              "short_name": "ML2SO2",
-              "organizations": [
-                  "NASA/GSFC/SED/ESD/GCDC/GESDISC"
-              ],
-              "title": "MLS/Aura Level 2 Sulfur Dioxide (SO2) Mixing Ratiio V003 (ML2SO2) at GES DISC",
-              "coordinate_system": "CARTESIAN",
-              "summary": "ML2SO2 is the EOS Aura Microwave Limb Sounder (MLS) standard product for sulfur dioxide derived from radiances measured by the 240 GHz radiometer. The data version is 3.3/3.4. Spatial coverage is near-global (-82 degrees to +82 degrees latitude), with each profile spaced 1.5 degrees or ~165 km along the orbit track (roughly 15 orbits per day). The recommended useful vertical range is from 215 to 10 hPa, and the vertical resolution is about 3 km. Users of the ML2SO2 data product should read section 3.20 of the EOS MLS Level 2 Version 3.3 and 3.4 Quality Document for more information.\n\nThe data are stored in the version 5 EOS Hierarchical Data Format (HDF-EOS5), which is based on the version 5 Hierarchical Data Format, or HDF-5. Each file contains two swath objects (profile and column data), each with a set of data and geolocation fields, swath attributes, and metadata.",
-              "time_end": "2015-06-30T23:59:59.000Z",
-              "orbit_parameters": {},
-              "id": "C1251101800-GES_DISC",
-              "has_formats": false,
-              "original_format": "DIF10",
-              "archive_center": "NASA/GSFC/SED/ESD/GCDC/GESDISC",
-              "has_temporal_subsetting": false,
-              "browse_flag": true,
-              "online_access_flag": true,
-              "links": [
-                  {
-                      "rel": "http://esipfed.org/ns/fedsearch/1.1/browse#",
-                      "hreflang": "en-US",
-                      "href": "https://docserver.gesdisc.eosdis.nasa.gov/public/project/Images/ML2SO2_003.png"
-                  },
-                  {
-                      "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
-                      "hreflang": "en-US",
-                      "href": "https://acdisc.gesdisc.eosdis.nasa.gov/data/Aura_MLS_Level2/ML2SO2.003/"
-                  },
-                  {
-                      "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
-                      "hreflang": "en-US",
-                      "href": "https://acdisc.gesdisc.eosdis.nasa.gov/opendap/HDF-EOS5/Aura_MLS_Level2/ML2SO2.003/contents.html"
-                  },
-                  {
-                      "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
-                      "hreflang": "en-US",
-                      "href": "https://search.earthdata.nasa.gov/search?q=ML2SO2_003"
-                  },
-                  {
-                      "rel": "http://esipfed.org/ns/fedsearch/1.1/documentation#",
-                      "hreflang": "en-US",
-                      "href": "https://mls.jpl.nasa.gov/data/v3_data_quality_document.pdf"
-                  },
-                  {
-                      "rel": "http://esipfed.org/ns/fedsearch/1.1/documentation#",
-                      "hreflang": "en-US",
-                      "href": "https://mls.jpl.nasa.gov/publications.php"
-                  },
-                  {
-                      "rel": "http://esipfed.org/ns/fedsearch/1.1/documentation#",
-                      "hreflang": "en-US",
-                      "href": "https://mls.jpl.nasa.gov/forms/reguser.php"
-                  },
-                  {
-                      "rel": "http://esipfed.org/ns/fedsearch/1.1/documentation#",
-                      "hreflang": "en-US",
-                      "href": "https://mls.jpl.nasa.gov/data/eos_algorithm_atbd.pdf"
-                  },
-                  {
-                      "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
-                      "hreflang": "en-US",
-                      "href": "https://mls.jpl.nasa.gov/"
-                  }
-              ]
-          },
-          {
-              "processing_level_id": "2",
-              "boxes": [
-                  "-82 -180 82 180"
-              ],
-              "time_start": "2004-08-02T00:00:00.000Z",
-              "dif_ids": [
-                  "ML2SO2_004"
-              ],
-              "version_id": "004",
-              "updated": "2015-02-19T00:00:00.000Z",
-              "dataset_id": "MLS/Aura Level 2 Sulfur Dioxide (SO2) Mixing Ratio V004 (ML2SO2) at GES DISC",
-              "has_spatial_subsetting": false,
-              "has_transforms": false,
-              "has_variables": false,
-              "data_center": "GES_DISC",
-              "short_name": "ML2SO2",
-              "organizations": [
-                  "NASA/GSFC/SED/ESD/GCDC/GESDISC"
-              ],
-              "title": "MLS/Aura Level 2 Sulfur Dioxide (SO2) Mixing Ratio V004 (ML2SO2) at GES DISC",
-              "coordinate_system": "CARTESIAN",
-              "summary": "ML2SO2 is the EOS Aura Microwave Limb Sounder (MLS) standard product for sulfur dioxide derived from radiances measured by the 240 GHz radiometer. The data version is 4.2. Spatial coverage is near-global (-82 degrees to +82 degrees latitude), with each profile spaced 1.5 degrees or ~165 km along the orbit track (roughly 15 orbits per day). The recommended useful vertical range is from 215 to 10 hPa, and the vertical resolution is about 3 km. Users of the ML2SO2 data product should read section 3.21 of the EOS MLS Level 2 Version 4 Quality Document for more information.\n\nThe data are stored in the version 5 EOS Hierarchical Data Format (HDF-EOS5), which is based on the version 5 Hierarchical Data Format, or HDF-5. Each file contains two swath objects (profile and column data), each with a set of data and geolocation fields, swath attributes, and metadata.",
-              "orbit_parameters": {},
-              "id": "C1251101777-GES_DISC",
-              "has_formats": false,
-              "original_format": "DIF10",
-              "archive_center": "NASA/GSFC/SED/ESD/GCDC/GESDISC",
-              "has_temporal_subsetting": false,
-              "browse_flag": true,
-              "online_access_flag": true,
-              "links": [
-                  {
-                      "rel": "http://esipfed.org/ns/fedsearch/1.1/browse#",
-                      "hreflang": "en-US",
-                      "href": "https://docserver.gesdisc.eosdis.nasa.gov/public/project/Images/ML2SO2_004.png"
-                  },
-                  {
-                      "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
-                      "hreflang": "en-US",
-                      "href": "https://acdisc.gesdisc.eosdis.nasa.gov/data/Aura_MLS_Level2/ML2SO2.004/"
-                  },
-                  {
-                      "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
-                      "hreflang": "en-US",
-                      "href": "https://acdisc.gesdisc.eosdis.nasa.gov/opendap/HDF-EOS5/Aura_MLS_Level2/ML2SO2.004/contents.html"
-                  },
-                  {
-                      "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
-                      "hreflang": "en-US",
-                      "href": "https://search.earthdata.nasa.gov/search?q=ML2SO2_004"
-                  },
-                  {
-                      "rel": "http://esipfed.org/ns/fedsearch/1.1/documentation#",
-                      "hreflang": "en-US",
-                      "href": "https://mls.jpl.nasa.gov/data/v4-2_data_quality_document.pdf"
-                  },
-                  {
-                      "rel": "http://esipfed.org/ns/fedsearch/1.1/documentation#",
-                      "hreflang": "en-US",
-                      "href": "https://mls.jpl.nasa.gov/publications.php"
-                  },
-                  {
-                      "rel": "http://esipfed.org/ns/fedsearch/1.1/documentation#",
-                      "hreflang": "en-US",
-                      "href": "https://mls.jpl.nasa.gov/forms/reguser.php"
-                  },
-                  {
-                      "rel": "http://esipfed.org/ns/fedsearch/1.1/documentation#",
-                      "hreflang": "en-US",
-                      "href": "https://mls.jpl.nasa.gov/data/eos_algorithm_atbd.pdf"
-                  },
-                  {
-                      "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
-                      "hreflang": "en-US",
-                      "href": "https://mls.jpl.nasa.gov/"
-                  }
-              ]
-          }
-      ]
-  }
+    "feed": {
+        "updated": "2019-12-04T21:02:58.033Z",
+        "id": "https://cmr.earthdata.nasa.gov:443/search/collections.json?shortName=OMAERUVd",
+        "title": "ECHO dataset metadata",
+        "entry": [
+            {
+                "processing_level_id": "3",
+                "boxes": [
+                    "-90 -180 90 180"
+                ],
+                "time_start": "2004-10-01T00:00:00.000Z",
+                "dif_ids": [
+                    "OMAERUVd_003"
+                ],
+                "version_id": "003",
+                "updated": "2012-04-20T00:00:00.000Z",
+                "dataset_id": "OMI/Aura Near UV Aerosol Optical Depth and Single Scattering Albedo L3 1 day 1.0 degree x 1.0 degree V3 (OMAERUVd) at GES DISC",
+                "has_spatial_subsetting": false,
+                "has_transforms": false,
+                "has_variables": false,
+                "data_center": "GES_DISC",
+                "short_name": "OMAERUVd",
+                "organizations": [
+                    "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+                ],
+                "title": "OMI/Aura Near UV Aerosol Optical Depth and Single Scattering Albedo L3 1 day 1.0 degree x 1.0 degree V3 (OMAERUVd) at GES DISC",
+                "coordinate_system": "CARTESIAN",
+                "summary": "The OMI science team produces this Level-3 daily global gridded product OMAERUVd (1 deg Lat/Lon grids). The OMAERUVd product is produced with all data pixels that fall in a grid box with quality filtered and then averaged, based on the pixel level OMI Level-2 Aerosol data product OMAERUV. The OMAERUV data product is based on the enhanced TOMS version-8 algorithm that essentially uses the ultraviolet radiance data. The OMAERUVd data product contains extinction and absorption optical depths at three wavelenghts (355 nm, 388 nm and 500 nm). \n\nThe OMAERUVd files are stored in version 5 EOS Hierarchical Data Format (HDF-EOS5). Each file contains daily data from approximately 15 orbits. The maximum file size for the OMAERUVd data product is about 0.2 Mbytes.",
+                "orbit_parameters": {},
+                "id": "C1266136096-GES_DISC",
+                "has_formats": false,
+                "original_format": "DIF10",
+                "archive_center": "NASA/GSFC/SED/ESD/GCDC/GESDISC",
+                "has_temporal_subsetting": false,
+                "browse_flag": true,
+                "online_access_flag": true,
+                "links": [
+                    {
+                        "rel": "http://esipfed.org/ns/fedsearch/1.1/browse#",
+                        "hreflang": "en-US",
+                        "href": "https://docserver.gesdisc.eosdis.nasa.gov/public/project/Images/OMAERUVd_003.png"
+                    },
+                    {
+                        "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+                        "hreflang": "en-US",
+                        "href": "https://acdisc.gsfc.nasa.gov/data/Aura_OMI_Level3/OMAERUVd.003/"
+                    },
+                    {
+                        "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+                        "hreflang": "en-US",
+                        "href": "https://disc.gsfc.nasa.gov/SSW/#keywords=OMAERUVd%2003"
+                    },
+                    {
+                        "rel": "http://esipfed.org/ns/fedsearch/1.1/browse#",
+                        "hreflang": "en-US",
+                        "href": "https://giovanni.gsfc.nasa.gov/giovanni/#dataKeyword=OMAERUVd"
+                    },
+                    {
+                        "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+                        "hreflang": "en-US",
+                        "href": "https://search.earthdata.nasa.gov/search?q=OMAERUVd_003"
+                    },
+                    {
+                        "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+                        "hreflang": "en-US",
+                        "href": "https://acdisc.gsfc.nasa.gov/opendap/HDF-EOS5/Aura_OMI_Level3/OMAERUVd.003/contents.html"
+                    },
+                    {
+                        "rel": "http://esipfed.org/ns/fedsearch/1.1/documentation#",
+                        "hreflang": "en-US",
+                        "href": "https://acdisc.gsfc.nasa.gov/data/Aura_OMI_Level3/OMAERUVd.003/doc/OMAERUVd_OSIPS_README_V003.doc"
+                    },
+                    {
+                        "rel": "http://esipfed.org/ns/fedsearch/1.1/documentation#",
+                        "hreflang": "en-US",
+                        "href": "https://docserver.gesdisc.eosdis.nasa.gov/repository/Mission/OMI/3.3_ScienceDataProductDocumentation/3.3.2_ProductRequirements_Designs/README.OMI_DUG.pdf"
+                    },
+                    {
+                        "rel": "http://esipfed.org/ns/fedsearch/1.1/documentation#",
+                        "hreflang": "en-US",
+                        "href": "https://docserver.gesdisc.eosdis.nasa.gov/repository/Mission/OMI/3.3_ScienceDataProductDocumentation/3.3.2_ProductRequirements_Designs/OMAERUVd_FileSpec_V003.pdf"
+                    },
+                    {
+                        "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+                        "hreflang": "en-US",
+                        "href": "https://aura.gsfc.nasa.gov/"
+                    },
+                    {
+                        "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+                        "hreflang": "en-US",
+                        "href": "http://projects.knmi.nl/omi/research/news/newsWrap.php?language=only_enhttps://www.knmi.nl/omitimeFrame=latesthttps://www.knmi.nl/omichoise=page"
+                    },
+                    {
+                        "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+                        "hreflang": "en-US",
+                        "href": "https://disc1.gsfc.nasa.gov/daac-bin/wms_omi?service=WMS&version=1.1.1&request=GetCapabilities"
+                    },
+                    {
+                        "rel": "http://esipfed.org/ns/fedsearch/1.1/documentation#",
+                        "hreflang": "en-US",
+                        "href": "https://projects.knmi.nl/omi/research/documents/"
+                    },
+                    {
+                        "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+                        "hreflang": "en-US",
+                        "href": "https://disc1.gsfc.nasa.gov/daac-bin/wms_omi?version=1.1.1&service=WMS&request=GetMap&SRS=EPSG:4326&WIDTH=1000&HEIGHT=500&LAYERS=OMAERUVd_FinalAerosolAbsOpticalDepth388&TRANSPARENT=TRUE&FORMAT=image/png&bbox=-180,-90,180,90"
+                    },
+                    {
+                        "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+                        "hreflang": "en-US",
+                        "href": "https://disc1.gsfc.nasa.gov/daac-bin/wms_omi?version=1.1.1&service=WMS&request=GetMap&SRS=EPSG:4326&WIDTH=1000&HEIGHT=500&LAYERS=OMAERUVd_FinalAerosolAbsOpticalDepth500&TRANSPARENT=TRUE&FORMAT=image/png&bbox=-180,-90,180,90"
+                    },
+                    {
+                        "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+                        "hreflang": "en-US",
+                        "href": "https://disc1.gsfc.nasa.gov/daac-bin/wms_omi?version=1.1.1&service=WMS&request=GetMap&SRS=EPSG:4326&WIDTH=1000&HEIGHT=500&LAYERS=OMAERUVd_FinalAerosolExtOpticalDepth388&TRANSPARENT=TRUE&FORMAT=image/png&bbox=-180,-90,180,90"
+                    },
+                    {
+                        "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+                        "hreflang": "en-US",
+                        "href": "https://disc1.gsfc.nasa.gov/daac-bin/wms_omi?version=1.1.1&service=WMS&request=GetMap&SRS=EPSG:4326&WIDTH=1000&HEIGHT=500&LAYERS=OMAERUVd_FinalAerosolExtOpticalDepth500&TRANSPARENT=TRUE&FORMAT=image/png&bbox=-180,-90,180,90"
+                    },
+                    {
+                        "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+                        "hreflang": "en-US",
+                        "href": "https://disc1.gsfc.nasa.gov/daac-bin/wms_omi?version=1.1.1&service=WMS&request=GetMap&SRS=EPSG:4326&WIDTH=1000&HEIGHT=500&LAYERS=OMAERUVd_FinalAerosolSingleScattAlb388&TRANSPARENT=TRUE&FORMAT=image/png&bbox=-180,-90,180,90"
+                    },
+                    {
+                        "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+                        "hreflang": "en-US",
+                        "href": "https://disc1.gsfc.nasa.gov/daac-bin/wms_omi?version=1.1.1&service=WMS&request=GetMap&SRS=EPSG:4326&WIDTH=1000&HEIGHT=500&LAYERS=OMAERUVd_FinalAerosolSingleScattAlb500&TRANSPARENT=TRUE&FORMAT=image/png&bbox=-180,-90,180,90"
+                    },
+                    {
+                        "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+                        "hreflang": "en-US",
+                        "href": "https://acdisc.gesdisc.eosdis.nasa.gov/daac-bin/wcsL3?service=WCS&version=1.0.0&request=GetCapabilities"
+                    },
+                    {
+                        "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+                        "hreflang": "en-US",
+                        "href": "https://acdisc.gesdisc.eosdis.nasa.gov/daac-bin/wcsL3?service=WCS&version=1.0.0&request=describeCoverage"
+                    },
+                    {
+                        "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+                        "hreflang": "en-US",
+                        "href": "https://acdisc.gesdisc.eosdis.nasa.gov/daac-bin/wcsL3?service=WCS&version=1.0.0&request=getCoverage&CRS=CRS:84&format=netCDF&resx=1.0&resy=1.0&bbox=-179.5,-89.5,179.5,89.5&coverage=OMAERUVd:FinalAerosolAbsOpticalDepth388"
+                    },
+                    {
+                        "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+                        "hreflang": "en-US",
+                        "href": "https://acdisc.gesdisc.eosdis.nasa.gov/daac-bin/wcsL3?service=WCS&version=1.0.0&request=getCoverage&CRS=CRS:84&format=netCDF&resx=1.0&resy=1.0&bbox=-179.5,-89.5,179.5,89.5&coverage=OMAERUVd:FinalAerosolExtOpticalDepth388"
+                    },
+                    {
+                        "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+                        "hreflang": "en-US",
+                        "href": "https://acdisc.gesdisc.eosdis.nasa.gov/daac-bin/wcsL3?service=WCS&version=1.0.0&request=getCoverage&CRS=CRS:84&format=netCDF&resx=1.0&resy=1.0&bbox=-179.5,-89.5,179.5,89.5&coverage=OMAERUVd:FinalAerosolSingleScattAlb388"
+                    },
+                    {
+                        "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+                        "hreflang": "en-US",
+                        "href": "https://acdisc.gesdisc.eosdis.nasa.gov/daac-bin/wcsL3?service=WCS&version=1.0.0&request=getCoverage&CRS=CRS:84&format=netCDF&resx=1.0&resy=1.0&bbox=-179.5,-89.5,179.5,89.5&coverage=OMAERUVd:FinalAerosolAbsOpticalDepth500"
+                    },
+                    {
+                        "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+                        "hreflang": "en-US",
+                        "href": "https://acdisc.gesdisc.eosdis.nasa.gov/daac-bin/wcsL3?service=WCS&version=1.0.0&request=getCoverage&CRS=CRS:84&format=netCDF&resx=1.0&resy=1.0&bbox=-179.5,-89.5,179.5,89.5&coverage=OMAERUVd:FinalAerosolExtOpticalDepth500"
+                    },
+                    {
+                        "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+                        "hreflang": "en-US",
+                        "href": "https://acdisc.gesdisc.eosdis.nasa.gov/daac-bin/wcsL3?service=WCS&version=1.0.0&request=getCoverage&CRS=CRS:84&format=netCDF&resx=1.0&resy=1.0&bbox=-179.5,-89.5,179.5,89.5&coverage=OMAERUVd:FinalAerosolSingleScattAlb500"
+                    }
+                ]
+            }
+        ]
+    }
 }
