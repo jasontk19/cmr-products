@@ -1,0 +1,2317 @@
+[
+  {
+    "A2_RainOcn_NRT": [
+      "NASA/MSFC/GHRC",
+      "Global Hydrology Resource Center, Marshall Space Flight Center, NASA"
+    ]
+  },
+  {
+    "A2_RainOcn_NRT": [
+      "NASA/MSFC/GHRC",
+      "Global Hydrology Resource Center, Marshall Space Flight Center, NASA"
+    ]
+  },
+  {
+    "A2_RainOcn_NRT": [
+      "NASA/MSFC/AMSR SIPS/LANCE"
+    ]
+  },
+  {
+    "AE_Rain": [
+      "NASA NSIDC DAAC",
+      "NASA/MSFC/AMSR-E SIPS"
+    ]
+  },
+  {
+    "AE_SI12": [
+      "NASA NSIDC DAAC",
+      "NASA/MSFC/AMSR-E SIPS"
+    ]
+  },
+  {
+    "AE_SI25": [
+      "NASA NSIDC DAAC",
+      "NASA/MSFC/AMSR-E SIPS"
+    ]
+  },
+  {
+    "AE_SI6": [
+      "NASA NSIDC DAAC",
+      "NASA/MSFC/AMSR-E SIPS"
+    ]
+  },
+  {
+    "AIRS2RET": [
+      "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+    ]
+  },
+  {
+    "AIRS2SUP": [
+      "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+    ]
+  },
+  {
+    "AIRS3STD": [
+      "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+    ]
+  },
+  {
+    "AIRS3STM": [
+      "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+    ]
+  },
+  {
+    "AIRX3C2M": [
+      "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+    ]
+  },
+  {
+    "AIRS3C2M": [
+      "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+    ]
+  },
+  {
+    "amsua15sp": [
+      "NASA/MSFC/GHRC",
+      "Global Hydrology Resource Center, Marshall Space Flight Center, NASA"
+    ]
+  },
+  {
+    "amsua16sp": [
+      "NASA/MSFC/GHRC",
+      "Global Hydrology Resource Center, Marshall Space Flight Center, NASA"
+    ]
+  },
+  {
+    "amsua17sp": [
+      "NASA/MSFC/GHRC",
+      "Global Hydrology Resource Center, Marshall Space Flight Center, NASA"
+    ]
+  },
+  {
+    "AQ3_DYSM": [
+      "NASA NSIDC DAAC",
+      "NASA/GSFC/SED/ESD/GCDC/OB.DAAC"
+    ]
+  },
+  {
+    "AQ3_WKSM": [
+      "NASA NSIDC DAAC",
+      "NASA/GSFC/SED/ESD/GCDC/OB.DAAC"
+    ]
+  },
+  {
+    "AQUARIUS_L3_SSS_SMI_7DAY-RUNNINGMEAN_V5": [
+      "NASA/JPL/PODAAC",
+      "Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, N",
+      "Aquarius Project NASA/CONAE"
+    ]
+  },
+  {
+    "AQUARIUS_L3_SSS_SMI_7DAY_V5": [
+      "NASA/JPL/PODAAC",
+      "Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, N",
+      "Aquarius Project NASA/CONAE"
+    ]
+  },
+  {
+    "AQUARIUS_L3_SSS_SMI_DAILY_V5": [
+      "NASA/JPL/PODAAC",
+      "Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, N",
+      "Aquarius Project NASA/CONAE"
+    ]
+  },
+  {
+    "AQUARIUS_L3_SSS_SMI_MONTHLY-CLIMATOLOGY_V5": [
+      "NASA/JPL/PODAAC",
+      "Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, N",
+      "Aquarius Project NASA/CONAE"
+    ]
+  },
+  {
+    "AQUARIUS_L3_SSS_SMI_SEASONAL-CLIMATOLOGY_V5": [
+      "NASA/JPL/PODAAC",
+      "Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, N",
+      "Aquarius Project NASA/CONAE"
+    ]
+  },
+  {
+    "ASTGTM": [
+      "LP DAAC",
+      "NASA/JPL/ASTER"
+    ]
+  },
+  {
+    "AU_5DSno": [
+      "NASA NSIDC DAAC",
+      "NASA/MSFC/GHRC"
+    ]
+  },
+  {
+    "AU_DySno": [
+      "NASA NSIDC DAAC",
+      "NASA/MSFC/GHRC"
+    ]
+  },
+  {
+    "AU_Land": [
+      "NASA NSIDC DAAC",
+      "NASA/MSFC/AMSR-E SIPS"
+    ]
+  },
+  {
+    "AU_MoSno": [
+      "NASA NSIDC DAAC",
+      "NASA/MSFC/GHRC"
+    ]
+  },
+  {
+    "AU_SI12": [
+      "NASA NSIDC DAAC",
+      "NASA/MSFC/AMSR-E SIPS"
+    ]
+  },
+  {
+    "AU_SI25": [
+      "NASA NSIDC DAAC",
+      "NASA/MSFC/AMSR-E SIPS"
+    ]
+  },
+  {
+    "AU_SI6": [
+      "NASA NSIDC DAAC",
+      "NASA/MSFC/AMSR-E SIPS"
+    ]
+  },
+  {
+    "AVISO_L4_DYN_TOPO_1DEG_1MO": [
+      "NASA/JPL/PODAAC",
+      "Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, N",
+      "AVISO"
+    ]
+  },
+  {
+    "CCMP_MEASURES_ATLAS_L4_OW_L3_5A_MONTHLY_WIND_VECTORS_FLK": [
+      "PO.DAAC",
+      "Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, N",
+      "NASA/GSFC/NOAA"
+    ]
+  },
+  {
+    "CER_SYN1deg-Month_Terra-Aqua-MODIS": [
+      "NASA/LARC/SD/ASDC"
+    ]
+  },
+  {
+    "CERES_EBAF-Surface": [
+      "NASA/LARC/SD/ASDC"
+    ]
+  },
+  {
+    "CERES_EBAF-TOA": [
+      "NASA/LARC/SD/ASDC"
+    ]
+  },
+  {
+    "CERES_EBAF-TOA": [
+      "NASA/LARC/SD/ASDC"
+    ]
+  },
+  {
+    "CERES_EBAF-TOA": [
+      "NASA/LARC/SD/ASDC"
+    ]
+  },
+  {
+    "CER_SYN1deg-Month_Terra-MODIS": [
+      "NASA/LARC/SD/ASDC"
+    ]
+  },
+  {
+    "CYGNSS_L3_V2.1": [
+      "PO.DAAC",
+      "Cyclone Global Navigation Satellite System",
+      "CYGNSS"
+    ]
+  },
+  {
+    "AVHRR_OI-NCEI-L4-GLOB-v2.0": [
+      "NASA/JPL/PODAAC",
+      "NOAA National Climatic Data Center"
+    ]
+  },
+  {
+    "GPM_2AGPROFGPMGMI": [
+      "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+    ]
+  },
+  {
+    "GPM_1CGPMGMI": [
+      "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+    ]
+  },
+  {
+    "TELLUS_GRACE_MASCON_CRI_GRID_RL06_V1": [
+      "PO.DAAC",
+      "Jet Propulsion Laboratory",
+      "TELLUS"
+    ]
+  },
+  {
+    "GPM_3IMERGDF": [
+      "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+    ]
+  },
+  {
+    "GPM_3IMERGHHE": [
+      "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+    ]
+  },
+  {
+    "lislip": [
+      "NASA/MSFC/GHRC",
+      "Global Hydrology Resource Center, Marshall Space Flight Center, NASA"
+    ]
+  },
+  {
+    "lisvhrac": [
+      "NASA/MSFC/GHRC",
+      "Global Hydrology Resource Center, Marshall Space Flight Center, NASA"
+    ]
+  },
+  {
+    "lisvhrfc": [
+      "NASA/MSFC/GHRC",
+      "Global Hydrology Resource Center, Marshall Space Flight Center, NASA"
+    ]
+  },
+  {
+    "lisvhrmc": [
+      "NASA/MSFC/GHRC",
+      "Global Hydrology Resource Center, Marshall Space Flight Center, NASA"
+    ]
+  },
+  {
+    "lisvhrsc": [
+      "NASA/MSFC/GHRC",
+      "Global Hydrology Resource Center, Marshall Space Flight Center, NASA"
+    ]
+  },
+  {
+    "lohrfc": [
+      "NASA/MSFC/GHRC",
+      "Global Hydrology Resource Center, Marshall Space Flight Center, NASA"
+    ]
+  },
+  {
+    "LPRM_AMSR2_DS_A_SOILM3": [
+      "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+    ]
+  },
+  {
+    "LPRM_AMSR2_DS_D_SOILM3": [
+      "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+    ]
+  },
+  {
+    "LPRM_AMSR2_D_SOILM3": [
+      "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+    ]
+  },
+  {
+    "LPRM_AMSR2_A_SOILM3": [
+      "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+    ]
+  },
+  {
+    "MCD12Q1": [
+      "LP DAAC",
+      "NASA/GSFC/SED/ESD/TISL/MODAPS"
+    ]
+  },
+  {
+    "MCD15A2H": [
+      "LP DAAC",
+      "NASA/GSFC/SED/ESD/TISL/MODAPS"
+    ]
+  },
+  {
+    "MCD15A3H": [
+      "LP DAAC",
+      "NASA/GSFC/SED/ESD/TISL/MODAPS"
+    ]
+  },
+  {
+    "MCD43A3": [
+      "LP DAAC",
+      "NASA/GSFC/SED/ESD/TISL/MODAPS"
+    ]
+  },
+  {
+    "MCD43A4": [
+      "LP DAAC",
+      "NASA/GSFC/SED/ESD/TISL/MODAPS"
+    ]
+  },
+  {
+    "MCDAODHD": [
+      "NASA/GSFC/EOS/ESDIS/LANCEMODIS"
+    ]
+  },
+  {
+    "NSIDC-0477": [
+      "NASA NSIDC DAAC",
+      "UMT"
+    ]
+  },
+  {
+    "M2TMNXRAD": [
+      "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+    ]
+  },
+  {
+    "M2IMNXGAS": [
+      "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+    ]
+  },
+  {
+    "M2IMNPASM": [
+      "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+    ]
+  },
+  {
+    "M2TMNXCHM": [
+      "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+    ]
+  },
+  {
+    "M2TMNPMST": [
+      "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+    ]
+  },
+  {
+    "M2TMNXADG": [
+      "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+    ]
+  },
+  {
+    "M2TMNXAER": [
+      "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+    ]
+  },
+  {
+    "M2TMNXOCN": [
+      "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+    ]
+  },
+  {
+    "M2TMNXINT": [
+      "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+    ]
+  },
+  {
+    "M2TMNXLND": [
+      "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+    ]
+  },
+  {
+    "M2TMNXCSP": [
+      "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+    ]
+  },
+  {
+    "M2IMNPANA": [
+      "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+    ]
+  },
+  {
+    "M2TMNXFLX": [
+      "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+    ]
+  },
+  {
+    "M2TMNPCLD": [
+      "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+    ]
+  },
+  {
+    "M2TMNXGLC": [
+      "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+    ]
+  },
+  {
+    "M2IMNXLFO": [
+      "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+    ]
+  },
+  {
+    "M2TMNXSLV": [
+      "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+    ]
+  },
+  {
+    "M2TMNXLFO": [
+      "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+    ]
+  },
+  {
+    "M2IMNXASM": [
+      "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+    ]
+  },
+  {
+    "M2IMNXINT": [
+      "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+    ]
+  },
+  {
+    "MIL3MAE": [
+      "ASDC"
+    ]
+  },
+  {
+    "MIL3MCLD": [
+      "ASDC"
+    ]
+  },
+  {
+    "MIL3MLS": [
+      "ASDC"
+    ]
+  },
+  {
+    "MIL3MRD": [
+      "ASDC"
+    ]
+  },
+  {
+    "MIL3MAL": [
+      "ASDC"
+    ]
+  },
+  {
+    "ML2CO": [
+      "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+    ]
+  },
+  {
+    "ML2CO": [
+      "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+    ]
+  },
+  {
+    "ML2CO": [
+      "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+    ]
+  },
+  {
+    "ML2H2O": [
+      "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+    ]
+  },
+  {
+    "ML2H2O": [
+      "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+    ]
+  },
+  {
+    "ML2H2O": [
+      "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+    ]
+  },
+  {
+    "ML2HNO3": [
+      "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+    ]
+  },
+  {
+    "ML2HNO3": [
+      "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+    ]
+  },
+  {
+    "ML2HNO3": [
+      "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+    ]
+  },
+  {
+    "ML2N2O": [
+      "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+    ]
+  },
+  {
+    "ML2N2O": [
+      "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+    ]
+  },
+  {
+    "ML2N2O": [
+      "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+    ]
+  },
+  {
+    "ML2O3": [
+      "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+    ]
+  },
+  {
+    "ML2O3": [
+      "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+    ]
+  },
+  {
+    "ML2O3": [
+      "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+    ]
+  },
+  {
+    "ML2SO2": [
+      "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+    ]
+  },
+  {
+    "ML2SO2": [
+      "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+    ]
+  },
+  {
+    "ML2SO2": [
+      "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+    ]
+  },
+  {
+    "ML2T": [
+      "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+    ]
+  },
+  {
+    "ML2T": [
+      "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+    ]
+  },
+  {
+    "ML2T": [
+      "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+    ]
+  },
+  {
+    "MOD04_3K": [
+      "NASA/GSFC/SED/ESD/HBSL/BISB/LAADS",
+      "NASA/GSFC/SED/ESD/HBSL/BISB/MODAPS"
+    ]
+  },
+  {
+    "MOD04_3K": [
+      "NASA/GSFC/SED/ESD/HBSL/BISB/LAADS",
+      "NASA/GSFC/SED/ESD/HBSL/BISB/MODAPS"
+    ]
+  },
+  {
+    "MOD04_3K": [
+      "NASA/GSFC/EOS/ESDIS/LANCEMODIS"
+    ]
+  },
+  {
+    "MOD04_L2": [
+      "NASA/GSFC/SED/ESD/HBSL/BISB/LAADS",
+      "NASA/GSFC/SED/ESD/HBSL/BISB/MODAPS"
+    ]
+  },
+  {
+    "MOD04_L2": [
+      "NASA/GSFC/SED/ESD/HBSL/BISB/LAADS",
+      "NASA/GSFC/SED/ESD/HBSL/BISB/MODAPS"
+    ]
+  },
+  {
+    "MOD04_L2": [
+      "NASA/GSFC/EOS/ESDIS/LANCEMODIS"
+    ]
+  },
+  {
+    "MOD06_L2": [
+      "NASA/GSFC/SED/ESD/HBSL/BISB/LAADS",
+      "NASA/GSFC/SED/ESD/HBSL/BISB/MODAPS"
+    ]
+  },
+  {
+    "MOD06_L2": [
+      "NASA/GSFC/SED/ESD/HBSL/BISB/LAADS",
+      "NASA/GSFC/SED/ESD/HBSL/BISB/MODAPS"
+    ]
+  },
+  {
+    "MOD06_L2": [
+      "NASA/GSFC/EOS/ESDIS/LANCEMODIS"
+    ]
+  },
+  {
+    "MOD09GA": [
+      "NASA/GSFC/EOS/ESDIS/LANCEMODIS"
+    ]
+  },
+  {
+    "MOD09GA": [
+      "NASA/GSFC/EOS/ESDIS/LANCEMODIS"
+    ]
+  },
+  {
+    "MOD09GA": [
+      "LP DAAC",
+      "NASA/GSFC/SED/ESD/TISL/MODAPS"
+    ]
+  },
+  {
+    "MOD09GQ": [
+      "NASA/GSFC/EOS/ESDIS/LANCEMODIS"
+    ]
+  },
+  {
+    "MOD09GQ": [
+      "NASA/GSFC/EOS/ESDIS/LANCEMODIS"
+    ]
+  },
+  {
+    "MOD09GQ": [
+      "LP DAAC",
+      "NASA/GSFC/SED/ESD/TISL/MODAPS"
+    ]
+  },
+  {
+    "MOD09A1": [
+      "LP DAAC",
+      "NASA/GSFC/SED/ESD/TISL/MODAPS"
+    ]
+  },
+  {
+    "MOD09Q1": [
+      "LP DAAC",
+      "NASA/GSFC/SED/ESD/TISL/MODAPS"
+    ]
+  },
+  {
+    "MOD10_L2": [
+      "NASA/GSFC/EOS/ESDIS/LANCEMODIS",
+      "NASA/GSFC/SED/ESD/HBSL/BISB/MODAPS"
+    ]
+  },
+  {
+    "MOD10_L2": [
+      "NASA/GSFC/EOS/ESDIS/LANCEMODIS",
+      "NASA/GSFC/SED/ESD/HBSL/BISB/MODAPS"
+    ]
+  },
+  {
+    "MOD10_L2": [
+      "NASA NSIDC DAAC"
+    ]
+  },
+  {
+    "MOD10_L2": [
+      "NASA/GSFC/EOS/ESDIS/LANCEMODIS",
+      "NASA/GSFC/SED/ESD/HBSL/BISB/MODAPS"
+    ]
+  },
+  {
+    "MOD10_L2": [
+      "NASA NSIDC DAAC"
+    ]
+  },
+  {
+    "MOD10_L2": [
+      "NASA NSIDC DAAC"
+    ]
+  },
+  {
+    "MOD10A1": [
+      "NASA NSIDC DAAC"
+    ]
+  },
+  {
+    "MOD10A1": [
+      "NASA NSIDC DAAC"
+    ]
+  },
+  {
+    "MOD10A1": [
+      "NASA NSIDC DAAC"
+    ]
+  },
+  {
+    "MOD10A2": [
+      "NASA NSIDC DAAC"
+    ]
+  },
+  {
+    "MOD10A2": [
+      "NASA NSIDC DAAC"
+    ]
+  },
+  {
+    "MOD10A2": [
+      "NASA NSIDC DAAC"
+    ]
+  },
+  {
+    "MOD10CM": [
+      "NASA NSIDC DAAC"
+    ]
+  },
+  {
+    "MOD10CM": [
+      "NASA NSIDC DAAC"
+    ]
+  },
+  {
+    "MOD10CM": [
+      "NASA NSIDC DAAC"
+    ]
+  },
+  {
+    "MOD11A1": [
+      "LP DAAC",
+      "NASA/GSFC/SED/ESD/TISL/MODAPS"
+    ]
+  },
+  {
+    "MOD11A2": [
+      "LP DAAC",
+      "NASA/GSFC/SED/ESD/TISL/MODAPS"
+    ]
+  },
+  {
+    "MOD11C3": [
+      "LP DAAC",
+      "NASA/GSFC/SED/ESD/TISL/MODAPS"
+    ]
+  },
+  {
+    "MYD13A3": [
+      "LP DAAC",
+      "NASA/GSFC/SED/ESD/TISL/MODAPS"
+    ]
+  },
+  {
+    "MOD13A3": [
+      "LP DAAC",
+      "NASA/GSFC/SED/ESD/TISL/MODAPS"
+    ]
+  },
+  {
+    "MOD13Q1": [
+      "LP DAAC",
+      "NASA/GSFC/SED/ESD/TISL/MODAPS"
+    ]
+  },
+  {
+    "MOD13Q4N": [
+      "NASA/GSFC/EOS/ESDIS/LANCEMODIS"
+    ]
+  },
+  {
+    "MOD15A2H": [
+      "LP DAAC",
+      "NASA/GSFC/SED/ESD/TISL/MODAPS"
+    ]
+  },
+  {
+    "MOD17A2H": [
+      "LP DAAC",
+      "NASA/GSFC/SED/ESD/TISL/MODAPS"
+    ]
+  },
+  {
+    "MOD29": [
+      "NASA/GSFC/EOS/ESDIS/LANCEMODIS"
+    ]
+  },
+  {
+    "MOD29": [
+      "NASA/GSFC/EOS/ESDIS/LANCEMODIS"
+    ]
+  },
+  {
+    "MOD29": [
+      "NASA NSIDC DAAC"
+    ]
+  },
+  {
+    "MOD29": [
+      "NASA/GSFC/EOS/ESDIS/LANCEMODIS"
+    ]
+  },
+  {
+    "MOD29": [
+      "NASA NSIDC DAAC"
+    ]
+  },
+  {
+    "MOD29": [
+      "NASA NSIDC DAAC"
+    ]
+  },
+  {
+    "MOD29P1D": [
+      "NASA NSIDC DAAC"
+    ]
+  },
+  {
+    "MOD29P1D": [
+      "NASA NSIDC DAAC"
+    ]
+  },
+  {
+    "MOD29P1D": [
+      "NASA NSIDC DAAC"
+    ]
+  },
+  {
+    "MOD29P1N": [
+      "NASA NSIDC DAAC"
+    ]
+  },
+  {
+    "MOD29P1N": [
+      "NASA NSIDC DAAC"
+    ]
+  },
+  {
+    "MOD29P1N": [
+      "NASA NSIDC DAAC"
+    ]
+  },
+  {
+    "MOD44W": [
+      "LP DAAC",
+      "NASA/GSFC/SED/ESD/TISL/MODAPS"
+    ]
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_8DAY_4KM_DAYTIME_V2014.0": [
+      "NASA/JPL/PODAAC",
+      "Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, N",
+      "OBPG"
+    ]
+  },
+  {
+    "MODIS_TERRA_L3_SST_MID-IR_8DAY_4KM_NIGHTTIME_V2014.0": [
+      "NASA/JPL/PODAAC",
+      "Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, N",
+      "OBPG"
+    ]
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_8DAY_4KM_NIGHTTIME_V2014.0": [
+      "NASA/JPL/PODAAC",
+      "Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, N",
+      "OBPG"
+    ]
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_ANNUAL_4KM_DAYTIME_V2014.0": [
+      "NASA/JPL/PODAAC",
+      "Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, N",
+      "OBPG"
+    ]
+  },
+  {
+    "MODIS_TERRA_L3_SST_MID-IR_ANNUAL_4KM_NIGHTTIME_V2014.0": [
+      "NASA/JPL/PODAAC",
+      "Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, N",
+      "OBPG"
+    ]
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_ANNUAL_4KM_NIGHTTIME_V2014.0": [
+      "NASA/JPL/PODAAC",
+      "Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, N",
+      "OBPG"
+    ]
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_DAILY_4KM_DAYTIME_V2014.0": [
+      "NASA/JPL/PODAAC",
+      "Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, N",
+      "OBPG"
+    ]
+  },
+  {
+    "MODIS_TERRA_L3_SST_MID-IR_DAILY_4KM_NIGHTTIME_V2014.0": [
+      "NASA/JPL/PODAAC",
+      "Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, N",
+      "OBPG"
+    ]
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_DAILY_4KM_NIGHTTIME_V2014.0": [
+      "NASA/JPL/PODAAC",
+      "Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, N",
+      "OBPG"
+    ]
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_MONTHLY_4KM_DAYTIME_V2014.0": [
+      "NASA/JPL/PODAAC",
+      "Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, N",
+      "OBPG"
+    ]
+  },
+  {
+    "MODIS_TERRA_L3_SST_MID-IR_MONTHLY_4KM_NIGHTTIME_V2014.0": [
+      "NASA/JPL/PODAAC",
+      "Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, N",
+      "OBPG"
+    ]
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_MONTHLY_4KM_NIGHTTIME_V2014.0": [
+      "NASA/JPL/PODAAC",
+      "Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, N",
+      "OBPG"
+    ]
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_8DAY_9KM_DAYTIME_V2014.0": [
+      "NASA/JPL/PODAAC",
+      "Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, N",
+      "OBPG"
+    ]
+  },
+  {
+    "MODIS_TERRA_L3_SST_MID-IR_8DAY_9KM_NIGHTTIME_V2014.0": [
+      "NASA/JPL/PODAAC",
+      "Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, N",
+      "OBPG"
+    ]
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_8DAY_9KM_NIGHTTIME_V2014.0": [
+      "NASA/JPL/PODAAC",
+      "Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, N",
+      "OBPG"
+    ]
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_ANNUAL_9KM_DAYTIME_V2014.0": [
+      "NASA/JPL/PODAAC",
+      "Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, N",
+      "OBPG"
+    ]
+  },
+  {
+    "MODIS_TERRA_L3_SST_MID-IR_ANNUAL_9KM_NIGHTTIME_V2014.0": [
+      "NASA/JPL/PODAAC",
+      "Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, N",
+      "OBPG"
+    ]
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_ANNUAL_9KM_NIGHTTIME_V2014.0": [
+      "NASA/JPL/PODAAC",
+      "Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, N",
+      "OBPG"
+    ]
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_DAILY_9KM_DAYTIME_V2014.0": [
+      "NASA/JPL/PODAAC",
+      "Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, N",
+      "OBPG"
+    ]
+  },
+  {
+    "MODIS_TERRA_L3_SST_MID-IR_DAILY_9KM_NIGHTTIME_V2014.0": [
+      "NASA/JPL/PODAAC",
+      "Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, N",
+      "OBPG"
+    ]
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_DAILY_9KM_NIGHTTIME_V2014.0": [
+      "NASA/JPL/PODAAC",
+      "Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, N",
+      "OBPG"
+    ]
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_MONTHLY_9KM_DAYTIME_V2014.0": [
+      "NASA/JPL/PODAAC",
+      "Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, N",
+      "OBPG"
+    ]
+  },
+  {
+    "MODIS_TERRA_L3_SST_MID-IR_MONTHLY_9KM_NIGHTTIME_V2014.0": [
+      "NASA/JPL/PODAAC",
+      "Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, N",
+      "OBPG"
+    ]
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_MONTHLY_9KM_NIGHTTIME_V2014.0": [
+      "NASA/JPL/PODAAC",
+      "Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, N",
+      "OBPG"
+    ]
+  },
+  {
+    "MOP03J": [
+      "LaRC",
+      "NASA Langley ASDC User Services"
+    ]
+  },
+  {
+    "MOP03J": [
+      "LaRC",
+      "NASA Langley ASDC User Services"
+    ]
+  },
+  {
+    "MOP03J": [
+      "NASA/LARC/SD/ASDC",
+      "NASA Langley ASDC User Services",
+      "UCAR/NCAR/ACOM"
+    ]
+  },
+  {
+    "MOP03J": [
+      "LaRC",
+      "NASA Langley ASDC User Services"
+    ]
+  },
+  {
+    "MOP03J": [
+      "NASA/LARC/SD/ASDC",
+      "NASA Langley ASDC User Services",
+      "UCAR/NCAR/ACOM"
+    ]
+  },
+  {
+    "MOP03J": [
+      "LaRC",
+      "NASA Langley ASDC User Services"
+    ]
+  },
+  {
+    "MOP03J": [
+      "LaRC",
+      "NASA Langley ASDC User Services"
+    ]
+  },
+  {
+    "MOP03J": [
+      "NASA/LARC/SD/ASDC",
+      "NASA Langley ASDC User Services",
+      "UCAR/NCAR/ACOM"
+    ]
+  },
+  {
+    "MOP03J": [
+      "LaRC",
+      "NASA Langley ASDC User Services"
+    ]
+  },
+  {
+    "MOP03J": [
+      "NASA/LARC/SD/ASDC",
+      "NASA Langley ASDC User Services",
+      "UCAR/NCAR/ACOM"
+    ]
+  },
+  {
+    "MOP02R_NRT": [
+      "UCAR/NCAR"
+    ]
+  },
+  {
+    "MOP03JM": [
+      "LaRC",
+      "NASA Langley ASDC User Services"
+    ]
+  },
+  {
+    "MOP03JM": [
+      "LaRC",
+      "NASA Langley ASDC User Services"
+    ]
+  },
+  {
+    "MOP03JM": [
+      "NASA/LARC/SD/ASDC",
+      "NASA Langley ASDC User Services",
+      "UCAR/NCAR/ACOM"
+    ]
+  },
+  {
+    "MOP03JM": [
+      "LaRC",
+      "NASA Langley ASDC User Services"
+    ]
+  },
+  {
+    "MOP03JM": [
+      "NASA/LARC/SD/ASDC",
+      "NASA Langley ASDC User Services",
+      "UCAR/NCAR/ACOM"
+    ]
+  },
+  {
+    "MOP03JM": [
+      "LaRC",
+      "NASA Langley ASDC User Services"
+    ]
+  },
+  {
+    "MOP03JM": [
+      "LaRC",
+      "NASA Langley ASDC User Services"
+    ]
+  },
+  {
+    "MOP03JM": [
+      "NASA/LARC/SD/ASDC",
+      "NASA Langley ASDC User Services",
+      "UCAR/NCAR/ACOM"
+    ]
+  },
+  {
+    "MOP03JM": [
+      "LaRC",
+      "NASA Langley ASDC User Services"
+    ]
+  },
+  {
+    "MOP03JM": [
+      "NASA/LARC/SD/ASDC",
+      "NASA Langley ASDC User Services",
+      "UCAR/NCAR/ACOM"
+    ]
+  },
+  {
+    "MYD04_3K": [
+      "NASA/GSFC/SED/ESD/HBSL/BISB/LAADS",
+      "NASA/GSFC/SED/ESD/HBSL/BISB/MODAPS"
+    ]
+  },
+  {
+    "MYD04_3K": [
+      "NASA/GSFC/SED/ESD/HBSL/BISB/LAADS",
+      "NASA/GSFC/SED/ESD/HBSL/BISB/MODAPS"
+    ]
+  },
+  {
+    "MYD04_3K": [
+      "NASA/GSFC/EOS/ESDIS/LANCEMODIS"
+    ]
+  },
+  {
+    "MYD04_L2": [
+      "NASA/GSFC/SED/ESD/HBSL/BISB/LAADS",
+      "NASA/GSFC/SED/ESD/HBSL/BISB/MODAPS"
+    ]
+  },
+  {
+    "MYD04_L2": [
+      "NASA/GSFC/SED/ESD/HBSL/BISB/LAADS",
+      "NASA/GSFC/SED/ESD/HBSL/BISB/MODAPS"
+    ]
+  },
+  {
+    "MYD04_L2": [
+      "NASA/GSFC/EOS/ESDIS/LANCEMODIS"
+    ]
+  },
+  {
+    "MYD06_L2": [
+      "NASA/GSFC/SED/ESD/HBSL/BISB/LAADS",
+      "NASA/GSFC/SED/ESD/HBSL/BISB/MODAPS"
+    ]
+  },
+  {
+    "MYD06_L2": [
+      "NASA/GSFC/SED/ESD/HBSL/BISB/LAADS",
+      "NASA/GSFC/SED/ESD/HBSL/BISB/MODAPS"
+    ]
+  },
+  {
+    "MYD06_L2": [
+      "NASA/GSFC/EOS/ESDIS/LANCEMODIS"
+    ]
+  },
+  {
+    "MYD09GA": [
+      "NASA/GSFC/EOS/ESDIS/LANCEMODIS"
+    ]
+  },
+  {
+    "MYD09GA": [
+      "NASA/GSFC/EOS/ESDIS/LANCEMODIS"
+    ]
+  },
+  {
+    "MYD09GA": [
+      "LP DAAC",
+      "NASA/GSFC/SED/ESD/TISL/MODAPS"
+    ]
+  },
+  {
+    "MYD09GQ": [
+      "NASA/GSFC/EOS/ESDIS/LANCEMODIS"
+    ]
+  },
+  {
+    "MYD09GQ": [
+      "NASA/GSFC/EOS/ESDIS/LANCEMODIS"
+    ]
+  },
+  {
+    "MYD09GQ": [
+      "LP DAAC",
+      "NASA/GSFC/SED/ESD/TISL/MODAPS"
+    ]
+  },
+  {
+    "MYD09A1": [
+      "LP DAAC",
+      "NASA/GSFC/SED/ESD/TISL/MODAPS"
+    ]
+  },
+  {
+    "MYD09Q1": [
+      "LP DAAC",
+      "NASA/GSFC/SED/ESD/TISL/MODAPS"
+    ]
+  },
+  {
+    "MYD10_L2": [
+      "NASA/GSFC/EOS/ESDIS/LANCEMODIS",
+      "NASA/GSFC/SED/ESD/HBSL/BISB/MODAPS"
+    ]
+  },
+  {
+    "MYD10_L2": [
+      "NASA/GSFC/EOS/ESDIS/LANCEMODIS",
+      "NASA/GSFC/SED/ESD/HBSL/BISB/MODAPS"
+    ]
+  },
+  {
+    "MYD10_L2": [
+      "NASA NSIDC DAAC"
+    ]
+  },
+  {
+    "MYD10_L2": [
+      "NASA/GSFC/EOS/ESDIS/LANCEMODIS",
+      "NASA/GSFC/SED/ESD/HBSL/BISB/MODAPS"
+    ]
+  },
+  {
+    "MYD10_L2": [
+      "NASA NSIDC DAAC"
+    ]
+  },
+  {
+    "MYD10_L2": [
+      "NASA NSIDC DAAC"
+    ]
+  },
+  {
+    "MYD10A1": [
+      "NASA NSIDC DAAC"
+    ]
+  },
+  {
+    "MYD10A1": [
+      "NASA NSIDC DAAC"
+    ]
+  },
+  {
+    "MYD10A1": [
+      "NASA NSIDC DAAC"
+    ]
+  },
+  {
+    "MYD10A2": [
+      "NASA NSIDC DAAC"
+    ]
+  },
+  {
+    "MYD10A2": [
+      "NASA NSIDC DAAC"
+    ]
+  },
+  {
+    "MYD10A2": [
+      "NASA NSIDC DAAC"
+    ]
+  },
+  {
+    "MYD10CM": [
+      "NASA NSIDC DAAC"
+    ]
+  },
+  {
+    "MYD10CM": [
+      "NASA NSIDC DAAC"
+    ]
+  },
+  {
+    "MYD10CM": [
+      "NASA NSIDC DAAC"
+    ]
+  },
+  {
+    "MYD11A1": [
+      "LP DAAC",
+      "NASA/GSFC/SED/ESD/TISL/MODAPS"
+    ]
+  },
+  {
+    "MYD11A2": [
+      "LP DAAC",
+      "NASA/GSFC/SED/ESD/TISL/MODAPS"
+    ]
+  },
+  {
+    "MYD11C3": [
+      "LP DAAC",
+      "NASA/GSFC/SED/ESD/TISL/MODAPS"
+    ]
+  },
+  {
+    "MYD13Q1": [
+      "LP DAAC",
+      "NASA/GSFC/SED/ESD/TISL/MODAPS"
+    ]
+  },
+  {
+    "MYD15A2H": [
+      "LP DAAC",
+      "NASA/GSFC/SED/ESD/TISL/MODAPS"
+    ]
+  },
+  {
+    "MYD17A2H": [
+      "LP DAAC",
+      "NASA/GSFC/SED/ESD/TISL/MODAPS"
+    ]
+  },
+  {
+    "MYD29": [
+      "NASA/GSFC/EOS/ESDIS/LANCEMODIS"
+    ]
+  },
+  {
+    "MYD29": [
+      "NASA/GSFC/EOS/ESDIS/LANCEMODIS"
+    ]
+  },
+  {
+    "MYD29": [
+      "NASA NSIDC DAAC"
+    ]
+  },
+  {
+    "MYD29": [
+      "NASA/GSFC/EOS/ESDIS/LANCEMODIS"
+    ]
+  },
+  {
+    "MYD29": [
+      "NASA NSIDC DAAC"
+    ]
+  },
+  {
+    "MYD29": [
+      "NASA NSIDC DAAC"
+    ]
+  },
+  {
+    "MYD29P1D": [
+      "NASA NSIDC DAAC"
+    ]
+  },
+  {
+    "MYD29P1D": [
+      "NASA NSIDC DAAC"
+    ]
+  },
+  {
+    "MYD29P1D": [
+      "NASA NSIDC DAAC"
+    ]
+  },
+  {
+    "MYD29P1N": [
+      "NASA NSIDC DAAC"
+    ]
+  },
+  {
+    "MYD29P1N": [
+      "NASA NSIDC DAAC"
+    ]
+  },
+  {
+    "MYD29P1N": [
+      "NASA NSIDC DAAC"
+    ]
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_8DAY_4KM_DAYTIME_V2014.0": [
+      "NASA/JPL/PODAAC",
+      "Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, N",
+      "OBPG"
+    ]
+  },
+  {
+    "MODIS_AQUA_L3_SST_MID-IR_8DAY_4KM_NIGHTTIME_V2014.0": [
+      "NASA/JPL/PODAAC",
+      "Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, N",
+      "OBPG"
+    ]
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_8DAY_4KM_NIGHTTIME_V2014.0": [
+      "NASA/JPL/PODAAC",
+      "Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, N",
+      "OBPG"
+    ]
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_ANNUAL_4KM_DAYTIME_V2014.0": [
+      "NASA/JPL/PODAAC",
+      "Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, N",
+      "OBPG"
+    ]
+  },
+  {
+    "MODIS_AQUA_L3_SST_MID-IR_ANNUAL_4KM_NIGHTTIME_V2014.0": [
+      "NASA/JPL/PODAAC",
+      "Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, N",
+      "OBPG"
+    ]
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_ANNUAL_4KM_NIGHTTIME_V2014.0": [
+      "NASA/JPL/PODAAC",
+      "Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, N",
+      "OBPG"
+    ]
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_DAILY_4KM_DAYTIME_V2014.0": [
+      "NASA/JPL/PODAAC",
+      "Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, N",
+      "OBPG"
+    ]
+  },
+  {
+    "MODIS_AQUA_L3_SST_MID-IR_DAILY_4KM_NIGHTTIME_V2014.0": [
+      "NASA/JPL/PODAAC",
+      "Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, N",
+      "OBPG"
+    ]
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_DAILY_4KM_NIGHTTIME_V2014.0": [
+      "NASA/JPL/PODAAC",
+      "Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, N",
+      "OBPG"
+    ]
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_MONTHLY_4KM_DAYTIME_V2014.0": [
+      "NASA/JPL/PODAAC",
+      "Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, N",
+      "OBPG"
+    ]
+  },
+  {
+    "MODIS_AQUA_L3_SST_MID-IR_MONTHLY_4KM_NIGHTTIME_V2014.0": [
+      "NASA/JPL/PODAAC",
+      "Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, N",
+      "OBPG"
+    ]
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_MONTHLY_4KM_NIGHTTIME_V2014.0": [
+      "NASA/JPL/PODAAC",
+      "Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, N",
+      "OBPG"
+    ]
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_8DAY_9KM_DAYTIME_V2014.0": [
+      "NASA/JPL/PODAAC",
+      "Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, N",
+      "OBPG"
+    ]
+  },
+  {
+    "MODIS_AQUA_L3_SST_MID-IR_8DAY_9KM_NIGHTTIME_V2014.0": [
+      "NASA/JPL/PODAAC",
+      "Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, N",
+      "OBPG"
+    ]
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_8DAY_9KM_NIGHTTIME_V2014.0": [
+      "NASA/JPL/PODAAC",
+      "Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, N",
+      "OBPG"
+    ]
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_ANNUAL_9KM_DAYTIME_V2014.0": [
+      "NASA/JPL/PODAAC",
+      "Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, N",
+      "OBPG"
+    ]
+  },
+  {
+    "MODIS_AQUA_L3_SST_MID-IR_ANNUAL_9KM_NIGHTTIME_V2014.0": [
+      "NASA/JPL/PODAAC",
+      "Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, N",
+      "OBPG"
+    ]
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_ANNUAL_9KM_NIGHTTIME_V2014.0": [
+      "NASA/JPL/PODAAC",
+      "Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, N",
+      "OBPG"
+    ]
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_DAILY_9KM_DAYTIME_V2014.0": [
+      "NASA/JPL/PODAAC",
+      "Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, N",
+      "OBPG"
+    ]
+  },
+  {
+    "MODIS_AQUA_L3_SST_MID-IR_DAILY_9KM_NIGHTTIME_V2014.0": [
+      "NASA/JPL/PODAAC",
+      "Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, N",
+      "OBPG"
+    ]
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_DAILY_9KM_NIGHTTIME_V2014.0": [
+      "NASA/JPL/PODAAC",
+      "Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, N",
+      "OBPG"
+    ]
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_MONTHLY_9KM_DAYTIME_V2014.0": [
+      "NASA/JPL/PODAAC",
+      "Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, N",
+      "OBPG"
+    ]
+  },
+  {
+    "MODIS_AQUA_L3_SST_MID-IR_MONTHLY_9KM_NIGHTTIME_V2014.0": [
+      "NASA/JPL/PODAAC",
+      "Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, N",
+      "OBPG"
+    ]
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_MONTHLY_9KM_NIGHTTIME_V2014.0": [
+      "NASA/JPL/PODAAC",
+      "Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, N",
+      "OBPG"
+    ]
+  },
+  {
+    "NLDAS_FORA0125_M": [
+      "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+    ]
+  },
+  {
+    "NLDAS_FORB0125_M": [
+      "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+    ]
+  },
+  {
+    "NLDAS_MOS0125_M": [
+      "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+    ]
+  },
+  {
+    "NLDAS_NOAH0125_M": [
+      "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+    ]
+  },
+  {
+    "NLDAS_VIC0125_M": [
+      "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+    ]
+  },
+  {
+    "OCO2_L2_Lite_SIF": [
+      "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+    ]
+  },
+  {
+    "OCO2_L2_Lite_FP": [
+      "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+    ]
+  },
+  {
+    "olsdig10": [
+      "NASA/MSFC/GHRC",
+      "Global Hydrology Resource Center, Marshall Space Flight Center, NASA"
+    ]
+  },
+  {
+    "olsdig12": [
+      "NASA/MSFC/GHRC",
+      "Global Hydrology Resource Center, Marshall Space Flight Center, NASA"
+    ]
+  },
+  {
+    "OMAERUVd": [
+      "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+    ]
+  },
+  {
+    "OMAEROe": [
+      "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+    ]
+  },
+  {
+    "OMAERUV": [
+      "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+    ]
+  },
+  {
+    "OMAERUV": [
+      "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+    ]
+  },
+  {
+    "OMAERUV": [
+      "OMI SIPS"
+    ]
+  },
+  {
+    "OMCLDRR": [
+      "OMI SIPS"
+    ]
+  },
+  {
+    "OMCLDRR": [
+      "OMI SIPS"
+    ]
+  },
+  {
+    "OMCLDRR": [
+      "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+    ]
+  },
+  {
+    "OMNO2d": [
+      "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+    ]
+  },
+  {
+    "OMDOAO3e": [
+      "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+    ]
+  },
+  {
+    "OMTO3e": [
+      "OMI SIPS"
+    ]
+  },
+  {
+    "OMTO3e": [
+      "OMI SIPS"
+    ]
+  },
+  {
+    "OMTO3e": [
+      "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+    ]
+  },
+  {
+    "OMSO2": [
+      "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+    ]
+  },
+  {
+    "OMSO2": [
+      "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+    ]
+  },
+  {
+    "OMSO2": [
+      "OMI SIPS"
+    ]
+  },
+  {
+    "OMSO2e": [
+      "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+    ]
+  },
+  {
+    "OMUVBd": [
+      "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+    ]
+  },
+  {
+    "OSCAR_L4_OC_third-deg": [
+      "NASA/JPL/PODAAC",
+      "Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, N",
+      "Earth Space Research"
+    ]
+  },
+  {
+    "otdlip": [
+      "NASA/MSFC/GHRC",
+      "Global Hydrology Resource Center, Marshall Space Flight Center, NASA"
+    ]
+  },
+  {
+    "rss1tpwnv7r01": [
+      "NASA/MSFC/GHRC",
+      "Global Hydrology Resource Center, Marshall Space Flight Center, NASA"
+    ]
+  },
+  {
+    "rss1windnv7r01": [
+      "NASA/MSFC/GHRC",
+      "Global Hydrology Resource Center, Marshall Space Flight Center, NASA"
+    ]
+  },
+  {
+    "CIESIN_SEDAC_AGLANDS_CROP2000": [
+      "SEDAC"
+    ]
+  },
+  {
+    "CIESIN_SEDAC_AGLANDS_PAS2000": [
+      "SEDAC"
+    ]
+  },
+  {
+    "CIESIN_SEDAC_SPECIES_AMP_RICH15": [
+      "SEDAC"
+    ]
+  },
+  {
+    "CIESIN_SEDAC_ANTHROMES_v1": [
+      "SEDAC"
+    ]
+  },
+  {
+    "CIESIN_CHRR_NDH_CYCLONE_PELRD": [
+      "SEDAC"
+    ]
+  },
+  {
+    "CIESIN_CHRR_NDH_CYCLONE_HFD": [
+      "SEDAC"
+    ]
+  },
+  {
+    "CIESIN_CHRR_NDH_CYCLONE_MRD": [
+      "SEDAC"
+    ]
+  },
+  {
+    "CIESIN_CHRR_NDH_DROUGHT_PELRD": [
+      "SEDAC"
+    ]
+  },
+  {
+    "CIESIN_CHRR_NDH_DROUGHT_HFD": [
+      "SEDAC"
+    ]
+  },
+  {
+    "CIESIN_CHRR_NDH_DROUGHT_MRD": [
+      "SEDAC"
+    ]
+  },
+  {
+    "CIESIN_SEDAC_PD_NETMIG_1970_2000": [
+      "SEDAC"
+    ]
+  },
+  {
+    "CIESIN_CHRR_NDH_FLOOD_PELRD": [
+      "SEDAC"
+    ]
+  },
+  {
+    "CIESIN_CHRR_NDH_FLOOD_HFD": [
+      "SEDAC"
+    ]
+  },
+  {
+    "CIESIN_CHRR_NDH_FLOOD_MRD": [
+      "SEDAC"
+    ]
+  },
+  {
+    "CIESIN_SEDAC_ULANDSAT_GMIS_V1": [
+      "SEDAC"
+    ]
+  },
+  {
+    "CIESIN_SEDAC_GPWv4_APDENS_WPP_2015": [
+      "SEDAC"
+    ]
+  },
+  {
+    "CIESIN_SEDAC_GRUMPv1_EXT": [
+      "SEDAC"
+    ]
+  },
+  {
+    "CIESIN_SEDAC_ULANDSAT_HBASE_V1": [
+      "SEDAC"
+    ]
+  },
+  {
+    "CIESIN_SEDAC_LWP2_HF_GEOG": [
+      "SEDAC"
+    ]
+  },
+  {
+    "CIESIN_CHRR_NDH_LSLIDE_HD": [
+      "SEDAC"
+    ]
+  },
+  {
+    "CIESIN_SEDAC_LWP2_LW_GEOG": [
+      "SEDAC"
+    ]
+  },
+  {
+    "CIESIN_SEDAC_SDEI_LST2013": [
+      "SEDAC"
+    ]
+  },
+  {
+    "CIESIN_SEDAC_SPECIES_MAM_RICH15": [
+      "SEDAC"
+    ]
+  },
+  {
+    "CIESIN_SEDAC_LULC_MANGROVES_2000": [
+      "SEDAC"
+    ]
+  },
+  {
+    "CIESIN_SEDAC_SDEI_NO2": [
+      "SEDAC"
+    ]
+  },
+  {
+    "CIESIN_SEDAC_SDEI_PM25_MMSAOD": [
+      "SEDAC"
+    ]
+  },
+  {
+    "CIESIN_SEDAC_SDEI_UHI2013": [
+      "SEDAC"
+    ]
+  },
+  {
+    "CIESIN_SEDAC_LECZ_URPLAEv2": [
+      "SEDAC"
+    ]
+  },
+  {
+    "CIESIN_SEDAC_LULC_PUEXPANS_2030": [
+      "SEDAC"
+    ]
+  },
+  {
+    "CIESIN_CHRR_NDH_VOLCANO_PELRD": [
+      "SEDAC"
+    ]
+  },
+  {
+    "CIESIN_CHRR_NDH_VOLCANO_HFD": [
+      "SEDAC"
+    ]
+  },
+  {
+    "CIESIN_CHRR_NDH_VOLCANO_MRD": [
+      "SEDAC"
+    ]
+  },
+  {
+    "SPL1BTB": [
+      "NASA NSIDC DAAC",
+      "NASA/JPL/SMAP"
+    ]
+  },
+  {
+    "SPL1CTB_E": [
+      "NASA NSIDC DAAC",
+      "NASA/JPL/SMAP"
+    ]
+  },
+  {
+    "SPL1CTB": [
+      "NASA NSIDC DAAC",
+      "NASA/JPL/SMAP"
+    ]
+  },
+  {
+    "SPL2SMP": [
+      "NASA NSIDC DAAC",
+      "NASA/JPL/SMAP"
+    ]
+  },
+  {
+    "SPL2SMP_E": [
+      "NASA NSIDC DAAC",
+      "NASA/JPL/SMAP"
+    ]
+  },
+  {
+    "SPL2SMAP_S": [
+      "NASA NSIDC DAAC",
+      "NASA/JPL/SMAP"
+    ]
+  },
+  {
+    "SPL3FTP": [
+      "NASA NSIDC DAAC",
+      "NASA/JPL/SMAP"
+    ]
+  },
+  {
+    "SPL3FTP_E": [
+      "NASA NSIDC DAAC",
+      "NASA/JPL/SMAP"
+    ]
+  },
+  {
+    "SPL3SMA": [
+      "NASA NSIDC DAAC",
+      "NASA/JPL/SMAP"
+    ]
+  },
+  {
+    "SPL3SMAP": [
+      "NASA NSIDC DAAC",
+      "NASA/JPL/SMAP"
+    ]
+  },
+  {
+    "SPL3SMP": [
+      "NASA NSIDC DAAC",
+      "NASA/JPL/SMAP"
+    ]
+  },
+  {
+    "SMAP_JPL_L3_SSS_CAP_8DAY-RUNNINGMEAN_V42": [
+      "PO.DAAC",
+      "Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, N",
+      "Jet Propulsion Laboratory (JPL) Climate Oceans and Solid Earth group"
+    ]
+  },
+  {
+    "SMAP_JPL_L3_SSS_CAP_MONTHLY_V42": [
+      "PO.DAAC",
+      "Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, N",
+      "Jet Propulsion Laboratory (JPL) Climate Oceans and Solid Earth group"
+    ]
+  },
+  {
+    "SPL4SMAU": [
+      "NASA NSIDC DAAC",
+      "NASA/GSFC/SED/ESD/GMAO"
+    ]
+  },
+  {
+    "SPL4CMDL": [
+      "NASA NSIDC DAAC",
+      "NASA/GSFC/SED/ESD/GMAO"
+    ]
+  },
+  {
+    "SPL4SMGP": [
+      "NASA NSIDC DAAC",
+      "NASA/GSFC/SED/ESD/GMAO"
+    ]
+  },
+  {
+    "SRTMGL1": [
+      "LP DAAC",
+      "NASA/JPL/SRTM"
+    ]
+  },
+  {
+    "rssmif10d": [
+      "NASA/MSFC/GHRC",
+      "Global Hydrology Resource Center, Marshall Space Flight Center, NASA"
+    ]
+  },
+  {
+    "rssmif11d": [
+      "NASA/MSFC/GHRC",
+      "Global Hydrology Resource Center, Marshall Space Flight Center, NASA"
+    ]
+  },
+  {
+    "rssmif13d": [
+      "NASA/MSFC/GHRC",
+      "Global Hydrology Resource Center, Marshall Space Flight Center, NASA"
+    ]
+  },
+  {
+    "rssmif14d": [
+      "NASA/MSFC/GHRC",
+      "Global Hydrology Resource Center, Marshall Space Flight Center, NASA"
+    ]
+  },
+  {
+    "rssmif15d": [
+      "NASA/MSFC/GHRC",
+      "Global Hydrology Resource Center, Marshall Space Flight Center, NASA"
+    ]
+  },
+  {
+    "rssmif16d": [
+      "NASA/MSFC/GHRC",
+      "Global Hydrology Resource Center, Marshall Space Flight Center, NASA"
+    ]
+  },
+  {
+    "rssmif17d": [
+      "NASA/MSFC/GHRC",
+      "Global Hydrology Resource Center, Marshall Space Flight Center, NASA"
+    ]
+  },
+  {
+    "rssmif08d": [
+      "NASA/MSFC/GHRC",
+      "Global Hydrology Resource Center, Marshall Space Flight Center, NASA"
+    ]
+  },
+  {
+    "SWDB_L305": [
+      "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+    ]
+  },
+  {
+    "SWDB_L3M05": [
+      "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+    ]
+  },
+  {
+    "ALT_TIDE_GAUGE_L4_OST_SLA_US_WEST_COAST_DAILY": [
+      "NASA/JPL/PODAAC",
+      "Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, N",
+      "Craig Risin and P. Ted Strub"
+    ]
+  },
+  {
+    "MERGED_TP_J1_OSTM_OST_CYCLES_V4": [
+      "PO.DAAC",
+      "Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, N",
+      "GSFC"
+    ]
+  },
+  {
+    "RECON_SEA_LEVEL_OST_L4_V1": [
+      "NASA/JPL/PODAAC",
+      "Colorado Center for Astrodynamics Research at University of Colorado, Boulder",
+      "Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, N",
+      "University of Colorado, Boulder"
+    ]
+  },
+  {
+    "GPM_2AGPROFTRMMTMI_CLIM": [
+      "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+    ]
+  },
+  {
+    "GPM_1CTRMMTMI": [
+      "NASA/GSFC/SED/ESD/GCDC/GESDISC"
+    ]
+  },
+  {
+    "VNP02IMG_NRT": [
+      "NASA/GSFC/EOS/ESDIS/LANCEMODIS",
+      "NASA/GSFC/SED/ESD/BSL/VCST"
+    ]
+  },
+  {
+    "CLDMSK_L2_VIIRS_SNPP_NRT": [
+      "UWI-MAD/SSEC/ASIPS"
+    ]
+  },
+  {
+    "AERDB_L2_VIIRS_SNPP_NRT": [
+      "UWI-MAD/SSEC/ASIPS"
+    ]
+  },
+  {
+    "WELDAKYR": [
+      "LP DAAC",
+      "SD-STATE/GISCCE"
+    ]
+  },
+  {
+    "WELDAKMO": [
+      "LP DAAC",
+      "SD-STATE/GISCCE"
+    ]
+  },
+  {
+    "WELDAKSE": [
+      "LP DAAC",
+      "SD-STATE/GISCCE"
+    ]
+  },
+  {
+    "WELDUSYR": [
+      "LP DAAC",
+      "SD-STATE/GISCCE"
+    ]
+  },
+  {
+    "WELDUSMO": [
+      "LP DAAC",
+      "SD-STATE/GISCCE"
+    ]
+  },
+  {
+    "WELDUSSE": [
+      "LP DAAC",
+      "SD-STATE/GISCCE"
+    ]
+  },
+  {
+    "WELDLCLUC": [
+      "LP DAAC",
+      "SD-STATE/GISCCE"
+    ]
+  },
+  {
+    "NSIDC-0484": [
+      "NASA NSIDC DAAC",
+      "UC-IRVINE/PHYSSCI/ESS"
+    ]
+  },
+  {
+    "NISE": [
+      "NASA NSIDC DAAC"
+    ]
+  },
+  {
+    "NISE": [
+      "NASA NSIDC DAAC"
+    ]
+  },
+  {
+    "NISE": [
+      "NASA NSIDC DAAC"
+    ]
+  },
+  {
+    "NISE": [
+      "NASA NSIDC DAAC"
+    ]
+  },
+  {
+    "NISE": [
+      "NASA NSIDC DAAC"
+    ]
+  },
+  {
+    "NISE": [
+      "NASA NSIDC DAAC"
+    ]
+  },
+  {
+    "NISE": [
+      "NASA NSIDC DAAC"
+    ]
+  },
+  {
+    "NISE": [
+      "NASA NSIDC DAAC"
+    ]
+  },
+  {
+    "NISE": [
+      "NASA NSIDC DAAC"
+    ]
+  },
+  {
+    "NISE": [
+      "NASA/GSFC/SED/ESD/HBSL/BISB/LAADS"
+    ]
+  },
+  {
+    "NSIDC-0478": [
+      "NASA NSIDC DAAC",
+      "UWA/APL"
+    ]
+  },
+  {
+    "NSIDC-0534": [
+      "NASA NSIDC DAAC",
+      "RUTGERS/GEOGRAPHY"
+    ]
+  },
+  {
+    "SPL3FTA": [
+      "NASA NSIDC DAAC",
+      "NASA/JPL/SMAP"
+    ]
+  },
+  {
+    "MYD14": [
+      "NASA/GSFC/EOS/ESDIS/LANCEMODIS"
+    ]
+  },
+  {
+    "MYD14": [
+      "NASA/GSFC/EOS/ESDIS/LANCEMODIS"
+    ]
+  },
+  {
+    "MYD14": [
+      "LP DAAC",
+      "NASA/GSFC/SED/ESD/TISL/MODAPS"
+    ]
+  },
+  {
+    "MOD14": [
+      "NASA/GSFC/EOS/ESDIS/LANCEMODIS"
+    ]
+  },
+  {
+    "MOD14": [
+      "NASA/GSFC/EOS/ESDIS/LANCEMODIS"
+    ]
+  },
+  {
+    "MOD14": [
+      "LP DAAC",
+      "NASA/GSFC/SED/ESD/TISL/MODAPS"
+    ]
+  },
+  {
+    "CIESIN_SEDAC_GRUMPv1_STLMNT01": [
+      "SEDAC"
+    ]
+  },
+  {
+    "VNP14IMGTDL_NRT": [
+      "NASA/GSFC/EOS/ESDIS/LANCEMODIS"
+    ]
+  }
+]

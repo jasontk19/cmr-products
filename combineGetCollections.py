@@ -1,6 +1,7 @@
 from urllib.request import urlopen
 import json
 from keepKeys import get_cmr_keep_keys, get_cmr_umm_keep_keys
+from attrValues import store_attr_values, write_values_to_files
 
 new_layers = {}
 cmr_data_store = {}
@@ -9,13 +10,14 @@ cmr_umm_collection_url = 'https://cmr.earthdata.nasa.gov/search/collections.umm_
 cmr_keep_keys = get_cmr_keep_keys()
 cmr_umm_keep_keys = get_cmr_umm_keep_keys()
 
-def process_entries(entries, keep_keys):
+def process_entries(shortName, entries, keep_keys):
   new_entries = []
   for entry in entries:
     new_entry = {}
     for key in keep_keys:
       new_entry[key] = entry.get(key)
     new_entries.append(new_entry)
+    store_attr_values(shortName, new_entries)
   return new_entries
 
 
@@ -28,7 +30,7 @@ def get_cmr_data(shortName):
     with urlopen(cmr_collection_url + shortName) as url:
       data = json.loads(url.read().decode())
       entries = data.get('feed', {}).get('entry')
-      cmr_data_store[shortName]['cmr'] = process_entries(entries, cmr_keep_keys)
+      cmr_data_store[shortName]['cmr'] = process_entries(shortName, entries, cmr_keep_keys)
   
   if not cmr_umm_entry:
     with urlopen(cmr_umm_collection_url + shortName) as url:
@@ -37,7 +39,7 @@ def get_cmr_data(shortName):
       items = data.get('items', [])
       for item in items:
         entries = [item.get('umm')]
-        collections.append(process_entries(entries, cmr_umm_keep_keys)[0])
+        collections.append(process_entries(shortName, entries, cmr_umm_keep_keys)[0])
       cmr_data_store[shortName]['umm'] = collections
   
 
@@ -57,11 +59,12 @@ def get_layers_products():
     # count = 0
     for key in cmr_data_store:
       get_cmr_data(key)
-      count = count+1
+      # count = count+1
       # if count >= 25:
       #   break
 
-  with open('json/output/collections.json', mode='wt', encoding='utf-8') as lp:
-    lp.write(json.dumps(cmr_data_store))
+    write_values_to_files()
+  # with open('json/output/collections.json', mode='wt', encoding='utf-8') as lp:
+  #   lp.write(json.dumps(cmr_data_store))
   
 get_layers_products()

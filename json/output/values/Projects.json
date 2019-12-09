@@ -1,0 +1,2648 @@
+[
+  {
+    "A2_RainOcn_NRT": [
+      {
+        "ShortName": "LANCE",
+        "LongName": "Land, Atmosphere Near real-time Capability for EOS"
+      }
+    ]
+  },
+  {
+    "A2_RainOcn_NRT": [
+      {
+        "ShortName": "LANCE",
+        "LongName": "Land, Atmosphere Near real-time Capability for EOS"
+      }
+    ]
+  },
+  {
+    "AE_Rain": null
+  },
+  {
+    "AE_SI12": null
+  },
+  {
+    "AE_SI25": null
+  },
+  {
+    "AE_SI6": null
+  },
+  {
+    "AIRS2RET": [
+      {
+        "ShortName": "Aqua",
+        "LongName": "Earth Observing System (EOS), Aqua"
+      }
+    ]
+  },
+  {
+    "AIRS2SUP": [
+      {
+        "ShortName": "Aqua",
+        "LongName": "Earth Observing System (EOS), Aqua"
+      }
+    ]
+  },
+  {
+    "AIRS3STD": [
+      {
+        "ShortName": "Aqua",
+        "LongName": "Earth Observing System (EOS), Aqua"
+      }
+    ]
+  },
+  {
+    "AIRS3STM": [
+      {
+        "ShortName": "Aqua",
+        "LongName": "Earth Observing System (EOS), Aqua"
+      }
+    ]
+  },
+  {
+    "AIRX3C2M": [
+      {
+        "ShortName": "Aqua",
+        "LongName": "Earth Observing System (EOS), Aqua"
+      }
+    ]
+  },
+  {
+    "AIRS3C2M": [
+      {
+        "ShortName": "Aqua",
+        "LongName": "Earth Observing System (EOS), Aqua"
+      }
+    ]
+  },
+  {
+    "amsua15sp": [
+      {
+        "ShortName": "NOT APPLICABLE"
+      }
+    ]
+  },
+  {
+    "amsua16sp": [
+      {
+        "ShortName": "NOT APPLICABLE"
+      }
+    ]
+  },
+  {
+    "amsua17sp": [
+      {
+        "ShortName": "NOT APPLICABLE"
+      }
+    ]
+  },
+  {
+    "AQ3_DYSM": null
+  },
+  {
+    "AQ3_WKSM": null
+  },
+  {
+    "AQUARIUS_L3_SSS_SMI_7DAY-RUNNINGMEAN_V5": [
+      {
+        "ShortName": "AQUARIUS SAC-D"
+      }
+    ]
+  },
+  {
+    "AQUARIUS_L3_SSS_SMI_7DAY_V5": [
+      {
+        "ShortName": "AQUARIUS SAC-D"
+      }
+    ]
+  },
+  {
+    "AQUARIUS_L3_SSS_SMI_DAILY_V5": [
+      {
+        "ShortName": "AQUARIUS SAC-D"
+      }
+    ]
+  },
+  {
+    "AQUARIUS_L3_SSS_SMI_MONTHLY-CLIMATOLOGY_V5": [
+      {
+        "ShortName": "AQUARIUS SAC-D"
+      }
+    ]
+  },
+  {
+    "AQUARIUS_L3_SSS_SMI_SEASONAL-CLIMATOLOGY_V5": [
+      {
+        "ShortName": "AQUARIUS SAC-D"
+      }
+    ]
+  },
+  {
+    "ASTGTM": [
+      {
+        "ShortName": "Terra",
+        "LongName": "Earth Observing System (EOS), Terra",
+        "Campaigns": [
+          "Terra"
+        ]
+      }
+    ]
+  },
+  {
+    "AU_5DSno": null
+  },
+  {
+    "AU_DySno": null
+  },
+  {
+    "AU_Land": null
+  },
+  {
+    "AU_MoSno": null
+  },
+  {
+    "AU_SI12": null
+  },
+  {
+    "AU_SI25": [
+      {
+        "ShortName": "AMSR-E/AMSR2 Unified Data",
+        "LongName": "Advanced Microwave Scanning Radiometer - Earth Observing System Sensor (AMSR-E) data integrated with Advanced Microwave Scanning Radiometer2 (AMSR2)",
+        "StartDate": "2011-08-25T00:00:00.000Z",
+        "EndDate": "2015-06-07T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "AU_SI6": [
+      {
+        "ShortName": "AMSR-E/AMSR2 Unified Data",
+        "LongName": "Advanced Microwave Scanning Radiometer - Earth Observing System Sensor (AMSR-E) data integrated with Advanced Microwave Scanning Radiometer2 (AMSR2)",
+        "StartDate": "2011-08-25T00:00:00.000Z",
+        "EndDate": "2015-06-07T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "AVISO_L4_DYN_TOPO_1DEG_1MO": [
+      {
+        "ShortName": "AVISO"
+      }
+    ]
+  },
+  {
+    "CCMP_MEASURES_ATLAS_L4_OW_L3_5A_MONTHLY_WIND_VECTORS_FLK": null
+  },
+  {
+    "CER_SYN1deg-Month_Terra-Aqua-MODIS": [
+      {
+        "ShortName": "CERES",
+        "LongName": "Clouds and the Earth's Radiant Energy System"
+      }
+    ]
+  },
+  {
+    "CERES_EBAF-Surface": [
+      {
+        "ShortName": "CERES",
+        "LongName": "Clouds and the Earth's Radiant Energy System"
+      }
+    ]
+  },
+  {
+    "CERES_EBAF-TOA": [
+      {
+        "ShortName": "CERES",
+        "LongName": "Clouds and the Earth's Radiant Energy System"
+      }
+    ]
+  },
+  {
+    "CERES_EBAF-TOA": [
+      {
+        "ShortName": "CERES",
+        "LongName": "Clouds and the Earth's Radiant Energy System"
+      }
+    ]
+  },
+  {
+    "CER_SYN1deg-Month_Terra-MODIS": [
+      {
+        "ShortName": "CERES",
+        "LongName": "Clouds and the Earth's Radiant Energy System"
+      }
+    ]
+  },
+  {
+    "CYGNSS_L3_V2.1": null
+  },
+  {
+    "AVHRR_OI-NCEI-L4-GLOB-v2.0": [
+      {
+        "ShortName": "GHRSST"
+      }
+    ]
+  },
+  {
+    "GPM_2AGPROFGPMGMI": [
+      {
+        "ShortName": "GPM",
+        "LongName": "Global Precipitation Measurement"
+      }
+    ]
+  },
+  {
+    "GPM_1CGPMGMI": [
+      {
+        "ShortName": "GPM",
+        "LongName": "Global Precipitation Measurement"
+      }
+    ]
+  },
+  {
+    "TELLUS_GRACE_MASCON_CRI_GRID_RL06_V1": null
+  },
+  {
+    "GPM_3IMERGDF": [
+      {
+        "ShortName": "GPM",
+        "LongName": "Global Precipitation Measurement"
+      }
+    ]
+  },
+  {
+    "GPM_3IMERGHHE": [
+      {
+        "ShortName": "GPM",
+        "LongName": "Global Precipitation Measurement"
+      }
+    ]
+  },
+  {
+    "lislip": [
+      {
+        "ShortName": "TRMM",
+        "LongName": "Tropical Rainfall Measuring Mission Project"
+      }
+    ]
+  },
+  {
+    "lisvhrac": [
+      {
+        "ShortName": "LIS",
+        "LongName": "Lightning Imaging Sensor Project"
+      }
+    ]
+  },
+  {
+    "lisvhrfc": [
+      {
+        "ShortName": "LIS",
+        "LongName": "Lightning Imaging Sensor Project"
+      }
+    ]
+  },
+  {
+    "lisvhrmc": [
+      {
+        "ShortName": "LIS",
+        "LongName": "Lightning Imaging Sensor Project"
+      }
+    ]
+  },
+  {
+    "lisvhrsc": [
+      {
+        "ShortName": "LIS",
+        "LongName": "Lightning Imaging Sensor Project"
+      }
+    ]
+  },
+  {
+    "lohrfc": [
+      {
+        "ShortName": "LIS",
+        "LongName": "Lightning Imaging Sensor Project"
+      }
+    ]
+  },
+  {
+    "LPRM_AMSR2_DS_A_SOILM3": [
+      {
+        "ShortName": "GCOM-W",
+        "LongName": "Global Change Observation Mission-Water"
+      }
+    ]
+  },
+  {
+    "LPRM_AMSR2_DS_D_SOILM3": [
+      {
+        "ShortName": "GCOM-W",
+        "LongName": "Global Change Observation Mission-Water"
+      }
+    ]
+  },
+  {
+    "LPRM_AMSR2_D_SOILM3": [
+      {
+        "ShortName": "GCOM-W",
+        "LongName": "Global Change Observation Mission-Water"
+      }
+    ]
+  },
+  {
+    "LPRM_AMSR2_A_SOILM3": [
+      {
+        "ShortName": "GCOM-W",
+        "LongName": "Global Change Observation Mission-Water"
+      }
+    ]
+  },
+  {
+    "MCD12Q1": [
+      {
+        "ShortName": "Terra",
+        "LongName": "Earth Observing System (EOS), Terra",
+        "Campaigns": [
+          "Terra"
+        ]
+      },
+      {
+        "ShortName": "Aqua",
+        "LongName": "Earth Observing System (EOS), Aqua",
+        "Campaigns": [
+          "Aqua"
+        ]
+      }
+    ]
+  },
+  {
+    "MCD15A2H": [
+      {
+        "ShortName": "Terra",
+        "LongName": "Earth Observing System (EOS), Terra",
+        "Campaigns": [
+          "Terra"
+        ]
+      },
+      {
+        "ShortName": "Aqua",
+        "LongName": "Earth Observing System (EOS), Aqua",
+        "Campaigns": [
+          "Aqua"
+        ]
+      }
+    ]
+  },
+  {
+    "MCD15A3H": [
+      {
+        "ShortName": "Terra",
+        "LongName": "Earth Observing System (EOS), Terra",
+        "Campaigns": [
+          "Terra"
+        ]
+      },
+      {
+        "ShortName": "Aqua",
+        "LongName": "Earth Observing System (EOS), Aqua",
+        "Campaigns": [
+          "Aqua"
+        ]
+      }
+    ]
+  },
+  {
+    "MCD43A3": [
+      {
+        "ShortName": "Terra",
+        "LongName": "Earth Observing System (EOS), Terra",
+        "Campaigns": [
+          "Terra"
+        ]
+      },
+      {
+        "ShortName": "Aqua",
+        "LongName": "Earth Observing System (EOS), Aqua",
+        "Campaigns": [
+          "Aqua"
+        ]
+      }
+    ]
+  },
+  {
+    "MCD43A4": [
+      {
+        "ShortName": "Terra",
+        "LongName": "Earth Observing System (EOS), Terra",
+        "Campaigns": [
+          "Terra"
+        ]
+      },
+      {
+        "ShortName": "Aqua",
+        "LongName": "Earth Observing System (EOS), Aqua",
+        "Campaigns": [
+          "Aqua"
+        ]
+      }
+    ]
+  },
+  {
+    "MCDAODHD": [
+      {
+        "ShortName": "DODS",
+        "LongName": "Distributed Oceanographic Data System"
+      },
+      {
+        "ShortName": "EOSDIS",
+        "LongName": "Earth Observing System Data Information System"
+      },
+      {
+        "ShortName": "ESIP",
+        "LongName": "Earth Science Information Partners Program"
+      },
+      {
+        "ShortName": "TERRA",
+        "LongName": "Earth Observing System (EOS), TERRA"
+      },
+      {
+        "ShortName": "AQUA",
+        "LongName": "Earth Observing System (EOS), AQUA"
+      }
+    ]
+  },
+  {
+    "NSIDC-0477": null
+  },
+  {
+    "M2TMNXRAD": [
+      {
+        "ShortName": "MERRA-2",
+        "LongName": "The second Modern-Era Retrospective analysis for Research and Applications"
+      }
+    ]
+  },
+  {
+    "M2IMNXGAS": [
+      {
+        "ShortName": "MERRA-2",
+        "LongName": "The second Modern-Era Retrospective analysis for Research and Applications"
+      }
+    ]
+  },
+  {
+    "M2IMNPASM": [
+      {
+        "ShortName": "MERRA-2",
+        "LongName": "The second Modern-Era Retrospective analysis for Research and Applications"
+      }
+    ]
+  },
+  {
+    "M2TMNXCHM": [
+      {
+        "ShortName": "MERRA-2",
+        "LongName": "The second Modern-Era Retrospective analysis for Research and Applications"
+      }
+    ]
+  },
+  {
+    "M2TMNPMST": [
+      {
+        "ShortName": "MERRA-2",
+        "LongName": "The second Modern-Era Retrospective analysis for Research and Applications"
+      }
+    ]
+  },
+  {
+    "M2TMNXADG": [
+      {
+        "ShortName": "MERRA-2",
+        "LongName": "The second Modern-Era Retrospective analysis for Research and Applications"
+      }
+    ]
+  },
+  {
+    "M2TMNXAER": [
+      {
+        "ShortName": "MERRA-2",
+        "LongName": "The second Modern-Era Retrospective analysis for Research and Applications"
+      }
+    ]
+  },
+  {
+    "M2TMNXOCN": [
+      {
+        "ShortName": "MERRA-2",
+        "LongName": "The second Modern-Era Retrospective analysis for Research and Applications"
+      }
+    ]
+  },
+  {
+    "M2TMNXINT": [
+      {
+        "ShortName": "MERRA-2",
+        "LongName": "The second Modern-Era Retrospective analysis for Research and Applications"
+      }
+    ]
+  },
+  {
+    "M2TMNXLND": [
+      {
+        "ShortName": "MERRA-2",
+        "LongName": "The second Modern-Era Retrospective analysis for Research and Applications"
+      }
+    ]
+  },
+  {
+    "M2TMNXCSP": [
+      {
+        "ShortName": "MERRA-2",
+        "LongName": "The second Modern-Era Retrospective analysis for Research and Applications"
+      }
+    ]
+  },
+  {
+    "M2IMNPANA": [
+      {
+        "ShortName": "MERRA-2",
+        "LongName": "The second Modern-Era Retrospective analysis for Research and Applications"
+      }
+    ]
+  },
+  {
+    "M2TMNXFLX": [
+      {
+        "ShortName": "MERRA-2",
+        "LongName": "The second Modern-Era Retrospective analysis for Research and Applications"
+      }
+    ]
+  },
+  {
+    "M2TMNPCLD": [
+      {
+        "ShortName": "MERRA-2",
+        "LongName": "The second Modern-Era Retrospective analysis for Research and Applications"
+      }
+    ]
+  },
+  {
+    "M2TMNXGLC": [
+      {
+        "ShortName": "MERRA-2",
+        "LongName": "The second Modern-Era Retrospective analysis for Research and Applications"
+      }
+    ]
+  },
+  {
+    "M2IMNXLFO": [
+      {
+        "ShortName": "MERRA-2",
+        "LongName": "The second Modern-Era Retrospective analysis for Research and Applications"
+      }
+    ]
+  },
+  {
+    "M2TMNXSLV": [
+      {
+        "ShortName": "MERRA-2",
+        "LongName": "The second Modern-Era Retrospective analysis for Research and Applications"
+      }
+    ]
+  },
+  {
+    "M2TMNXLFO": [
+      {
+        "ShortName": "MERRA-2",
+        "LongName": "The second Modern-Era Retrospective analysis for Research and Applications"
+      }
+    ]
+  },
+  {
+    "M2IMNXASM": [
+      {
+        "ShortName": "MERRA-2",
+        "LongName": "The second Modern-Era Retrospective analysis for Research and Applications"
+      }
+    ]
+  },
+  {
+    "M2IMNXINT": [
+      {
+        "ShortName": "MERRA-2",
+        "LongName": "The second Modern-Era Retrospective analysis for Research and Applications"
+      }
+    ]
+  },
+  {
+    "MIL3MAE": [
+      {
+        "ShortName": "MISR",
+        "LongName": "Multi-angle Imaging SpectroRadiometer"
+      }
+    ]
+  },
+  {
+    "MIL3MCLD": [
+      {
+        "ShortName": "MISR",
+        "LongName": "Multi-angle Imaging SpectroRadiometer"
+      }
+    ]
+  },
+  {
+    "MIL3MLS": [
+      {
+        "ShortName": "MISR",
+        "LongName": "Multi-angle Imaging SpectroRadiometer"
+      }
+    ]
+  },
+  {
+    "MIL3MRD": [
+      {
+        "ShortName": "MISR",
+        "LongName": "Multi-angle Imaging SpectroRadiometer"
+      }
+    ]
+  },
+  {
+    "MIL3MAL": [
+      {
+        "ShortName": "MISR",
+        "LongName": "Multi-angle Imaging SpectroRadiometer"
+      }
+    ]
+  },
+  {
+    "ML2CO": [
+      {
+        "ShortName": "Aura",
+        "LongName": "Earth Observing System (EOS), Aura"
+      }
+    ]
+  },
+  {
+    "ML2CO": [
+      {
+        "ShortName": "Aura",
+        "LongName": "Earth Observing System (EOS), Aura"
+      }
+    ]
+  },
+  {
+    "ML2H2O": [
+      {
+        "ShortName": "Aura",
+        "LongName": "Earth Observing System (EOS), Aura"
+      }
+    ]
+  },
+  {
+    "ML2H2O": [
+      {
+        "ShortName": "Aura",
+        "LongName": "Earth Observing System (EOS), Aura"
+      }
+    ]
+  },
+  {
+    "ML2HNO3": [
+      {
+        "ShortName": "Aura",
+        "LongName": "Earth Observing System (EOS), Aura"
+      }
+    ]
+  },
+  {
+    "ML2HNO3": [
+      {
+        "ShortName": "Aura",
+        "LongName": "Earth Observing System (EOS), Aura"
+      }
+    ]
+  },
+  {
+    "ML2N2O": [
+      {
+        "ShortName": "Aura",
+        "LongName": "Earth Observing System (EOS), Aura"
+      }
+    ]
+  },
+  {
+    "ML2N2O": [
+      {
+        "ShortName": "Aura",
+        "LongName": "Earth Observing System (EOS), Aura"
+      }
+    ]
+  },
+  {
+    "ML2O3": [
+      {
+        "ShortName": "Aura",
+        "LongName": "Earth Observing System (EOS), Aura"
+      }
+    ]
+  },
+  {
+    "ML2O3": [
+      {
+        "ShortName": "Aura",
+        "LongName": "Earth Observing System (EOS), Aura"
+      }
+    ]
+  },
+  {
+    "ML2SO2": [
+      {
+        "ShortName": "Aura",
+        "LongName": "Earth Observing System (EOS), Aura"
+      }
+    ]
+  },
+  {
+    "ML2SO2": [
+      {
+        "ShortName": "Aura",
+        "LongName": "Earth Observing System (EOS), Aura"
+      }
+    ]
+  },
+  {
+    "ML2T": [
+      {
+        "ShortName": "Aura",
+        "LongName": "Earth Observing System (EOS), Aura"
+      }
+    ]
+  },
+  {
+    "ML2T": [
+      {
+        "ShortName": "Aura",
+        "LongName": "Earth Observing System (EOS), Aura"
+      }
+    ]
+  },
+  {
+    "MOD04_3K": [
+      {
+        "ShortName": "Terra",
+        "LongName": "Earth Observing System (EOS), Terra"
+      }
+    ]
+  },
+  {
+    "MOD04_3K": [
+      {
+        "ShortName": "DODS",
+        "LongName": "Distributed Oceanographic Data System"
+      },
+      {
+        "ShortName": "EOSDIS",
+        "LongName": "Earth Observing System Data Information System"
+      },
+      {
+        "ShortName": "ESIP",
+        "LongName": "Earth Science Information Partners Program"
+      },
+      {
+        "ShortName": "TERRA",
+        "LongName": "Earth Observing System (EOS), TERRA"
+      },
+      {
+        "ShortName": "OPENDAP",
+        "LongName": "Open-source Project for a Network Data Access Protocol"
+      }
+    ]
+  },
+  {
+    "MOD04_L2": [
+      {
+        "ShortName": "Terra",
+        "LongName": "Earth Observing System (EOS), Terra"
+      }
+    ]
+  },
+  {
+    "MOD04_L2": [
+      {
+        "ShortName": "DODS",
+        "LongName": "Distributed Oceanographic Data System"
+      },
+      {
+        "ShortName": "EOSDIS",
+        "LongName": "Earth Observing System Data Information System"
+      },
+      {
+        "ShortName": "ESIP",
+        "LongName": "Earth Science Information Partners Program"
+      },
+      {
+        "ShortName": "TERRA",
+        "LongName": "Earth Observing System (EOS), TERRA"
+      },
+      {
+        "ShortName": "OPENDAP",
+        "LongName": "Open-source Project for a Network Data Access Protocol"
+      }
+    ]
+  },
+  {
+    "MOD06_L2": [
+      {
+        "ShortName": "Terra",
+        "LongName": "Earth Observing System (EOS), Terra"
+      }
+    ]
+  },
+  {
+    "MOD06_L2": [
+      {
+        "ShortName": "DODS",
+        "LongName": "Distributed Oceanographic Data System"
+      },
+      {
+        "ShortName": "EOSDIS",
+        "LongName": "Earth Observing System Data Information System"
+      },
+      {
+        "ShortName": "ESIP",
+        "LongName": "Earth Science Information Partners Program"
+      },
+      {
+        "ShortName": "TERRA",
+        "LongName": "Earth Observing System (EOS), TERRA"
+      },
+      {
+        "ShortName": "OPENDAP",
+        "LongName": "Open-source Project for a Network Data Access Protocol"
+      }
+    ]
+  },
+  {
+    "MOD09GA": [
+      {
+        "ShortName": "EOSDIS",
+        "LongName": "Earth Observing System Data Information System"
+      },
+      {
+        "ShortName": "ESIP",
+        "LongName": "Earth Science Information Partners Program"
+      }
+    ]
+  },
+  {
+    "MOD09GA": [
+      {
+        "ShortName": "Terra",
+        "LongName": "Earth Observing System (EOS), Terra",
+        "Campaigns": [
+          "Terra"
+        ]
+      }
+    ]
+  },
+  {
+    "MOD09GQ": [
+      {
+        "ShortName": "EOSDIS",
+        "LongName": "Earth Observing System Data Information System"
+      },
+      {
+        "ShortName": "ESIP",
+        "LongName": "Earth Science Information Partners Program"
+      }
+    ]
+  },
+  {
+    "MOD09GQ": [
+      {
+        "ShortName": "Terra",
+        "LongName": "Earth Observing System (EOS), Terra",
+        "Campaigns": [
+          "Terra"
+        ]
+      }
+    ]
+  },
+  {
+    "MOD09A1": [
+      {
+        "ShortName": "Terra",
+        "LongName": "Earth Observing System (EOS), Terra",
+        "Campaigns": [
+          "Terra"
+        ]
+      }
+    ]
+  },
+  {
+    "MOD09Q1": [
+      {
+        "ShortName": "Terra",
+        "LongName": "Earth Observing System (EOS), Terra",
+        "Campaigns": [
+          "Terra"
+        ]
+      }
+    ]
+  },
+  {
+    "MOD10_L2": [
+      {
+        "ShortName": "EOSDIS",
+        "LongName": "Earth Observing System Data Information System"
+      },
+      {
+        "ShortName": "ESIP",
+        "LongName": "Earth Science Information Partners Program"
+      },
+      {
+        "ShortName": "TERRA",
+        "LongName": "Earth Observing System (EOS), TERRA"
+      }
+    ]
+  },
+  {
+    "MOD10_L2": null
+  },
+  {
+    "MOD10_L2": null
+  },
+  {
+    "MOD10A1": null
+  },
+  {
+    "MOD10A1": null
+  },
+  {
+    "MOD10A2": null
+  },
+  {
+    "MOD10A2": null
+  },
+  {
+    "MOD10CM": null
+  },
+  {
+    "MOD10CM": null
+  },
+  {
+    "MOD11A1": [
+      {
+        "ShortName": "Terra",
+        "LongName": "Earth Observing System (EOS), Terra",
+        "Campaigns": [
+          "Terra"
+        ]
+      }
+    ]
+  },
+  {
+    "MOD11A2": [
+      {
+        "ShortName": "Terra",
+        "LongName": "Earth Observing System (EOS), Terra",
+        "Campaigns": [
+          "Terra"
+        ]
+      }
+    ]
+  },
+  {
+    "MOD11C3": [
+      {
+        "ShortName": "Terra",
+        "LongName": "Earth Observing System (EOS), Terra",
+        "Campaigns": [
+          "Terra"
+        ]
+      }
+    ]
+  },
+  {
+    "MYD13A3": [
+      {
+        "ShortName": "Aqua",
+        "LongName": "Earth Observing System (EOS), Aqua",
+        "Campaigns": [
+          "Aqua"
+        ]
+      }
+    ]
+  },
+  {
+    "MOD13A3": [
+      {
+        "ShortName": "Terra",
+        "LongName": "Earth Observing System (EOS), Terra",
+        "Campaigns": [
+          "Terra"
+        ]
+      }
+    ]
+  },
+  {
+    "MOD13Q1": [
+      {
+        "ShortName": "Terra",
+        "LongName": "Earth Observing System (EOS), Terra",
+        "Campaigns": [
+          "Terra"
+        ]
+      }
+    ]
+  },
+  {
+    "MOD13Q4N": [
+      {
+        "ShortName": "CWIC",
+        "LongName": "CEOS WGISS Integrated Catalog"
+      },
+      {
+        "ShortName": "EOSDIS",
+        "LongName": "Earth Observing System Data Information System"
+      },
+      {
+        "ShortName": "ESIP",
+        "LongName": "Earth Science Information Partners Program"
+      }
+    ]
+  },
+  {
+    "MOD15A2H": [
+      {
+        "ShortName": "Terra",
+        "LongName": "Earth Observing System (EOS), Terra",
+        "Campaigns": [
+          "Terra"
+        ]
+      }
+    ]
+  },
+  {
+    "MOD17A2H": [
+      {
+        "ShortName": "Terra",
+        "LongName": "Earth Observing System (EOS), Terra",
+        "Campaigns": [
+          "Terra"
+        ]
+      }
+    ]
+  },
+  {
+    "MOD29": [
+      {
+        "ShortName": "EOSDIS",
+        "LongName": "Earth Observing System Data Information System"
+      },
+      {
+        "ShortName": "ESIP",
+        "LongName": "Earth Science Information Partners Program"
+      }
+    ]
+  },
+  {
+    "MOD29": null
+  },
+  {
+    "MOD29": null
+  },
+  {
+    "MOD29P1D": null
+  },
+  {
+    "MOD29P1D": null
+  },
+  {
+    "MOD29P1N": null
+  },
+  {
+    "MOD29P1N": null
+  },
+  {
+    "MOD44W": [
+      {
+        "ShortName": "Terra",
+        "LongName": "Earth Observing System (EOS), Terra",
+        "Campaigns": [
+          "Terra"
+        ]
+      }
+    ]
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_8DAY_4KM_DAYTIME_V2014.0": [
+      {
+        "ShortName": "EOS"
+      }
+    ]
+  },
+  {
+    "MODIS_TERRA_L3_SST_MID-IR_8DAY_4KM_NIGHTTIME_V2014.0": [
+      {
+        "ShortName": "EOS"
+      }
+    ]
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_8DAY_4KM_NIGHTTIME_V2014.0": [
+      {
+        "ShortName": "EOS"
+      }
+    ]
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_ANNUAL_4KM_DAYTIME_V2014.0": [
+      {
+        "ShortName": "EOS"
+      }
+    ]
+  },
+  {
+    "MODIS_TERRA_L3_SST_MID-IR_ANNUAL_4KM_NIGHTTIME_V2014.0": [
+      {
+        "ShortName": "EOS"
+      }
+    ]
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_ANNUAL_4KM_NIGHTTIME_V2014.0": [
+      {
+        "ShortName": "EOS"
+      }
+    ]
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_DAILY_4KM_DAYTIME_V2014.0": [
+      {
+        "ShortName": "EOS"
+      }
+    ]
+  },
+  {
+    "MODIS_TERRA_L3_SST_MID-IR_DAILY_4KM_NIGHTTIME_V2014.0": [
+      {
+        "ShortName": "EOS"
+      }
+    ]
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_DAILY_4KM_NIGHTTIME_V2014.0": [
+      {
+        "ShortName": "EOS"
+      }
+    ]
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_MONTHLY_4KM_DAYTIME_V2014.0": [
+      {
+        "ShortName": "EOS"
+      }
+    ]
+  },
+  {
+    "MODIS_TERRA_L3_SST_MID-IR_MONTHLY_4KM_NIGHTTIME_V2014.0": [
+      {
+        "ShortName": "EOS"
+      }
+    ]
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_MONTHLY_4KM_NIGHTTIME_V2014.0": [
+      {
+        "ShortName": "EOS"
+      }
+    ]
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_8DAY_9KM_DAYTIME_V2014.0": [
+      {
+        "ShortName": "EOS"
+      }
+    ]
+  },
+  {
+    "MODIS_TERRA_L3_SST_MID-IR_8DAY_9KM_NIGHTTIME_V2014.0": [
+      {
+        "ShortName": "EOS"
+      }
+    ]
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_8DAY_9KM_NIGHTTIME_V2014.0": [
+      {
+        "ShortName": "EOS"
+      }
+    ]
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_ANNUAL_9KM_DAYTIME_V2014.0": [
+      {
+        "ShortName": "EOS"
+      }
+    ]
+  },
+  {
+    "MODIS_TERRA_L3_SST_MID-IR_ANNUAL_9KM_NIGHTTIME_V2014.0": [
+      {
+        "ShortName": "EOS"
+      }
+    ]
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_ANNUAL_9KM_NIGHTTIME_V2014.0": [
+      {
+        "ShortName": "EOS"
+      }
+    ]
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_DAILY_9KM_DAYTIME_V2014.0": [
+      {
+        "ShortName": "EOS"
+      }
+    ]
+  },
+  {
+    "MODIS_TERRA_L3_SST_MID-IR_DAILY_9KM_NIGHTTIME_V2014.0": [
+      {
+        "ShortName": "EOS"
+      }
+    ]
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_DAILY_9KM_NIGHTTIME_V2014.0": [
+      {
+        "ShortName": "EOS"
+      }
+    ]
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_MONTHLY_9KM_DAYTIME_V2014.0": [
+      {
+        "ShortName": "EOS"
+      }
+    ]
+  },
+  {
+    "MODIS_TERRA_L3_SST_MID-IR_MONTHLY_9KM_NIGHTTIME_V2014.0": [
+      {
+        "ShortName": "EOS"
+      }
+    ]
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_MONTHLY_9KM_NIGHTTIME_V2014.0": [
+      {
+        "ShortName": "EOS"
+      }
+    ]
+  },
+  {
+    "MOP03J": null
+  },
+  {
+    "MOP03J": [
+      {
+        "ShortName": "MOPITT",
+        "LongName": "Measurements Of Pollution In The Troposphere",
+        "StartDate": "1999-12-18T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "MOP03J": null
+  },
+  {
+    "MOP03J": [
+      {
+        "ShortName": "MOPITT",
+        "LongName": "Measurements Of Pollution In The Troposphere",
+        "StartDate": "1999-12-18T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "MOP02R_NRT": [
+      {
+        "ShortName": "MOPITT",
+        "LongName": "Measurements Of Pollution In The Troposphere"
+      }
+    ]
+  },
+  {
+    "MOP03JM": null
+  },
+  {
+    "MOP03JM": [
+      {
+        "ShortName": "MOPITT",
+        "LongName": "Measurements Of Pollution In The Troposphere",
+        "StartDate": "1999-12-18T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "MOP03JM": null
+  },
+  {
+    "MOP03JM": [
+      {
+        "ShortName": "MOPITT",
+        "LongName": "Measurements Of Pollution In The Troposphere",
+        "StartDate": "1999-12-18T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "MYD04_3K": [
+      {
+        "ShortName": "Aqua",
+        "LongName": "Earth Observing System (EOS), Aqua"
+      }
+    ]
+  },
+  {
+    "MYD04_3K": [
+      {
+        "ShortName": "DODS",
+        "LongName": "Distributed Oceanographic Data System"
+      },
+      {
+        "ShortName": "EOSDIS",
+        "LongName": "Earth Observing System Data Information System"
+      },
+      {
+        "ShortName": "ESIP",
+        "LongName": "Earth Science Information Partners Program"
+      },
+      {
+        "ShortName": "AQUA",
+        "LongName": "Earth Observing System (EOS), AQUA"
+      },
+      {
+        "ShortName": "OPENDAP",
+        "LongName": "Open-source Project for a Network Data Access Protocol"
+      }
+    ]
+  },
+  {
+    "MYD04_L2": [
+      {
+        "ShortName": "Aqua",
+        "LongName": "Earth Observing System (EOS), Aqua"
+      }
+    ]
+  },
+  {
+    "MYD04_L2": [
+      {
+        "ShortName": "DODS",
+        "LongName": "Distributed Oceanographic Data System"
+      },
+      {
+        "ShortName": "EOSDIS",
+        "LongName": "Earth Observing System Data Information System"
+      },
+      {
+        "ShortName": "ESIP",
+        "LongName": "Earth Science Information Partners Program"
+      },
+      {
+        "ShortName": "AQUA",
+        "LongName": "Earth Observing System (EOS), AQUA"
+      },
+      {
+        "ShortName": "OPENDAP",
+        "LongName": "Open-source Project for a Network Data Access Protocol"
+      }
+    ]
+  },
+  {
+    "MYD06_L2": [
+      {
+        "ShortName": "Aqua",
+        "LongName": "Earth Observing System (EOS), Aqua"
+      }
+    ]
+  },
+  {
+    "MYD06_L2": [
+      {
+        "ShortName": "DODS",
+        "LongName": "Distributed Oceanographic Data System"
+      },
+      {
+        "ShortName": "EOSDIS",
+        "LongName": "Earth Observing System Data Information System"
+      },
+      {
+        "ShortName": "ESIP",
+        "LongName": "Earth Science Information Partners Program"
+      },
+      {
+        "ShortName": "AQUA",
+        "LongName": "Earth Observing System (EOS), AQUA"
+      },
+      {
+        "ShortName": "OPENDAP",
+        "LongName": "Open-source Project for a Network Data Access Protocol"
+      }
+    ]
+  },
+  {
+    "MYD09GA": [
+      {
+        "ShortName": "EOSDIS",
+        "LongName": "Earth Observing System Data Information System"
+      },
+      {
+        "ShortName": "ESIP",
+        "LongName": "Earth Science Information Partners Program"
+      }
+    ]
+  },
+  {
+    "MYD09GA": [
+      {
+        "ShortName": "Aqua",
+        "LongName": "Earth Observing System (EOS), Aqua",
+        "Campaigns": [
+          "Aqua"
+        ]
+      }
+    ]
+  },
+  {
+    "MYD09GQ": [
+      {
+        "ShortName": "EOSDIS",
+        "LongName": "Earth Observing System Data Information System"
+      },
+      {
+        "ShortName": "ESIP",
+        "LongName": "Earth Science Information Partners Program"
+      }
+    ]
+  },
+  {
+    "MYD09GQ": [
+      {
+        "ShortName": "Aqua",
+        "LongName": "Earth Observing System (EOS), Aqua",
+        "Campaigns": [
+          "Aqua"
+        ]
+      }
+    ]
+  },
+  {
+    "MYD09A1": [
+      {
+        "ShortName": "Aqua",
+        "LongName": "Earth Observing System (EOS), Aqua",
+        "Campaigns": [
+          "Aqua"
+        ]
+      }
+    ]
+  },
+  {
+    "MYD09Q1": [
+      {
+        "ShortName": "Aqua",
+        "LongName": "Earth Observing System (EOS), Aqua",
+        "Campaigns": [
+          "Aqua"
+        ]
+      }
+    ]
+  },
+  {
+    "MYD10_L2": [
+      {
+        "ShortName": "EOSDIS",
+        "LongName": "Earth Observing System Data Information System"
+      },
+      {
+        "ShortName": "ESIP",
+        "LongName": "Earth Science Information Partners Program"
+      },
+      {
+        "ShortName": "AQUA",
+        "LongName": "Earth Observing System (EOS), AQUA"
+      }
+    ]
+  },
+  {
+    "MYD10_L2": null
+  },
+  {
+    "MYD10_L2": null
+  },
+  {
+    "MYD10A1": null
+  },
+  {
+    "MYD10A1": null
+  },
+  {
+    "MYD10A2": null
+  },
+  {
+    "MYD10A2": null
+  },
+  {
+    "MYD10CM": null
+  },
+  {
+    "MYD10CM": null
+  },
+  {
+    "MYD11A1": [
+      {
+        "ShortName": "Aqua",
+        "LongName": "Earth Observing System (EOS), Aqua",
+        "Campaigns": [
+          "Aqua"
+        ]
+      }
+    ]
+  },
+  {
+    "MYD11A2": [
+      {
+        "ShortName": "Aqua",
+        "LongName": "Earth Observing System (EOS), Aqua",
+        "Campaigns": [
+          "Aqua"
+        ]
+      }
+    ]
+  },
+  {
+    "MYD11C3": [
+      {
+        "ShortName": "Aqua",
+        "LongName": "Earth Observing System (EOS), Aqua",
+        "Campaigns": [
+          "Aqua"
+        ]
+      }
+    ]
+  },
+  {
+    "MYD13Q1": [
+      {
+        "ShortName": "Aqua",
+        "LongName": "Earth Observing System (EOS), Aqua",
+        "Campaigns": [
+          "Aqua"
+        ]
+      }
+    ]
+  },
+  {
+    "MYD15A2H": [
+      {
+        "ShortName": "Aqua",
+        "LongName": "Earth Observing System (EOS), Aqua",
+        "Campaigns": [
+          "Aqua"
+        ]
+      }
+    ]
+  },
+  {
+    "MYD17A2H": [
+      {
+        "ShortName": "Aqua",
+        "LongName": "Earth Observing System (EOS), Aqua",
+        "Campaigns": [
+          "Aqua"
+        ]
+      }
+    ]
+  },
+  {
+    "MYD29": [
+      {
+        "ShortName": "EOSDIS",
+        "LongName": "Earth Observing System Data Information System"
+      },
+      {
+        "ShortName": "ESIP",
+        "LongName": "Earth Science Information Partners Program"
+      }
+    ]
+  },
+  {
+    "MYD29": null
+  },
+  {
+    "MYD29": null
+  },
+  {
+    "MYD29P1D": null
+  },
+  {
+    "MYD29P1D": null
+  },
+  {
+    "MYD29P1N": null
+  },
+  {
+    "MYD29P1N": null
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_8DAY_4KM_DAYTIME_V2014.0": [
+      {
+        "ShortName": "EOS"
+      }
+    ]
+  },
+  {
+    "MODIS_AQUA_L3_SST_MID-IR_8DAY_4KM_NIGHTTIME_V2014.0": [
+      {
+        "ShortName": "EOS"
+      }
+    ]
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_8DAY_4KM_NIGHTTIME_V2014.0": [
+      {
+        "ShortName": "EOS"
+      }
+    ]
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_ANNUAL_4KM_DAYTIME_V2014.0": [
+      {
+        "ShortName": "EOS"
+      }
+    ]
+  },
+  {
+    "MODIS_AQUA_L3_SST_MID-IR_ANNUAL_4KM_NIGHTTIME_V2014.0": [
+      {
+        "ShortName": "EOS"
+      }
+    ]
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_ANNUAL_4KM_NIGHTTIME_V2014.0": [
+      {
+        "ShortName": "EOS"
+      }
+    ]
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_DAILY_4KM_DAYTIME_V2014.0": [
+      {
+        "ShortName": "EOS"
+      }
+    ]
+  },
+  {
+    "MODIS_AQUA_L3_SST_MID-IR_DAILY_4KM_NIGHTTIME_V2014.0": [
+      {
+        "ShortName": "EOS"
+      }
+    ]
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_DAILY_4KM_NIGHTTIME_V2014.0": [
+      {
+        "ShortName": "EOS"
+      }
+    ]
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_MONTHLY_4KM_DAYTIME_V2014.0": [
+      {
+        "ShortName": "EOS"
+      }
+    ]
+  },
+  {
+    "MODIS_AQUA_L3_SST_MID-IR_MONTHLY_4KM_NIGHTTIME_V2014.0": [
+      {
+        "ShortName": "EOS"
+      }
+    ]
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_MONTHLY_4KM_NIGHTTIME_V2014.0": [
+      {
+        "ShortName": "EOS"
+      }
+    ]
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_8DAY_9KM_DAYTIME_V2014.0": [
+      {
+        "ShortName": "EOS"
+      }
+    ]
+  },
+  {
+    "MODIS_AQUA_L3_SST_MID-IR_8DAY_9KM_NIGHTTIME_V2014.0": [
+      {
+        "ShortName": "EOS"
+      }
+    ]
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_8DAY_9KM_NIGHTTIME_V2014.0": [
+      {
+        "ShortName": "EOS"
+      }
+    ]
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_ANNUAL_9KM_DAYTIME_V2014.0": [
+      {
+        "ShortName": "EOS"
+      }
+    ]
+  },
+  {
+    "MODIS_AQUA_L3_SST_MID-IR_ANNUAL_9KM_NIGHTTIME_V2014.0": [
+      {
+        "ShortName": "EOS"
+      }
+    ]
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_ANNUAL_9KM_NIGHTTIME_V2014.0": [
+      {
+        "ShortName": "EOS"
+      }
+    ]
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_DAILY_9KM_DAYTIME_V2014.0": [
+      {
+        "ShortName": "EOS"
+      }
+    ]
+  },
+  {
+    "MODIS_AQUA_L3_SST_MID-IR_DAILY_9KM_NIGHTTIME_V2014.0": [
+      {
+        "ShortName": "EOS"
+      }
+    ]
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_DAILY_9KM_NIGHTTIME_V2014.0": [
+      {
+        "ShortName": "EOS"
+      }
+    ]
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_MONTHLY_9KM_DAYTIME_V2014.0": [
+      {
+        "ShortName": "EOS"
+      }
+    ]
+  },
+  {
+    "MODIS_AQUA_L3_SST_MID-IR_MONTHLY_9KM_NIGHTTIME_V2014.0": [
+      {
+        "ShortName": "EOS"
+      }
+    ]
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_MONTHLY_9KM_NIGHTTIME_V2014.0": [
+      {
+        "ShortName": "EOS"
+      }
+    ]
+  },
+  {
+    "NLDAS_FORA0125_M": [
+      {
+        "ShortName": "NLDAS",
+        "LongName": "North American Land Data Assimilation System"
+      }
+    ]
+  },
+  {
+    "NLDAS_FORB0125_M": [
+      {
+        "ShortName": "NLDAS",
+        "LongName": "North American Land Data Assimilation System"
+      }
+    ]
+  },
+  {
+    "NLDAS_MOS0125_M": [
+      {
+        "ShortName": "NLDAS",
+        "LongName": "North American Land Data Assimilation System"
+      }
+    ]
+  },
+  {
+    "NLDAS_NOAH0125_M": [
+      {
+        "ShortName": "NLDAS",
+        "LongName": "North American Land Data Assimilation System"
+      }
+    ]
+  },
+  {
+    "NLDAS_VIC0125_M": [
+      {
+        "ShortName": "NLDAS",
+        "LongName": "North American Land Data Assimilation System"
+      }
+    ]
+  },
+  {
+    "OCO2_L2_Lite_SIF": [
+      {
+        "ShortName": "OCO",
+        "LongName": "Orbiting Carbon Observatory"
+      }
+    ]
+  },
+  {
+    "OCO2_L2_Lite_FP": [
+      {
+        "ShortName": "OCO",
+        "LongName": "Orbiting Carbon Observatory"
+      }
+    ]
+  },
+  {
+    "olsdig10": [
+      {
+        "ShortName": "LIS",
+        "LongName": "Lightning Imaging Sensor Project"
+      }
+    ]
+  },
+  {
+    "olsdig12": [
+      {
+        "ShortName": "LIS",
+        "LongName": "Lightning Imaging Sensor Project"
+      }
+    ]
+  },
+  {
+    "OMAERUVd": [
+      {
+        "ShortName": "Aura",
+        "LongName": "Earth Observing System (EOS), Aura"
+      }
+    ]
+  },
+  {
+    "OMAEROe": [
+      {
+        "ShortName": "Aura",
+        "LongName": "Earth Observing System (EOS), Aura"
+      }
+    ]
+  },
+  {
+    "OMAERUV": [
+      {
+        "ShortName": "Aura",
+        "LongName": "Earth Observing System (EOS), Aura"
+      }
+    ]
+  },
+  {
+    "OMAERUV": null
+  },
+  {
+    "OMCLDRR": null
+  },
+  {
+    "OMCLDRR": [
+      {
+        "ShortName": "Aura",
+        "LongName": "Earth Observing System (EOS), Aura"
+      }
+    ]
+  },
+  {
+    "OMNO2d": [
+      {
+        "ShortName": "Aura",
+        "LongName": "Earth Observing System (EOS), Aura"
+      }
+    ]
+  },
+  {
+    "OMDOAO3e": [
+      {
+        "ShortName": "Aura",
+        "LongName": "Earth Observing System (EOS), Aura"
+      }
+    ]
+  },
+  {
+    "OMTO3e": null
+  },
+  {
+    "OMTO3e": [
+      {
+        "ShortName": "Aura",
+        "LongName": "Earth Observing System (EOS), Aura"
+      }
+    ]
+  },
+  {
+    "OMSO2": [
+      {
+        "ShortName": "Aura",
+        "LongName": "Earth Observing System (EOS), Aura"
+      }
+    ]
+  },
+  {
+    "OMSO2": null
+  },
+  {
+    "OMSO2e": [
+      {
+        "ShortName": "Aura",
+        "LongName": "Earth Observing System (EOS), Aura"
+      }
+    ]
+  },
+  {
+    "OMUVBd": [
+      {
+        "ShortName": "Aura",
+        "LongName": "Earth Observing System (EOS), Aura"
+      }
+    ]
+  },
+  {
+    "OSCAR_L4_OC_third-deg": [
+      {
+        "ShortName": "OSCAR"
+      }
+    ]
+  },
+  {
+    "otdlip": [
+      {
+        "ShortName": "LIS",
+        "LongName": "Lightning Imaging Sensor Project"
+      }
+    ]
+  },
+  {
+    "rss1tpwnv7r01": [
+      {
+        "ShortName": "DISCOVER",
+        "LongName": "Distributed Info. Services for Climate/Ocean Prod./Visualizations for Earth Res."
+      }
+    ]
+  },
+  {
+    "rss1windnv7r01": [
+      {
+        "ShortName": "DISCOVER",
+        "LongName": "Distributed Info. Services for Climate/Ocean Prod./Visualizations for Earth Res."
+      }
+    ]
+  },
+  {
+    "CIESIN_SEDAC_AGLANDS_CROP2000": [
+      {
+        "ShortName": "AGLANDS",
+        "LongName": "Global Agricultural Lands"
+      }
+    ]
+  },
+  {
+    "CIESIN_SEDAC_AGLANDS_PAS2000": [
+      {
+        "ShortName": "AGLANDS",
+        "LongName": "Global Agricultural Lands"
+      }
+    ]
+  },
+  {
+    "CIESIN_SEDAC_SPECIES_AMP_RICH15": [
+      {
+        "ShortName": "SPECIES",
+        "LongName": "GRIDDED SPECIES DISTRIBUTION"
+      }
+    ]
+  },
+  {
+    "CIESIN_SEDAC_ANTHROMES_v1": [
+      {
+        "ShortName": "ANTHROMES",
+        "LongName": "Anthropogenic Biomes"
+      }
+    ]
+  },
+  {
+    "CIESIN_CHRR_NDH_CYCLONE_PELRD": [
+      {
+        "ShortName": "NDH",
+        "LongName": "Natural Disaster Hotspots"
+      }
+    ]
+  },
+  {
+    "CIESIN_CHRR_NDH_CYCLONE_HFD": [
+      {
+        "ShortName": "NDH",
+        "LongName": "Natural Disaster Hotspots"
+      }
+    ]
+  },
+  {
+    "CIESIN_CHRR_NDH_CYCLONE_MRD": [
+      {
+        "ShortName": "NDH",
+        "LongName": "Natural Disaster Hotspots"
+      }
+    ]
+  },
+  {
+    "CIESIN_CHRR_NDH_DROUGHT_PELRD": [
+      {
+        "ShortName": "NDH",
+        "LongName": "Natural Disaster Hotspots"
+      }
+    ]
+  },
+  {
+    "CIESIN_CHRR_NDH_DROUGHT_HFD": [
+      {
+        "ShortName": "NDH",
+        "LongName": "Natural Disaster Hotspots"
+      }
+    ]
+  },
+  {
+    "CIESIN_CHRR_NDH_DROUGHT_MRD": [
+      {
+        "ShortName": "NDH",
+        "LongName": "Natural Disaster Hotspots"
+      }
+    ]
+  },
+  {
+    "CIESIN_SEDAC_PD_NETMIG_1970_2000": [
+      {
+        "ShortName": "POPDYNAMICS",
+        "LongName": "Population Dynamics"
+      }
+    ]
+  },
+  {
+    "CIESIN_CHRR_NDH_FLOOD_PELRD": [
+      {
+        "ShortName": "NDH",
+        "LongName": "Natural Disaster Hotspots"
+      }
+    ]
+  },
+  {
+    "CIESIN_CHRR_NDH_FLOOD_HFD": [
+      {
+        "ShortName": "NDH",
+        "LongName": "Natural Disaster Hotspots"
+      }
+    ]
+  },
+  {
+    "CIESIN_CHRR_NDH_FLOOD_MRD": [
+      {
+        "ShortName": "NDH",
+        "LongName": "Natural Disaster Hotspots"
+      }
+    ]
+  },
+  {
+    "CIESIN_SEDAC_ULANDSAT_GMIS_V1": [
+      {
+        "ShortName": "ULANDSAT",
+        "LongName": "Global High Resolution Urban Data from Landsat"
+      }
+    ]
+  },
+  {
+    "CIESIN_SEDAC_GPWv4_APDENS_WPP_2015": [
+      {
+        "ShortName": "GPW",
+        "LongName": "Gridded Population of the World"
+      }
+    ]
+  },
+  {
+    "CIESIN_SEDAC_GRUMPv1_EXT": [
+      {
+        "ShortName": "GRUMPV1",
+        "LongName": "Global Rural-Urban Mapping Project, Version 1"
+      }
+    ]
+  },
+  {
+    "CIESIN_SEDAC_ULANDSAT_HBASE_V1": [
+      {
+        "ShortName": "ULANDSAT",
+        "LongName": "Global High Resolution Urban Data from Landsat"
+      }
+    ]
+  },
+  {
+    "CIESIN_SEDAC_LWP2_HF_GEOG": [
+      {
+        "ShortName": "LWP",
+        "LongName": "Last of the Wild Project"
+      }
+    ]
+  },
+  {
+    "CIESIN_CHRR_NDH_LSLIDE_HD": [
+      {
+        "ShortName": "NDH",
+        "LongName": "Natural Disaster Hotspots"
+      }
+    ]
+  },
+  {
+    "CIESIN_SEDAC_LWP2_LW_GEOG": [
+      {
+        "ShortName": "LWP",
+        "LongName": "Last of the Wild Project"
+      }
+    ]
+  },
+  {
+    "CIESIN_SEDAC_SDEI_LST2013": [
+      {
+        "ShortName": "SDEI",
+        "LongName": "Satellite-Derived Environmental Indicators"
+      }
+    ]
+  },
+  {
+    "CIESIN_SEDAC_SPECIES_MAM_RICH15": [
+      {
+        "ShortName": "SPECIES",
+        "LongName": "GRIDDED SPECIES DISTRIBUTION"
+      }
+    ]
+  },
+  {
+    "CIESIN_SEDAC_LULC_MANGROVES_2000": [
+      {
+        "ShortName": "LULC",
+        "LongName": "Land Use and Land Cover"
+      }
+    ]
+  },
+  {
+    "CIESIN_SEDAC_SDEI_NO2": [
+      {
+        "ShortName": "SDEI",
+        "LongName": "Satellite-Derived Environmental Indicators"
+      }
+    ]
+  },
+  {
+    "CIESIN_SEDAC_SDEI_PM25_MMSAOD": [
+      {
+        "ShortName": "SDEI",
+        "LongName": "Satellite-Derived Environmental Indicators"
+      }
+    ]
+  },
+  {
+    "CIESIN_SEDAC_SDEI_UHI2013": [
+      {
+        "ShortName": "SDEI",
+        "LongName": "Satellite-Derived Environmental Indicators"
+      }
+    ]
+  },
+  {
+    "CIESIN_SEDAC_LECZ_URPLAEv2": [
+      {
+        "ShortName": "LECZ",
+        "LongName": "Low Elevation Coastal Zone"
+      }
+    ]
+  },
+  {
+    "CIESIN_SEDAC_LULC_PUEXPANS_2030": [
+      {
+        "ShortName": "LULC",
+        "LongName": "Land Use and Land Cover"
+      }
+    ]
+  },
+  {
+    "CIESIN_CHRR_NDH_VOLCANO_PELRD": [
+      {
+        "ShortName": "NDH",
+        "LongName": "Natural Disaster Hotspots"
+      }
+    ]
+  },
+  {
+    "CIESIN_CHRR_NDH_VOLCANO_HFD": [
+      {
+        "ShortName": "NDH",
+        "LongName": "Natural Disaster Hotspots"
+      }
+    ]
+  },
+  {
+    "CIESIN_CHRR_NDH_VOLCANO_MRD": [
+      {
+        "ShortName": "NDH",
+        "LongName": "Natural Disaster Hotspots"
+      }
+    ]
+  },
+  {
+    "SPL1BTB": null
+  },
+  {
+    "SPL1CTB_E": null
+  },
+  {
+    "SPL1CTB": null
+  },
+  {
+    "SPL2SMP": null
+  },
+  {
+    "SPL2SMP_E": null
+  },
+  {
+    "SPL2SMAP_S": null
+  },
+  {
+    "SPL3FTP": null
+  },
+  {
+    "SPL3FTP_E": null
+  },
+  {
+    "SPL3SMA": null
+  },
+  {
+    "SPL3SMAP": null
+  },
+  {
+    "SPL3SMP": null
+  },
+  {
+    "SMAP_JPL_L3_SSS_CAP_8DAY-RUNNINGMEAN_V42": null
+  },
+  {
+    "SMAP_JPL_L3_SSS_CAP_MONTHLY_V42": null
+  },
+  {
+    "SPL4SMAU": null
+  },
+  {
+    "SPL4CMDL": null
+  },
+  {
+    "SPL4SMGP": null
+  },
+  {
+    "SRTMGL1": [
+      {
+        "ShortName": "SRTM",
+        "LongName": "Shuttle Radar Topography Mission",
+        "Campaigns": [
+          "STS-99"
+        ]
+      }
+    ]
+  },
+  {
+    "rssmif10d": [
+      {
+        "ShortName": "DISCOVER",
+        "LongName": "Distributed Info. Services for Climate/Ocean Prod./Visualizations for Earth Res."
+      }
+    ]
+  },
+  {
+    "rssmif11d": [
+      {
+        "ShortName": "DISCOVER",
+        "LongName": "Distributed Info. Services for Climate/Ocean Prod./Visualizations for Earth Res."
+      }
+    ]
+  },
+  {
+    "rssmif13d": [
+      {
+        "ShortName": "DISCOVER",
+        "LongName": "Distributed Info. Services for Climate/Ocean Prod./Visualizations for Earth Res."
+      }
+    ]
+  },
+  {
+    "rssmif14d": [
+      {
+        "ShortName": "DISCOVER",
+        "LongName": "Distributed Info. Services for Climate/Ocean Prod./Visualizations for Earth Res."
+      }
+    ]
+  },
+  {
+    "rssmif15d": [
+      {
+        "ShortName": "DISCOVER",
+        "LongName": "Distributed Info. Services for Climate/Ocean Prod./Visualizations for Earth Res."
+      }
+    ]
+  },
+  {
+    "rssmif16d": [
+      {
+        "ShortName": "DISCOVER",
+        "LongName": "Distributed Info. Services for Climate/Ocean Prod./Visualizations for Earth Res."
+      }
+    ]
+  },
+  {
+    "rssmif17d": [
+      {
+        "ShortName": "DISCOVER",
+        "LongName": "Distributed Info. Services for Climate/Ocean Prod./Visualizations for Earth Res."
+      }
+    ]
+  },
+  {
+    "rssmif08d": [
+      {
+        "ShortName": "DISCOVER",
+        "LongName": "Distributed Info. Services for Climate/Ocean Prod./Visualizations for Earth Res."
+      }
+    ]
+  },
+  {
+    "SWDB_L305": [
+      {
+        "ShortName": "MEaSUREs",
+        "LongName": "Making Earth System Data Records for Use in Research Environments"
+      }
+    ]
+  },
+  {
+    "SWDB_L3M05": [
+      {
+        "ShortName": "MEaSUREs",
+        "LongName": "Making Earth System Data Records for Use in Research Environments"
+      }
+    ]
+  },
+  {
+    "ALT_TIDE_GAUGE_L4_OST_SLA_US_WEST_COAST_DAILY": [
+      {
+        "ShortName": "CIOSS"
+      }
+    ]
+  },
+  {
+    "MERGED_TP_J1_OSTM_OST_CYCLES_V4": null
+  },
+  {
+    "RECON_SEA_LEVEL_OST_L4_V1": [
+      {
+        "ShortName": "ROSES"
+      }
+    ]
+  },
+  {
+    "GPM_2AGPROFTRMMTMI_CLIM": [
+      {
+        "ShortName": "GPM",
+        "LongName": "Global Precipitation Measurement"
+      }
+    ]
+  },
+  {
+    "GPM_1CTRMMTMI": [
+      {
+        "ShortName": "TRMM",
+        "LongName": "Tropical Rainfall Measuring Mission"
+      }
+    ]
+  },
+  {
+    "VNP02IMG_NRT": [
+      {
+        "ShortName": "S-NPP",
+        "LongName": "Suomi National Polar-orbiting Partnership"
+      },
+      {
+        "ShortName": "LANCE",
+        "LongName": "Land, Atmosphere Near real-time Capability for EOS"
+      }
+    ]
+  },
+  {
+    "CLDMSK_L2_VIIRS_SNPP_NRT": null
+  },
+  {
+    "AERDB_L2_VIIRS_SNPP_NRT": null
+  },
+  {
+    "WELDAKYR": [
+      {
+        "ShortName": "WELD",
+        "LongName": "WEB-ENABLED LANDSAT DATA",
+        "Campaigns": [
+          "WELD"
+        ]
+      }
+    ]
+  },
+  {
+    "WELDAKMO": [
+      {
+        "ShortName": "WELD",
+        "LongName": "WEB-ENABLED LANDSAT DATA",
+        "Campaigns": [
+          "WELD"
+        ]
+      }
+    ]
+  },
+  {
+    "WELDAKSE": [
+      {
+        "ShortName": "WELD",
+        "LongName": "WEB-ENABLED LANDSAT DATA",
+        "Campaigns": [
+          "WELD"
+        ]
+      }
+    ]
+  },
+  {
+    "WELDUSYR": [
+      {
+        "ShortName": "WELD",
+        "LongName": "WEB-ENABLED LANDSAT DATA",
+        "Campaigns": [
+          "WELD"
+        ]
+      }
+    ]
+  },
+  {
+    "WELDUSMO": [
+      {
+        "ShortName": "WELD",
+        "LongName": "WEB-ENABLED LANDSAT DATA",
+        "Campaigns": [
+          "WELD"
+        ]
+      }
+    ]
+  },
+  {
+    "WELDUSSE": [
+      {
+        "ShortName": "WELD",
+        "LongName": "WEB-ENABLED LANDSAT DATA",
+        "Campaigns": [
+          "WELD"
+        ]
+      }
+    ]
+  },
+  {
+    "WELDLCLUC": [
+      {
+        "ShortName": "WELD",
+        "LongName": "WEB-ENABLED LANDSAT DATA",
+        "Campaigns": [
+          "WELD"
+        ]
+      }
+    ]
+  },
+  {
+    "NSIDC-0484": null
+  },
+  {
+    "NISE": null
+  },
+  {
+    "NISE": null
+  },
+  {
+    "NISE": null
+  },
+  {
+    "NISE": [
+      {
+        "ShortName": "EOS",
+        "LongName": "Earth Observing System"
+      },
+      {
+        "ShortName": "DMSP",
+        "LongName": "Defense Meteorological Satellite Program"
+      }
+    ]
+  },
+  {
+    "NSIDC-0478": null
+  },
+  {
+    "NSIDC-0534": null
+  },
+  {
+    "SPL3FTA": null
+  },
+  {
+    "MYD14": [
+      {
+        "ShortName": "EOSDIS",
+        "LongName": "Earth Observing System Data Information System"
+      },
+      {
+        "ShortName": "ESIP",
+        "LongName": "Earth Science Information Partners Program"
+      }
+    ]
+  },
+  {
+    "MYD14": [
+      {
+        "ShortName": "Aqua",
+        "LongName": "Earth Observing System (EOS), Aqua",
+        "Campaigns": [
+          "Aqua"
+        ]
+      }
+    ]
+  },
+  {
+    "MOD14": [
+      {
+        "ShortName": "EOSDIS",
+        "LongName": "Earth Observing System Data Information System"
+      },
+      {
+        "ShortName": "ESIP",
+        "LongName": "Earth Science Information Partners Program"
+      }
+    ]
+  },
+  {
+    "MOD14": [
+      {
+        "ShortName": "Terra",
+        "LongName": "Earth Observing System (EOS), Terra",
+        "Campaigns": [
+          "Terra"
+        ]
+      }
+    ]
+  },
+  {
+    "CIESIN_SEDAC_GRUMPv1_STLMNT01": [
+      {
+        "ShortName": "GRUMPV1",
+        "LongName": "Global Rural-Urban Mapping Project, Version 1"
+      }
+    ]
+  },
+  {
+    "VNP14IMGTDL_NRT": [
+      {
+        "ShortName": "FIRMS",
+        "LongName": "Fire Information for Resource Management System"
+      },
+      {
+        "ShortName": "LANCE",
+        "LongName": "Land, Atmosphere Near real-time Capability for EOS"
+      }
+    ]
+  }
+]
