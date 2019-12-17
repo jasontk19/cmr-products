@@ -1,1 +1,4406 @@
-[{"A2_RainOcn_NRT": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2019-07-06T00:21:36.000Z"}]}]}, {"A2_RainOcn_NRT": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2019-01-20T00:00:00.000Z"}]}]}, {"AE_Rain": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2002-06-01T00:00:00.000Z", "EndingDateTime": "2011-10-04T23:59:59.999Z"}]}]}, {"AE_SI12": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2002-06-01T00:00:00.000Z", "EndingDateTime": "2011-10-04T23:59:59.999Z"}]}]}, {"AE_SI25": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2002-06-01T00:00:00.000Z", "EndingDateTime": "2011-10-04T23:59:59.999Z"}]}]}, {"AE_SI6": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2002-06-01T00:00:00.000Z", "EndingDateTime": "2011-10-04T23:59:59.999Z"}]}]}, {"AIRS2RET": [{"EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "2002-08-30T00:00:00.000Z"}]}]}, {"AIRS2SUP": [{"EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "2002-08-30T00:00:00.000Z"}]}]}, {"AIRS3STD": [{"EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "2002-08-31T00:00:00.000Z"}]}]}, {"AIRS3STM": [{"EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "2002-09-01T00:00:00.000Z"}]}]}, {"AIRX3C2M": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2002-09-01T00:00:00.000Z", "EndingDateTime": "2012-02-29T23:59:59.999Z"}]}]}, {"AIRS3C2M": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2010-01-01T00:00:00.000Z", "EndingDateTime": "2017-02-28T23:59:59.999Z"}]}]}, {"amsua15sp": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "1998-08-03T01:51:10.000Z"}]}]}, {"amsua16sp": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2001-05-27T00:41:30.000Z", "EndingDateTime": "2009-07-30T17:30:57.000Z"}]}]}, {"amsua17sp": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2002-07-21T00:53:50.000Z", "EndingDateTime": "2003-12-13T01:24:45.000Z"}]}]}, {"AQ3_DYSM": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2011-08-25T00:00:00.000Z", "EndingDateTime": "2015-06-07T23:59:59.999Z"}]}]}, {"AQ3_WKSM": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2011-08-25T00:00:00.000Z", "EndingDateTime": "2015-06-07T23:59:59.999Z"}]}]}, {"AQUARIUS_L3_SSS_SMI_7DAY-RUNNINGMEAN_V5": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2011-08-25T01:45:23.000Z", "EndingDateTime": "2015-06-07T12:45:21.000Z"}]}]}, {"AQUARIUS_L3_SSS_SMI_7DAY_V5": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2011-08-25T01:55:23.000Z", "EndingDateTime": "2015-06-07T12:45:21.000Z"}]}]}, {"AQUARIUS_L3_SSS_SMI_DAILY_V5": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2011-08-25T01:45:23.000Z", "EndingDateTime": "2015-06-07T12:45:21.000Z"}]}]}, {"AQUARIUS_L3_SSS_SMI_MONTHLY-CLIMATOLOGY_V5": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2011-08-25T01:55:23.000Z", "EndingDateTime": "2015-06-07T12:45:21.000Z"}]}]}, {"AQUARIUS_L3_SSS_SMI_SEASONAL-CLIMATOLOGY_V5": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2011-08-25T01:55:23.000Z", "EndingDateTime": "2015-06-07T12:45:21.000Z"}]}]}, {"ASTGTM": [{"PrecisionOfSeconds": 0, "EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2000-03-01T00:00:00.000Z", "EndingDateTime": "2013-11-30T23:59:59.999Z"}]}]}, {"AU_5DSno": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2012-07-02T00:00:00.000Z"}]}]}, {"AU_DySno": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2012-07-02T00:00:00.000Z"}]}]}, {"AU_Land": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2012-07-02T00:00:00.000Z"}]}]}, {"AU_MoSno": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2012-07-02T00:00:00.000Z"}]}]}, {"AU_SI12": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2012-07-02T00:00:00.000Z"}]}]}, {"AU_SI25": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2012-07-02T00:00:00.000Z"}]}]}, {"AU_SI6": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2012-07-02T00:00:00.000Z"}]}]}, {"AVISO_L4_DYN_TOPO_1DEG_1MO": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "1992-10-01T00:00:00.000Z", "EndingDateTime": "2010-12-31T23:59:59.000Z"}]}]}, {"CCMP_MEASURES_ATLAS_L4_OW_L3_5A_MONTHLY_WIND_VECTORS_FLK": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "1987-07-02T00:00:00.000Z", "EndingDateTime": "2011-12-31T18:00:00.000Z"}]}]}, {"CER_SYN1deg-Month_Terra-Aqua-MODIS": [{"EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "2002-07-01T00:00:00.000Z"}]}]}, {"CERES_EBAF-Surface": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2000-03-01T00:00:00.000Z", "EndingDateTime": "2018-03-31T23:59:59.000Z"}]}]}, {"CERES_EBAF-TOA": [{"EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "2000-03-01T00:00:00.000Z"}]}]}, {"CERES_EBAF-TOA": [{"EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "2000-03-01T00:00:00.000Z"}]}]}, {"CER_SYN1deg-Month_Terra-MODIS": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2000-03-01T00:00:00.000Z", "EndingDateTime": "2002-06-30T23:59:59.000Z"}]}]}, {"CYGNSS_L3_V2.1": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2017-03-18T00:00:00.000Z"}]}]}, {"AVHRR_OI-NCEI-L4-GLOB-v2.0": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "1981-09-01T00:00:00.000Z"}]}]}, {"GPM_2AGPROFGPMGMI": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2014-03-04T00:00:00.000Z"}]}]}, {"GPM_1CGPMGMI": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2014-03-04T00:00:00.000Z"}]}]}, {"TELLUS_GRACE_MASCON_CRI_GRID_RL06_V1": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2002-04-04T00:00:00.000Z", "EndingDateTime": "2017-06-29T00:00:00.000Z"}]}]}, {"GPM_3IMERGDF": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2000-06-01T00:00:00.000Z"}]}]}, {"GPM_3IMERGHHE": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2000-06-01T00:00:00.000Z"}]}]}, {"lislip": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "1998-01-01T00:46:22.000Z", "EndingDateTime": "2015-04-08T14:08:51.000Z"}]}]}, {"lisvhrac": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "1998-01-01T00:00:00.000Z", "EndingDateTime": "2013-12-31T23:59:59.000Z"}]}]}, {"lisvhrfc": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "1998-01-01T00:00:00.000Z", "EndingDateTime": "2013-12-31T23:59:59.000Z"}]}]}, {"lisvhrmc": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "1998-01-01T00:00:00.000Z", "EndingDateTime": "2013-12-31T23:59:59.000Z"}]}]}, {"lisvhrsc": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "1998-01-01T00:00:00.000Z", "EndingDateTime": "2013-12-31T23:59:59.000Z"}]}]}, {"lohrfc": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "1995-05-04T00:00:00.000Z", "EndingDateTime": "2014-12-31T23:59:59.000Z"}]}]}, {"LPRM_AMSR2_DS_A_SOILM3": [{"EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "2012-07-03T00:08:00.000Z"}]}]}, {"LPRM_AMSR2_DS_D_SOILM3": [{"EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "2012-07-03T00:57:31.000Z"}]}]}, {"LPRM_AMSR2_D_SOILM3": [{"EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "2012-07-03T00:57:31.000Z"}]}]}, {"LPRM_AMSR2_A_SOILM3": [{"EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "2012-07-03T00:08:00.000Z"}]}]}, {"MCD12Q1": [{"PrecisionOfSeconds": 1, "EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "2001-01-01T00:00:00.000Z"}]}]}, {"MCD15A2H": [{"PrecisionOfSeconds": 1, "EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "2002-07-04T00:00:00.000Z"}]}]}, {"MCD15A3H": [{"PrecisionOfSeconds": 1, "EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "2002-07-04T00:00:00.000Z"}]}]}, {"MCD43A3": [{"PrecisionOfSeconds": 1, "EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "2000-02-16T00:00:00.000Z"}]}]}, {"MCD43A4": [{"PrecisionOfSeconds": 1, "EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "2000-02-16T00:00:00.000Z"}]}]}, {"MCDAODHD": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2017-10-11T00:00:00.000Z"}]}]}, {"NSIDC-0477": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "1979-01-01T00:00:00.000Z", "EndingDateTime": "2016-12-31T23:59:59.999Z"}]}, {"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2002-06-19T00:00:00.000Z", "EndingDateTime": "2016-09-27T23:59:59.999Z"}]}, {"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2017-01-01T00:00:00.000Z", "EndingDateTime": "2017-12-31T23:59:59.999Z"}]}]}, {"M2TMNXRAD": [{"EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "1980-01-01T00:00:00.000Z"}]}]}, {"M2IMNXGAS": [{"EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "1980-01-01T00:00:00.000Z"}]}]}, {"M2IMNPASM": [{"EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "1980-01-01T00:00:00.000Z"}]}]}, {"M2TMNXCHM": [{"EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "1980-01-01T00:00:00.000Z"}]}]}, {"M2TMNPMST": [{"EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "1980-01-01T00:00:00.000Z"}]}]}, {"M2TMNXADG": [{"EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "1980-01-01T00:00:00.000Z"}]}]}, {"M2TMNXAER": [{"EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "1980-01-01T00:00:00.000Z"}]}]}, {"M2TMNXOCN": [{"EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "1980-01-01T00:00:00.000Z"}]}]}, {"M2TMNXINT": [{"EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "1980-01-01T00:00:00.000Z"}]}]}, {"M2TMNXLND": [{"EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "1980-01-01T00:00:00.000Z"}]}]}, {"M2TMNXCSP": [{"EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "1980-01-01T00:00:00.000Z"}]}]}, {"M2IMNPANA": [{"EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "1980-01-01T00:00:00.000Z"}]}]}, {"M2TMNXFLX": [{"EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "1980-01-01T00:00:00.000Z"}]}]}, {"M2TMNPCLD": [{"EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "1980-01-01T00:00:00.000Z"}]}]}, {"M2TMNXGLC": [{"EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "1980-01-01T00:00:00.000Z"}]}]}, {"M2IMNXLFO": [{"EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "1980-01-01T00:00:00.000Z"}]}]}, {"M2TMNXSLV": [{"EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "1980-01-01T00:00:00.000Z"}]}]}, {"M2TMNXLFO": [{"EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "1980-01-01T00:00:00.000Z"}]}]}, {"M2IMNXASM": [{"EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "1980-01-01T00:00:00.000Z"}]}]}, {"M2IMNXINT": [{"EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "1980-01-01T00:00:00.000Z"}]}]}, {"MIL3MAE": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2000-02-01T00:00:00.000Z"}]}]}, {"MIL3MCLD": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2000-02-01T00:00:00.000Z"}]}]}, {"MIL3MLS": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2000-02-01T00:00:00.000Z"}]}]}, {"MIL3MRD": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2000-02-01T00:00:00.000Z"}]}]}, {"MIL3MAL": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2000-02-01T00:00:00.000Z"}]}]}, {"ML2CO": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2004-08-08T00:00:00.000Z", "EndingDateTime": "2015-06-30T23:59:59.999Z"}]}]}, {"ML2CO": [{"EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "2004-08-02T00:00:00.000Z"}]}]}, {"ML2H2O": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2004-08-08T00:00:00.000Z", "EndingDateTime": "2015-06-30T23:59:59.999Z"}]}]}, {"ML2H2O": [{"EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "2004-08-02T00:00:00.000Z"}]}]}, {"ML2HNO3": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2004-08-08T00:00:00.000Z", "EndingDateTime": "2015-06-30T23:59:59.999Z"}]}]}, {"ML2HNO3": [{"EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "2004-08-02T00:00:00.000Z"}]}]}, {"ML2N2O": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2004-08-08T00:00:00.000Z", "EndingDateTime": "2015-06-30T23:59:59.999Z"}]}]}, {"ML2N2O": [{"EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "2004-08-02T00:00:00.000Z"}]}]}, {"ML2O3": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2004-08-08T00:00:00.000Z", "EndingDateTime": "2015-06-30T23:59:59.999Z"}]}]}, {"ML2O3": [{"EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "2004-08-02T00:00:00.000Z"}]}]}, {"ML2SO2": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2004-08-08T00:00:00.000Z", "EndingDateTime": "2015-06-30T23:59:59.999Z"}]}]}, {"ML2SO2": [{"EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "2004-08-02T00:00:00.000Z"}]}]}, {"ML2T": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2004-08-08T00:00:00.000Z", "EndingDateTime": "2015-06-30T23:59:59.999Z"}]}]}, {"ML2T": [{"EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "2004-08-02T00:00:00.000Z"}]}]}, {"MOD04_3K": [{"PrecisionOfSeconds": 1, "EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "2000-02-24T00:05:00.000Z"}]}]}, {"MOD04_3K": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2017-10-11T00:00:00.000Z"}]}]}, {"MOD04_L2": [{"PrecisionOfSeconds": 1, "EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "2000-02-24T00:05:00.000Z"}]}]}, {"MOD04_L2": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2017-10-11T00:00:00.000Z"}]}]}, {"MOD06_L2": [{"PrecisionOfSeconds": 1, "EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "2000-02-24T00:00:00.000Z"}]}]}, {"MOD06_L2": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2017-10-11T00:00:00.000Z"}]}]}, {"MOD09GA": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2015-12-06T00:00:00.000Z"}]}]}, {"MOD09GA": [{"PrecisionOfSeconds": 1, "EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "2000-02-24T00:00:00.000Z"}]}]}, {"MOD09GQ": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2015-12-06T00:00:00.000Z"}]}]}, {"MOD09GQ": [{"PrecisionOfSeconds": 1, "EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "2000-02-24T00:00:00.000Z"}]}]}, {"MOD09A1": [{"PrecisionOfSeconds": 4, "EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "2000-02-24T00:00:00.000Z"}]}]}, {"MOD09Q1": [{"PrecisionOfSeconds": 4, "EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "2000-02-24T00:00:00.000Z"}]}]}, {"MOD10_L2": [{"PrecisionOfSeconds": 1, "EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "1999-12-18T00:00:00.000Z"}]}]}, {"MOD10_L2": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2000-02-24T00:00:00.000Z", "EndingDateTime": "2017-01-03T23:59:59.999Z"}]}]}, {"MOD10_L2": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2000-02-24T00:00:00.000Z"}]}]}, {"MOD10A1": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2000-02-24T00:00:00.000Z", "EndingDateTime": "2017-01-02T23:59:59.999Z"}]}]}, {"MOD10A1": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2000-02-24T00:00:00.000Z"}]}]}, {"MOD10A2": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2000-02-24T00:00:00.000Z", "EndingDateTime": "2017-01-02T23:59:59.999Z"}]}]}, {"MOD10A2": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2000-02-24T00:00:00.000Z"}]}]}, {"MOD10CM": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2000-03-01T00:00:00.000Z", "EndingDateTime": "2016-12-31T23:59:59.999Z"}]}]}, {"MOD10CM": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2000-03-01T00:00:00.000Z"}]}]}, {"MOD11A1": [{"PrecisionOfSeconds": 4, "EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "2000-02-24T00:00:00.000Z"}]}]}, {"MOD11A2": [{"PrecisionOfSeconds": 4, "EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "2000-02-18T00:00:00.000Z"}]}]}, {"MOD11C3": [{"PrecisionOfSeconds": 4, "EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "2000-02-01T00:00:00.000Z"}]}]}, {"MYD13A3": [{"PrecisionOfSeconds": 4, "EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "2002-07-01T00:00:00.000Z"}]}]}, {"MOD13A3": [{"PrecisionOfSeconds": 4, "EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "2000-02-01T00:00:00.000Z"}]}]}, {"MOD13Q1": [{"PrecisionOfSeconds": 4, "EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "2000-02-18T00:00:00.000Z"}]}]}, {"MOD13Q4N": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2015-12-07T00:00:00.000Z"}]}]}, {"MOD15A2H": [{"PrecisionOfSeconds": 1, "EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "2000-02-18T00:00:00.000Z"}]}]}, {"MOD17A2H": [{"PrecisionOfSeconds": 1, "EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "2000-02-18T00:00:00.000Z"}]}]}, {"MOD29": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2015-12-06T00:00:00.000Z"}]}]}, {"MOD29": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2000-02-24T00:00:00.000Z", "EndingDateTime": "2017-01-03T23:59:59.999Z"}]}]}, {"MOD29": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2000-02-24T00:00:00.000Z"}]}]}, {"MOD29P1D": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2000-02-24T00:00:00.000Z", "EndingDateTime": "2017-01-02T23:59:59.999Z"}]}]}, {"MOD29P1D": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2000-02-24T00:00:00.000Z"}]}]}, {"MOD29P1N": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2000-02-24T00:00:00.000Z", "EndingDateTime": "2017-01-03T23:59:59.999Z"}]}]}, {"MOD29P1N": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2000-02-24T00:00:00.000Z"}]}]}, {"MOD44W": [{"PrecisionOfSeconds": 1, "EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2000-01-01T00:00:00.000Z", "EndingDateTime": "2015-12-31T00:00:00.000Z"}]}]}, {"MODIS_TERRA_L3_SST_THERMAL_8DAY_4KM_DAYTIME_V2014.0": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2000-02-18T00:00:00.000Z"}]}]}, {"MODIS_TERRA_L3_SST_MID-IR_8DAY_4KM_NIGHTTIME_V2014.0": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2000-02-24T00:00:00.000Z"}]}]}, {"MODIS_TERRA_L3_SST_THERMAL_8DAY_4KM_NIGHTTIME_V2014.0": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2000-02-24T00:00:00.000Z"}]}]}, {"MODIS_TERRA_L3_SST_THERMAL_ANNUAL_4KM_DAYTIME_V2014.0": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2000-01-01T00:00:00.000Z"}]}]}, {"MODIS_TERRA_L3_SST_MID-IR_ANNUAL_4KM_NIGHTTIME_V2014.0": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2000-01-01T00:00:00.000Z"}]}]}, {"MODIS_TERRA_L3_SST_THERMAL_ANNUAL_4KM_NIGHTTIME_V2014.0": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2000-01-01T00:00:00.000Z"}]}]}, {"MODIS_TERRA_L3_SST_THERMAL_DAILY_4KM_DAYTIME_V2014.0": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2000-02-24T00:00:00.000Z"}]}]}, {"MODIS_TERRA_L3_SST_MID-IR_DAILY_4KM_NIGHTTIME_V2014.0": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2000-02-24T00:00:00.000Z"}]}]}, {"MODIS_TERRA_L3_SST_THERMAL_DAILY_4KM_NIGHTTIME_V2014.0": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2000-02-24T00:00:00.000Z"}]}]}, {"MODIS_TERRA_L3_SST_THERMAL_MONTHLY_4KM_DAYTIME_V2014.0": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2000-02-24T00:00:00.000Z"}]}]}, {"MODIS_TERRA_L3_SST_MID-IR_MONTHLY_4KM_NIGHTTIME_V2014.0": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2000-02-24T00:00:00.000Z"}]}]}, {"MODIS_TERRA_L3_SST_THERMAL_MONTHLY_4KM_NIGHTTIME_V2014.0": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2000-02-24T00:00:00.000Z"}]}]}, {"MODIS_TERRA_L3_SST_THERMAL_8DAY_9KM_DAYTIME_V2014.0": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2000-02-18T00:00:00.000Z"}]}]}, {"MODIS_TERRA_L3_SST_MID-IR_8DAY_9KM_NIGHTTIME_V2014.0": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2000-02-24T00:00:00.000Z"}]}]}, {"MODIS_TERRA_L3_SST_THERMAL_8DAY_9KM_NIGHTTIME_V2014.0": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2000-02-24T00:00:00.000Z"}]}]}, {"MODIS_TERRA_L3_SST_THERMAL_ANNUAL_9KM_DAYTIME_V2014.0": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2000-01-01T00:00:00.000Z"}]}]}, {"MODIS_TERRA_L3_SST_MID-IR_ANNUAL_9KM_NIGHTTIME_V2014.0": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2000-01-01T00:00:00.000Z"}]}]}, {"MODIS_TERRA_L3_SST_THERMAL_ANNUAL_9KM_NIGHTTIME_V2014.0": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2000-01-01T00:00:00.000Z"}]}]}, {"MODIS_TERRA_L3_SST_THERMAL_DAILY_9KM_DAYTIME_V2014.0": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2000-02-24T00:00:00.000Z"}]}]}, {"MODIS_TERRA_L3_SST_MID-IR_DAILY_9KM_NIGHTTIME_V2014.0": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2000-02-24T00:00:00.000Z"}]}]}, {"MODIS_TERRA_L3_SST_THERMAL_DAILY_9KM_NIGHTTIME_V2014.0": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2000-02-24T00:00:00.000Z"}]}]}, {"MODIS_TERRA_L3_SST_THERMAL_MONTHLY_9KM_DAYTIME_V2014.0": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2000-02-24T00:00:00.000Z"}]}]}, {"MODIS_TERRA_L3_SST_MID-IR_MONTHLY_9KM_NIGHTTIME_V2014.0": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2000-02-24T00:00:00.000Z"}]}]}, {"MODIS_TERRA_L3_SST_THERMAL_MONTHLY_9KM_NIGHTTIME_V2014.0": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2000-02-24T00:00:00.000Z"}]}]}, {"MOP03J": [{"PrecisionOfSeconds": 6, "EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "2000-03-03T00:00:00.000Z"}]}]}, {"MOP03J": [{"PrecisionOfSeconds": 6, "EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "2000-03-03T02:40:34.000Z"}]}]}, {"MOP03J": [{"PrecisionOfSeconds": 6, "EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "2000-03-03T00:00:00.000Z"}]}]}, {"MOP03J": [{"PrecisionOfSeconds": 6, "EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "2000-03-03T02:40:34.000Z"}]}]}, {"MOP02R_NRT": [{"EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "2000-03-03T00:00:00.000Z"}]}]}, {"MOP03JM": [{"PrecisionOfSeconds": 6, "EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "2000-03-03T00:00:00.000Z"}]}]}, {"MOP03JM": [{"PrecisionOfSeconds": 6, "EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "2000-03-03T02:40:34.000Z"}]}]}, {"MOP03JM": [{"PrecisionOfSeconds": 6, "EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "2000-03-03T00:00:00.000Z"}]}]}, {"MOP03JM": [{"PrecisionOfSeconds": 6, "EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "2000-03-03T02:40:34.000Z"}]}]}, {"MYD04_3K": [{"PrecisionOfSeconds": 1, "EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "2002-07-04T00:45:00.000Z"}]}]}, {"MYD04_3K": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2017-10-20T00:00:00.000Z"}]}]}, {"MYD04_L2": [{"PrecisionOfSeconds": 1, "EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "2002-07-04T00:45:00.000Z"}]}]}, {"MYD04_L2": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2017-10-20T00:00:00.000Z"}]}]}, {"MYD06_L2": [{"PrecisionOfSeconds": 1, "EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "2002-07-04T00:00:00.000Z"}]}]}, {"MYD06_L2": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2017-10-20T00:00:00.000Z"}]}]}, {"MYD09GA": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2015-12-06T00:00:00.000Z"}]}]}, {"MYD09GA": [{"PrecisionOfSeconds": 1, "EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "2002-07-04T00:00:00.000Z"}]}]}, {"MYD09GQ": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2015-12-06T00:00:00.000Z"}]}]}, {"MYD09GQ": [{"PrecisionOfSeconds": 1, "EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "2002-07-04T00:00:00.000Z"}]}]}, {"MYD09A1": [{"PrecisionOfSeconds": 4, "EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "2002-07-04T00:00:00.000Z"}]}]}, {"MYD09Q1": [{"PrecisionOfSeconds": 4, "EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "2002-07-04T00:00:00.000Z"}]}]}, {"MYD10_L2": [{"PrecisionOfSeconds": 1, "EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2002-05-04T00:00:00.000Z"}]}]}, {"MYD10_L2": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2002-07-04T00:00:00.000Z", "EndingDateTime": "2017-01-02T23:59:59.999Z"}]}]}, {"MYD10_L2": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2002-07-04T00:00:00.000Z"}]}]}, {"MYD10A1": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2002-07-04T00:00:00.000Z", "EndingDateTime": "2017-01-01T23:59:59.999Z"}]}]}, {"MYD10A1": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2002-07-04T00:00:00.000Z"}]}]}, {"MYD10A2": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2002-07-04T00:00:00.000Z", "EndingDateTime": "2017-01-03T23:59:59.999Z"}]}]}, {"MYD10A2": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2002-07-04T00:00:00.000Z"}]}]}, {"MYD10CM": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2000-02-24T00:00:00.000Z", "EndingDateTime": "2016-11-30T23:59:59.999Z"}]}]}, {"MYD10CM": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2002-07-04T00:00:00.000Z"}]}]}, {"MYD11A1": [{"PrecisionOfSeconds": 4, "EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "2000-02-24T00:00:00.000Z"}]}]}, {"MYD11A2": [{"PrecisionOfSeconds": 4, "EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "2002-07-04T00:00:00.000Z"}]}]}, {"MYD11C3": [{"PrecisionOfSeconds": 4, "EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "2002-07-01T00:00:00.000Z"}]}]}, {"MYD13Q1": [{"PrecisionOfSeconds": 4, "EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "2002-07-04T00:00:00.000Z"}]}]}, {"MYD15A2H": [{"PrecisionOfSeconds": 1, "EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "2002-07-04T00:00:00.000Z"}]}]}, {"MYD17A2H": [{"PrecisionOfSeconds": 1, "EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "2002-07-04T00:00:00.000Z"}]}]}, {"MYD29": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2015-12-06T00:00:00.000Z"}]}]}, {"MYD29": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2002-07-04T00:00:00.000Z", "EndingDateTime": "2017-01-02T23:59:59.999Z"}]}]}, {"MYD29": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2002-07-04T00:00:00.000Z"}]}]}, {"MYD29P1D": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2002-07-04T00:00:00.000Z", "EndingDateTime": "2017-01-02T23:59:59.999Z"}]}]}, {"MYD29P1D": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2002-07-04T00:00:00.000Z"}]}]}, {"MYD29P1N": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2002-07-04T00:00:00.000Z", "EndingDateTime": "2017-01-02T23:59:59.999Z"}]}]}, {"MYD29P1N": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2002-07-04T00:00:00.000Z"}]}]}, {"MODIS_AQUA_L3_SST_THERMAL_8DAY_4KM_DAYTIME_V2014.0": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2002-07-04T00:00:00.000Z"}]}]}, {"MODIS_AQUA_L3_SST_MID-IR_8DAY_4KM_NIGHTTIME_V2014.0": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2002-07-04T00:00:00.000Z"}]}]}, {"MODIS_AQUA_L3_SST_THERMAL_8DAY_4KM_NIGHTTIME_V2014.0": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2002-07-04T00:00:00.000Z"}]}]}, {"MODIS_AQUA_L3_SST_THERMAL_ANNUAL_4KM_DAYTIME_V2014.0": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2002-01-01T00:00:00.000Z"}]}]}, {"MODIS_AQUA_L3_SST_MID-IR_ANNUAL_4KM_NIGHTTIME_V2014.0": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2002-01-01T00:00:00.000Z"}]}]}, {"MODIS_AQUA_L3_SST_THERMAL_ANNUAL_4KM_NIGHTTIME_V2014.0": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2002-01-01T00:00:00.000Z"}]}]}, {"MODIS_AQUA_L3_SST_THERMAL_DAILY_4KM_DAYTIME_V2014.0": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2002-07-04T00:00:00.000Z"}]}]}, {"MODIS_AQUA_L3_SST_MID-IR_DAILY_4KM_NIGHTTIME_V2014.0": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2002-07-04T00:00:00.000Z"}]}]}, {"MODIS_AQUA_L3_SST_THERMAL_DAILY_4KM_NIGHTTIME_V2014.0": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2002-07-04T00:00:00.000Z"}]}]}, {"MODIS_AQUA_L3_SST_THERMAL_MONTHLY_4KM_DAYTIME_V2014.0": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2002-07-01T00:00:00.000Z"}]}]}, {"MODIS_AQUA_L3_SST_MID-IR_MONTHLY_4KM_NIGHTTIME_V2014.0": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2002-07-01T00:00:00.000Z"}]}]}, {"MODIS_AQUA_L3_SST_THERMAL_MONTHLY_4KM_NIGHTTIME_V2014.0": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2002-07-01T00:00:00.000Z"}]}]}, {"MODIS_AQUA_L3_SST_THERMAL_8DAY_9KM_DAYTIME_V2014.0": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2002-07-04T00:00:00.000Z"}]}]}, {"MODIS_AQUA_L3_SST_MID-IR_8DAY_9KM_NIGHTTIME_V2014.0": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2002-07-04T00:00:00.000Z"}]}]}, {"MODIS_AQUA_L3_SST_THERMAL_8DAY_9KM_NIGHTTIME_V2014.0": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2002-07-04T00:00:00.000Z"}]}]}, {"MODIS_AQUA_L3_SST_THERMAL_ANNUAL_9KM_DAYTIME_V2014.0": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2002-01-01T00:00:00.000Z"}]}]}, {"MODIS_AQUA_L3_SST_MID-IR_ANNUAL_9KM_NIGHTTIME_V2014.0": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2002-01-01T00:00:00.000Z"}]}]}, {"MODIS_AQUA_L3_SST_THERMAL_ANNUAL_9KM_NIGHTTIME_V2014.0": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2002-01-01T00:00:00.000Z"}]}]}, {"MODIS_AQUA_L3_SST_THERMAL_DAILY_9KM_DAYTIME_V2014.0": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2002-07-04T00:00:00.000Z"}]}]}, {"MODIS_AQUA_L3_SST_MID-IR_DAILY_9KM_NIGHTTIME_V2014.0": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2002-07-04T00:00:00.000Z"}]}]}, {"MODIS_AQUA_L3_SST_THERMAL_DAILY_9KM_NIGHTTIME_V2014.0": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2002-07-04T00:00:00.000Z"}]}]}, {"MODIS_AQUA_L3_SST_THERMAL_MONTHLY_9KM_DAYTIME_V2014.0": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2002-07-01T00:00:00.000Z"}]}]}, {"MODIS_AQUA_L3_SST_MID-IR_MONTHLY_9KM_NIGHTTIME_V2014.0": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2002-07-01T00:00:00.000Z"}]}]}, {"MODIS_AQUA_L3_SST_THERMAL_MONTHLY_9KM_NIGHTTIME_V2014.0": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2002-07-01T00:00:00.000Z"}]}]}, {"NLDAS_FORA0125_M": [{"EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "1979-01-01T00:00:00.000Z"}]}]}, {"NLDAS_FORB0125_M": [{"EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "1979-01-01T00:00:00.000Z"}]}]}, {"NLDAS_MOS0125_M": [{"EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "1979-01-01T00:00:00.000Z"}]}]}, {"NLDAS_NOAH0125_M": [{"EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "1979-01-01T00:00:00.000Z"}]}]}, {"NLDAS_VIC0125_M": [{"EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "1979-01-01T00:00:00.000Z"}]}]}, {"OCO2_L2_Lite_SIF": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2014-06-01T00:00:00.000Z"}]}]}, {"OCO2_L2_Lite_FP": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2014-06-01T00:00:00.000Z"}]}]}, {"olsdig10": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "1994-02-01T00:00:00.000Z", "EndingDateTime": "1994-05-31T23:59:59.000Z"}]}]}, {"olsdig12": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "1995-05-01T00:00:00.000Z", "EndingDateTime": "1995-11-30T23:59:59.000Z"}]}]}, {"OMAERUVd": [{"EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "2004-10-01T00:00:00.000Z"}]}]}, {"OMAEROe": [{"EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "2004-10-01T00:00:00.000Z"}]}]}, {"OMAERUV": [{"EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "2004-10-01T00:00:00.000Z"}]}]}, {"OMAERUV": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2004-07-15T11:50:43.000Z"}]}]}, {"OMCLDRR": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2004-07-15T11:50:43.000Z"}]}]}, {"OMCLDRR": [{"EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "2004-10-01T00:00:00.000Z"}]}]}, {"OMNO2d": [{"EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "2004-10-01T00:00:00.000Z"}]}]}, {"OMDOAO3e": [{"EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "2004-10-01T00:00:00.000Z"}]}]}, {"OMTO3e": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2004-07-15T11:50:43.000Z"}]}]}, {"OMTO3e": [{"EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "2004-10-01T00:00:00.000Z"}]}]}, {"OMSO2": [{"EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "2004-10-01T00:00:00.000Z"}]}]}, {"OMSO2": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2004-07-15T11:50:43.000Z"}]}]}, {"OMSO2e": [{"EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "2004-10-01T00:00:00.000Z"}]}]}, {"OMUVBd": [{"EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "2004-10-01T00:00:00.000Z"}]}]}, {"OSCAR_L4_OC_third-deg": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "1992-10-21T00:00:00.000Z"}]}]}, {"otdlip": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "1995-04-13T01:37:27.000Z", "EndingDateTime": "2000-03-23T19:17:37.000Z"}]}]}, {"rss1tpwnv7r01": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "1988-01-01T00:00:00.000Z"}]}]}, {"rss1windnv7r01": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "1988-01-01T00:00:00.000Z"}]}]}, {"CIESIN_SEDAC_AGLANDS_CROP2000": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2000-01-01T00:00:00.000Z", "EndingDateTime": "2000-12-31T00:00:00.000Z"}]}]}, {"CIESIN_SEDAC_AGLANDS_PAS2000": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2000-01-01T00:00:00.000Z", "EndingDateTime": "2000-12-31T00:00:00.000Z"}]}]}, {"CIESIN_SEDAC_SPECIES_AMP_RICH15": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2013-01-01T00:00:00.000Z", "EndingDateTime": "2013-12-31T23:59:59.999Z"}]}]}, {"CIESIN_SEDAC_ANTHROMES_v1": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2001-01-01T00:00:00.000Z", "EndingDateTime": "2006-12-31T23:59:59.999Z"}]}]}, {"CIESIN_CHRR_NDH_CYCLONE_PELRD": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2000-01-01T00:00:00.000Z", "EndingDateTime": "2000-12-31T00:00:00.000Z"}]}]}, {"CIESIN_CHRR_NDH_CYCLONE_HFD": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "1980-01-01T00:00:00.000Z", "EndingDateTime": "2000-12-31T00:00:00.000Z"}]}]}, {"CIESIN_CHRR_NDH_CYCLONE_MRD": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2000-01-01T00:00:00.000Z", "EndingDateTime": "2000-12-31T00:00:00.000Z"}]}]}, {"CIESIN_CHRR_NDH_DROUGHT_PELRD": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2000-01-01T00:00:00.000Z", "EndingDateTime": "2000-12-31T00:00:00.000Z"}]}]}, {"CIESIN_CHRR_NDH_DROUGHT_HFD": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "1980-01-01T00:00:00.000Z", "EndingDateTime": "2000-12-31T00:00:00.000Z"}]}]}, {"CIESIN_CHRR_NDH_DROUGHT_MRD": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2000-01-01T00:00:00.000Z", "EndingDateTime": "2000-12-31T00:00:00.000Z"}]}]}, {"CIESIN_SEDAC_PD_NETMIG_1970_2000": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "1970-01-01T00:00:00.000Z", "EndingDateTime": "2000-12-31T23:59:59.999Z"}]}]}, {"CIESIN_CHRR_NDH_FLOOD_PELRD": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2000-01-01T00:00:00.000Z", "EndingDateTime": "2000-12-31T00:00:00.000Z"}]}]}, {"CIESIN_CHRR_NDH_FLOOD_HFD": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "1985-01-01T00:00:00.000Z", "EndingDateTime": "2003-12-31T00:00:00.000Z"}]}]}, {"CIESIN_CHRR_NDH_FLOOD_MRD": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2000-01-01T00:00:00.000Z", "EndingDateTime": "2000-12-31T00:00:00.000Z"}]}]}, {"CIESIN_SEDAC_ULANDSAT_GMIS_V1": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2010-01-01T00:00:00.000Z", "EndingDateTime": "2010-12-31T00:00:00.000Z"}]}]}, {"CIESIN_SEDAC_GPWv4_APDENS_WPP_2015": [{"EndsAtPresentFlag": false, "SingleDateTimes": ["2000-07-01T00:00:00.000Z", "2005-07-01T00:00:00.000Z", "2010-07-01T00:00:00.000Z", "2015-07-01T00:00:00.000Z", "2020-07-01T00:00:00.000Z"]}]}, {"CIESIN_SEDAC_GRUMPv1_EXT": [{"EndsAtPresentFlag": false, "SingleDateTimes": ["1990-07-01T00:00:00.000Z", "1995-07-01T00:00:00.000Z", "2000-07-01T00:00:00.000Z"]}]}, {"CIESIN_SEDAC_ULANDSAT_HBASE_V1": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2010-01-01T00:00:00.000Z", "EndingDateTime": "2010-12-31T00:00:00.000Z"}]}]}, {"CIESIN_SEDAC_LWP2_HF_GEOG": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "1995-01-01T00:00:00.000Z", "EndingDateTime": "2004-12-31T23:59:59.999Z"}]}]}, {"CIESIN_CHRR_NDH_LSLIDE_HD": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2000-01-01T00:00:00.000Z", "EndingDateTime": "2000-12-31T00:00:00.000Z"}]}]}, {"CIESIN_SEDAC_LWP2_LW_GEOG": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "1995-01-01T00:00:00.000Z", "EndingDateTime": "2004-12-31T23:59:59.999Z"}]}]}, {"CIESIN_SEDAC_SDEI_LST2013": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2013-01-01T00:00:00.000Z", "EndingDateTime": "2013-12-31T23:59:59.999Z"}]}]}, {"CIESIN_SEDAC_SPECIES_MAM_RICH15": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2013-01-01T00:00:00.000Z", "EndingDateTime": "2013-12-31T23:59:59.999Z"}]}]}, {"CIESIN_SEDAC_LULC_MANGROVES_2000": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2000-01-01T00:00:00.000Z", "EndingDateTime": "2000-12-31T00:00:00.000Z"}]}]}, {"CIESIN_SEDAC_SDEI_NO2": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "1996-01-01T00:00:00.000Z", "EndingDateTime": "2012-12-31T23:59:59.999Z"}]}]}, {"CIESIN_SEDAC_SDEI_PM25_MMSAOD": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "1998-01-01T00:00:00.000Z", "EndingDateTime": "2012-12-31T23:59:59.999Z"}]}]}, {"CIESIN_SEDAC_SDEI_UHI2013": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2013-01-01T00:00:00.000Z", "EndingDateTime": "2013-12-31T23:59:59.999Z"}]}]}, {"CIESIN_SEDAC_LECZ_URPLAEv2": [{"EndsAtPresentFlag": false, "SingleDateTimes": ["1990-01-01T00:00:00.000Z", "2000-01-01T00:00:00.000Z", "2010-01-01T00:00:00.000Z", "2100-01-01T00:00:00.000Z"]}]}, {"CIESIN_SEDAC_LULC_PUEXPANS_2030": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2000-01-01T00:00:00.000Z", "EndingDateTime": "2030-12-31T23:59:59.999Z"}]}]}, {"CIESIN_CHRR_NDH_VOLCANO_PELRD": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2000-01-01T00:00:00.000Z", "EndingDateTime": "2000-12-31T23:59:59.999Z"}]}]}, {"CIESIN_CHRR_NDH_VOLCANO_HFD": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "1979-01-01T00:00:00.000Z", "EndingDateTime": "2000-12-31T00:00:00.000Z"}]}]}, {"CIESIN_CHRR_NDH_VOLCANO_MRD": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2000-01-01T00:00:00.000Z", "EndingDateTime": "2000-12-31T23:59:59.999Z"}]}]}, {"SPL1BTB": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2015-03-31T00:00:00.000Z"}]}]}, {"SPL1CTB_E": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2015-03-31T00:00:00.000Z"}]}]}, {"SPL1CTB": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2015-03-31T00:00:00.000Z"}]}]}, {"SPL2SMP": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2015-03-31T00:00:00.000Z"}]}]}, {"SPL2SMP_E": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2015-03-31T00:00:00.000Z"}]}]}, {"SPL2SMAP_S": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2015-03-31T00:00:00.000Z"}]}]}, {"SPL3FTP": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2015-03-31T00:00:00.000Z"}]}]}, {"SPL3FTP_E": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2015-03-31T00:00:00.000Z"}]}]}, {"SPL3SMA": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2015-04-13T00:00:00.000Z", "EndingDateTime": "2015-07-07T23:59:59.999Z"}]}]}, {"SPL3SMAP": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2015-04-13T00:00:00.000Z", "EndingDateTime": "2015-07-07T23:59:59.999Z"}]}]}, {"SPL3SMP": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2015-03-31T00:00:00.000Z"}]}]}, {"SMAP_JPL_L3_SSS_CAP_8DAY-RUNNINGMEAN_V42": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2015-03-31T12:00:00.000Z"}]}]}, {"SMAP_JPL_L3_SSS_CAP_MONTHLY_V42": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2015-04-01T00:00:00.000Z"}]}]}, {"SPL4SMAU": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2015-03-31T00:00:00.000Z"}]}]}, {"SPL4CMDL": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2015-03-31T00:00:00.000Z"}]}]}, {"SPL4SMGP": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2015-03-31T00:00:00.000Z"}]}]}, {"SRTMGL1": [{"PrecisionOfSeconds": 0, "EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2000-02-11T00:00:00.000Z", "EndingDateTime": "2000-02-21T23:59:59.000Z"}]}]}, {"rssmif10d": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "1990-12-08T00:00:00.000Z", "EndingDateTime": "1997-11-14T23:59:59.000Z"}]}]}, {"rssmif11d": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "1991-12-03T00:00:00.000Z", "EndingDateTime": "2000-05-16T23:59:59.000Z"}]}]}, {"rssmif13d": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "1995-05-03T00:00:00.000Z", "EndingDateTime": "2009-11-04T23:59:59.000Z"}]}]}, {"rssmif14d": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "1997-05-08T00:00:00.000Z", "EndingDateTime": "2008-08-08T23:59:59.000Z"}]}]}, {"rssmif15d": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "1999-12-18T00:00:00.000Z", "EndingDateTime": "2011-12-31T23:59:59.000Z"}]}]}, {"rssmif16d": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2003-10-26T00:00:00.000Z"}]}]}, {"rssmif17d": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2006-12-14T00:00:00.000Z"}]}]}, {"rssmif08d": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "1987-07-09T00:00:00.000Z", "EndingDateTime": "1991-12-31T23:59:59.000Z"}]}]}, {"SWDB_L305": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "1997-09-04T00:00:00.000Z", "EndingDateTime": "2010-12-11T23:59:59.999Z"}]}]}, {"SWDB_L3M05": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "1997-09-01T00:00:00.000Z", "EndingDateTime": "2010-12-31T23:59:59.999Z"}]}]}, {"ALT_TIDE_GAUGE_L4_OST_SLA_US_WEST_COAST_DAILY": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "1992-10-14T12:00:00.000Z", "EndingDateTime": "2011-01-19T12:00:00.000Z"}]}]}, {"MERGED_TP_J1_OSTM_OST_CYCLES_V4": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "1992-09-25T04:46:52.000Z"}]}]}, {"RECON_SEA_LEVEL_OST_L4_V1": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "1950-01-03T00:00:00.000Z", "EndingDateTime": "2009-06-27T23:59:59.000Z"}]}]}, {"GPM_2AGPROFTRMMTMI_CLIM": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "1997-12-07T00:00:00.000Z", "EndingDateTime": "2015-04-08T23:59:59.999Z"}]}]}, {"GPM_1CTRMMTMI": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "1997-12-07T00:00:00.000Z", "EndingDateTime": "2015-04-08T23:59:59.999Z"}]}]}, {"VNP02IMG_NRT": [{"PrecisionOfSeconds": 1, "EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2017-07-25T00:00:00.000Z"}]}]}, {"CLDMSK_L2_VIIRS_SNPP_NRT": [{"EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "2019-04-18T00:00:00.000Z"}]}]}, {"AERDB_L2_VIIRS_SNPP_NRT": [{"EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "2019-04-18T00:00:00.000Z"}]}]}, {"WELDAKYR": [{"PrecisionOfSeconds": 0, "EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2002-12-01T00:00:00.000Z", "EndingDateTime": "2012-11-30T23:59:59.999Z"}]}]}, {"WELDAKMO": [{"PrecisionOfSeconds": 0, "EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2003-01-01T00:00:00.000Z", "EndingDateTime": "2012-11-30T23:59:59.999Z"}]}]}, {"WELDAKSE": [{"PrecisionOfSeconds": 0, "EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2002-12-01T00:00:00.000Z", "EndingDateTime": "2012-11-30T23:59:59.999Z"}]}]}, {"WELDUSYR": [{"PrecisionOfSeconds": 0, "EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2002-12-01T00:00:00.000Z", "EndingDateTime": "2012-11-30T23:59:59.999Z"}]}]}, {"WELDUSMO": [{"PrecisionOfSeconds": 0, "EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2002-12-01T00:00:00.000Z", "EndingDateTime": "2012-11-30T23:59:59.999Z"}]}]}, {"WELDUSSE": [{"PrecisionOfSeconds": 0, "EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2002-12-01T00:00:00.000Z", "EndingDateTime": "2012-11-30T23:59:59.999Z"}]}]}, {"WELDLCLUC": [{"PrecisionOfSeconds": 0, "EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2006-04-15T00:00:00.000Z", "EndingDateTime": "2010-11-17T23:59:59.999Z"}]}]}, {"NSIDC-0484": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "1996-01-01T00:00:00.000Z", "EndingDateTime": "2016-12-31T23:59:59.999Z"}]}]}, {"NISE": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "1995-05-04T00:00:00.000Z"}]}]}, {"NISE": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2009-08-17T00:00:00.000Z"}]}]}, {"NISE": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2016-12-01T00:00:00.000Z"}]}]}, {"NISE": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "1998-05-01T00:00:00.000Z"}]}]}, {"NSIDC-0478": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2017-09-01T00:00:00.000Z", "EndingDateTime": "2018-05-31T23:59:59.999Z"}]}, {"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2016-09-01T00:00:00.000Z", "EndingDateTime": "2017-05-31T23:59:59.999Z"}]}, {"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2015-09-01T00:00:00.000Z", "EndingDateTime": "2016-05-31T23:59:59.999Z"}]}, {"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2014-09-01T00:00:00.000Z", "EndingDateTime": "2015-05-31T23:59:59.999Z"}]}, {"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2012-11-10T00:00:00.000Z", "EndingDateTime": "2013-04-05T23:59:59.999Z"}]}, {"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2009-09-02T00:00:00.000Z", "EndingDateTime": "2010-05-07T23:59:59.999Z"}]}, {"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2008-09-15T00:00:00.000Z", "EndingDateTime": "2009-06-16T23:59:59.999Z"}]}, {"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2007-09-07T00:00:00.000Z", "EndingDateTime": "2008-04-23T23:59:59.999Z"}]}, {"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2006-12-18T00:00:00.000Z", "EndingDateTime": "2007-06-06T23:59:59.999Z"}]}, {"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2005-12-13T00:00:00.000Z", "EndingDateTime": "2006-04-20T23:59:59.999Z"}]}, {"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2000-09-03T00:00:00.000Z", "EndingDateTime": "2001-01-24T23:59:59.999Z"}]}]}, {"NSIDC-0534": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "1999-01-01T00:00:00.000Z", "EndingDateTime": "2012-12-31T23:59:59.999Z"}]}]}, {"SPL3FTA": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2015-04-13T00:00:00.000Z", "EndingDateTime": "2015-07-07T23:59:59.999Z"}]}]}, {"MYD14": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2015-12-07T00:00:00.000Z"}]}]}, {"MYD14": [{"PrecisionOfSeconds": 1, "EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "2002-07-04T00:00:00.000Z"}]}]}, {"MOD14": [{"EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2015-12-07T00:00:00.000Z"}]}]}, {"MOD14": [{"PrecisionOfSeconds": 1, "EndsAtPresentFlag": true, "RangeDateTimes": [{"BeginningDateTime": "2000-02-24T00:00:00.000Z"}]}]}, {"CIESIN_SEDAC_GRUMPv1_STLMNT01": [{"EndsAtPresentFlag": false, "SingleDateTimes": ["1990-07-01T00:00:00.000Z", "1995-07-01T00:00:00.000Z", "2000-07-01T00:00:00.000Z"]}]}, {"VNP14IMGTDL_NRT": [{"PrecisionOfSeconds": 1, "EndsAtPresentFlag": false, "RangeDateTimes": [{"BeginningDateTime": "2016-01-01T00:00:00.000Z"}]}]}]
+[
+  {
+    "A2_RainOcn_NRT": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2019-07-06T00:21:36.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "A2_RainOcn_NRT": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2019-01-20T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "AE_Rain": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2002-06-01T00:00:00.000Z",
+            "EndingDateTime": "2011-10-04T23:59:59.999Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "AE_SI12": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2002-06-01T00:00:00.000Z",
+            "EndingDateTime": "2011-10-04T23:59:59.999Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "AE_SI25": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2002-06-01T00:00:00.000Z",
+            "EndingDateTime": "2011-10-04T23:59:59.999Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "AE_SI6": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2002-06-01T00:00:00.000Z",
+            "EndingDateTime": "2011-10-04T23:59:59.999Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "AIRS2RET": [
+      {
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2002-08-30T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "AIRS2SUP": [
+      {
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2002-08-30T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "AIRS3STD": [
+      {
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2002-08-31T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "AIRS3STM": [
+      {
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2002-09-01T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "AIRX3C2M": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2002-09-01T00:00:00.000Z",
+            "EndingDateTime": "2012-02-29T23:59:59.999Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "AIRS3C2M": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2010-01-01T00:00:00.000Z",
+            "EndingDateTime": "2017-02-28T23:59:59.999Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "amsua15sp": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "1998-08-03T01:51:10.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "amsua16sp": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2001-05-27T00:41:30.000Z",
+            "EndingDateTime": "2009-07-30T17:30:57.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "amsua17sp": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2002-07-21T00:53:50.000Z",
+            "EndingDateTime": "2003-12-13T01:24:45.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "AQ3_DYSM": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2011-08-25T00:00:00.000Z",
+            "EndingDateTime": "2015-06-07T23:59:59.999Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "AQ3_WKSM": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2011-08-25T00:00:00.000Z",
+            "EndingDateTime": "2015-06-07T23:59:59.999Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "AQUARIUS_L3_SSS_SMI_7DAY-RUNNINGMEAN_V5": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2011-08-25T01:45:23.000Z",
+            "EndingDateTime": "2015-06-07T12:45:21.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "AQUARIUS_L3_SSS_SMI_7DAY_V5": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2011-08-25T01:55:23.000Z",
+            "EndingDateTime": "2015-06-07T12:45:21.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "AQUARIUS_L3_SSS_SMI_DAILY_V5": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2011-08-25T01:45:23.000Z",
+            "EndingDateTime": "2015-06-07T12:45:21.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "AQUARIUS_L3_SSS_SMI_MONTHLY-CLIMATOLOGY_V5": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2011-08-25T01:55:23.000Z",
+            "EndingDateTime": "2015-06-07T12:45:21.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "AQUARIUS_L3_SSS_SMI_SEASONAL-CLIMATOLOGY_V5": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2011-08-25T01:55:23.000Z",
+            "EndingDateTime": "2015-06-07T12:45:21.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ASTGTM": [
+      {
+        "PrecisionOfSeconds": 0,
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-03-01T00:00:00.000Z",
+            "EndingDateTime": "2013-11-30T23:59:59.999Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "AU_5DSno": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2012-07-02T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "AU_DySno": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2012-07-02T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "AU_Land": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2012-07-02T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "AU_MoSno": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2012-07-02T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "AU_SI12": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2012-07-02T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "AU_SI25": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2012-07-02T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "AU_SI6": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2012-07-02T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "AVISO_L4_DYN_TOPO_1DEG_1MO": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "1992-10-01T00:00:00.000Z",
+            "EndingDateTime": "2010-12-31T23:59:59.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CCMP_MEASURES_ATLAS_L4_OW_L3_5A_MONTHLY_WIND_VECTORS_FLK": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "1987-07-02T00:00:00.000Z",
+            "EndingDateTime": "2011-12-31T18:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CER_SYN1deg-Month_Terra-Aqua-MODIS": [
+      {
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2002-07-01T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CERES_EBAF-Surface": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-03-01T00:00:00.000Z",
+            "EndingDateTime": "2018-03-31T23:59:59.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CERES_EBAF-TOA": [
+      {
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-03-01T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CERES_EBAF-TOA": [
+      {
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-03-01T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CER_SYN1deg-Month_Terra-MODIS": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-03-01T00:00:00.000Z",
+            "EndingDateTime": "2002-06-30T23:59:59.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CYGNSS_L3_V2.1": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2017-03-18T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "AVHRR_OI-NCEI-L4-GLOB-v2.0": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "1981-09-01T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "GPM_2AGPROFGPMGMI": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2014-03-04T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "GPM_1CGPMGMI": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2014-03-04T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "TELLUS_GRACE_MASCON_CRI_GRID_RL06_V1": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2002-04-04T00:00:00.000Z",
+            "EndingDateTime": "2017-06-29T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "GPM_3IMERGDF": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-06-01T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "GPM_3IMERGHHE": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-06-01T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "lislip": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "1998-01-01T00:46:22.000Z",
+            "EndingDateTime": "2015-04-08T14:08:51.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "lisvhrac": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "1998-01-01T00:00:00.000Z",
+            "EndingDateTime": "2013-12-31T23:59:59.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "lisvhrfc": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "1998-01-01T00:00:00.000Z",
+            "EndingDateTime": "2013-12-31T23:59:59.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "lisvhrmc": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "1998-01-01T00:00:00.000Z",
+            "EndingDateTime": "2013-12-31T23:59:59.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "lisvhrsc": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "1998-01-01T00:00:00.000Z",
+            "EndingDateTime": "2013-12-31T23:59:59.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "lohrfc": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "1995-05-04T00:00:00.000Z",
+            "EndingDateTime": "2014-12-31T23:59:59.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "LPRM_AMSR2_DS_A_SOILM3": [
+      {
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2012-07-03T00:08:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "LPRM_AMSR2_DS_D_SOILM3": [
+      {
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2012-07-03T00:57:31.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "LPRM_AMSR2_D_SOILM3": [
+      {
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2012-07-03T00:57:31.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "LPRM_AMSR2_A_SOILM3": [
+      {
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2012-07-03T00:08:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MCD12Q1": [
+      {
+        "PrecisionOfSeconds": 1,
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2001-01-01T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MCD15A2H": [
+      {
+        "PrecisionOfSeconds": 1,
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2002-07-04T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MCD15A3H": [
+      {
+        "PrecisionOfSeconds": 1,
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2002-07-04T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MCD43A3": [
+      {
+        "PrecisionOfSeconds": 1,
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-02-16T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MCD43A4": [
+      {
+        "PrecisionOfSeconds": 1,
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-02-16T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MCDAODHD": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2017-10-11T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NSIDC-0477": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "1979-01-01T00:00:00.000Z",
+            "EndingDateTime": "2016-12-31T23:59:59.999Z"
+          }
+        ]
+      },
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2002-06-19T00:00:00.000Z",
+            "EndingDateTime": "2016-09-27T23:59:59.999Z"
+          }
+        ]
+      },
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2017-01-01T00:00:00.000Z",
+            "EndingDateTime": "2017-12-31T23:59:59.999Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "M2TMNXRAD": [
+      {
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "1980-01-01T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "M2IMNXGAS": [
+      {
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "1980-01-01T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "M2IMNPASM": [
+      {
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "1980-01-01T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "M2TMNXCHM": [
+      {
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "1980-01-01T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "M2TMNPMST": [
+      {
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "1980-01-01T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "M2TMNXADG": [
+      {
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "1980-01-01T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "M2TMNXAER": [
+      {
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "1980-01-01T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "M2TMNXOCN": [
+      {
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "1980-01-01T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "M2TMNXINT": [
+      {
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "1980-01-01T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "M2TMNXLND": [
+      {
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "1980-01-01T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "M2TMNXCSP": [
+      {
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "1980-01-01T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "M2IMNPANA": [
+      {
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "1980-01-01T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "M2TMNXFLX": [
+      {
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "1980-01-01T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "M2TMNPCLD": [
+      {
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "1980-01-01T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "M2TMNXGLC": [
+      {
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "1980-01-01T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "M2IMNXLFO": [
+      {
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "1980-01-01T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "M2TMNXSLV": [
+      {
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "1980-01-01T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "M2TMNXLFO": [
+      {
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "1980-01-01T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "M2IMNXASM": [
+      {
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "1980-01-01T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "M2IMNXINT": [
+      {
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "1980-01-01T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MIL3MAE": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-02-01T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MIL3MCLD": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-02-01T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MIL3MLS": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-02-01T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MIL3MRD": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-02-01T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MIL3MAL": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-02-01T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ML2CO": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2004-08-08T00:00:00.000Z",
+            "EndingDateTime": "2015-06-30T23:59:59.999Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ML2CO": [
+      {
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2004-08-02T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ML2H2O": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2004-08-08T00:00:00.000Z",
+            "EndingDateTime": "2015-06-30T23:59:59.999Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ML2H2O": [
+      {
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2004-08-02T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ML2HNO3": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2004-08-08T00:00:00.000Z",
+            "EndingDateTime": "2015-06-30T23:59:59.999Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ML2HNO3": [
+      {
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2004-08-02T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ML2N2O": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2004-08-08T00:00:00.000Z",
+            "EndingDateTime": "2015-06-30T23:59:59.999Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ML2N2O": [
+      {
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2004-08-02T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ML2O3": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2004-08-08T00:00:00.000Z",
+            "EndingDateTime": "2015-06-30T23:59:59.999Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ML2O3": [
+      {
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2004-08-02T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ML2SO2": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2004-08-08T00:00:00.000Z",
+            "EndingDateTime": "2015-06-30T23:59:59.999Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ML2SO2": [
+      {
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2004-08-02T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ML2T": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2004-08-08T00:00:00.000Z",
+            "EndingDateTime": "2015-06-30T23:59:59.999Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ML2T": [
+      {
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2004-08-02T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MOD04_3K": [
+      {
+        "PrecisionOfSeconds": 1,
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-02-24T00:05:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MOD04_3K": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2017-10-11T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MOD04_L2": [
+      {
+        "PrecisionOfSeconds": 1,
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-02-24T00:05:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MOD04_L2": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2017-10-11T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MOD06_L2": [
+      {
+        "PrecisionOfSeconds": 1,
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-02-24T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MOD06_L2": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2017-10-11T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MOD09GA": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2015-12-06T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MOD09GA": [
+      {
+        "PrecisionOfSeconds": 1,
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-02-24T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MOD09GQ": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2015-12-06T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MOD09GQ": [
+      {
+        "PrecisionOfSeconds": 1,
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-02-24T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MOD09A1": [
+      {
+        "PrecisionOfSeconds": 4,
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-02-24T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MOD09Q1": [
+      {
+        "PrecisionOfSeconds": 4,
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-02-24T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MOD10_L2": [
+      {
+        "PrecisionOfSeconds": 1,
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "1999-12-18T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MOD10_L2": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-02-24T00:00:00.000Z",
+            "EndingDateTime": "2017-01-03T23:59:59.999Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MOD10_L2": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-02-24T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MOD10A1": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-02-24T00:00:00.000Z",
+            "EndingDateTime": "2017-01-02T23:59:59.999Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MOD10A1": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-02-24T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MOD10A2": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-02-24T00:00:00.000Z",
+            "EndingDateTime": "2017-01-02T23:59:59.999Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MOD10A2": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-02-24T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MOD10CM": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-03-01T00:00:00.000Z",
+            "EndingDateTime": "2016-12-31T23:59:59.999Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MOD10CM": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-03-01T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MOD11A1": [
+      {
+        "PrecisionOfSeconds": 4,
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-02-24T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MOD11A2": [
+      {
+        "PrecisionOfSeconds": 4,
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-02-18T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MOD11C3": [
+      {
+        "PrecisionOfSeconds": 4,
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-02-01T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MYD13A3": [
+      {
+        "PrecisionOfSeconds": 4,
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2002-07-01T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MOD13A3": [
+      {
+        "PrecisionOfSeconds": 4,
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-02-01T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MOD13Q1": [
+      {
+        "PrecisionOfSeconds": 4,
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-02-18T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MOD13Q4N": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2015-12-07T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MOD15A2H": [
+      {
+        "PrecisionOfSeconds": 1,
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-02-18T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MOD17A2H": [
+      {
+        "PrecisionOfSeconds": 1,
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-02-18T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MOD29": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2015-12-06T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MOD29": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-02-24T00:00:00.000Z",
+            "EndingDateTime": "2017-01-03T23:59:59.999Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MOD29": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-02-24T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MOD29P1D": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-02-24T00:00:00.000Z",
+            "EndingDateTime": "2017-01-02T23:59:59.999Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MOD29P1D": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-02-24T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MOD29P1N": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-02-24T00:00:00.000Z",
+            "EndingDateTime": "2017-01-03T23:59:59.999Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MOD29P1N": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-02-24T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MOD44W": [
+      {
+        "PrecisionOfSeconds": 1,
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-01-01T00:00:00.000Z",
+            "EndingDateTime": "2015-12-31T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_8DAY_4KM_DAYTIME_V2014.0": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-02-18T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MODIS_TERRA_L3_SST_MID-IR_8DAY_4KM_NIGHTTIME_V2014.0": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-02-24T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_8DAY_4KM_NIGHTTIME_V2014.0": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-02-24T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_ANNUAL_4KM_DAYTIME_V2014.0": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-01-01T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MODIS_TERRA_L3_SST_MID-IR_ANNUAL_4KM_NIGHTTIME_V2014.0": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-01-01T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_ANNUAL_4KM_NIGHTTIME_V2014.0": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-01-01T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_DAILY_4KM_DAYTIME_V2014.0": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-02-24T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MODIS_TERRA_L3_SST_MID-IR_DAILY_4KM_NIGHTTIME_V2014.0": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-02-24T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_DAILY_4KM_NIGHTTIME_V2014.0": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-02-24T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_MONTHLY_4KM_DAYTIME_V2014.0": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-02-24T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MODIS_TERRA_L3_SST_MID-IR_MONTHLY_4KM_NIGHTTIME_V2014.0": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-02-24T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_MONTHLY_4KM_NIGHTTIME_V2014.0": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-02-24T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_8DAY_9KM_DAYTIME_V2014.0": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-02-18T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MODIS_TERRA_L3_SST_MID-IR_8DAY_9KM_NIGHTTIME_V2014.0": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-02-24T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_8DAY_9KM_NIGHTTIME_V2014.0": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-02-24T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_ANNUAL_9KM_DAYTIME_V2014.0": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-01-01T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MODIS_TERRA_L3_SST_MID-IR_ANNUAL_9KM_NIGHTTIME_V2014.0": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-01-01T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_ANNUAL_9KM_NIGHTTIME_V2014.0": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-01-01T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_DAILY_9KM_DAYTIME_V2014.0": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-02-24T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MODIS_TERRA_L3_SST_MID-IR_DAILY_9KM_NIGHTTIME_V2014.0": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-02-24T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_DAILY_9KM_NIGHTTIME_V2014.0": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-02-24T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_MONTHLY_9KM_DAYTIME_V2014.0": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-02-24T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MODIS_TERRA_L3_SST_MID-IR_MONTHLY_9KM_NIGHTTIME_V2014.0": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-02-24T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_MONTHLY_9KM_NIGHTTIME_V2014.0": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-02-24T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MOP03J": [
+      {
+        "PrecisionOfSeconds": 6,
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-03-03T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MOP03J": [
+      {
+        "PrecisionOfSeconds": 6,
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-03-03T02:40:34.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MOP03J": [
+      {
+        "PrecisionOfSeconds": 6,
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-03-03T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MOP03J": [
+      {
+        "PrecisionOfSeconds": 6,
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-03-03T02:40:34.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MOP02R_NRT": [
+      {
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-03-03T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MOP03JM": [
+      {
+        "PrecisionOfSeconds": 6,
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-03-03T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MOP03JM": [
+      {
+        "PrecisionOfSeconds": 6,
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-03-03T02:40:34.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MOP03JM": [
+      {
+        "PrecisionOfSeconds": 6,
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-03-03T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MOP03JM": [
+      {
+        "PrecisionOfSeconds": 6,
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-03-03T02:40:34.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MYD04_3K": [
+      {
+        "PrecisionOfSeconds": 1,
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2002-07-04T00:45:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MYD04_3K": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2017-10-20T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MYD04_L2": [
+      {
+        "PrecisionOfSeconds": 1,
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2002-07-04T00:45:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MYD04_L2": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2017-10-20T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MYD06_L2": [
+      {
+        "PrecisionOfSeconds": 1,
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2002-07-04T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MYD06_L2": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2017-10-20T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MYD09GA": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2015-12-06T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MYD09GA": [
+      {
+        "PrecisionOfSeconds": 1,
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2002-07-04T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MYD09GQ": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2015-12-06T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MYD09GQ": [
+      {
+        "PrecisionOfSeconds": 1,
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2002-07-04T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MYD09A1": [
+      {
+        "PrecisionOfSeconds": 4,
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2002-07-04T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MYD09Q1": [
+      {
+        "PrecisionOfSeconds": 4,
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2002-07-04T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MYD10_L2": [
+      {
+        "PrecisionOfSeconds": 1,
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2002-05-04T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MYD10_L2": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2002-07-04T00:00:00.000Z",
+            "EndingDateTime": "2017-01-02T23:59:59.999Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MYD10_L2": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2002-07-04T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MYD10A1": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2002-07-04T00:00:00.000Z",
+            "EndingDateTime": "2017-01-01T23:59:59.999Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MYD10A1": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2002-07-04T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MYD10A2": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2002-07-04T00:00:00.000Z",
+            "EndingDateTime": "2017-01-03T23:59:59.999Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MYD10A2": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2002-07-04T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MYD10CM": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-02-24T00:00:00.000Z",
+            "EndingDateTime": "2016-11-30T23:59:59.999Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MYD10CM": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2002-07-04T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MYD11A1": [
+      {
+        "PrecisionOfSeconds": 4,
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-02-24T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MYD11A2": [
+      {
+        "PrecisionOfSeconds": 4,
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2002-07-04T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MYD11C3": [
+      {
+        "PrecisionOfSeconds": 4,
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2002-07-01T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MYD13Q1": [
+      {
+        "PrecisionOfSeconds": 4,
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2002-07-04T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MYD15A2H": [
+      {
+        "PrecisionOfSeconds": 1,
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2002-07-04T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MYD17A2H": [
+      {
+        "PrecisionOfSeconds": 1,
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2002-07-04T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MYD29": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2015-12-06T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MYD29": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2002-07-04T00:00:00.000Z",
+            "EndingDateTime": "2017-01-02T23:59:59.999Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MYD29": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2002-07-04T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MYD29P1D": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2002-07-04T00:00:00.000Z",
+            "EndingDateTime": "2017-01-02T23:59:59.999Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MYD29P1D": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2002-07-04T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MYD29P1N": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2002-07-04T00:00:00.000Z",
+            "EndingDateTime": "2017-01-02T23:59:59.999Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MYD29P1N": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2002-07-04T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_8DAY_4KM_DAYTIME_V2014.0": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2002-07-04T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MODIS_AQUA_L3_SST_MID-IR_8DAY_4KM_NIGHTTIME_V2014.0": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2002-07-04T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_8DAY_4KM_NIGHTTIME_V2014.0": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2002-07-04T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_ANNUAL_4KM_DAYTIME_V2014.0": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2002-01-01T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MODIS_AQUA_L3_SST_MID-IR_ANNUAL_4KM_NIGHTTIME_V2014.0": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2002-01-01T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_ANNUAL_4KM_NIGHTTIME_V2014.0": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2002-01-01T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_DAILY_4KM_DAYTIME_V2014.0": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2002-07-04T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MODIS_AQUA_L3_SST_MID-IR_DAILY_4KM_NIGHTTIME_V2014.0": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2002-07-04T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_DAILY_4KM_NIGHTTIME_V2014.0": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2002-07-04T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_MONTHLY_4KM_DAYTIME_V2014.0": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2002-07-01T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MODIS_AQUA_L3_SST_MID-IR_MONTHLY_4KM_NIGHTTIME_V2014.0": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2002-07-01T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_MONTHLY_4KM_NIGHTTIME_V2014.0": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2002-07-01T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_8DAY_9KM_DAYTIME_V2014.0": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2002-07-04T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MODIS_AQUA_L3_SST_MID-IR_8DAY_9KM_NIGHTTIME_V2014.0": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2002-07-04T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_8DAY_9KM_NIGHTTIME_V2014.0": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2002-07-04T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_ANNUAL_9KM_DAYTIME_V2014.0": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2002-01-01T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MODIS_AQUA_L3_SST_MID-IR_ANNUAL_9KM_NIGHTTIME_V2014.0": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2002-01-01T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_ANNUAL_9KM_NIGHTTIME_V2014.0": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2002-01-01T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_DAILY_9KM_DAYTIME_V2014.0": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2002-07-04T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MODIS_AQUA_L3_SST_MID-IR_DAILY_9KM_NIGHTTIME_V2014.0": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2002-07-04T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_DAILY_9KM_NIGHTTIME_V2014.0": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2002-07-04T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_MONTHLY_9KM_DAYTIME_V2014.0": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2002-07-01T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MODIS_AQUA_L3_SST_MID-IR_MONTHLY_9KM_NIGHTTIME_V2014.0": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2002-07-01T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_MONTHLY_9KM_NIGHTTIME_V2014.0": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2002-07-01T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NLDAS_FORA0125_M": [
+      {
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "1979-01-01T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NLDAS_FORB0125_M": [
+      {
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "1979-01-01T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NLDAS_MOS0125_M": [
+      {
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "1979-01-01T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NLDAS_NOAH0125_M": [
+      {
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "1979-01-01T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NLDAS_VIC0125_M": [
+      {
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "1979-01-01T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "OCO2_L2_Lite_SIF": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2014-06-01T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "OCO2_L2_Lite_FP": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2014-06-01T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "olsdig10": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "1994-02-01T00:00:00.000Z",
+            "EndingDateTime": "1994-05-31T23:59:59.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "olsdig12": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "1995-05-01T00:00:00.000Z",
+            "EndingDateTime": "1995-11-30T23:59:59.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "OMAERUVd": [
+      {
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2004-10-01T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "OMAEROe": [
+      {
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2004-10-01T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "OMAERUV": [
+      {
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2004-10-01T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "OMAERUV": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2004-07-15T11:50:43.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "OMCLDRR": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2004-07-15T11:50:43.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "OMCLDRR": [
+      {
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2004-10-01T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "OMNO2d": [
+      {
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2004-10-01T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "OMDOAO3e": [
+      {
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2004-10-01T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "OMTO3e": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2004-07-15T11:50:43.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "OMTO3e": [
+      {
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2004-10-01T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "OMSO2": [
+      {
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2004-10-01T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "OMSO2": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2004-07-15T11:50:43.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "OMSO2e": [
+      {
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2004-10-01T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "OMUVBd": [
+      {
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2004-10-01T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "OSCAR_L4_OC_third-deg": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "1992-10-21T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "otdlip": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "1995-04-13T01:37:27.000Z",
+            "EndingDateTime": "2000-03-23T19:17:37.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "rss1tpwnv7r01": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "1988-01-01T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "rss1windnv7r01": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "1988-01-01T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CIESIN_SEDAC_AGLANDS_CROP2000": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-01-01T00:00:00.000Z",
+            "EndingDateTime": "2000-12-31T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CIESIN_SEDAC_AGLANDS_PAS2000": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-01-01T00:00:00.000Z",
+            "EndingDateTime": "2000-12-31T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CIESIN_SEDAC_SPECIES_AMP_RICH15": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2013-01-01T00:00:00.000Z",
+            "EndingDateTime": "2013-12-31T23:59:59.999Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CIESIN_SEDAC_ANTHROMES_v1": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2001-01-01T00:00:00.000Z",
+            "EndingDateTime": "2006-12-31T23:59:59.999Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CIESIN_CHRR_NDH_CYCLONE_PELRD": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-01-01T00:00:00.000Z",
+            "EndingDateTime": "2000-12-31T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CIESIN_CHRR_NDH_CYCLONE_HFD": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "1980-01-01T00:00:00.000Z",
+            "EndingDateTime": "2000-12-31T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CIESIN_CHRR_NDH_CYCLONE_MRD": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-01-01T00:00:00.000Z",
+            "EndingDateTime": "2000-12-31T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CIESIN_CHRR_NDH_DROUGHT_PELRD": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-01-01T00:00:00.000Z",
+            "EndingDateTime": "2000-12-31T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CIESIN_CHRR_NDH_DROUGHT_HFD": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "1980-01-01T00:00:00.000Z",
+            "EndingDateTime": "2000-12-31T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CIESIN_CHRR_NDH_DROUGHT_MRD": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-01-01T00:00:00.000Z",
+            "EndingDateTime": "2000-12-31T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CIESIN_SEDAC_PD_NETMIG_1970_2000": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "1970-01-01T00:00:00.000Z",
+            "EndingDateTime": "2000-12-31T23:59:59.999Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CIESIN_CHRR_NDH_FLOOD_PELRD": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-01-01T00:00:00.000Z",
+            "EndingDateTime": "2000-12-31T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CIESIN_CHRR_NDH_FLOOD_HFD": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "1985-01-01T00:00:00.000Z",
+            "EndingDateTime": "2003-12-31T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CIESIN_CHRR_NDH_FLOOD_MRD": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-01-01T00:00:00.000Z",
+            "EndingDateTime": "2000-12-31T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CIESIN_SEDAC_ULANDSAT_GMIS_V1": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2010-01-01T00:00:00.000Z",
+            "EndingDateTime": "2010-12-31T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CIESIN_SEDAC_GPWv4_APDENS_WPP_2015": [
+      {
+        "EndsAtPresentFlag": false,
+        "SingleDateTimes": [
+          "2000-07-01T00:00:00.000Z",
+          "2005-07-01T00:00:00.000Z",
+          "2010-07-01T00:00:00.000Z",
+          "2015-07-01T00:00:00.000Z",
+          "2020-07-01T00:00:00.000Z"
+        ]
+      }
+    ]
+  },
+  {
+    "CIESIN_SEDAC_GRUMPv1_EXT": [
+      {
+        "EndsAtPresentFlag": false,
+        "SingleDateTimes": [
+          "1990-07-01T00:00:00.000Z",
+          "1995-07-01T00:00:00.000Z",
+          "2000-07-01T00:00:00.000Z"
+        ]
+      }
+    ]
+  },
+  {
+    "CIESIN_SEDAC_ULANDSAT_HBASE_V1": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2010-01-01T00:00:00.000Z",
+            "EndingDateTime": "2010-12-31T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CIESIN_SEDAC_LWP2_HF_GEOG": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "1995-01-01T00:00:00.000Z",
+            "EndingDateTime": "2004-12-31T23:59:59.999Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CIESIN_CHRR_NDH_LSLIDE_HD": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-01-01T00:00:00.000Z",
+            "EndingDateTime": "2000-12-31T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CIESIN_SEDAC_LWP2_LW_GEOG": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "1995-01-01T00:00:00.000Z",
+            "EndingDateTime": "2004-12-31T23:59:59.999Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CIESIN_SEDAC_SDEI_LST2013": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2013-01-01T00:00:00.000Z",
+            "EndingDateTime": "2013-12-31T23:59:59.999Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CIESIN_SEDAC_SPECIES_MAM_RICH15": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2013-01-01T00:00:00.000Z",
+            "EndingDateTime": "2013-12-31T23:59:59.999Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CIESIN_SEDAC_LULC_MANGROVES_2000": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-01-01T00:00:00.000Z",
+            "EndingDateTime": "2000-12-31T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CIESIN_SEDAC_SDEI_NO2": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "1996-01-01T00:00:00.000Z",
+            "EndingDateTime": "2012-12-31T23:59:59.999Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CIESIN_SEDAC_SDEI_PM25_MMSAOD": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "1998-01-01T00:00:00.000Z",
+            "EndingDateTime": "2012-12-31T23:59:59.999Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CIESIN_SEDAC_SDEI_UHI2013": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2013-01-01T00:00:00.000Z",
+            "EndingDateTime": "2013-12-31T23:59:59.999Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CIESIN_SEDAC_LECZ_URPLAEv2": [
+      {
+        "EndsAtPresentFlag": false,
+        "SingleDateTimes": [
+          "1990-01-01T00:00:00.000Z",
+          "2000-01-01T00:00:00.000Z",
+          "2010-01-01T00:00:00.000Z",
+          "2100-01-01T00:00:00.000Z"
+        ]
+      }
+    ]
+  },
+  {
+    "CIESIN_SEDAC_LULC_PUEXPANS_2030": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-01-01T00:00:00.000Z",
+            "EndingDateTime": "2030-12-31T23:59:59.999Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CIESIN_CHRR_NDH_VOLCANO_PELRD": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-01-01T00:00:00.000Z",
+            "EndingDateTime": "2000-12-31T23:59:59.999Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CIESIN_CHRR_NDH_VOLCANO_HFD": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "1979-01-01T00:00:00.000Z",
+            "EndingDateTime": "2000-12-31T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CIESIN_CHRR_NDH_VOLCANO_MRD": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-01-01T00:00:00.000Z",
+            "EndingDateTime": "2000-12-31T23:59:59.999Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "SPL1BTB": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2015-03-31T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "SPL1CTB_E": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2015-03-31T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "SPL1CTB": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2015-03-31T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "SPL2SMP": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2015-03-31T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "SPL2SMP_E": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2015-03-31T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "SPL2SMAP_S": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2015-03-31T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "SPL3FTP": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2015-03-31T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "SPL3FTP_E": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2015-03-31T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "SPL3SMA": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2015-04-13T00:00:00.000Z",
+            "EndingDateTime": "2015-07-07T23:59:59.999Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "SPL3SMAP": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2015-04-13T00:00:00.000Z",
+            "EndingDateTime": "2015-07-07T23:59:59.999Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "SPL3SMP": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2015-03-31T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "SMAP_JPL_L3_SSS_CAP_8DAY-RUNNINGMEAN_V42": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2015-03-31T12:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "SMAP_JPL_L3_SSS_CAP_MONTHLY_V42": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2015-04-01T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "SPL4SMAU": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2015-03-31T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "SPL4CMDL": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2015-03-31T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "SPL4SMGP": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2015-03-31T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "SRTMGL1": [
+      {
+        "PrecisionOfSeconds": 0,
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-02-11T00:00:00.000Z",
+            "EndingDateTime": "2000-02-21T23:59:59.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "rssmif10d": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "1990-12-08T00:00:00.000Z",
+            "EndingDateTime": "1997-11-14T23:59:59.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "rssmif11d": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "1991-12-03T00:00:00.000Z",
+            "EndingDateTime": "2000-05-16T23:59:59.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "rssmif13d": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "1995-05-03T00:00:00.000Z",
+            "EndingDateTime": "2009-11-04T23:59:59.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "rssmif14d": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "1997-05-08T00:00:00.000Z",
+            "EndingDateTime": "2008-08-08T23:59:59.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "rssmif15d": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "1999-12-18T00:00:00.000Z",
+            "EndingDateTime": "2011-12-31T23:59:59.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "rssmif16d": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2003-10-26T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "rssmif17d": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2006-12-14T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "rssmif08d": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "1987-07-09T00:00:00.000Z",
+            "EndingDateTime": "1991-12-31T23:59:59.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "SWDB_L305": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "1997-09-04T00:00:00.000Z",
+            "EndingDateTime": "2010-12-11T23:59:59.999Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "SWDB_L3M05": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "1997-09-01T00:00:00.000Z",
+            "EndingDateTime": "2010-12-31T23:59:59.999Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ALT_TIDE_GAUGE_L4_OST_SLA_US_WEST_COAST_DAILY": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "1992-10-14T12:00:00.000Z",
+            "EndingDateTime": "2011-01-19T12:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MERGED_TP_J1_OSTM_OST_CYCLES_V4": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "1992-09-25T04:46:52.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "RECON_SEA_LEVEL_OST_L4_V1": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "1950-01-03T00:00:00.000Z",
+            "EndingDateTime": "2009-06-27T23:59:59.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "GPM_2AGPROFTRMMTMI_CLIM": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "1997-12-07T00:00:00.000Z",
+            "EndingDateTime": "2015-04-08T23:59:59.999Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "GPM_1CTRMMTMI": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "1997-12-07T00:00:00.000Z",
+            "EndingDateTime": "2015-04-08T23:59:59.999Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "VNP02IMG_NRT": [
+      {
+        "PrecisionOfSeconds": 1,
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2017-07-25T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CLDMSK_L2_VIIRS_SNPP_NRT": [
+      {
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2019-04-18T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "AERDB_L2_VIIRS_SNPP_NRT": [
+      {
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2019-04-18T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "WELDAKYR": [
+      {
+        "PrecisionOfSeconds": 0,
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2002-12-01T00:00:00.000Z",
+            "EndingDateTime": "2012-11-30T23:59:59.999Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "WELDAKMO": [
+      {
+        "PrecisionOfSeconds": 0,
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2003-01-01T00:00:00.000Z",
+            "EndingDateTime": "2012-11-30T23:59:59.999Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "WELDAKSE": [
+      {
+        "PrecisionOfSeconds": 0,
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2002-12-01T00:00:00.000Z",
+            "EndingDateTime": "2012-11-30T23:59:59.999Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "WELDUSYR": [
+      {
+        "PrecisionOfSeconds": 0,
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2002-12-01T00:00:00.000Z",
+            "EndingDateTime": "2012-11-30T23:59:59.999Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "WELDUSMO": [
+      {
+        "PrecisionOfSeconds": 0,
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2002-12-01T00:00:00.000Z",
+            "EndingDateTime": "2012-11-30T23:59:59.999Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "WELDUSSE": [
+      {
+        "PrecisionOfSeconds": 0,
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2002-12-01T00:00:00.000Z",
+            "EndingDateTime": "2012-11-30T23:59:59.999Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "WELDLCLUC": [
+      {
+        "PrecisionOfSeconds": 0,
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2006-04-15T00:00:00.000Z",
+            "EndingDateTime": "2010-11-17T23:59:59.999Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NSIDC-0484": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "1996-01-01T00:00:00.000Z",
+            "EndingDateTime": "2016-12-31T23:59:59.999Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NISE": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "1995-05-04T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NISE": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2009-08-17T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NISE": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2016-12-01T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NISE": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "1998-05-01T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NSIDC-0478": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2017-09-01T00:00:00.000Z",
+            "EndingDateTime": "2018-05-31T23:59:59.999Z"
+          }
+        ]
+      },
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2016-09-01T00:00:00.000Z",
+            "EndingDateTime": "2017-05-31T23:59:59.999Z"
+          }
+        ]
+      },
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2015-09-01T00:00:00.000Z",
+            "EndingDateTime": "2016-05-31T23:59:59.999Z"
+          }
+        ]
+      },
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2014-09-01T00:00:00.000Z",
+            "EndingDateTime": "2015-05-31T23:59:59.999Z"
+          }
+        ]
+      },
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2012-11-10T00:00:00.000Z",
+            "EndingDateTime": "2013-04-05T23:59:59.999Z"
+          }
+        ]
+      },
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2009-09-02T00:00:00.000Z",
+            "EndingDateTime": "2010-05-07T23:59:59.999Z"
+          }
+        ]
+      },
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2008-09-15T00:00:00.000Z",
+            "EndingDateTime": "2009-06-16T23:59:59.999Z"
+          }
+        ]
+      },
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2007-09-07T00:00:00.000Z",
+            "EndingDateTime": "2008-04-23T23:59:59.999Z"
+          }
+        ]
+      },
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2006-12-18T00:00:00.000Z",
+            "EndingDateTime": "2007-06-06T23:59:59.999Z"
+          }
+        ]
+      },
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2005-12-13T00:00:00.000Z",
+            "EndingDateTime": "2006-04-20T23:59:59.999Z"
+          }
+        ]
+      },
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-09-03T00:00:00.000Z",
+            "EndingDateTime": "2001-01-24T23:59:59.999Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NSIDC-0534": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "1999-01-01T00:00:00.000Z",
+            "EndingDateTime": "2012-12-31T23:59:59.999Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "SPL3FTA": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2015-04-13T00:00:00.000Z",
+            "EndingDateTime": "2015-07-07T23:59:59.999Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MYD14": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2015-12-07T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MYD14": [
+      {
+        "PrecisionOfSeconds": 1,
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2002-07-04T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MOD14": [
+      {
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2015-12-07T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MOD14": [
+      {
+        "PrecisionOfSeconds": 1,
+        "EndsAtPresentFlag": true,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2000-02-24T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CIESIN_SEDAC_GRUMPv1_STLMNT01": [
+      {
+        "EndsAtPresentFlag": false,
+        "SingleDateTimes": [
+          "1990-07-01T00:00:00.000Z",
+          "1995-07-01T00:00:00.000Z",
+          "2000-07-01T00:00:00.000Z"
+        ]
+      }
+    ]
+  },
+  {
+    "VNP14IMGTDL_NRT": [
+      {
+        "PrecisionOfSeconds": 1,
+        "EndsAtPresentFlag": false,
+        "RangeDateTimes": [
+          {
+            "BeginningDateTime": "2016-01-01T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  }
+]

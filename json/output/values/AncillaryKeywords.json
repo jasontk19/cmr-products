@@ -1,1 +1,2128 @@
-[{"A2_RainOcn_NRT": null}, {"A2_RainOcn_NRT": null}, {"AE_Rain": null}, {"AE_SI12": null}, {"AE_SI25": null}, {"AE_SI6": null}, {"AIRS2RET": ["ATMOSPHERE", "CALIBRATED", "GEOLOCATED", "TEMPERATURE", "CLOUD", "EOSDIS", "Carbon Monoxide", "Cloud Liquid Water", "Methane", "Ozone", "Spectral IR Surface Emissivities", "TEMPERATURE", "WATER VAPOR", "Water Vapor Saturation Mass Mixing Ratio", "Water Vapor Mass Mixing Ratio"]}, {"AIRS2SUP": ["ATMOSPHERE", "CALIBRATED", "GEOLOCATED", "TEMPERATURE", "CLOUD", "EOSDIS", "Carbon Monoxide", "Cloud Liquid Water", "Methane", "Ozone", "Spectral IR Surface Emissivities", "TEMPERATURE", "WATER VAPOR", "Water Vapor Saturation Mass Mixing Ratio", "Water Vapor Mass Mixing Ratio", "Cloud Ice/Water Flag", "Layer Molecular Column Density of Carbon Monoxide", "Layer Molecular Column Density of Cloud Liquid Water", "Layer Molecular Column Density of Methane", "Layer Molecular Column Density of Ozone"]}, {"AIRS3STD": ["ATMOSPHERE", "CALIBRATED", "GEOLOCATED", "TEMPERATURE", "CLOUD", "EOSDIS", "Total Ozone", "Global Gridded", "Total Integrated Column Water Vapor Burden", "Total Integrated Column Cloud Liquid Water", "Total Integrated Column Carbon Monoxide", "Spectral IR Surface Emissivities", "Total Integrated Column Ozone Burden", "Outgoing Longwave Radiation Flux", "Clear Sky Outgoing Longwave Radiation Flux", "Relative Humidity Profile", "Cloud Layer Pressure At Coarse Cloud Resolution", "Cloud Layer Pressure At Fine Cloud Resolution", "Water Vapor Mass Mixing Ratio Profile", "Tropopause Height", "Tropopause Temperature", "Effective Methane Volume Mixing Ratio Profile", "Effective Carbon Monoxide Volume Mixing Ratio Profile", "Total Integrated Cloud Liquid Water"]}, {"AIRS3STM": ["ATMOSPHERE", "CALIBRATED", "GEOLOCATED", "TEMPERATURE", "CLOUD", "EOSDIS", "Total Ozone", "Global Gridded", "Total Integrated Column Water Vapor Burden", "Total Integrated Column Cloud Liquid Water", "Total Integrated Column Carbon Monoxide", "Spectral IR Surface Emissivities", "Total Integrated Column Ozone Burden", "Outgoing Longwave Radiation Flux", "Clear Sky Outgoing Longwave Radiation Flux", "Relative Humidity Profile", "Cloud Layer Pressure At Coarse Cloud Resolution", "Cloud Layer Pressure At Fine Cloud Resolution", "Water Vapor Mass Mixing Ratio Profile", "Tropopause Height", "Tropopause Temperature", "Effective Methane Volume Mixing Ratio Profile", "Effective Carbon Monoxide Volume Mixing Ratio Profile", "Total Integrated Cloud Liquid Water"]}, {"AIRX3C2M": null}, {"AIRS3C2M": null}, {"amsua15sp": null}, {"amsua16sp": null}, {"amsua17sp": null}, {"AQ3_DYSM": null}, {"AQ3_WKSM": null}, {"AQUARIUS_L3_SSS_SMI_7DAY-RUNNINGMEAN_V5": null}, {"AQUARIUS_L3_SSS_SMI_7DAY_V5": null}, {"AQUARIUS_L3_SSS_SMI_DAILY_V5": null}, {"AQUARIUS_L3_SSS_SMI_MONTHLY-CLIMATOLOGY_V5": null}, {"AQUARIUS_L3_SSS_SMI_SEASONAL-CLIMATOLOGY_V5": null}, {"ASTGTM": null}, {"AU_5DSno": null}, {"AU_DySno": null}, {"AU_Land": null}, {"AU_MoSno": null}, {"AU_SI12": null}, {"AU_SI25": null}, {"AU_SI6": null}, {"AVISO_L4_DYN_TOPO_1DEG_1MO": null}, {"CCMP_MEASURES_ATLAS_L4_OW_L3_5A_MONTHLY_WIND_VECTORS_FLK": null}, {"CER_SYN1deg-Month_Terra-Aqua-MODIS": ["TOA Fluxes", "Surface Fluxes", "In-Atmospheric Fluxes", "Window-region Flux", "Cloud Infrared Emissivity", "Cloud Effective Pressure", "Cloud Effective Temperature", "Cloud Effective Height", "Cloud Vertical Aspect Ratio", "Cloud Particle Phase", "Column Ozone", "Shortwave Direct Fluxes", "Shortwave Diffuse Fluxes", "PAR Fluxes", "Clear-Sky Fluxes", "Total-Sky Fluxes", "TOA Outgoing LW Entropy", "Atmosphere Outgoing LW Entropy", "Surface Upward LW Entropy", "Surface Downward LW Entropy", "TOA Incoming SW Entropy", "Atmosphere Incoming SW Entropy", "Surface SW Incoming Entropy"]}, {"CERES_EBAF-Surface": ["Surface", "Cloud Radiative Effect"]}, {"CERES_EBAF-TOA": ["ALL-SKY TOA NET BALANCED FLUX", "CLEAR-SKY (SPATIALLY COMPLETE) TOA NET BALANCED FLUX", "CLOUD RADIATIVE FORCING", "Cloud Effective Temperature", "Cloud Effective Pressure"]}, {"CERES_EBAF-TOA": ["ALL-SKY TOA NET BALANCED FLUX", "CLEAR-SKY (SPATIALLY COMPLETE) TOA NET BALANCED FLUX", "CLOUD RADIATIVE FORCING", "Cloud Effective Temperature", "Cloud Effective Pressure"]}, {"CER_SYN1deg-Month_Terra-MODIS": ["Atmosphere Incoming SW Entropy", "Atmosphere Outgoing LW Entropy", "Clear-Sky Fluxes", "Cloud Effective Height", "Cloud Effective Pressure", "Cloud Effective Temperature", "Cloud Infrared Emissivity", "Cloud Particle Phase", "Cloud Vertical Aspect Ratio", "Column Ozone", "In-Atmospheric Fluxes", "PAR Fluxes", "Shortwave Diffuse Fluxes", "Shortwave Direct Fluxes", "Surface Downward LW Entropy", "Surface Fluxes", "Surface SW Incoming Entropy", "Surface Upward LW Entropy", "TOA Fluxes", "TOA Incoming SW Entropy", "TOA Outgoing LW Entropy", "Total-Sky Fluxes", "Window-region Flux"]}, {"CYGNSS_L3_V2.1": null}, {"AVHRR_OI-NCEI-L4-GLOB-v2.0": null}, {"GPM_2AGPROFGPMGMI": ["Atmosphere, Precipitation, Water Vapor"]}, {"GPM_1CGPMGMI": ["Atmosphere, Precipitation, Water Vapor"]}, {"TELLUS_GRACE_MASCON_CRI_GRID_RL06_V1": null}, {"GPM_3IMERGDF": ["Atmosphere, Precipitation, Hydrology"]}, {"GPM_3IMERGHHE": ["Atmosphere, Precipitation, Hydrology"]}, {"lislip": null}, {"lisvhrac": null}, {"lisvhrfc": null}, {"lisvhrmc": null}, {"lisvhrsc": null}, {"lohrfc": null}, {"LPRM_AMSR2_DS_A_SOILM3": ["Hydrology", "AMSR2", "Skin temperature", "Surface soil moisture", "Optical depth", "Radio frequency interference (RFI)", "Brightness temperature", "Soil water content", "Vegetation water content", "Microwave", "BEDI", "Agriculture and Forestry", "Climate", "Disasters", "Water Resources", "Weather"]}, {"LPRM_AMSR2_DS_D_SOILM3": ["Hydrology", "AMSR2", "Skin temperature", "Surface soil moisture", "Optical depth", "Radio frequency interference (RFI)", "Brightness temperature", "Soil water content", "Vegetation water content", "Microwave", "BEDI", "Agriculture and Forestry", "Climate", "Disasters", "Water Resources", "Weather"]}, {"LPRM_AMSR2_D_SOILM3": ["Hydrology", "AMSR2", "Skin temperature", "Surface soil moisture", "Optical depth", "Radio frequency interference (RFI)", "Brightness temperature", "Soil water content", "Vegetation water content", "Microwave", "BEDI", "Agriculture and Forestry", "Climate", "Disasters", "Water Resources", "Weather"]}, {"LPRM_AMSR2_A_SOILM3": ["Hydrology", "AMSR2", "Skin temperature", "Surface soil moisture", "Optical depth", "Radio frequency interference (RFI)", "Brightness temperature", "Soil water content", "Vegetation water content", "Microwave", "BEDI", "Agriculture and Forestry", "Climate", "Disasters", "Water Resources", "Weather"]}, {"MCD12Q1": null}, {"MCD15A2H": null}, {"MCD15A3H": null}, {"MCD43A3": null}, {"MCD43A4": null}, {"MCDAODHD": ["AEROSOL OPTICAL DEPTH", "AEROSOL OPTICAL THICKNESS", "AEROSOL INDEX", "Near Real Time (NRT)", "LANCE", "EOSDIS", "RELATIVE_START_DATE: -11"]}, {"NSIDC-0477": null}, {"M2TMNXRAD": ["BEDI", "Agriculture and Forestry", "Biodiversity", "Climate", "Disasters", "Terrestrial and Freshwater Ecosystems", "Human Health", "Ocean and Coastal Resources and Ecosystems", "Transportation", "Water Resources", "Weather"]}, {"M2IMNXGAS": ["BEDI", "Agriculture and Forestry", "Biodiversity", "Climate", "Disasters", "Terrestrial and Freshwater Ecosystems", "Human Health", "Ocean and Coastal Resources and Ecosystems", "Transportation", "Water Resources", "Weather"]}, {"M2IMNPASM": ["BEDI", "Agriculture and Forestry", "Biodiversity", "Climate", "Disasters", "Terrestrial and Freshwater Ecosystems", "Human Health", "Ocean and Coastal Resources and Ecosystems", "Transportation", "Water Resources", "Weather"]}, {"M2TMNXCHM": ["BEDI", "Agriculture and Forestry", "Biodiversity", "Climate", "Disasters", "Terrestrial and Freshwater Ecosystems", "Human Health", "Ocean and Coastal Resources and Ecosystems", "Transportation", "Water Resources", "Weather"]}, {"M2TMNPMST": ["BEDI", "Agriculture and Forestry", "Biodiversity", "Climate", "Disasters", "Terrestrial and Freshwater Ecosystems", "Human Health", "Ocean and Coastal Resources and Ecosystems", "Transportation", "Water Resources", "Weather"]}, {"M2TMNXADG": ["BEDI", "Agriculture and Forestry", "Biodiversity", "Climate", "Disasters", "Terrestrial and Freshwater Ecosystems", "Human Health", "Ocean and Coastal Resources and Ecosystems", "Transportation", "Water Resources", "Weather"]}, {"M2TMNXAER": ["BEDI", "Agriculture and Forestry", "Biodiversity", "Climate", "Disasters", "Terrestrial and Freshwater Ecosystems", "Human Health", "Ocean and Coastal Resources and Ecosystems", "Transportation", "Water Resources", "Weather", "Black Carbon", "BC", "DMS", "SO2", "SO4", "Sea Salt"]}, {"M2TMNXOCN": ["BEDI", "Agriculture and Forestry", "Biodiversity", "Climate", "Disasters", "Terrestrial and Freshwater Ecosystems", "Human Health", "Ocean and Coastal Resources and Ecosystems", "Transportation", "Water Resources", "Weather"]}, {"M2TMNXINT": ["BEDI", "Agriculture and Forestry", "Biodiversity", "Climate", "Disasters", "Terrestrial and Freshwater Ecosystems", "Human Health", "Ocean and Coastal Resources and Ecosystems", "Transportation", "Water Resources", "Weather"]}, {"M2TMNXLND": ["BEDI", "Agriculture and Forestry", "Biodiversity", "Climate", "Disasters", "Terrestrial and Freshwater Ecosystems", "Human Health", "Ocean and Coastal Resources and Ecosystems", "Transportation", "Water Resources", "Weather"]}, {"M2TMNXCSP": ["BEDI", "Agriculture and Forestry", "Biodiversity", "Climate", "Disasters", "Terrestrial and Freshwater Ecosystems", "Human Health", "Ocean and Coastal Resources and Ecosystems", "Transportation", "Water Resources", "Weather"]}, {"M2IMNPANA": ["BEDI", "Agriculture and Forestry", "Biodiversity", "Climate", "Disasters", "Terrestrial and Freshwater Ecosystems", "Human Health", "Ocean and Coastal Resources and Ecosystems", "Transportation", "Water Resources", "Weather"]}, {"M2TMNXFLX": ["BEDI", "Agriculture and Forestry", "Biodiversity", "Climate", "Disasters", "Terrestrial and Freshwater Ecosystems", "Human Health", "Ocean and Coastal Resources and Ecosystems", "Transportation", "Water Resources", "Weather"]}, {"M2TMNPCLD": ["BEDI", "Agriculture and Forestry", "Biodiversity", "Climate", "Disasters", "Terrestrial and Freshwater Ecosystems", "Human Health", "Ocean and Coastal Resources and Ecosystems", "Transportation", "Water Resources", "Weather"]}, {"M2TMNXGLC": ["BEDI", "Agriculture and Forestry", "Biodiversity", "Climate", "Disasters", "Terrestrial and Freshwater Ecosystems", "Human Health", "Ocean and Coastal Resources and Ecosystems", "Transportation", "Water Resources", "Weather"]}, {"M2IMNXLFO": ["BEDI", "Agriculture and Forestry", "Biodiversity", "Climate", "Disasters", "Terrestrial and Freshwater Ecosystems", "Human Health", "Ocean and Coastal Resources and Ecosystems", "Transportation", "Water Resources", "Weather"]}, {"M2TMNXSLV": ["BEDI", "Agriculture and Forestry", "Biodiversity", "Climate", "Disasters", "Terrestrial and Freshwater Ecosystems", "Human Health", "Ocean and Coastal Resources and Ecosystems", "Transportation", "Water Resources", "Weather"]}, {"M2TMNXLFO": ["BEDI", "Agriculture and Forestry", "Biodiversity", "Climate", "Disasters", "Terrestrial and Freshwater Ecosystems", "Human Health", "Ocean and Coastal Resources and Ecosystems", "Transportation", "Water Resources", "Weather"]}, {"M2IMNXASM": ["BEDI", "Agriculture and Forestry", "Biodiversity", "Climate", "Disasters", "Terrestrial and Freshwater Ecosystems", "Human Health", "Ocean and Coastal Resources and Ecosystems", "Transportation", "Water Resources", "Weather"]}, {"M2IMNXINT": ["BEDI", "Agriculture and Forestry", "Biodiversity", "Climate", "Disasters", "Terrestrial and Freshwater Ecosystems", "Human Health", "Ocean and Coastal Resources and Ecosystems", "Transportation", "Water Resources", "Weather"]}, {"MIL3MAE": ["COLUMN AEROSOL OPTICAL DEPTH", "OPTICAL DEPTH", "STRATOSPHERIC AEROSOL OPTICAL DEPTH", "CIRRUS OPTICAL DEPTH", "EOSDIS"]}, {"MIL3MCLD": ["EOSDIS", "FIRSTLOOK"]}, {"MIL3MLS": ["DIRECTIONAL REFLECTANCE FACTOR", "REFLECTANCE", "LAI", "PAR", "LEAF AREA INDEX", "NORMALIZED DIFFERENCE VEGETATION INDEX", "NDVI", "FRACTIONAL ABSORBED PHOTOSYNTHETICALLY ACTIVE RADAITION", "RADIANT EXITANCE", "HEMISPHERICAL-DIRECTIONAL REFLECTANCE FACTOR", "BIHEMISPHERICAL REFLECTANCE", "BIDIRECTIONAL REFLECTANCE FACTOR", "DIRECETIONAL HEMISPHERICAL REFLECTANCE"]}, {"MIL3MRD": ["TOA", "IMAGERY", "SPECTRAL BANDS", "NEAR IR WAVELENGTHS", "NEAR IR IMAGERY", "RADIANCE", "SURFACE PROJECTED TOA RADIANCE", "EOSDIS"]}, {"MIL3MAL": ["EOSDIS", "REFLECTING LEVEL REFERENCE ALTITUDE", "SURFACE TYPE", "CLOUD TEXTURE", "CLEAR SKY ALBEDO"]}, {"ML2CO": ["CO"]}, {"ML2CO": ["CO"]}, {"ML2H2O": ["H2O"]}, {"ML2H2O": ["H2O"]}, {"ML2HNO3": ["HNO3"]}, {"ML2HNO3": ["HNO3"]}, {"ML2N2O": null}, {"ML2N2O": null}, {"ML2O3": null}, {"ML2O3": null}, {"ML2SO2": null}, {"ML2SO2": null}, {"ML2T": null}, {"ML2T": null}, {"MOD04_3K": null}, {"MOD04_3K": ["AEROSOL INDEX", "AEROSOL OPTICAL DEPTH", "AEROSOL OPTICAL THICKNESS", "AEROSOL TYPE", "AIR MONITORING", "ANGSTROM COEFFICIENT", "ASYMMETRY FACTOR", "ATMOSPHERIC CORRECTION", "ATMOSPHERIC MODELS", "BACKSCATTERING RATIO", "DESERT DUST", "EFFECTIVE OPTICAL DEPTH", "EFFECTIVE RADIUS", "EMISSIONS", "HAZE", "MASS CONCENTRATION", "MIE PARTICLES", "MOD04", "MOD04_3K", "PARTICULATE", "POLLUTANTS", "RADIATION BUDGET", "RADIATIVE COOLING", "RADIATIVE TRANSFER MODELS", "REFELCTED FLUX", "SCATTERING ANGLE", "SEA SALT", "SMOG", "SPECTRAL OPTICAL DEPTH", "STRATOSPHERIC AEROSOL", "SURFACE REFLECTANCE", "TOTAL COLUMN OPTICAL THICKNESS", "TRANSMITTED FLUX", "TROPOSPHERIC AEROSOL", "TURBIDITY", "VISIBILITY", "VOLCANIC AEROSOL. OPeNDAP", "EOSDIS", "Near Real Time (NRT)", "LANCE", "RELATIVE_START_DATE: -11"]}, {"MOD04_L2": null}, {"MOD04_L2": ["AEROSOL INDEX", "AEROSOL OPTICAL DEPTH", "AEROSOL OPTICAL THICKNESS", "AEROSOL TYPE", "AIR MONITORING", "ANGSTROM COEFFICIENT", "ASYMMETRY FACTOR", "ATMOSPHERIC CORRECTION", "ATMOSPHERIC MODELS", "BACKSCATTERING RATIO", "DESERT DUST", "EFFECTIVE OPTICAL DEPTH", "EFFECTIVE RADIUS", "EMISSIONS", "HAZE", "MASS CONCENTRATION", "MIE PARTICLES", "MOD04", "MOD04_L2", "PARTICULATE", "POLLUTANTS", "RADIATION BUDGET", "RADIATIVE COOLING", "RADIATIVE TRANSFER MODELS", "REFELCTED FLUX", "SCATTERING ANGLE", "SEA SALT", "SMOG", "SPECTRAL OPTICAL DEPTH", "STRATOSPHERIC AEROSOL", "SURFACE REFLECTANCE", "TOTAL COLUMN OPTICAL THICKNESS", "TRANSMITTED FLUX", "TROPOSPHERIC AEROSOL", "TURBIDITY", "VISIBILITY", "VOLCANIC AEROSOL. OPeNDAP", "EOSDIS", "Near Real Time (NRT)", "LANCE", "RELATIVE_START_DATE: -11"]}, {"MOD06_L2": null}, {"MOD06_L2": ["BRIGHTNESS TEMPERATURE", "CIRRUS REFLECTANCE", "CLOUD ALTITUDE", "CLOUD CLIMATOLOGY", "CLOUD EFFECTIVE RADIUS", "CLOUD EXTENT", "CLOUD FRACTION", "CLOUD LIQUID WATER PATH", "CLOUD MICROPHYSICS", "CLOUD OPTICAL DEPTH", "CLOUD OPTICAL PROPERTIES", "CLOUD PHASE", "CLOUD TOP HEIGHT", "CLOUD TOP TEMPERATURE", "CLOUD TYPE", "CLOUD WATER PATH", "CONTRAIL", "CONTRAIL REFLECTANCE", "DROPLET SIZE", "EFFECTIVE EMISSIVITY", "GLOBAL CHANGE", "HIGH CLOUD", "ICE CLOUD", "LOW CLOUD", "MOD06", "MOD06_L2", "MODIS CLOUD PRODUCTS", "SPECTRAL CLOUD FORCING", "THICK CLOUD", "THIN CLOUD", "WATER CLOUD", "EOSDIS", "Near Real Time (NRT)", "LANCE", "RELATIVE_START_DATE: -11"]}, {"MOD09GA": ["IMAGERY", "EOSDIS", "ESIP", "Near Real Time (NRT)", "LANCE", "RELATIVE_START_DATE: -11"]}, {"MOD09GA": null}, {"MOD09GQ": ["IMAGERY", "DAAC", "EOSDIS", "ESIP", "Near Real Time (NRT)", "LANCE", "RELATIVE_START_DATE: -11"]}, {"MOD09GQ": null}, {"MOD09A1": null}, {"MOD09Q1": null}, {"MOD10_L2": ["Antarctic", "Arctic", "Climatology", "DAAC", "ECS", "EOSDIS", "Global Change", "Lake Ice", "NASA", "NSIDC", "Polar", "Remote Sensing", "Snow", "Snow Cover", "Snow On Ice", "Swath", "RELATIVE_START_DATE: -11"]}, {"MOD10_L2": null}, {"MOD10_L2": null}, {"MOD10A1": null}, {"MOD10A1": null}, {"MOD10A2": null}, {"MOD10A2": null}, {"MOD10CM": null}, {"MOD10CM": null}, {"MOD11A1": null}, {"MOD11A2": null}, {"MOD11C3": null}, {"MYD13A3": null}, {"MOD13A3": null}, {"MOD13Q1": null}, {"MOD13Q4N": ["RELATIVE_START_DATE: -11", "EOSDIS", "ESIP", "LANCE"]}, {"MOD15A2H": null}, {"MOD17A2H": null}, {"MOD29": ["Antarctic", "Arctic", "Climatology", "DAAC", "EASE-Grid", "ECS", "EOSDIS", "Global Change", "Gridded", "Ice Surface Temperature", "IST", "NASA", "NSIDC", "Polar", "Remote Sensing", "Sea Ice", "Swath", "RELATIVE_START_DATE: -11"]}, {"MOD29": null}, {"MOD29": null}, {"MOD29P1D": null}, {"MOD29P1D": null}, {"MOD29P1N": null}, {"MOD29P1N": null}, {"MOD44W": null}, {"MODIS_TERRA_L3_SST_THERMAL_8DAY_4KM_DAYTIME_V2014.0": null}, {"MODIS_TERRA_L3_SST_MID-IR_8DAY_4KM_NIGHTTIME_V2014.0": null}, {"MODIS_TERRA_L3_SST_THERMAL_8DAY_4KM_NIGHTTIME_V2014.0": null}, {"MODIS_TERRA_L3_SST_THERMAL_ANNUAL_4KM_DAYTIME_V2014.0": null}, {"MODIS_TERRA_L3_SST_MID-IR_ANNUAL_4KM_NIGHTTIME_V2014.0": null}, {"MODIS_TERRA_L3_SST_THERMAL_ANNUAL_4KM_NIGHTTIME_V2014.0": null}, {"MODIS_TERRA_L3_SST_THERMAL_DAILY_4KM_DAYTIME_V2014.0": null}, {"MODIS_TERRA_L3_SST_MID-IR_DAILY_4KM_NIGHTTIME_V2014.0": null}, {"MODIS_TERRA_L3_SST_THERMAL_DAILY_4KM_NIGHTTIME_V2014.0": null}, {"MODIS_TERRA_L3_SST_THERMAL_MONTHLY_4KM_DAYTIME_V2014.0": null}, {"MODIS_TERRA_L3_SST_MID-IR_MONTHLY_4KM_NIGHTTIME_V2014.0": null}, {"MODIS_TERRA_L3_SST_THERMAL_MONTHLY_4KM_NIGHTTIME_V2014.0": null}, {"MODIS_TERRA_L3_SST_THERMAL_8DAY_9KM_DAYTIME_V2014.0": null}, {"MODIS_TERRA_L3_SST_MID-IR_8DAY_9KM_NIGHTTIME_V2014.0": null}, {"MODIS_TERRA_L3_SST_THERMAL_8DAY_9KM_NIGHTTIME_V2014.0": null}, {"MODIS_TERRA_L3_SST_THERMAL_ANNUAL_9KM_DAYTIME_V2014.0": null}, {"MODIS_TERRA_L3_SST_MID-IR_ANNUAL_9KM_NIGHTTIME_V2014.0": null}, {"MODIS_TERRA_L3_SST_THERMAL_ANNUAL_9KM_NIGHTTIME_V2014.0": null}, {"MODIS_TERRA_L3_SST_THERMAL_DAILY_9KM_DAYTIME_V2014.0": null}, {"MODIS_TERRA_L3_SST_MID-IR_DAILY_9KM_NIGHTTIME_V2014.0": null}, {"MODIS_TERRA_L3_SST_THERMAL_DAILY_9KM_NIGHTTIME_V2014.0": null}, {"MODIS_TERRA_L3_SST_THERMAL_MONTHLY_9KM_DAYTIME_V2014.0": null}, {"MODIS_TERRA_L3_SST_MID-IR_MONTHLY_9KM_NIGHTTIME_V2014.0": null}, {"MODIS_TERRA_L3_SST_THERMAL_MONTHLY_9KM_NIGHTTIME_V2014.0": null}, {"MOP03J": null}, {"MOP03J": null}, {"MOP03J": null}, {"MOP03J": null}, {"MOP02R_NRT": null}, {"MOP03JM": null}, {"MOP03JM": null}, {"MOP03JM": null}, {"MOP03JM": null}, {"MYD04_3K": null}, {"MYD04_3K": ["AEROSOL INDEX", "AEROSOL OPTICAL DEPTH", "AEROSOL OPTICAL THICKNESS", "AEROSOL TYPE", "AIR MONITORING", "ANGSTROM COEFFICIENT", "ASYMMETRY FACTOR", "ATMOSPHERIC CORRECTION", "ATMOSPHERIC MODELS", "BACKSCATTERING RATIO", "DESERT DUST", "EFFECTIVE OPTICAL DEPTH", "EFFECTIVE RADIUS", "EMISSIONS", "HAZE", "MASS CONCENTRATION", "MIE PARTICLES", "MYD04", "MYD04_3K", "PARTICULATE", "POLLUTANTS", "RADIATION BUDGET", "RADIATIVE COOLING", "RADIATIVE TRANSFER MODELS", "REFELCTED FLUX", "SCATTERING ANGLE", "SEA SALT", "SMOG", "SPECTRAL OPTICAL DEPTH", "STRATOSPHERIC AEROSOL", "SURFACE REFLECTANCE", "TOTAL COLUMN OPTICAL THICKNESS", "TRANSMITTED FLUX", "TROPOSPHERIC AEROSOL", "TURBIDITY", "VISIBILITY", "VOLCANIC AEROSOL. OPeNDAP", "EOSDIS", "Near Real Time (NRT)", "LANCE", "RELATIVE_START_DATE: -11"]}, {"MYD04_L2": null}, {"MYD04_L2": ["AEROSOL INDEX", "AEROSOL OPTICAL DEPTH", "AEROSOL OPTICAL THICKNESS", "AEROSOL TYPE", "AIR MONITORING", "ANGSTROM COEFFICIENT", "ASYMMETRY FACTOR", "ATMOSPHERIC CORRECTION", "ATMOSPHERIC MODELS", "BACKSCATTERING RATIO", "DESERT DUST", "EFFECTIVE OPTICAL DEPTH", "EFFECTIVE RADIUS", "EMISSIONS", "HAZE", "MASS CONCENTRATION", "MIE PARTICLES", "MYD04", "MYD04_L2", "PARTICULATE", "POLLUTANTS", "RADIATION BUDGET", "RADIATIVE COOLING", "RADIATIVE TRANSFER MODELS", "REFELCTED FLUX", "SCATTERING ANGLE", "SEA SALT", "SMOG", "SPECTRAL OPTICAL DEPTH", "STRATOSPHERIC AEROSOL", "SURFACE REFLECTANCE", "TOTAL COLUMN OPTICAL THICKNESS", "TRANSMITTED FLUX", "TROPOSPHERIC AEROSOL", "TURBIDITY", "VISIBILITY", "VOLCANIC AEROSOL. OPeNDAP", "EOSDIS", "Near Real Time (NRT)", "LANCE", "RELATIVE_START_DATE: -11"]}, {"MYD06_L2": null}, {"MYD06_L2": ["BRIGHTNESS TEMPERATURE", "CIRRUS REFLECTANCE", "CLOUD ALTITUDE", "CLOUD CLIMATOLOGY", "CLOUD EFFECTIVE RADIUS", "CLOUD EXTENT", "CLOUD FRACTION", "CLOUD LIQUID WATER PATH", "CLOUD MICROPHYSICS", "CLOUD OPTICAL DEPTH", "CLOUD OPTICAL PROPERTIES", "CLOUD PHASE", "CLOUD TOP HEIGHT", "CLOUD TOP TEMPERATURE", "CLOUD TYPE", "CLOUD WATER PATH", "CONTRAIL", "CONTRAIL REFLECTANCE", "DROPLET SIZE", "EFFECTIVE EMISSIVITY", "GLOBAL CHANGE", "HIGH CLOUD", "ICE CLOUD", "LOW CLOUD", "MYD06", "MYD06_L2", "MODIS CLOUD PRODUCTS", "SPECTRAL CLOUD FORCING", "THICK CLOUD", "THIN CLOUD", "WATER CLOUD", "EOSDIS", "Near Real Time (NRT)", "LANCE", "RELATIVE_START_DATE: -11"]}, {"MYD09GA": ["IMAGERY", "EOSDIS", "ESIP", "Near Real Time (NRT)", "LANCE", "RELATIVE_START_DATE: -11"]}, {"MYD09GA": null}, {"MYD09GQ": ["IMAGERY", "EOSDIS", "Near Real Time (NRT)", "LANCE", "RELATIVE_START_DATE: -11"]}, {"MYD09GQ": null}, {"MYD09A1": null}, {"MYD09Q1": null}, {"MYD10_L2": ["Antarctic", "Arctic", "Climatology", "DAAC", "ECS", "EOS PM-1", "EOSDIS", "Global Change", "Lake Ice", "NASA", "NSIDC", "Polar", "Remote Sensing", "Snow", "Snow Cover", "Snow On Ice", "Swath", "RELATIVE_START_DATE: -11"]}, {"MYD10_L2": null}, {"MYD10_L2": null}, {"MYD10A1": null}, {"MYD10A1": null}, {"MYD10A2": null}, {"MYD10A2": null}, {"MYD10CM": null}, {"MYD10CM": null}, {"MYD11A1": null}, {"MYD11A2": null}, {"MYD11C3": null}, {"MYD13Q1": null}, {"MYD15A2H": null}, {"MYD17A2H": null}, {"MYD29": ["Antarctic", "Arctic", "Climatology", "DAAC", "EASE-Grid", "ECS", "EOSDIS", "Global Change", "Gridded", "Ice Surface Temperature", "IST", "NASA", "NSIDC", "Polar", "Remote Sensing", "Sea Ice", "Swath", "RELATIVE_START_DATE: -11"]}, {"MYD29": null}, {"MYD29": null}, {"MYD29P1D": null}, {"MYD29P1D": null}, {"MYD29P1N": null}, {"MYD29P1N": null}, {"MODIS_AQUA_L3_SST_THERMAL_8DAY_4KM_DAYTIME_V2014.0": null}, {"MODIS_AQUA_L3_SST_MID-IR_8DAY_4KM_NIGHTTIME_V2014.0": null}, {"MODIS_AQUA_L3_SST_THERMAL_8DAY_4KM_NIGHTTIME_V2014.0": null}, {"MODIS_AQUA_L3_SST_THERMAL_ANNUAL_4KM_DAYTIME_V2014.0": null}, {"MODIS_AQUA_L3_SST_MID-IR_ANNUAL_4KM_NIGHTTIME_V2014.0": null}, {"MODIS_AQUA_L3_SST_THERMAL_ANNUAL_4KM_NIGHTTIME_V2014.0": null}, {"MODIS_AQUA_L3_SST_THERMAL_DAILY_4KM_DAYTIME_V2014.0": null}, {"MODIS_AQUA_L3_SST_MID-IR_DAILY_4KM_NIGHTTIME_V2014.0": null}, {"MODIS_AQUA_L3_SST_THERMAL_DAILY_4KM_NIGHTTIME_V2014.0": null}, {"MODIS_AQUA_L3_SST_THERMAL_MONTHLY_4KM_DAYTIME_V2014.0": null}, {"MODIS_AQUA_L3_SST_MID-IR_MONTHLY_4KM_NIGHTTIME_V2014.0": null}, {"MODIS_AQUA_L3_SST_THERMAL_MONTHLY_4KM_NIGHTTIME_V2014.0": null}, {"MODIS_AQUA_L3_SST_THERMAL_8DAY_9KM_DAYTIME_V2014.0": null}, {"MODIS_AQUA_L3_SST_MID-IR_8DAY_9KM_NIGHTTIME_V2014.0": null}, {"MODIS_AQUA_L3_SST_THERMAL_8DAY_9KM_NIGHTTIME_V2014.0": null}, {"MODIS_AQUA_L3_SST_THERMAL_ANNUAL_9KM_DAYTIME_V2014.0": null}, {"MODIS_AQUA_L3_SST_MID-IR_ANNUAL_9KM_NIGHTTIME_V2014.0": null}, {"MODIS_AQUA_L3_SST_THERMAL_ANNUAL_9KM_NIGHTTIME_V2014.0": null}, {"MODIS_AQUA_L3_SST_THERMAL_DAILY_9KM_DAYTIME_V2014.0": null}, {"MODIS_AQUA_L3_SST_MID-IR_DAILY_9KM_NIGHTTIME_V2014.0": null}, {"MODIS_AQUA_L3_SST_THERMAL_DAILY_9KM_NIGHTTIME_V2014.0": null}, {"MODIS_AQUA_L3_SST_THERMAL_MONTHLY_9KM_DAYTIME_V2014.0": null}, {"MODIS_AQUA_L3_SST_MID-IR_MONTHLY_9KM_NIGHTTIME_V2014.0": null}, {"MODIS_AQUA_L3_SST_THERMAL_MONTHLY_9KM_NIGHTTIME_V2014.0": null}, {"NLDAS_FORA0125_M": ["Hydrology"]}, {"NLDAS_FORB0125_M": ["Hydrology"]}, {"NLDAS_MOS0125_M": ["Hydrology"]}, {"NLDAS_NOAH0125_M": ["Hydrology"]}, {"NLDAS_VIC0125_M": ["Hydrology"]}, {"OCO2_L2_Lite_SIF": null}, {"OCO2_L2_Lite_FP": null}, {"olsdig10": null}, {"olsdig12": null}, {"OMAERUVd": ["Aerosol Absorption Optical Depth", "Aerosol Extinction Optical Depth", "Aerosol Single Scattering Albedo", "BEDI", "Agriculture and Forestry", "Climate", "Disasters", "Human Health", "Transportation", "Weather"]}, {"OMAEROe": ["Aerosol Optical Depth/Thickness", "Aerosol Extinction Optical Depth", "Aerosol Single Scattering Albedo", "UV Aerosol Index", "Visible Aerosol Index", "Air Pollutant", "Aerosol Type", "Dust", "Smoke"]}, {"OMAERUV": ["Aerosol Optical Depth/Thickness", "Aerosol Absorption Optical Depth", "Aerosol Extinction Optical Depth", "Aerosol Single Scattering Albedo", "UV Aerosol Index", "Visible Aerosol Index", "Air Pollutant", "Aerosol Layer Height", "Aerosol Type", "Dust", "Smoke", "BEDI", "Agriculture and Forestry", "Climate", "Disasters", "Human Health", "Transportation", "Weather"]}, {"OMAERUV": null}, {"OMCLDRR": null}, {"OMCLDRR": ["Atmospheric Chemistry", "Atmospheric Dynamics", "Effective Cloud Top Pressure", "Effective Cloud Fraction", "Effective Cloud Height", "EOSDIS", "BEDI", "Agriculture and Forestry", "Climate", "Disasters", "Human Health", "Transportation", "Weather"]}, {"OMNO2d": ["Atmospheric Chemistry", "Total Column Nitrogen Dioxide (NO2)", "Tropospheric Nitrogen Dioxide", "Air Quality", "Pollutant", "EOSDIS"]}, {"OMDOAO3e": ["Atmospheric Chemistry", "Total Column Ozone (O3)", "Air Quality", "Pollutant", "EOSDIS"]}, {"OMTO3e": null}, {"OMTO3e": ["Total Column Ozone", "Radiative Cloud Fraction", "EOSDIS", "BEDI", "Agriculture and Forestry", "Climate", "Disasters", "Human Health", "Transportation", "Weather"]}, {"OMSO2": ["Atmospheric Chemistry", "Total Column Sulfur Dioxide (SO2)", "Air Quality", "Pollutant", "EOSDIS", "BEDI", "Agriculture and Forestry", "Climate", "Disasters", "Human Health", "Transportation", "Weather"]}, {"OMSO2": null}, {"OMSO2e": ["Atmospheric Chemistry", "Total Column Sulfur Dioxide (SO2)", "Pollutant", "EOSDIS", "BEDI", "Agriculture and Forestry", "Climate", "Disasters", "Human Health", "Transportation", "Weather"]}, {"OMUVBd": ["Surface UV Irradiance", "Erythemally Weighted Daily Dose", "Erythemal Dose Rate at satellite Overpass Time", "BEDI", "Agriculture and Forestry", "Climate", "Disasters", "Human Health", "Transportation", "Weather"]}, {"OSCAR_L4_OC_third-deg": null}, {"otdlip": null}, {"rss1tpwnv7r01": null}, {"rss1windnv7r01": null}, {"CIESIN_SEDAC_AGLANDS_CROP2000": null}, {"CIESIN_SEDAC_AGLANDS_PAS2000": null}, {"CIESIN_SEDAC_SPECIES_AMP_RICH15": null}, {"CIESIN_SEDAC_ANTHROMES_v1": null}, {"CIESIN_CHRR_NDH_CYCLONE_PELRD": null}, {"CIESIN_CHRR_NDH_CYCLONE_HFD": null}, {"CIESIN_CHRR_NDH_CYCLONE_MRD": null}, {"CIESIN_CHRR_NDH_DROUGHT_PELRD": null}, {"CIESIN_CHRR_NDH_DROUGHT_HFD": null}, {"CIESIN_CHRR_NDH_DROUGHT_MRD": null}, {"CIESIN_SEDAC_PD_NETMIG_1970_2000": null}, {"CIESIN_CHRR_NDH_FLOOD_PELRD": null}, {"CIESIN_CHRR_NDH_FLOOD_HFD": null}, {"CIESIN_CHRR_NDH_FLOOD_MRD": null}, {"CIESIN_SEDAC_ULANDSAT_GMIS_V1": null}, {"CIESIN_SEDAC_GPWv4_APDENS_WPP_2015": null}, {"CIESIN_SEDAC_GRUMPv1_EXT": null}, {"CIESIN_SEDAC_ULANDSAT_HBASE_V1": null}, {"CIESIN_SEDAC_LWP2_HF_GEOG": null}, {"CIESIN_CHRR_NDH_LSLIDE_HD": null}, {"CIESIN_SEDAC_LWP2_LW_GEOG": null}, {"CIESIN_SEDAC_SDEI_LST2013": null}, {"CIESIN_SEDAC_SPECIES_MAM_RICH15": null}, {"CIESIN_SEDAC_LULC_MANGROVES_2000": null}, {"CIESIN_SEDAC_SDEI_NO2": ["GOME", "GOME-2", "Nitrogen Dioxide", "NO2", "SCIAMACHY", "Satellite Data"]}, {"CIESIN_SEDAC_SDEI_PM25_MMSAOD": ["Particulate Matter", "PM2.5", "Remote Sensing", "Satellite Imagery", "Environmental Indicators", "MODIS", "MISR", "Aerosol Optical Depth", "SeaWIFS"]}, {"CIESIN_SEDAC_SDEI_UHI2013": null}, {"CIESIN_SEDAC_LECZ_URPLAEv2": null}, {"CIESIN_SEDAC_LULC_PUEXPANS_2030": null}, {"CIESIN_CHRR_NDH_VOLCANO_PELRD": null}, {"CIESIN_CHRR_NDH_VOLCANO_HFD": null}, {"CIESIN_CHRR_NDH_VOLCANO_MRD": null}, {"SPL1BTB": null}, {"SPL1CTB_E": null}, {"SPL1CTB": null}, {"SPL2SMP": null}, {"SPL2SMP_E": null}, {"SPL2SMAP_S": null}, {"SPL3FTP": null}, {"SPL3FTP_E": null}, {"SPL3SMA": null}, {"SPL3SMAP": null}, {"SPL3SMP": null}, {"SMAP_JPL_L3_SSS_CAP_8DAY-RUNNINGMEAN_V42": null}, {"SMAP_JPL_L3_SSS_CAP_MONTHLY_V42": null}, {"SPL4SMAU": null}, {"SPL4CMDL": null}, {"SPL4SMGP": null}, {"SRTMGL1": null}, {"rssmif10d": null}, {"rssmif11d": null}, {"rssmif13d": null}, {"rssmif14d": null}, {"rssmif15d": null}, {"rssmif16d": null}, {"rssmif17d": null}, {"rssmif08d": null}, {"SWDB_L305": ["AEROSOL INDEX", "AEROSOL OPTICAL DEPTH", "AEROSOL OPTICAL THICKNESS", "ANGSTROM COEFFICIENT", "AOT", "AOD", "DUST", "ASH", "SMOKE", "EFFECTIVE OPTICAL DEPTH", "SPECTRAL OPTICAL DEPTH", "STRATOSPHERIC AEROSOL", "TOTAL COLUMN OPTICAL THICKNESS", "TROPOSPHERIC AEROSOL", "SWDB", "BEDI", "Agriculture and Forestry", "Climate", "Disasters", "Human Health", "Weather"]}, {"SWDB_L3M05": ["AEROSOL INDEX", "AEROSOL OPTICAL DEPTH", "AEROSOL OPTICAL THICKNESS", "ANGSTROM COEFFICIENT", "AOT", "AOD", "DUST", "ASH", "SMOKE", "EFFECTIVE OPTICAL DEPTH", "SPECTRAL OPTICAL DEPTH", "STRATOSPHERIC AEROSOL", "TOTAL COLUMN OPTICAL THICKNESS", "TROPOSPHERIC AEROSOL", "SWDB", "BEDI", "Agriculture and Forestry", "Climate", "Disasters", "Human Health", "Weather"]}, {"ALT_TIDE_GAUGE_L4_OST_SLA_US_WEST_COAST_DAILY": null}, {"MERGED_TP_J1_OSTM_OST_CYCLES_V4": null}, {"RECON_SEA_LEVEL_OST_L4_V1": null}, {"GPM_2AGPROFTRMMTMI_CLIM": ["Atmosphere, Precipitation, Water Vapor"]}, {"GPM_1CTRMMTMI": ["Atmosphere, Precipitation, Water Vapor"]}, {"VNP02IMG_NRT": ["Near Real Time (NRT)", "LANCE", "RELATIVE_START_DATE: -8"]}, {"CLDMSK_L2_VIIRS_SNPP_NRT": null}, {"AERDB_L2_VIIRS_SNPP_NRT": null}, {"WELDAKYR": null}, {"WELDAKMO": null}, {"WELDAKSE": null}, {"WELDUSYR": null}, {"WELDUSMO": null}, {"WELDUSSE": null}, {"WELDLCLUC": null}, {"NSIDC-0484": null}, {"NISE": null}, {"NISE": null}, {"NISE": null}, {"NISE": null}, {"NSIDC-0478": null}, {"NSIDC-0534": null}, {"SPL3FTA": null}, {"MYD14": ["IMAGERY", "DAAC", "EOSDIS", "ESIP", "Near Real Time (NRT)", "LANCE", "RELATIVE_START_DATE: -11"]}, {"MYD14": null}, {"MOD14": ["IMAGERY", "DAAC", "EOSDIS", "ESIP", "Near Real Time (NRT)", "LANCE", "RELATIVE_START_DATE: -11"]}, {"MOD14": null}, {"CIESIN_SEDAC_GRUMPv1_STLMNT01": null}, {"VNP14IMGTDL_NRT": ["Near Real Time (NRT)", "FIRMS", "LANCE", "Fire", "hotspots", "RELATIVE_START_DATE: -8"]}]
+[
+  {
+    "A2_RainOcn_NRT": null
+  },
+  {
+    "A2_RainOcn_NRT": null
+  },
+  {
+    "AE_Rain": null
+  },
+  {
+    "AE_SI12": null
+  },
+  {
+    "AE_SI25": null
+  },
+  {
+    "AE_SI6": null
+  },
+  {
+    "AIRS2RET": [
+      "ATMOSPHERE",
+      "CALIBRATED",
+      "GEOLOCATED",
+      "TEMPERATURE",
+      "CLOUD",
+      "EOSDIS",
+      "Carbon Monoxide",
+      "Cloud Liquid Water",
+      "Methane",
+      "Ozone",
+      "Spectral IR Surface Emissivities",
+      "TEMPERATURE",
+      "WATER VAPOR",
+      "Water Vapor Saturation Mass Mixing Ratio",
+      "Water Vapor Mass Mixing Ratio"
+    ]
+  },
+  {
+    "AIRS2SUP": [
+      "ATMOSPHERE",
+      "CALIBRATED",
+      "GEOLOCATED",
+      "TEMPERATURE",
+      "CLOUD",
+      "EOSDIS",
+      "Carbon Monoxide",
+      "Cloud Liquid Water",
+      "Methane",
+      "Ozone",
+      "Spectral IR Surface Emissivities",
+      "TEMPERATURE",
+      "WATER VAPOR",
+      "Water Vapor Saturation Mass Mixing Ratio",
+      "Water Vapor Mass Mixing Ratio",
+      "Cloud Ice/Water Flag",
+      "Layer Molecular Column Density of Carbon Monoxide",
+      "Layer Molecular Column Density of Cloud Liquid Water",
+      "Layer Molecular Column Density of Methane",
+      "Layer Molecular Column Density of Ozone"
+    ]
+  },
+  {
+    "AIRS3STD": [
+      "ATMOSPHERE",
+      "CALIBRATED",
+      "GEOLOCATED",
+      "TEMPERATURE",
+      "CLOUD",
+      "EOSDIS",
+      "Total Ozone",
+      "Global Gridded",
+      "Total Integrated Column Water Vapor Burden",
+      "Total Integrated Column Cloud Liquid Water",
+      "Total Integrated Column Carbon Monoxide",
+      "Spectral IR Surface Emissivities",
+      "Total Integrated Column Ozone Burden",
+      "Outgoing Longwave Radiation Flux",
+      "Clear Sky Outgoing Longwave Radiation Flux",
+      "Relative Humidity Profile",
+      "Cloud Layer Pressure At Coarse Cloud Resolution",
+      "Cloud Layer Pressure At Fine Cloud Resolution",
+      "Water Vapor Mass Mixing Ratio Profile",
+      "Tropopause Height",
+      "Tropopause Temperature",
+      "Effective Methane Volume Mixing Ratio Profile",
+      "Effective Carbon Monoxide Volume Mixing Ratio Profile",
+      "Total Integrated Cloud Liquid Water"
+    ]
+  },
+  {
+    "AIRS3STM": [
+      "ATMOSPHERE",
+      "CALIBRATED",
+      "GEOLOCATED",
+      "TEMPERATURE",
+      "CLOUD",
+      "EOSDIS",
+      "Total Ozone",
+      "Global Gridded",
+      "Total Integrated Column Water Vapor Burden",
+      "Total Integrated Column Cloud Liquid Water",
+      "Total Integrated Column Carbon Monoxide",
+      "Spectral IR Surface Emissivities",
+      "Total Integrated Column Ozone Burden",
+      "Outgoing Longwave Radiation Flux",
+      "Clear Sky Outgoing Longwave Radiation Flux",
+      "Relative Humidity Profile",
+      "Cloud Layer Pressure At Coarse Cloud Resolution",
+      "Cloud Layer Pressure At Fine Cloud Resolution",
+      "Water Vapor Mass Mixing Ratio Profile",
+      "Tropopause Height",
+      "Tropopause Temperature",
+      "Effective Methane Volume Mixing Ratio Profile",
+      "Effective Carbon Monoxide Volume Mixing Ratio Profile",
+      "Total Integrated Cloud Liquid Water"
+    ]
+  },
+  {
+    "AIRX3C2M": null
+  },
+  {
+    "AIRS3C2M": null
+  },
+  {
+    "amsua15sp": null
+  },
+  {
+    "amsua16sp": null
+  },
+  {
+    "amsua17sp": null
+  },
+  {
+    "AQ3_DYSM": null
+  },
+  {
+    "AQ3_WKSM": null
+  },
+  {
+    "AQUARIUS_L3_SSS_SMI_7DAY-RUNNINGMEAN_V5": null
+  },
+  {
+    "AQUARIUS_L3_SSS_SMI_7DAY_V5": null
+  },
+  {
+    "AQUARIUS_L3_SSS_SMI_DAILY_V5": null
+  },
+  {
+    "AQUARIUS_L3_SSS_SMI_MONTHLY-CLIMATOLOGY_V5": null
+  },
+  {
+    "AQUARIUS_L3_SSS_SMI_SEASONAL-CLIMATOLOGY_V5": null
+  },
+  {
+    "ASTGTM": null
+  },
+  {
+    "AU_5DSno": null
+  },
+  {
+    "AU_DySno": null
+  },
+  {
+    "AU_Land": null
+  },
+  {
+    "AU_MoSno": null
+  },
+  {
+    "AU_SI12": null
+  },
+  {
+    "AU_SI25": null
+  },
+  {
+    "AU_SI6": null
+  },
+  {
+    "AVISO_L4_DYN_TOPO_1DEG_1MO": null
+  },
+  {
+    "CCMP_MEASURES_ATLAS_L4_OW_L3_5A_MONTHLY_WIND_VECTORS_FLK": null
+  },
+  {
+    "CER_SYN1deg-Month_Terra-Aqua-MODIS": [
+      "TOA Fluxes",
+      "Surface Fluxes",
+      "In-Atmospheric Fluxes",
+      "Window-region Flux",
+      "Cloud Infrared Emissivity",
+      "Cloud Effective Pressure",
+      "Cloud Effective Temperature",
+      "Cloud Effective Height",
+      "Cloud Vertical Aspect Ratio",
+      "Cloud Particle Phase",
+      "Column Ozone",
+      "Shortwave Direct Fluxes",
+      "Shortwave Diffuse Fluxes",
+      "PAR Fluxes",
+      "Clear-Sky Fluxes",
+      "Total-Sky Fluxes",
+      "TOA Outgoing LW Entropy",
+      "Atmosphere Outgoing LW Entropy",
+      "Surface Upward LW Entropy",
+      "Surface Downward LW Entropy",
+      "TOA Incoming SW Entropy",
+      "Atmosphere Incoming SW Entropy",
+      "Surface SW Incoming Entropy"
+    ]
+  },
+  {
+    "CERES_EBAF-Surface": [
+      "Surface",
+      "Cloud Radiative Effect"
+    ]
+  },
+  {
+    "CERES_EBAF-TOA": [
+      "ALL-SKY TOA NET BALANCED FLUX",
+      "CLEAR-SKY (SPATIALLY COMPLETE) TOA NET BALANCED FLUX",
+      "CLOUD RADIATIVE FORCING",
+      "Cloud Effective Temperature",
+      "Cloud Effective Pressure"
+    ]
+  },
+  {
+    "CERES_EBAF-TOA": [
+      "ALL-SKY TOA NET BALANCED FLUX",
+      "CLEAR-SKY (SPATIALLY COMPLETE) TOA NET BALANCED FLUX",
+      "CLOUD RADIATIVE FORCING",
+      "Cloud Effective Temperature",
+      "Cloud Effective Pressure"
+    ]
+  },
+  {
+    "CER_SYN1deg-Month_Terra-MODIS": [
+      "Atmosphere Incoming SW Entropy",
+      "Atmosphere Outgoing LW Entropy",
+      "Clear-Sky Fluxes",
+      "Cloud Effective Height",
+      "Cloud Effective Pressure",
+      "Cloud Effective Temperature",
+      "Cloud Infrared Emissivity",
+      "Cloud Particle Phase",
+      "Cloud Vertical Aspect Ratio",
+      "Column Ozone",
+      "In-Atmospheric Fluxes",
+      "PAR Fluxes",
+      "Shortwave Diffuse Fluxes",
+      "Shortwave Direct Fluxes",
+      "Surface Downward LW Entropy",
+      "Surface Fluxes",
+      "Surface SW Incoming Entropy",
+      "Surface Upward LW Entropy",
+      "TOA Fluxes",
+      "TOA Incoming SW Entropy",
+      "TOA Outgoing LW Entropy",
+      "Total-Sky Fluxes",
+      "Window-region Flux"
+    ]
+  },
+  {
+    "CYGNSS_L3_V2.1": null
+  },
+  {
+    "AVHRR_OI-NCEI-L4-GLOB-v2.0": null
+  },
+  {
+    "GPM_2AGPROFGPMGMI": [
+      "Atmosphere, Precipitation, Water Vapor"
+    ]
+  },
+  {
+    "GPM_1CGPMGMI": [
+      "Atmosphere, Precipitation, Water Vapor"
+    ]
+  },
+  {
+    "TELLUS_GRACE_MASCON_CRI_GRID_RL06_V1": null
+  },
+  {
+    "GPM_3IMERGDF": [
+      "Atmosphere, Precipitation, Hydrology"
+    ]
+  },
+  {
+    "GPM_3IMERGHHE": [
+      "Atmosphere, Precipitation, Hydrology"
+    ]
+  },
+  {
+    "lislip": null
+  },
+  {
+    "lisvhrac": null
+  },
+  {
+    "lisvhrfc": null
+  },
+  {
+    "lisvhrmc": null
+  },
+  {
+    "lisvhrsc": null
+  },
+  {
+    "lohrfc": null
+  },
+  {
+    "LPRM_AMSR2_DS_A_SOILM3": [
+      "Hydrology",
+      "AMSR2",
+      "Skin temperature",
+      "Surface soil moisture",
+      "Optical depth",
+      "Radio frequency interference (RFI)",
+      "Brightness temperature",
+      "Soil water content",
+      "Vegetation water content",
+      "Microwave",
+      "BEDI",
+      "Agriculture and Forestry",
+      "Climate",
+      "Disasters",
+      "Water Resources",
+      "Weather"
+    ]
+  },
+  {
+    "LPRM_AMSR2_DS_D_SOILM3": [
+      "Hydrology",
+      "AMSR2",
+      "Skin temperature",
+      "Surface soil moisture",
+      "Optical depth",
+      "Radio frequency interference (RFI)",
+      "Brightness temperature",
+      "Soil water content",
+      "Vegetation water content",
+      "Microwave",
+      "BEDI",
+      "Agriculture and Forestry",
+      "Climate",
+      "Disasters",
+      "Water Resources",
+      "Weather"
+    ]
+  },
+  {
+    "LPRM_AMSR2_D_SOILM3": [
+      "Hydrology",
+      "AMSR2",
+      "Skin temperature",
+      "Surface soil moisture",
+      "Optical depth",
+      "Radio frequency interference (RFI)",
+      "Brightness temperature",
+      "Soil water content",
+      "Vegetation water content",
+      "Microwave",
+      "BEDI",
+      "Agriculture and Forestry",
+      "Climate",
+      "Disasters",
+      "Water Resources",
+      "Weather"
+    ]
+  },
+  {
+    "LPRM_AMSR2_A_SOILM3": [
+      "Hydrology",
+      "AMSR2",
+      "Skin temperature",
+      "Surface soil moisture",
+      "Optical depth",
+      "Radio frequency interference (RFI)",
+      "Brightness temperature",
+      "Soil water content",
+      "Vegetation water content",
+      "Microwave",
+      "BEDI",
+      "Agriculture and Forestry",
+      "Climate",
+      "Disasters",
+      "Water Resources",
+      "Weather"
+    ]
+  },
+  {
+    "MCD12Q1": null
+  },
+  {
+    "MCD15A2H": null
+  },
+  {
+    "MCD15A3H": null
+  },
+  {
+    "MCD43A3": null
+  },
+  {
+    "MCD43A4": null
+  },
+  {
+    "MCDAODHD": [
+      "AEROSOL OPTICAL DEPTH",
+      "AEROSOL OPTICAL THICKNESS",
+      "AEROSOL INDEX",
+      "Near Real Time (NRT)",
+      "LANCE",
+      "EOSDIS",
+      "RELATIVE_START_DATE: -11"
+    ]
+  },
+  {
+    "NSIDC-0477": null
+  },
+  {
+    "M2TMNXRAD": [
+      "BEDI",
+      "Agriculture and Forestry",
+      "Biodiversity",
+      "Climate",
+      "Disasters",
+      "Terrestrial and Freshwater Ecosystems",
+      "Human Health",
+      "Ocean and Coastal Resources and Ecosystems",
+      "Transportation",
+      "Water Resources",
+      "Weather"
+    ]
+  },
+  {
+    "M2IMNXGAS": [
+      "BEDI",
+      "Agriculture and Forestry",
+      "Biodiversity",
+      "Climate",
+      "Disasters",
+      "Terrestrial and Freshwater Ecosystems",
+      "Human Health",
+      "Ocean and Coastal Resources and Ecosystems",
+      "Transportation",
+      "Water Resources",
+      "Weather"
+    ]
+  },
+  {
+    "M2IMNPASM": [
+      "BEDI",
+      "Agriculture and Forestry",
+      "Biodiversity",
+      "Climate",
+      "Disasters",
+      "Terrestrial and Freshwater Ecosystems",
+      "Human Health",
+      "Ocean and Coastal Resources and Ecosystems",
+      "Transportation",
+      "Water Resources",
+      "Weather"
+    ]
+  },
+  {
+    "M2TMNXCHM": [
+      "BEDI",
+      "Agriculture and Forestry",
+      "Biodiversity",
+      "Climate",
+      "Disasters",
+      "Terrestrial and Freshwater Ecosystems",
+      "Human Health",
+      "Ocean and Coastal Resources and Ecosystems",
+      "Transportation",
+      "Water Resources",
+      "Weather"
+    ]
+  },
+  {
+    "M2TMNPMST": [
+      "BEDI",
+      "Agriculture and Forestry",
+      "Biodiversity",
+      "Climate",
+      "Disasters",
+      "Terrestrial and Freshwater Ecosystems",
+      "Human Health",
+      "Ocean and Coastal Resources and Ecosystems",
+      "Transportation",
+      "Water Resources",
+      "Weather"
+    ]
+  },
+  {
+    "M2TMNXADG": [
+      "BEDI",
+      "Agriculture and Forestry",
+      "Biodiversity",
+      "Climate",
+      "Disasters",
+      "Terrestrial and Freshwater Ecosystems",
+      "Human Health",
+      "Ocean and Coastal Resources and Ecosystems",
+      "Transportation",
+      "Water Resources",
+      "Weather"
+    ]
+  },
+  {
+    "M2TMNXAER": [
+      "BEDI",
+      "Agriculture and Forestry",
+      "Biodiversity",
+      "Climate",
+      "Disasters",
+      "Terrestrial and Freshwater Ecosystems",
+      "Human Health",
+      "Ocean and Coastal Resources and Ecosystems",
+      "Transportation",
+      "Water Resources",
+      "Weather",
+      "Black Carbon",
+      "BC",
+      "DMS",
+      "SO2",
+      "SO4",
+      "Sea Salt"
+    ]
+  },
+  {
+    "M2TMNXOCN": [
+      "BEDI",
+      "Agriculture and Forestry",
+      "Biodiversity",
+      "Climate",
+      "Disasters",
+      "Terrestrial and Freshwater Ecosystems",
+      "Human Health",
+      "Ocean and Coastal Resources and Ecosystems",
+      "Transportation",
+      "Water Resources",
+      "Weather"
+    ]
+  },
+  {
+    "M2TMNXINT": [
+      "BEDI",
+      "Agriculture and Forestry",
+      "Biodiversity",
+      "Climate",
+      "Disasters",
+      "Terrestrial and Freshwater Ecosystems",
+      "Human Health",
+      "Ocean and Coastal Resources and Ecosystems",
+      "Transportation",
+      "Water Resources",
+      "Weather"
+    ]
+  },
+  {
+    "M2TMNXLND": [
+      "BEDI",
+      "Agriculture and Forestry",
+      "Biodiversity",
+      "Climate",
+      "Disasters",
+      "Terrestrial and Freshwater Ecosystems",
+      "Human Health",
+      "Ocean and Coastal Resources and Ecosystems",
+      "Transportation",
+      "Water Resources",
+      "Weather"
+    ]
+  },
+  {
+    "M2TMNXCSP": [
+      "BEDI",
+      "Agriculture and Forestry",
+      "Biodiversity",
+      "Climate",
+      "Disasters",
+      "Terrestrial and Freshwater Ecosystems",
+      "Human Health",
+      "Ocean and Coastal Resources and Ecosystems",
+      "Transportation",
+      "Water Resources",
+      "Weather"
+    ]
+  },
+  {
+    "M2IMNPANA": [
+      "BEDI",
+      "Agriculture and Forestry",
+      "Biodiversity",
+      "Climate",
+      "Disasters",
+      "Terrestrial and Freshwater Ecosystems",
+      "Human Health",
+      "Ocean and Coastal Resources and Ecosystems",
+      "Transportation",
+      "Water Resources",
+      "Weather"
+    ]
+  },
+  {
+    "M2TMNXFLX": [
+      "BEDI",
+      "Agriculture and Forestry",
+      "Biodiversity",
+      "Climate",
+      "Disasters",
+      "Terrestrial and Freshwater Ecosystems",
+      "Human Health",
+      "Ocean and Coastal Resources and Ecosystems",
+      "Transportation",
+      "Water Resources",
+      "Weather"
+    ]
+  },
+  {
+    "M2TMNPCLD": [
+      "BEDI",
+      "Agriculture and Forestry",
+      "Biodiversity",
+      "Climate",
+      "Disasters",
+      "Terrestrial and Freshwater Ecosystems",
+      "Human Health",
+      "Ocean and Coastal Resources and Ecosystems",
+      "Transportation",
+      "Water Resources",
+      "Weather"
+    ]
+  },
+  {
+    "M2TMNXGLC": [
+      "BEDI",
+      "Agriculture and Forestry",
+      "Biodiversity",
+      "Climate",
+      "Disasters",
+      "Terrestrial and Freshwater Ecosystems",
+      "Human Health",
+      "Ocean and Coastal Resources and Ecosystems",
+      "Transportation",
+      "Water Resources",
+      "Weather"
+    ]
+  },
+  {
+    "M2IMNXLFO": [
+      "BEDI",
+      "Agriculture and Forestry",
+      "Biodiversity",
+      "Climate",
+      "Disasters",
+      "Terrestrial and Freshwater Ecosystems",
+      "Human Health",
+      "Ocean and Coastal Resources and Ecosystems",
+      "Transportation",
+      "Water Resources",
+      "Weather"
+    ]
+  },
+  {
+    "M2TMNXSLV": [
+      "BEDI",
+      "Agriculture and Forestry",
+      "Biodiversity",
+      "Climate",
+      "Disasters",
+      "Terrestrial and Freshwater Ecosystems",
+      "Human Health",
+      "Ocean and Coastal Resources and Ecosystems",
+      "Transportation",
+      "Water Resources",
+      "Weather"
+    ]
+  },
+  {
+    "M2TMNXLFO": [
+      "BEDI",
+      "Agriculture and Forestry",
+      "Biodiversity",
+      "Climate",
+      "Disasters",
+      "Terrestrial and Freshwater Ecosystems",
+      "Human Health",
+      "Ocean and Coastal Resources and Ecosystems",
+      "Transportation",
+      "Water Resources",
+      "Weather"
+    ]
+  },
+  {
+    "M2IMNXASM": [
+      "BEDI",
+      "Agriculture and Forestry",
+      "Biodiversity",
+      "Climate",
+      "Disasters",
+      "Terrestrial and Freshwater Ecosystems",
+      "Human Health",
+      "Ocean and Coastal Resources and Ecosystems",
+      "Transportation",
+      "Water Resources",
+      "Weather"
+    ]
+  },
+  {
+    "M2IMNXINT": [
+      "BEDI",
+      "Agriculture and Forestry",
+      "Biodiversity",
+      "Climate",
+      "Disasters",
+      "Terrestrial and Freshwater Ecosystems",
+      "Human Health",
+      "Ocean and Coastal Resources and Ecosystems",
+      "Transportation",
+      "Water Resources",
+      "Weather"
+    ]
+  },
+  {
+    "MIL3MAE": [
+      "COLUMN AEROSOL OPTICAL DEPTH",
+      "OPTICAL DEPTH",
+      "STRATOSPHERIC AEROSOL OPTICAL DEPTH",
+      "CIRRUS OPTICAL DEPTH",
+      "EOSDIS"
+    ]
+  },
+  {
+    "MIL3MCLD": [
+      "EOSDIS",
+      "FIRSTLOOK"
+    ]
+  },
+  {
+    "MIL3MLS": [
+      "DIRECTIONAL REFLECTANCE FACTOR",
+      "REFLECTANCE",
+      "LAI",
+      "PAR",
+      "LEAF AREA INDEX",
+      "NORMALIZED DIFFERENCE VEGETATION INDEX",
+      "NDVI",
+      "FRACTIONAL ABSORBED PHOTOSYNTHETICALLY ACTIVE RADAITION",
+      "RADIANT EXITANCE",
+      "HEMISPHERICAL-DIRECTIONAL REFLECTANCE FACTOR",
+      "BIHEMISPHERICAL REFLECTANCE",
+      "BIDIRECTIONAL REFLECTANCE FACTOR",
+      "DIRECETIONAL HEMISPHERICAL REFLECTANCE"
+    ]
+  },
+  {
+    "MIL3MRD": [
+      "TOA",
+      "IMAGERY",
+      "SPECTRAL BANDS",
+      "NEAR IR WAVELENGTHS",
+      "NEAR IR IMAGERY",
+      "RADIANCE",
+      "SURFACE PROJECTED TOA RADIANCE",
+      "EOSDIS"
+    ]
+  },
+  {
+    "MIL3MAL": [
+      "EOSDIS",
+      "REFLECTING LEVEL REFERENCE ALTITUDE",
+      "SURFACE TYPE",
+      "CLOUD TEXTURE",
+      "CLEAR SKY ALBEDO"
+    ]
+  },
+  {
+    "ML2CO": [
+      "CO"
+    ]
+  },
+  {
+    "ML2CO": [
+      "CO"
+    ]
+  },
+  {
+    "ML2H2O": [
+      "H2O"
+    ]
+  },
+  {
+    "ML2H2O": [
+      "H2O"
+    ]
+  },
+  {
+    "ML2HNO3": [
+      "HNO3"
+    ]
+  },
+  {
+    "ML2HNO3": [
+      "HNO3"
+    ]
+  },
+  {
+    "ML2N2O": null
+  },
+  {
+    "ML2N2O": null
+  },
+  {
+    "ML2O3": null
+  },
+  {
+    "ML2O3": null
+  },
+  {
+    "ML2SO2": null
+  },
+  {
+    "ML2SO2": null
+  },
+  {
+    "ML2T": null
+  },
+  {
+    "ML2T": null
+  },
+  {
+    "MOD04_3K": null
+  },
+  {
+    "MOD04_3K": [
+      "AEROSOL INDEX",
+      "AEROSOL OPTICAL DEPTH",
+      "AEROSOL OPTICAL THICKNESS",
+      "AEROSOL TYPE",
+      "AIR MONITORING",
+      "ANGSTROM COEFFICIENT",
+      "ASYMMETRY FACTOR",
+      "ATMOSPHERIC CORRECTION",
+      "ATMOSPHERIC MODELS",
+      "BACKSCATTERING RATIO",
+      "DESERT DUST",
+      "EFFECTIVE OPTICAL DEPTH",
+      "EFFECTIVE RADIUS",
+      "EMISSIONS",
+      "HAZE",
+      "MASS CONCENTRATION",
+      "MIE PARTICLES",
+      "MOD04",
+      "MOD04_3K",
+      "PARTICULATE",
+      "POLLUTANTS",
+      "RADIATION BUDGET",
+      "RADIATIVE COOLING",
+      "RADIATIVE TRANSFER MODELS",
+      "REFELCTED FLUX",
+      "SCATTERING ANGLE",
+      "SEA SALT",
+      "SMOG",
+      "SPECTRAL OPTICAL DEPTH",
+      "STRATOSPHERIC AEROSOL",
+      "SURFACE REFLECTANCE",
+      "TOTAL COLUMN OPTICAL THICKNESS",
+      "TRANSMITTED FLUX",
+      "TROPOSPHERIC AEROSOL",
+      "TURBIDITY",
+      "VISIBILITY",
+      "VOLCANIC AEROSOL. OPeNDAP",
+      "EOSDIS",
+      "Near Real Time (NRT)",
+      "LANCE",
+      "RELATIVE_START_DATE: -11"
+    ]
+  },
+  {
+    "MOD04_L2": null
+  },
+  {
+    "MOD04_L2": [
+      "AEROSOL INDEX",
+      "AEROSOL OPTICAL DEPTH",
+      "AEROSOL OPTICAL THICKNESS",
+      "AEROSOL TYPE",
+      "AIR MONITORING",
+      "ANGSTROM COEFFICIENT",
+      "ASYMMETRY FACTOR",
+      "ATMOSPHERIC CORRECTION",
+      "ATMOSPHERIC MODELS",
+      "BACKSCATTERING RATIO",
+      "DESERT DUST",
+      "EFFECTIVE OPTICAL DEPTH",
+      "EFFECTIVE RADIUS",
+      "EMISSIONS",
+      "HAZE",
+      "MASS CONCENTRATION",
+      "MIE PARTICLES",
+      "MOD04",
+      "MOD04_L2",
+      "PARTICULATE",
+      "POLLUTANTS",
+      "RADIATION BUDGET",
+      "RADIATIVE COOLING",
+      "RADIATIVE TRANSFER MODELS",
+      "REFELCTED FLUX",
+      "SCATTERING ANGLE",
+      "SEA SALT",
+      "SMOG",
+      "SPECTRAL OPTICAL DEPTH",
+      "STRATOSPHERIC AEROSOL",
+      "SURFACE REFLECTANCE",
+      "TOTAL COLUMN OPTICAL THICKNESS",
+      "TRANSMITTED FLUX",
+      "TROPOSPHERIC AEROSOL",
+      "TURBIDITY",
+      "VISIBILITY",
+      "VOLCANIC AEROSOL. OPeNDAP",
+      "EOSDIS",
+      "Near Real Time (NRT)",
+      "LANCE",
+      "RELATIVE_START_DATE: -11"
+    ]
+  },
+  {
+    "MOD06_L2": null
+  },
+  {
+    "MOD06_L2": [
+      "BRIGHTNESS TEMPERATURE",
+      "CIRRUS REFLECTANCE",
+      "CLOUD ALTITUDE",
+      "CLOUD CLIMATOLOGY",
+      "CLOUD EFFECTIVE RADIUS",
+      "CLOUD EXTENT",
+      "CLOUD FRACTION",
+      "CLOUD LIQUID WATER PATH",
+      "CLOUD MICROPHYSICS",
+      "CLOUD OPTICAL DEPTH",
+      "CLOUD OPTICAL PROPERTIES",
+      "CLOUD PHASE",
+      "CLOUD TOP HEIGHT",
+      "CLOUD TOP TEMPERATURE",
+      "CLOUD TYPE",
+      "CLOUD WATER PATH",
+      "CONTRAIL",
+      "CONTRAIL REFLECTANCE",
+      "DROPLET SIZE",
+      "EFFECTIVE EMISSIVITY",
+      "GLOBAL CHANGE",
+      "HIGH CLOUD",
+      "ICE CLOUD",
+      "LOW CLOUD",
+      "MOD06",
+      "MOD06_L2",
+      "MODIS CLOUD PRODUCTS",
+      "SPECTRAL CLOUD FORCING",
+      "THICK CLOUD",
+      "THIN CLOUD",
+      "WATER CLOUD",
+      "EOSDIS",
+      "Near Real Time (NRT)",
+      "LANCE",
+      "RELATIVE_START_DATE: -11"
+    ]
+  },
+  {
+    "MOD09GA": [
+      "IMAGERY",
+      "EOSDIS",
+      "ESIP",
+      "Near Real Time (NRT)",
+      "LANCE",
+      "RELATIVE_START_DATE: -11"
+    ]
+  },
+  {
+    "MOD09GA": null
+  },
+  {
+    "MOD09GQ": [
+      "IMAGERY",
+      "DAAC",
+      "EOSDIS",
+      "ESIP",
+      "Near Real Time (NRT)",
+      "LANCE",
+      "RELATIVE_START_DATE: -11"
+    ]
+  },
+  {
+    "MOD09GQ": null
+  },
+  {
+    "MOD09A1": null
+  },
+  {
+    "MOD09Q1": null
+  },
+  {
+    "MOD10_L2": [
+      "Antarctic",
+      "Arctic",
+      "Climatology",
+      "DAAC",
+      "ECS",
+      "EOSDIS",
+      "Global Change",
+      "Lake Ice",
+      "NASA",
+      "NSIDC",
+      "Polar",
+      "Remote Sensing",
+      "Snow",
+      "Snow Cover",
+      "Snow On Ice",
+      "Swath",
+      "RELATIVE_START_DATE: -11"
+    ]
+  },
+  {
+    "MOD10_L2": null
+  },
+  {
+    "MOD10_L2": null
+  },
+  {
+    "MOD10A1": null
+  },
+  {
+    "MOD10A1": null
+  },
+  {
+    "MOD10A2": null
+  },
+  {
+    "MOD10A2": null
+  },
+  {
+    "MOD10CM": null
+  },
+  {
+    "MOD10CM": null
+  },
+  {
+    "MOD11A1": null
+  },
+  {
+    "MOD11A2": null
+  },
+  {
+    "MOD11C3": null
+  },
+  {
+    "MYD13A3": null
+  },
+  {
+    "MOD13A3": null
+  },
+  {
+    "MOD13Q1": null
+  },
+  {
+    "MOD13Q4N": [
+      "RELATIVE_START_DATE: -11",
+      "EOSDIS",
+      "ESIP",
+      "LANCE"
+    ]
+  },
+  {
+    "MOD15A2H": null
+  },
+  {
+    "MOD17A2H": null
+  },
+  {
+    "MOD29": [
+      "Antarctic",
+      "Arctic",
+      "Climatology",
+      "DAAC",
+      "EASE-Grid",
+      "ECS",
+      "EOSDIS",
+      "Global Change",
+      "Gridded",
+      "Ice Surface Temperature",
+      "IST",
+      "NASA",
+      "NSIDC",
+      "Polar",
+      "Remote Sensing",
+      "Sea Ice",
+      "Swath",
+      "RELATIVE_START_DATE: -11"
+    ]
+  },
+  {
+    "MOD29": null
+  },
+  {
+    "MOD29": null
+  },
+  {
+    "MOD29P1D": null
+  },
+  {
+    "MOD29P1D": null
+  },
+  {
+    "MOD29P1N": null
+  },
+  {
+    "MOD29P1N": null
+  },
+  {
+    "MOD44W": null
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_8DAY_4KM_DAYTIME_V2014.0": null
+  },
+  {
+    "MODIS_TERRA_L3_SST_MID-IR_8DAY_4KM_NIGHTTIME_V2014.0": null
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_8DAY_4KM_NIGHTTIME_V2014.0": null
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_ANNUAL_4KM_DAYTIME_V2014.0": null
+  },
+  {
+    "MODIS_TERRA_L3_SST_MID-IR_ANNUAL_4KM_NIGHTTIME_V2014.0": null
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_ANNUAL_4KM_NIGHTTIME_V2014.0": null
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_DAILY_4KM_DAYTIME_V2014.0": null
+  },
+  {
+    "MODIS_TERRA_L3_SST_MID-IR_DAILY_4KM_NIGHTTIME_V2014.0": null
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_DAILY_4KM_NIGHTTIME_V2014.0": null
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_MONTHLY_4KM_DAYTIME_V2014.0": null
+  },
+  {
+    "MODIS_TERRA_L3_SST_MID-IR_MONTHLY_4KM_NIGHTTIME_V2014.0": null
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_MONTHLY_4KM_NIGHTTIME_V2014.0": null
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_8DAY_9KM_DAYTIME_V2014.0": null
+  },
+  {
+    "MODIS_TERRA_L3_SST_MID-IR_8DAY_9KM_NIGHTTIME_V2014.0": null
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_8DAY_9KM_NIGHTTIME_V2014.0": null
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_ANNUAL_9KM_DAYTIME_V2014.0": null
+  },
+  {
+    "MODIS_TERRA_L3_SST_MID-IR_ANNUAL_9KM_NIGHTTIME_V2014.0": null
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_ANNUAL_9KM_NIGHTTIME_V2014.0": null
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_DAILY_9KM_DAYTIME_V2014.0": null
+  },
+  {
+    "MODIS_TERRA_L3_SST_MID-IR_DAILY_9KM_NIGHTTIME_V2014.0": null
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_DAILY_9KM_NIGHTTIME_V2014.0": null
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_MONTHLY_9KM_DAYTIME_V2014.0": null
+  },
+  {
+    "MODIS_TERRA_L3_SST_MID-IR_MONTHLY_9KM_NIGHTTIME_V2014.0": null
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_MONTHLY_9KM_NIGHTTIME_V2014.0": null
+  },
+  {
+    "MOP03J": null
+  },
+  {
+    "MOP03J": null
+  },
+  {
+    "MOP03J": null
+  },
+  {
+    "MOP03J": null
+  },
+  {
+    "MOP02R_NRT": null
+  },
+  {
+    "MOP03JM": null
+  },
+  {
+    "MOP03JM": null
+  },
+  {
+    "MOP03JM": null
+  },
+  {
+    "MOP03JM": null
+  },
+  {
+    "MYD04_3K": null
+  },
+  {
+    "MYD04_3K": [
+      "AEROSOL INDEX",
+      "AEROSOL OPTICAL DEPTH",
+      "AEROSOL OPTICAL THICKNESS",
+      "AEROSOL TYPE",
+      "AIR MONITORING",
+      "ANGSTROM COEFFICIENT",
+      "ASYMMETRY FACTOR",
+      "ATMOSPHERIC CORRECTION",
+      "ATMOSPHERIC MODELS",
+      "BACKSCATTERING RATIO",
+      "DESERT DUST",
+      "EFFECTIVE OPTICAL DEPTH",
+      "EFFECTIVE RADIUS",
+      "EMISSIONS",
+      "HAZE",
+      "MASS CONCENTRATION",
+      "MIE PARTICLES",
+      "MYD04",
+      "MYD04_3K",
+      "PARTICULATE",
+      "POLLUTANTS",
+      "RADIATION BUDGET",
+      "RADIATIVE COOLING",
+      "RADIATIVE TRANSFER MODELS",
+      "REFELCTED FLUX",
+      "SCATTERING ANGLE",
+      "SEA SALT",
+      "SMOG",
+      "SPECTRAL OPTICAL DEPTH",
+      "STRATOSPHERIC AEROSOL",
+      "SURFACE REFLECTANCE",
+      "TOTAL COLUMN OPTICAL THICKNESS",
+      "TRANSMITTED FLUX",
+      "TROPOSPHERIC AEROSOL",
+      "TURBIDITY",
+      "VISIBILITY",
+      "VOLCANIC AEROSOL. OPeNDAP",
+      "EOSDIS",
+      "Near Real Time (NRT)",
+      "LANCE",
+      "RELATIVE_START_DATE: -11"
+    ]
+  },
+  {
+    "MYD04_L2": null
+  },
+  {
+    "MYD04_L2": [
+      "AEROSOL INDEX",
+      "AEROSOL OPTICAL DEPTH",
+      "AEROSOL OPTICAL THICKNESS",
+      "AEROSOL TYPE",
+      "AIR MONITORING",
+      "ANGSTROM COEFFICIENT",
+      "ASYMMETRY FACTOR",
+      "ATMOSPHERIC CORRECTION",
+      "ATMOSPHERIC MODELS",
+      "BACKSCATTERING RATIO",
+      "DESERT DUST",
+      "EFFECTIVE OPTICAL DEPTH",
+      "EFFECTIVE RADIUS",
+      "EMISSIONS",
+      "HAZE",
+      "MASS CONCENTRATION",
+      "MIE PARTICLES",
+      "MYD04",
+      "MYD04_L2",
+      "PARTICULATE",
+      "POLLUTANTS",
+      "RADIATION BUDGET",
+      "RADIATIVE COOLING",
+      "RADIATIVE TRANSFER MODELS",
+      "REFELCTED FLUX",
+      "SCATTERING ANGLE",
+      "SEA SALT",
+      "SMOG",
+      "SPECTRAL OPTICAL DEPTH",
+      "STRATOSPHERIC AEROSOL",
+      "SURFACE REFLECTANCE",
+      "TOTAL COLUMN OPTICAL THICKNESS",
+      "TRANSMITTED FLUX",
+      "TROPOSPHERIC AEROSOL",
+      "TURBIDITY",
+      "VISIBILITY",
+      "VOLCANIC AEROSOL. OPeNDAP",
+      "EOSDIS",
+      "Near Real Time (NRT)",
+      "LANCE",
+      "RELATIVE_START_DATE: -11"
+    ]
+  },
+  {
+    "MYD06_L2": null
+  },
+  {
+    "MYD06_L2": [
+      "BRIGHTNESS TEMPERATURE",
+      "CIRRUS REFLECTANCE",
+      "CLOUD ALTITUDE",
+      "CLOUD CLIMATOLOGY",
+      "CLOUD EFFECTIVE RADIUS",
+      "CLOUD EXTENT",
+      "CLOUD FRACTION",
+      "CLOUD LIQUID WATER PATH",
+      "CLOUD MICROPHYSICS",
+      "CLOUD OPTICAL DEPTH",
+      "CLOUD OPTICAL PROPERTIES",
+      "CLOUD PHASE",
+      "CLOUD TOP HEIGHT",
+      "CLOUD TOP TEMPERATURE",
+      "CLOUD TYPE",
+      "CLOUD WATER PATH",
+      "CONTRAIL",
+      "CONTRAIL REFLECTANCE",
+      "DROPLET SIZE",
+      "EFFECTIVE EMISSIVITY",
+      "GLOBAL CHANGE",
+      "HIGH CLOUD",
+      "ICE CLOUD",
+      "LOW CLOUD",
+      "MYD06",
+      "MYD06_L2",
+      "MODIS CLOUD PRODUCTS",
+      "SPECTRAL CLOUD FORCING",
+      "THICK CLOUD",
+      "THIN CLOUD",
+      "WATER CLOUD",
+      "EOSDIS",
+      "Near Real Time (NRT)",
+      "LANCE",
+      "RELATIVE_START_DATE: -11"
+    ]
+  },
+  {
+    "MYD09GA": [
+      "IMAGERY",
+      "EOSDIS",
+      "ESIP",
+      "Near Real Time (NRT)",
+      "LANCE",
+      "RELATIVE_START_DATE: -11"
+    ]
+  },
+  {
+    "MYD09GA": null
+  },
+  {
+    "MYD09GQ": [
+      "IMAGERY",
+      "EOSDIS",
+      "Near Real Time (NRT)",
+      "LANCE",
+      "RELATIVE_START_DATE: -11"
+    ]
+  },
+  {
+    "MYD09GQ": null
+  },
+  {
+    "MYD09A1": null
+  },
+  {
+    "MYD09Q1": null
+  },
+  {
+    "MYD10_L2": [
+      "Antarctic",
+      "Arctic",
+      "Climatology",
+      "DAAC",
+      "ECS",
+      "EOS PM-1",
+      "EOSDIS",
+      "Global Change",
+      "Lake Ice",
+      "NASA",
+      "NSIDC",
+      "Polar",
+      "Remote Sensing",
+      "Snow",
+      "Snow Cover",
+      "Snow On Ice",
+      "Swath",
+      "RELATIVE_START_DATE: -11"
+    ]
+  },
+  {
+    "MYD10_L2": null
+  },
+  {
+    "MYD10_L2": null
+  },
+  {
+    "MYD10A1": null
+  },
+  {
+    "MYD10A1": null
+  },
+  {
+    "MYD10A2": null
+  },
+  {
+    "MYD10A2": null
+  },
+  {
+    "MYD10CM": null
+  },
+  {
+    "MYD10CM": null
+  },
+  {
+    "MYD11A1": null
+  },
+  {
+    "MYD11A2": null
+  },
+  {
+    "MYD11C3": null
+  },
+  {
+    "MYD13Q1": null
+  },
+  {
+    "MYD15A2H": null
+  },
+  {
+    "MYD17A2H": null
+  },
+  {
+    "MYD29": [
+      "Antarctic",
+      "Arctic",
+      "Climatology",
+      "DAAC",
+      "EASE-Grid",
+      "ECS",
+      "EOSDIS",
+      "Global Change",
+      "Gridded",
+      "Ice Surface Temperature",
+      "IST",
+      "NASA",
+      "NSIDC",
+      "Polar",
+      "Remote Sensing",
+      "Sea Ice",
+      "Swath",
+      "RELATIVE_START_DATE: -11"
+    ]
+  },
+  {
+    "MYD29": null
+  },
+  {
+    "MYD29": null
+  },
+  {
+    "MYD29P1D": null
+  },
+  {
+    "MYD29P1D": null
+  },
+  {
+    "MYD29P1N": null
+  },
+  {
+    "MYD29P1N": null
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_8DAY_4KM_DAYTIME_V2014.0": null
+  },
+  {
+    "MODIS_AQUA_L3_SST_MID-IR_8DAY_4KM_NIGHTTIME_V2014.0": null
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_8DAY_4KM_NIGHTTIME_V2014.0": null
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_ANNUAL_4KM_DAYTIME_V2014.0": null
+  },
+  {
+    "MODIS_AQUA_L3_SST_MID-IR_ANNUAL_4KM_NIGHTTIME_V2014.0": null
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_ANNUAL_4KM_NIGHTTIME_V2014.0": null
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_DAILY_4KM_DAYTIME_V2014.0": null
+  },
+  {
+    "MODIS_AQUA_L3_SST_MID-IR_DAILY_4KM_NIGHTTIME_V2014.0": null
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_DAILY_4KM_NIGHTTIME_V2014.0": null
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_MONTHLY_4KM_DAYTIME_V2014.0": null
+  },
+  {
+    "MODIS_AQUA_L3_SST_MID-IR_MONTHLY_4KM_NIGHTTIME_V2014.0": null
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_MONTHLY_4KM_NIGHTTIME_V2014.0": null
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_8DAY_9KM_DAYTIME_V2014.0": null
+  },
+  {
+    "MODIS_AQUA_L3_SST_MID-IR_8DAY_9KM_NIGHTTIME_V2014.0": null
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_8DAY_9KM_NIGHTTIME_V2014.0": null
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_ANNUAL_9KM_DAYTIME_V2014.0": null
+  },
+  {
+    "MODIS_AQUA_L3_SST_MID-IR_ANNUAL_9KM_NIGHTTIME_V2014.0": null
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_ANNUAL_9KM_NIGHTTIME_V2014.0": null
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_DAILY_9KM_DAYTIME_V2014.0": null
+  },
+  {
+    "MODIS_AQUA_L3_SST_MID-IR_DAILY_9KM_NIGHTTIME_V2014.0": null
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_DAILY_9KM_NIGHTTIME_V2014.0": null
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_MONTHLY_9KM_DAYTIME_V2014.0": null
+  },
+  {
+    "MODIS_AQUA_L3_SST_MID-IR_MONTHLY_9KM_NIGHTTIME_V2014.0": null
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_MONTHLY_9KM_NIGHTTIME_V2014.0": null
+  },
+  {
+    "NLDAS_FORA0125_M": [
+      "Hydrology"
+    ]
+  },
+  {
+    "NLDAS_FORB0125_M": [
+      "Hydrology"
+    ]
+  },
+  {
+    "NLDAS_MOS0125_M": [
+      "Hydrology"
+    ]
+  },
+  {
+    "NLDAS_NOAH0125_M": [
+      "Hydrology"
+    ]
+  },
+  {
+    "NLDAS_VIC0125_M": [
+      "Hydrology"
+    ]
+  },
+  {
+    "OCO2_L2_Lite_SIF": null
+  },
+  {
+    "OCO2_L2_Lite_FP": null
+  },
+  {
+    "olsdig10": null
+  },
+  {
+    "olsdig12": null
+  },
+  {
+    "OMAERUVd": [
+      "Aerosol Absorption Optical Depth",
+      "Aerosol Extinction Optical Depth",
+      "Aerosol Single Scattering Albedo",
+      "BEDI",
+      "Agriculture and Forestry",
+      "Climate",
+      "Disasters",
+      "Human Health",
+      "Transportation",
+      "Weather"
+    ]
+  },
+  {
+    "OMAEROe": [
+      "Aerosol Optical Depth/Thickness",
+      "Aerosol Extinction Optical Depth",
+      "Aerosol Single Scattering Albedo",
+      "UV Aerosol Index",
+      "Visible Aerosol Index",
+      "Air Pollutant",
+      "Aerosol Type",
+      "Dust",
+      "Smoke"
+    ]
+  },
+  {
+    "OMAERUV": [
+      "Aerosol Optical Depth/Thickness",
+      "Aerosol Absorption Optical Depth",
+      "Aerosol Extinction Optical Depth",
+      "Aerosol Single Scattering Albedo",
+      "UV Aerosol Index",
+      "Visible Aerosol Index",
+      "Air Pollutant",
+      "Aerosol Layer Height",
+      "Aerosol Type",
+      "Dust",
+      "Smoke",
+      "BEDI",
+      "Agriculture and Forestry",
+      "Climate",
+      "Disasters",
+      "Human Health",
+      "Transportation",
+      "Weather"
+    ]
+  },
+  {
+    "OMAERUV": null
+  },
+  {
+    "OMCLDRR": null
+  },
+  {
+    "OMCLDRR": [
+      "Atmospheric Chemistry",
+      "Atmospheric Dynamics",
+      "Effective Cloud Top Pressure",
+      "Effective Cloud Fraction",
+      "Effective Cloud Height",
+      "EOSDIS",
+      "BEDI",
+      "Agriculture and Forestry",
+      "Climate",
+      "Disasters",
+      "Human Health",
+      "Transportation",
+      "Weather"
+    ]
+  },
+  {
+    "OMNO2d": [
+      "Atmospheric Chemistry",
+      "Total Column Nitrogen Dioxide (NO2)",
+      "Tropospheric Nitrogen Dioxide",
+      "Air Quality",
+      "Pollutant",
+      "EOSDIS"
+    ]
+  },
+  {
+    "OMDOAO3e": [
+      "Atmospheric Chemistry",
+      "Total Column Ozone (O3)",
+      "Air Quality",
+      "Pollutant",
+      "EOSDIS"
+    ]
+  },
+  {
+    "OMTO3e": null
+  },
+  {
+    "OMTO3e": [
+      "Total Column Ozone",
+      "Radiative Cloud Fraction",
+      "EOSDIS",
+      "BEDI",
+      "Agriculture and Forestry",
+      "Climate",
+      "Disasters",
+      "Human Health",
+      "Transportation",
+      "Weather"
+    ]
+  },
+  {
+    "OMSO2": [
+      "Atmospheric Chemistry",
+      "Total Column Sulfur Dioxide (SO2)",
+      "Air Quality",
+      "Pollutant",
+      "EOSDIS",
+      "BEDI",
+      "Agriculture and Forestry",
+      "Climate",
+      "Disasters",
+      "Human Health",
+      "Transportation",
+      "Weather"
+    ]
+  },
+  {
+    "OMSO2": null
+  },
+  {
+    "OMSO2e": [
+      "Atmospheric Chemistry",
+      "Total Column Sulfur Dioxide (SO2)",
+      "Pollutant",
+      "EOSDIS",
+      "BEDI",
+      "Agriculture and Forestry",
+      "Climate",
+      "Disasters",
+      "Human Health",
+      "Transportation",
+      "Weather"
+    ]
+  },
+  {
+    "OMUVBd": [
+      "Surface UV Irradiance",
+      "Erythemally Weighted Daily Dose",
+      "Erythemal Dose Rate at satellite Overpass Time",
+      "BEDI",
+      "Agriculture and Forestry",
+      "Climate",
+      "Disasters",
+      "Human Health",
+      "Transportation",
+      "Weather"
+    ]
+  },
+  {
+    "OSCAR_L4_OC_third-deg": null
+  },
+  {
+    "otdlip": null
+  },
+  {
+    "rss1tpwnv7r01": null
+  },
+  {
+    "rss1windnv7r01": null
+  },
+  {
+    "CIESIN_SEDAC_AGLANDS_CROP2000": null
+  },
+  {
+    "CIESIN_SEDAC_AGLANDS_PAS2000": null
+  },
+  {
+    "CIESIN_SEDAC_SPECIES_AMP_RICH15": null
+  },
+  {
+    "CIESIN_SEDAC_ANTHROMES_v1": null
+  },
+  {
+    "CIESIN_CHRR_NDH_CYCLONE_PELRD": null
+  },
+  {
+    "CIESIN_CHRR_NDH_CYCLONE_HFD": null
+  },
+  {
+    "CIESIN_CHRR_NDH_CYCLONE_MRD": null
+  },
+  {
+    "CIESIN_CHRR_NDH_DROUGHT_PELRD": null
+  },
+  {
+    "CIESIN_CHRR_NDH_DROUGHT_HFD": null
+  },
+  {
+    "CIESIN_CHRR_NDH_DROUGHT_MRD": null
+  },
+  {
+    "CIESIN_SEDAC_PD_NETMIG_1970_2000": null
+  },
+  {
+    "CIESIN_CHRR_NDH_FLOOD_PELRD": null
+  },
+  {
+    "CIESIN_CHRR_NDH_FLOOD_HFD": null
+  },
+  {
+    "CIESIN_CHRR_NDH_FLOOD_MRD": null
+  },
+  {
+    "CIESIN_SEDAC_ULANDSAT_GMIS_V1": null
+  },
+  {
+    "CIESIN_SEDAC_GPWv4_APDENS_WPP_2015": null
+  },
+  {
+    "CIESIN_SEDAC_GRUMPv1_EXT": null
+  },
+  {
+    "CIESIN_SEDAC_ULANDSAT_HBASE_V1": null
+  },
+  {
+    "CIESIN_SEDAC_LWP2_HF_GEOG": null
+  },
+  {
+    "CIESIN_CHRR_NDH_LSLIDE_HD": null
+  },
+  {
+    "CIESIN_SEDAC_LWP2_LW_GEOG": null
+  },
+  {
+    "CIESIN_SEDAC_SDEI_LST2013": null
+  },
+  {
+    "CIESIN_SEDAC_SPECIES_MAM_RICH15": null
+  },
+  {
+    "CIESIN_SEDAC_LULC_MANGROVES_2000": null
+  },
+  {
+    "CIESIN_SEDAC_SDEI_NO2": [
+      "GOME",
+      "GOME-2",
+      "Nitrogen Dioxide",
+      "NO2",
+      "SCIAMACHY",
+      "Satellite Data"
+    ]
+  },
+  {
+    "CIESIN_SEDAC_SDEI_PM25_MMSAOD": [
+      "Particulate Matter",
+      "PM2.5",
+      "Remote Sensing",
+      "Satellite Imagery",
+      "Environmental Indicators",
+      "MODIS",
+      "MISR",
+      "Aerosol Optical Depth",
+      "SeaWIFS"
+    ]
+  },
+  {
+    "CIESIN_SEDAC_SDEI_UHI2013": null
+  },
+  {
+    "CIESIN_SEDAC_LECZ_URPLAEv2": null
+  },
+  {
+    "CIESIN_SEDAC_LULC_PUEXPANS_2030": null
+  },
+  {
+    "CIESIN_CHRR_NDH_VOLCANO_PELRD": null
+  },
+  {
+    "CIESIN_CHRR_NDH_VOLCANO_HFD": null
+  },
+  {
+    "CIESIN_CHRR_NDH_VOLCANO_MRD": null
+  },
+  {
+    "SPL1BTB": null
+  },
+  {
+    "SPL1CTB_E": null
+  },
+  {
+    "SPL1CTB": null
+  },
+  {
+    "SPL2SMP": null
+  },
+  {
+    "SPL2SMP_E": null
+  },
+  {
+    "SPL2SMAP_S": null
+  },
+  {
+    "SPL3FTP": null
+  },
+  {
+    "SPL3FTP_E": null
+  },
+  {
+    "SPL3SMA": null
+  },
+  {
+    "SPL3SMAP": null
+  },
+  {
+    "SPL3SMP": null
+  },
+  {
+    "SMAP_JPL_L3_SSS_CAP_8DAY-RUNNINGMEAN_V42": null
+  },
+  {
+    "SMAP_JPL_L3_SSS_CAP_MONTHLY_V42": null
+  },
+  {
+    "SPL4SMAU": null
+  },
+  {
+    "SPL4CMDL": null
+  },
+  {
+    "SPL4SMGP": null
+  },
+  {
+    "SRTMGL1": null
+  },
+  {
+    "rssmif10d": null
+  },
+  {
+    "rssmif11d": null
+  },
+  {
+    "rssmif13d": null
+  },
+  {
+    "rssmif14d": null
+  },
+  {
+    "rssmif15d": null
+  },
+  {
+    "rssmif16d": null
+  },
+  {
+    "rssmif17d": null
+  },
+  {
+    "rssmif08d": null
+  },
+  {
+    "SWDB_L305": [
+      "AEROSOL INDEX",
+      "AEROSOL OPTICAL DEPTH",
+      "AEROSOL OPTICAL THICKNESS",
+      "ANGSTROM COEFFICIENT",
+      "AOT",
+      "AOD",
+      "DUST",
+      "ASH",
+      "SMOKE",
+      "EFFECTIVE OPTICAL DEPTH",
+      "SPECTRAL OPTICAL DEPTH",
+      "STRATOSPHERIC AEROSOL",
+      "TOTAL COLUMN OPTICAL THICKNESS",
+      "TROPOSPHERIC AEROSOL",
+      "SWDB",
+      "BEDI",
+      "Agriculture and Forestry",
+      "Climate",
+      "Disasters",
+      "Human Health",
+      "Weather"
+    ]
+  },
+  {
+    "SWDB_L3M05": [
+      "AEROSOL INDEX",
+      "AEROSOL OPTICAL DEPTH",
+      "AEROSOL OPTICAL THICKNESS",
+      "ANGSTROM COEFFICIENT",
+      "AOT",
+      "AOD",
+      "DUST",
+      "ASH",
+      "SMOKE",
+      "EFFECTIVE OPTICAL DEPTH",
+      "SPECTRAL OPTICAL DEPTH",
+      "STRATOSPHERIC AEROSOL",
+      "TOTAL COLUMN OPTICAL THICKNESS",
+      "TROPOSPHERIC AEROSOL",
+      "SWDB",
+      "BEDI",
+      "Agriculture and Forestry",
+      "Climate",
+      "Disasters",
+      "Human Health",
+      "Weather"
+    ]
+  },
+  {
+    "ALT_TIDE_GAUGE_L4_OST_SLA_US_WEST_COAST_DAILY": null
+  },
+  {
+    "MERGED_TP_J1_OSTM_OST_CYCLES_V4": null
+  },
+  {
+    "RECON_SEA_LEVEL_OST_L4_V1": null
+  },
+  {
+    "GPM_2AGPROFTRMMTMI_CLIM": [
+      "Atmosphere, Precipitation, Water Vapor"
+    ]
+  },
+  {
+    "GPM_1CTRMMTMI": [
+      "Atmosphere, Precipitation, Water Vapor"
+    ]
+  },
+  {
+    "VNP02IMG_NRT": [
+      "Near Real Time (NRT)",
+      "LANCE",
+      "RELATIVE_START_DATE: -8"
+    ]
+  },
+  {
+    "CLDMSK_L2_VIIRS_SNPP_NRT": null
+  },
+  {
+    "AERDB_L2_VIIRS_SNPP_NRT": null
+  },
+  {
+    "WELDAKYR": null
+  },
+  {
+    "WELDAKMO": null
+  },
+  {
+    "WELDAKSE": null
+  },
+  {
+    "WELDUSYR": null
+  },
+  {
+    "WELDUSMO": null
+  },
+  {
+    "WELDUSSE": null
+  },
+  {
+    "WELDLCLUC": null
+  },
+  {
+    "NSIDC-0484": null
+  },
+  {
+    "NISE": null
+  },
+  {
+    "NISE": null
+  },
+  {
+    "NISE": null
+  },
+  {
+    "NISE": null
+  },
+  {
+    "NSIDC-0478": null
+  },
+  {
+    "NSIDC-0534": null
+  },
+  {
+    "SPL3FTA": null
+  },
+  {
+    "MYD14": [
+      "IMAGERY",
+      "DAAC",
+      "EOSDIS",
+      "ESIP",
+      "Near Real Time (NRT)",
+      "LANCE",
+      "RELATIVE_START_DATE: -11"
+    ]
+  },
+  {
+    "MYD14": null
+  },
+  {
+    "MOD14": [
+      "IMAGERY",
+      "DAAC",
+      "EOSDIS",
+      "ESIP",
+      "Near Real Time (NRT)",
+      "LANCE",
+      "RELATIVE_START_DATE: -11"
+    ]
+  },
+  {
+    "MOD14": null
+  },
+  {
+    "CIESIN_SEDAC_GRUMPv1_STLMNT01": null
+  },
+  {
+    "VNP14IMGTDL_NRT": [
+      "Near Real Time (NRT)",
+      "FIRMS",
+      "LANCE",
+      "Fire",
+      "hotspots",
+      "RELATIVE_START_DATE: -8"
+    ]
+  }
+]

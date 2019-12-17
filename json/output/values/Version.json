@@ -1,1 +1,1034 @@
-[{"A2_RainOcn_NRT": "0"}, {"A2_RainOcn_NRT": "0"}, {"AE_Rain": "3"}, {"AE_SI12": "3"}, {"AE_SI25": "3"}, {"AE_SI6": "3"}, {"AIRS2RET": "006"}, {"AIRS2SUP": "006"}, {"AIRS3STD": "006"}, {"AIRS3STM": "006"}, {"AIRX3C2M": "005"}, {"AIRS3C2M": "005"}, {"amsua15sp": "1"}, {"amsua16sp": "1"}, {"amsua17sp": "1"}, {"AQ3_DYSM": "5"}, {"AQ3_WKSM": "5"}, {"AQUARIUS_L3_SSS_SMI_7DAY-RUNNINGMEAN_V5": "5.0"}, {"AQUARIUS_L3_SSS_SMI_7DAY_V5": "5.0"}, {"AQUARIUS_L3_SSS_SMI_DAILY_V5": "5.0"}, {"AQUARIUS_L3_SSS_SMI_MONTHLY-CLIMATOLOGY_V5": "5.0"}, {"AQUARIUS_L3_SSS_SMI_SEASONAL-CLIMATOLOGY_V5": "5.0"}, {"ASTGTM": "003"}, {"AU_5DSno": "1"}, {"AU_DySno": "1"}, {"AU_Land": "1"}, {"AU_MoSno": "1"}, {"AU_SI12": "1"}, {"AU_SI25": "1"}, {"AU_SI6": "1"}, {"AVISO_L4_DYN_TOPO_1DEG_1MO": "1"}, {"CCMP_MEASURES_ATLAS_L4_OW_L3_5A_MONTHLY_WIND_VECTORS_FLK": "1"}, {"CER_SYN1deg-Month_Terra-Aqua-MODIS": "Edition4A"}, {"CERES_EBAF-Surface": "Edition4.0"}, {"CERES_EBAF-TOA": "Edition4.1"}, {"CERES_EBAF-TOA": "Edition4.0"}, {"CER_SYN1deg-Month_Terra-MODIS": "Edition4A"}, {"CYGNSS_L3_V2.1": "1"}, {"AVHRR_OI-NCEI-L4-GLOB-v2.0": "2.0"}, {"GPM_2AGPROFGPMGMI": "05"}, {"GPM_1CGPMGMI": "05"}, {"TELLUS_GRACE_MASCON_CRI_GRID_RL06_V1": "1"}, {"GPM_3IMERGDF": "06"}, {"GPM_3IMERGHHE": "06"}, {"lislip": "4"}, {"lisvhrac": "1"}, {"lisvhrfc": "1"}, {"lisvhrmc": "1"}, {"lisvhrsc": "1"}, {"lohrfc": "2.3.2015"}, {"LPRM_AMSR2_DS_A_SOILM3": "001"}, {"LPRM_AMSR2_DS_D_SOILM3": "001"}, {"LPRM_AMSR2_D_SOILM3": "001"}, {"LPRM_AMSR2_A_SOILM3": "001"}, {"MCD12Q1": "006"}, {"MCD15A2H": "006"}, {"MCD15A3H": "006"}, {"MCD43A3": "006"}, {"MCD43A4": "006"}, {"MCDAODHD": "6.1NRT"}, {"NSIDC-0477": "4"}, {"M2TMNXRAD": "5.12.4"}, {"M2IMNXGAS": "5.12.4"}, {"M2IMNPASM": "5.12.4"}, {"M2TMNXCHM": "5.12.4"}, {"M2TMNPMST": "5.12.4"}, {"M2TMNXADG": "5.12.4"}, {"M2TMNXAER": "5.12.4"}, {"M2TMNXOCN": "5.12.4"}, {"M2TMNXINT": "5.12.4"}, {"M2TMNXLND": "5.12.4"}, {"M2TMNXCSP": "5.12.4"}, {"M2IMNPANA": "5.12.4"}, {"M2TMNXFLX": "5.12.4"}, {"M2TMNPCLD": "5.12.4"}, {"M2TMNXGLC": "5.12.4"}, {"M2IMNXLFO": "5.12.4"}, {"M2TMNXSLV": "5.12.4"}, {"M2TMNXLFO": "5.12.4"}, {"M2IMNXASM": "5.12.4"}, {"M2IMNXINT": "5.12.4"}, {"MIL3MAE": "4"}, {"MIL3MCLD": "2"}, {"MIL3MLS": "4"}, {"MIL3MRD": "5"}, {"MIL3MAL": "6"}, {"ML2CO": "003"}, {"ML2CO": "004"}, {"ML2H2O": "003"}, {"ML2H2O": "004"}, {"ML2HNO3": "003"}, {"ML2HNO3": "004"}, {"ML2N2O": "003"}, {"ML2N2O": "004"}, {"ML2O3": "003"}, {"ML2O3": "004"}, {"ML2SO2": "003"}, {"ML2SO2": "004"}, {"ML2T": "003"}, {"ML2T": "004"}, {"MOD04_3K": "6.1"}, {"MOD04_3K": "6.1NRT"}, {"MOD04_L2": "6.1"}, {"MOD04_L2": "6.1NRT"}, {"MOD06_L2": "6.1"}, {"MOD06_L2": "6.1NRT"}, {"MOD09GA": "6NRT"}, {"MOD09GA": "006"}, {"MOD09GQ": "6NRT"}, {"MOD09GQ": "006"}, {"MOD09A1": "006"}, {"MOD09Q1": "006"}, {"MOD10_L2": "6NRT"}, {"MOD10_L2": "5"}, {"MOD10_L2": "6"}, {"MOD10A1": "5"}, {"MOD10A1": "6"}, {"MOD10A2": "5"}, {"MOD10A2": "6"}, {"MOD10CM": "5"}, {"MOD10CM": "6"}, {"MOD11A1": "006"}, {"MOD11A2": "006"}, {"MOD11C3": "006"}, {"MYD13A3": "006"}, {"MOD13A3": "006"}, {"MOD13Q1": "006"}, {"MOD13Q4N": "6NRT"}, {"MOD15A2H": "006"}, {"MOD17A2H": "006"}, {"MOD29": "6NRT"}, {"MOD29": "5"}, {"MOD29": "6"}, {"MOD29P1D": "5"}, {"MOD29P1D": "6"}, {"MOD29P1N": "5"}, {"MOD29P1N": "6"}, {"MOD44W": "006"}, {"MODIS_TERRA_L3_SST_THERMAL_8DAY_4KM_DAYTIME_V2014.0": "2014.0"}, {"MODIS_TERRA_L3_SST_MID-IR_8DAY_4KM_NIGHTTIME_V2014.0": "2014.0"}, {"MODIS_TERRA_L3_SST_THERMAL_8DAY_4KM_NIGHTTIME_V2014.0": "2014.0"}, {"MODIS_TERRA_L3_SST_THERMAL_ANNUAL_4KM_DAYTIME_V2014.0": "2014.0"}, {"MODIS_TERRA_L3_SST_MID-IR_ANNUAL_4KM_NIGHTTIME_V2014.0": "2014.0"}, {"MODIS_TERRA_L3_SST_THERMAL_ANNUAL_4KM_NIGHTTIME_V2014.0": "2014.0"}, {"MODIS_TERRA_L3_SST_THERMAL_DAILY_4KM_DAYTIME_V2014.0": "2014.0"}, {"MODIS_TERRA_L3_SST_MID-IR_DAILY_4KM_NIGHTTIME_V2014.0": "2014.0"}, {"MODIS_TERRA_L3_SST_THERMAL_DAILY_4KM_NIGHTTIME_V2014.0": "2014.0"}, {"MODIS_TERRA_L3_SST_THERMAL_MONTHLY_4KM_DAYTIME_V2014.0": "2014.0"}, {"MODIS_TERRA_L3_SST_MID-IR_MONTHLY_4KM_NIGHTTIME_V2014.0": "2014.0"}, {"MODIS_TERRA_L3_SST_THERMAL_MONTHLY_4KM_NIGHTTIME_V2014.0": "2014.0"}, {"MODIS_TERRA_L3_SST_THERMAL_8DAY_9KM_DAYTIME_V2014.0": "2014.0"}, {"MODIS_TERRA_L3_SST_MID-IR_8DAY_9KM_NIGHTTIME_V2014.0": "2014.0"}, {"MODIS_TERRA_L3_SST_THERMAL_8DAY_9KM_NIGHTTIME_V2014.0": "2014.0"}, {"MODIS_TERRA_L3_SST_THERMAL_ANNUAL_9KM_DAYTIME_V2014.0": "2014.0"}, {"MODIS_TERRA_L3_SST_MID-IR_ANNUAL_9KM_NIGHTTIME_V2014.0": "2014.0"}, {"MODIS_TERRA_L3_SST_THERMAL_ANNUAL_9KM_NIGHTTIME_V2014.0": "2014.0"}, {"MODIS_TERRA_L3_SST_THERMAL_DAILY_9KM_DAYTIME_V2014.0": "2014.0"}, {"MODIS_TERRA_L3_SST_MID-IR_DAILY_9KM_NIGHTTIME_V2014.0": "2014.0"}, {"MODIS_TERRA_L3_SST_THERMAL_DAILY_9KM_NIGHTTIME_V2014.0": "2014.0"}, {"MODIS_TERRA_L3_SST_THERMAL_MONTHLY_9KM_DAYTIME_V2014.0": "2014.0"}, {"MODIS_TERRA_L3_SST_MID-IR_MONTHLY_9KM_NIGHTTIME_V2014.0": "2014.0"}, {"MODIS_TERRA_L3_SST_THERMAL_MONTHLY_9KM_NIGHTTIME_V2014.0": "2014.0"}, {"MOP03J": "107"}, {"MOP03J": "108"}, {"MOP03J": "007"}, {"MOP03J": "008"}, {"MOP02R_NRT": "5"}, {"MOP03JM": "107"}, {"MOP03JM": "108"}, {"MOP03JM": "007"}, {"MOP03JM": "008"}, {"MYD04_3K": "6.1"}, {"MYD04_3K": "6.1NRT"}, {"MYD04_L2": "6.1"}, {"MYD04_L2": "6.1NRT"}, {"MYD06_L2": "6.1"}, {"MYD06_L2": "6.1NRT"}, {"MYD09GA": "6NRT"}, {"MYD09GA": "006"}, {"MYD09GQ": "6NRT"}, {"MYD09GQ": "006"}, {"MYD09A1": "006"}, {"MYD09Q1": "006"}, {"MYD10_L2": "6NRT"}, {"MYD10_L2": "5"}, {"MYD10_L2": "6"}, {"MYD10A1": "5"}, {"MYD10A1": "6"}, {"MYD10A2": "5"}, {"MYD10A2": "6"}, {"MYD10CM": "5"}, {"MYD10CM": "6"}, {"MYD11A1": "006"}, {"MYD11A2": "006"}, {"MYD11C3": "006"}, {"MYD13Q1": "006"}, {"MYD15A2H": "006"}, {"MYD17A2H": "006"}, {"MYD29": "6NRT"}, {"MYD29": "5"}, {"MYD29": "6"}, {"MYD29P1D": "5"}, {"MYD29P1D": "6"}, {"MYD29P1N": "5"}, {"MYD29P1N": "6"}, {"MODIS_AQUA_L3_SST_THERMAL_8DAY_4KM_DAYTIME_V2014.0": "2014.0"}, {"MODIS_AQUA_L3_SST_MID-IR_8DAY_4KM_NIGHTTIME_V2014.0": "2014.0"}, {"MODIS_AQUA_L3_SST_THERMAL_8DAY_4KM_NIGHTTIME_V2014.0": "2014.0"}, {"MODIS_AQUA_L3_SST_THERMAL_ANNUAL_4KM_DAYTIME_V2014.0": "2014.0"}, {"MODIS_AQUA_L3_SST_MID-IR_ANNUAL_4KM_NIGHTTIME_V2014.0": "2014.0"}, {"MODIS_AQUA_L3_SST_THERMAL_ANNUAL_4KM_NIGHTTIME_V2014.0": "2014.0"}, {"MODIS_AQUA_L3_SST_THERMAL_DAILY_4KM_DAYTIME_V2014.0": "2014.0"}, {"MODIS_AQUA_L3_SST_MID-IR_DAILY_4KM_NIGHTTIME_V2014.0": "2014.0"}, {"MODIS_AQUA_L3_SST_THERMAL_DAILY_4KM_NIGHTTIME_V2014.0": "2014.0"}, {"MODIS_AQUA_L3_SST_THERMAL_MONTHLY_4KM_DAYTIME_V2014.0": "2014.0"}, {"MODIS_AQUA_L3_SST_MID-IR_MONTHLY_4KM_NIGHTTIME_V2014.0": "2014.0"}, {"MODIS_AQUA_L3_SST_THERMAL_MONTHLY_4KM_NIGHTTIME_V2014.0": "2014.0"}, {"MODIS_AQUA_L3_SST_THERMAL_8DAY_9KM_DAYTIME_V2014.0": "2014.0"}, {"MODIS_AQUA_L3_SST_MID-IR_8DAY_9KM_NIGHTTIME_V2014.0": "2014.0"}, {"MODIS_AQUA_L3_SST_THERMAL_8DAY_9KM_NIGHTTIME_V2014.0": "2014.0"}, {"MODIS_AQUA_L3_SST_THERMAL_ANNUAL_9KM_DAYTIME_V2014.0": "2014.0"}, {"MODIS_AQUA_L3_SST_MID-IR_ANNUAL_9KM_NIGHTTIME_V2014.0": "2014.0"}, {"MODIS_AQUA_L3_SST_THERMAL_ANNUAL_9KM_NIGHTTIME_V2014.0": "2014.0"}, {"MODIS_AQUA_L3_SST_THERMAL_DAILY_9KM_DAYTIME_V2014.0": "2014.0"}, {"MODIS_AQUA_L3_SST_MID-IR_DAILY_9KM_NIGHTTIME_V2014.0": "2014.0"}, {"MODIS_AQUA_L3_SST_THERMAL_DAILY_9KM_NIGHTTIME_V2014.0": "2014.0"}, {"MODIS_AQUA_L3_SST_THERMAL_MONTHLY_9KM_DAYTIME_V2014.0": "2014.0"}, {"MODIS_AQUA_L3_SST_MID-IR_MONTHLY_9KM_NIGHTTIME_V2014.0": "2014.0"}, {"MODIS_AQUA_L3_SST_THERMAL_MONTHLY_9KM_NIGHTTIME_V2014.0": "2014.0"}, {"NLDAS_FORA0125_M": "002"}, {"NLDAS_FORB0125_M": "002"}, {"NLDAS_MOS0125_M": "002"}, {"NLDAS_NOAH0125_M": "002"}, {"NLDAS_VIC0125_M": "002"}, {"OCO2_L2_Lite_SIF": "8r"}, {"OCO2_L2_Lite_FP": "9r"}, {"olsdig10": "1"}, {"olsdig12": "1"}, {"OMAERUVd": "003"}, {"OMAEROe": "003"}, {"OMAERUV": "003"}, {"OMAERUV": "003"}, {"OMCLDRR": "003"}, {"OMCLDRR": "003"}, {"OMNO2d": "003"}, {"OMDOAO3e": "003"}, {"OMTO3e": "003"}, {"OMTO3e": "003"}, {"OMSO2": "003"}, {"OMSO2": "003"}, {"OMSO2e": "003"}, {"OMUVBd": "003"}, {"OSCAR_L4_OC_third-deg": "1"}, {"otdlip": "1"}, {"rss1tpwnv7r01": "7R01"}, {"rss1windnv7r01": "7R01"}, {"CIESIN_SEDAC_AGLANDS_CROP2000": "1.0"}, {"CIESIN_SEDAC_AGLANDS_PAS2000": "1.0"}, {"CIESIN_SEDAC_SPECIES_AMP_RICH15": "2015.00"}, {"CIESIN_SEDAC_ANTHROMES_v1": "1.0"}, {"CIESIN_CHRR_NDH_CYCLONE_PELRD": "1.0"}, {"CIESIN_CHRR_NDH_CYCLONE_HFD": "1.0"}, {"CIESIN_CHRR_NDH_CYCLONE_MRD": "1.0"}, {"CIESIN_CHRR_NDH_DROUGHT_PELRD": "1.0"}, {"CIESIN_CHRR_NDH_DROUGHT_HFD": "1.0"}, {"CIESIN_CHRR_NDH_DROUGHT_MRD": "1.0"}, {"CIESIN_SEDAC_PD_NETMIG_1970_2000": "1.0"}, {"CIESIN_CHRR_NDH_FLOOD_PELRD": "1.0"}, {"CIESIN_CHRR_NDH_FLOOD_HFD": "1.0"}, {"CIESIN_CHRR_NDH_FLOOD_MRD": "1.0"}, {"CIESIN_SEDAC_ULANDSAT_GMIS_V1": "1.0"}, {"CIESIN_SEDAC_GPWv4_APDENS_WPP_2015": "4.0"}, {"CIESIN_SEDAC_GRUMPv1_EXT": "1.0"}, {"CIESIN_SEDAC_ULANDSAT_HBASE_V1": "1.0"}, {"CIESIN_SEDAC_LWP2_HF_GEOG": "2.0"}, {"CIESIN_CHRR_NDH_LSLIDE_HD": "1.0"}, {"CIESIN_SEDAC_LWP2_LW_GEOG": "2.0"}, {"CIESIN_SEDAC_SDEI_LST2013": "1.0"}, {"CIESIN_SEDAC_SPECIES_MAM_RICH15": "2015.00"}, {"CIESIN_SEDAC_LULC_MANGROVES_2000": "1.0"}, {"CIESIN_SEDAC_SDEI_NO2": "1.0"}, {"CIESIN_SEDAC_SDEI_PM25_MMSAOD": "1.0"}, {"CIESIN_SEDAC_SDEI_UHI2013": "1.0"}, {"CIESIN_SEDAC_LECZ_URPLAEv2": "2.0"}, {"CIESIN_SEDAC_LULC_PUEXPANS_2030": "1.0"}, {"CIESIN_CHRR_NDH_VOLCANO_PELRD": "1.0"}, {"CIESIN_CHRR_NDH_VOLCANO_HFD": "1.0"}, {"CIESIN_CHRR_NDH_VOLCANO_MRD": "1.0"}, {"SPL1BTB": "004"}, {"SPL1CTB_E": "002"}, {"SPL1CTB": "004"}, {"SPL2SMP": "006"}, {"SPL2SMP_E": "003"}, {"SPL2SMAP_S": "002"}, {"SPL3FTP": "002"}, {"SPL3FTP_E": "002"}, {"SPL3SMA": "003"}, {"SPL3SMAP": "003"}, {"SPL3SMP": "006"}, {"SMAP_JPL_L3_SSS_CAP_8DAY-RUNNINGMEAN_V42": "1"}, {"SMAP_JPL_L3_SSS_CAP_MONTHLY_V42": "1"}, {"SPL4SMAU": "004"}, {"SPL4CMDL": "004"}, {"SPL4SMGP": "004"}, {"SRTMGL1": "003"}, {"rssmif10d": "7"}, {"rssmif11d": "7"}, {"rssmif13d": "7"}, {"rssmif14d": "7"}, {"rssmif15d": "7"}, {"rssmif16d": "7"}, {"rssmif17d": "7"}, {"rssmif08d": "7"}, {"SWDB_L305": "004"}, {"SWDB_L3M05": "004"}, {"ALT_TIDE_GAUGE_L4_OST_SLA_US_WEST_COAST_DAILY": "1"}, {"MERGED_TP_J1_OSTM_OST_CYCLES_V4": "1"}, {"RECON_SEA_LEVEL_OST_L4_V1": "1"}, {"GPM_2AGPROFTRMMTMI_CLIM": "05"}, {"GPM_1CTRMMTMI": "05"}, {"VNP02IMG_NRT": "1"}, {"CLDMSK_L2_VIIRS_SNPP_NRT": "1"}, {"AERDB_L2_VIIRS_SNPP_NRT": "1"}, {"WELDAKYR": "001"}, {"WELDAKMO": "001"}, {"WELDAKSE": "001"}, {"WELDUSYR": "001"}, {"WELDUSMO": "001"}, {"WELDUSSE": "001"}, {"WELDLCLUC": "001"}, {"NSIDC-0484": "2"}, {"NISE": "2"}, {"NISE": "4"}, {"NISE": "5"}, {"NISE": "6"}, {"NSIDC-0478": "2"}, {"NSIDC-0534": "1"}, {"SPL3FTA": "003"}, {"MYD14": "6NRT"}, {"MYD14": "006"}, {"MOD14": "6NRT"}, {"MOD14": "006"}, {"CIESIN_SEDAC_GRUMPv1_STLMNT01": "1.01"}, {"VNP14IMGTDL_NRT": "1"}]
+[
+  {
+    "A2_RainOcn_NRT": "0"
+  },
+  {
+    "A2_RainOcn_NRT": "0"
+  },
+  {
+    "AE_Rain": "3"
+  },
+  {
+    "AE_SI12": "3"
+  },
+  {
+    "AE_SI25": "3"
+  },
+  {
+    "AE_SI6": "3"
+  },
+  {
+    "AIRS2RET": "006"
+  },
+  {
+    "AIRS2SUP": "006"
+  },
+  {
+    "AIRS3STD": "006"
+  },
+  {
+    "AIRS3STM": "006"
+  },
+  {
+    "AIRX3C2M": "005"
+  },
+  {
+    "AIRS3C2M": "005"
+  },
+  {
+    "amsua15sp": "1"
+  },
+  {
+    "amsua16sp": "1"
+  },
+  {
+    "amsua17sp": "1"
+  },
+  {
+    "AQ3_DYSM": "5"
+  },
+  {
+    "AQ3_WKSM": "5"
+  },
+  {
+    "AQUARIUS_L3_SSS_SMI_7DAY-RUNNINGMEAN_V5": "5.0"
+  },
+  {
+    "AQUARIUS_L3_SSS_SMI_7DAY_V5": "5.0"
+  },
+  {
+    "AQUARIUS_L3_SSS_SMI_DAILY_V5": "5.0"
+  },
+  {
+    "AQUARIUS_L3_SSS_SMI_MONTHLY-CLIMATOLOGY_V5": "5.0"
+  },
+  {
+    "AQUARIUS_L3_SSS_SMI_SEASONAL-CLIMATOLOGY_V5": "5.0"
+  },
+  {
+    "ASTGTM": "003"
+  },
+  {
+    "AU_5DSno": "1"
+  },
+  {
+    "AU_DySno": "1"
+  },
+  {
+    "AU_Land": "1"
+  },
+  {
+    "AU_MoSno": "1"
+  },
+  {
+    "AU_SI12": "1"
+  },
+  {
+    "AU_SI25": "1"
+  },
+  {
+    "AU_SI6": "1"
+  },
+  {
+    "AVISO_L4_DYN_TOPO_1DEG_1MO": "1"
+  },
+  {
+    "CCMP_MEASURES_ATLAS_L4_OW_L3_5A_MONTHLY_WIND_VECTORS_FLK": "1"
+  },
+  {
+    "CER_SYN1deg-Month_Terra-Aqua-MODIS": "Edition4A"
+  },
+  {
+    "CERES_EBAF-Surface": "Edition4.0"
+  },
+  {
+    "CERES_EBAF-TOA": "Edition4.1"
+  },
+  {
+    "CERES_EBAF-TOA": "Edition4.0"
+  },
+  {
+    "CER_SYN1deg-Month_Terra-MODIS": "Edition4A"
+  },
+  {
+    "CYGNSS_L3_V2.1": "1"
+  },
+  {
+    "AVHRR_OI-NCEI-L4-GLOB-v2.0": "2.0"
+  },
+  {
+    "GPM_2AGPROFGPMGMI": "05"
+  },
+  {
+    "GPM_1CGPMGMI": "05"
+  },
+  {
+    "TELLUS_GRACE_MASCON_CRI_GRID_RL06_V1": "1"
+  },
+  {
+    "GPM_3IMERGDF": "06"
+  },
+  {
+    "GPM_3IMERGHHE": "06"
+  },
+  {
+    "lislip": "4"
+  },
+  {
+    "lisvhrac": "1"
+  },
+  {
+    "lisvhrfc": "1"
+  },
+  {
+    "lisvhrmc": "1"
+  },
+  {
+    "lisvhrsc": "1"
+  },
+  {
+    "lohrfc": "2.3.2015"
+  },
+  {
+    "LPRM_AMSR2_DS_A_SOILM3": "001"
+  },
+  {
+    "LPRM_AMSR2_DS_D_SOILM3": "001"
+  },
+  {
+    "LPRM_AMSR2_D_SOILM3": "001"
+  },
+  {
+    "LPRM_AMSR2_A_SOILM3": "001"
+  },
+  {
+    "MCD12Q1": "006"
+  },
+  {
+    "MCD15A2H": "006"
+  },
+  {
+    "MCD15A3H": "006"
+  },
+  {
+    "MCD43A3": "006"
+  },
+  {
+    "MCD43A4": "006"
+  },
+  {
+    "MCDAODHD": "6.1NRT"
+  },
+  {
+    "NSIDC-0477": "4"
+  },
+  {
+    "M2TMNXRAD": "5.12.4"
+  },
+  {
+    "M2IMNXGAS": "5.12.4"
+  },
+  {
+    "M2IMNPASM": "5.12.4"
+  },
+  {
+    "M2TMNXCHM": "5.12.4"
+  },
+  {
+    "M2TMNPMST": "5.12.4"
+  },
+  {
+    "M2TMNXADG": "5.12.4"
+  },
+  {
+    "M2TMNXAER": "5.12.4"
+  },
+  {
+    "M2TMNXOCN": "5.12.4"
+  },
+  {
+    "M2TMNXINT": "5.12.4"
+  },
+  {
+    "M2TMNXLND": "5.12.4"
+  },
+  {
+    "M2TMNXCSP": "5.12.4"
+  },
+  {
+    "M2IMNPANA": "5.12.4"
+  },
+  {
+    "M2TMNXFLX": "5.12.4"
+  },
+  {
+    "M2TMNPCLD": "5.12.4"
+  },
+  {
+    "M2TMNXGLC": "5.12.4"
+  },
+  {
+    "M2IMNXLFO": "5.12.4"
+  },
+  {
+    "M2TMNXSLV": "5.12.4"
+  },
+  {
+    "M2TMNXLFO": "5.12.4"
+  },
+  {
+    "M2IMNXASM": "5.12.4"
+  },
+  {
+    "M2IMNXINT": "5.12.4"
+  },
+  {
+    "MIL3MAE": "4"
+  },
+  {
+    "MIL3MCLD": "2"
+  },
+  {
+    "MIL3MLS": "4"
+  },
+  {
+    "MIL3MRD": "5"
+  },
+  {
+    "MIL3MAL": "6"
+  },
+  {
+    "ML2CO": "003"
+  },
+  {
+    "ML2CO": "004"
+  },
+  {
+    "ML2H2O": "003"
+  },
+  {
+    "ML2H2O": "004"
+  },
+  {
+    "ML2HNO3": "003"
+  },
+  {
+    "ML2HNO3": "004"
+  },
+  {
+    "ML2N2O": "003"
+  },
+  {
+    "ML2N2O": "004"
+  },
+  {
+    "ML2O3": "003"
+  },
+  {
+    "ML2O3": "004"
+  },
+  {
+    "ML2SO2": "003"
+  },
+  {
+    "ML2SO2": "004"
+  },
+  {
+    "ML2T": "003"
+  },
+  {
+    "ML2T": "004"
+  },
+  {
+    "MOD04_3K": "6.1"
+  },
+  {
+    "MOD04_3K": "6.1NRT"
+  },
+  {
+    "MOD04_L2": "6.1"
+  },
+  {
+    "MOD04_L2": "6.1NRT"
+  },
+  {
+    "MOD06_L2": "6.1"
+  },
+  {
+    "MOD06_L2": "6.1NRT"
+  },
+  {
+    "MOD09GA": "6NRT"
+  },
+  {
+    "MOD09GA": "006"
+  },
+  {
+    "MOD09GQ": "6NRT"
+  },
+  {
+    "MOD09GQ": "006"
+  },
+  {
+    "MOD09A1": "006"
+  },
+  {
+    "MOD09Q1": "006"
+  },
+  {
+    "MOD10_L2": "6NRT"
+  },
+  {
+    "MOD10_L2": "5"
+  },
+  {
+    "MOD10_L2": "6"
+  },
+  {
+    "MOD10A1": "5"
+  },
+  {
+    "MOD10A1": "6"
+  },
+  {
+    "MOD10A2": "5"
+  },
+  {
+    "MOD10A2": "6"
+  },
+  {
+    "MOD10CM": "5"
+  },
+  {
+    "MOD10CM": "6"
+  },
+  {
+    "MOD11A1": "006"
+  },
+  {
+    "MOD11A2": "006"
+  },
+  {
+    "MOD11C3": "006"
+  },
+  {
+    "MYD13A3": "006"
+  },
+  {
+    "MOD13A3": "006"
+  },
+  {
+    "MOD13Q1": "006"
+  },
+  {
+    "MOD13Q4N": "6NRT"
+  },
+  {
+    "MOD15A2H": "006"
+  },
+  {
+    "MOD17A2H": "006"
+  },
+  {
+    "MOD29": "6NRT"
+  },
+  {
+    "MOD29": "5"
+  },
+  {
+    "MOD29": "6"
+  },
+  {
+    "MOD29P1D": "5"
+  },
+  {
+    "MOD29P1D": "6"
+  },
+  {
+    "MOD29P1N": "5"
+  },
+  {
+    "MOD29P1N": "6"
+  },
+  {
+    "MOD44W": "006"
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_8DAY_4KM_DAYTIME_V2014.0": "2014.0"
+  },
+  {
+    "MODIS_TERRA_L3_SST_MID-IR_8DAY_4KM_NIGHTTIME_V2014.0": "2014.0"
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_8DAY_4KM_NIGHTTIME_V2014.0": "2014.0"
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_ANNUAL_4KM_DAYTIME_V2014.0": "2014.0"
+  },
+  {
+    "MODIS_TERRA_L3_SST_MID-IR_ANNUAL_4KM_NIGHTTIME_V2014.0": "2014.0"
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_ANNUAL_4KM_NIGHTTIME_V2014.0": "2014.0"
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_DAILY_4KM_DAYTIME_V2014.0": "2014.0"
+  },
+  {
+    "MODIS_TERRA_L3_SST_MID-IR_DAILY_4KM_NIGHTTIME_V2014.0": "2014.0"
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_DAILY_4KM_NIGHTTIME_V2014.0": "2014.0"
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_MONTHLY_4KM_DAYTIME_V2014.0": "2014.0"
+  },
+  {
+    "MODIS_TERRA_L3_SST_MID-IR_MONTHLY_4KM_NIGHTTIME_V2014.0": "2014.0"
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_MONTHLY_4KM_NIGHTTIME_V2014.0": "2014.0"
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_8DAY_9KM_DAYTIME_V2014.0": "2014.0"
+  },
+  {
+    "MODIS_TERRA_L3_SST_MID-IR_8DAY_9KM_NIGHTTIME_V2014.0": "2014.0"
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_8DAY_9KM_NIGHTTIME_V2014.0": "2014.0"
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_ANNUAL_9KM_DAYTIME_V2014.0": "2014.0"
+  },
+  {
+    "MODIS_TERRA_L3_SST_MID-IR_ANNUAL_9KM_NIGHTTIME_V2014.0": "2014.0"
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_ANNUAL_9KM_NIGHTTIME_V2014.0": "2014.0"
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_DAILY_9KM_DAYTIME_V2014.0": "2014.0"
+  },
+  {
+    "MODIS_TERRA_L3_SST_MID-IR_DAILY_9KM_NIGHTTIME_V2014.0": "2014.0"
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_DAILY_9KM_NIGHTTIME_V2014.0": "2014.0"
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_MONTHLY_9KM_DAYTIME_V2014.0": "2014.0"
+  },
+  {
+    "MODIS_TERRA_L3_SST_MID-IR_MONTHLY_9KM_NIGHTTIME_V2014.0": "2014.0"
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_MONTHLY_9KM_NIGHTTIME_V2014.0": "2014.0"
+  },
+  {
+    "MOP03J": "107"
+  },
+  {
+    "MOP03J": "108"
+  },
+  {
+    "MOP03J": "007"
+  },
+  {
+    "MOP03J": "008"
+  },
+  {
+    "MOP02R_NRT": "5"
+  },
+  {
+    "MOP03JM": "107"
+  },
+  {
+    "MOP03JM": "108"
+  },
+  {
+    "MOP03JM": "007"
+  },
+  {
+    "MOP03JM": "008"
+  },
+  {
+    "MYD04_3K": "6.1"
+  },
+  {
+    "MYD04_3K": "6.1NRT"
+  },
+  {
+    "MYD04_L2": "6.1"
+  },
+  {
+    "MYD04_L2": "6.1NRT"
+  },
+  {
+    "MYD06_L2": "6.1"
+  },
+  {
+    "MYD06_L2": "6.1NRT"
+  },
+  {
+    "MYD09GA": "6NRT"
+  },
+  {
+    "MYD09GA": "006"
+  },
+  {
+    "MYD09GQ": "6NRT"
+  },
+  {
+    "MYD09GQ": "006"
+  },
+  {
+    "MYD09A1": "006"
+  },
+  {
+    "MYD09Q1": "006"
+  },
+  {
+    "MYD10_L2": "6NRT"
+  },
+  {
+    "MYD10_L2": "5"
+  },
+  {
+    "MYD10_L2": "6"
+  },
+  {
+    "MYD10A1": "5"
+  },
+  {
+    "MYD10A1": "6"
+  },
+  {
+    "MYD10A2": "5"
+  },
+  {
+    "MYD10A2": "6"
+  },
+  {
+    "MYD10CM": "5"
+  },
+  {
+    "MYD10CM": "6"
+  },
+  {
+    "MYD11A1": "006"
+  },
+  {
+    "MYD11A2": "006"
+  },
+  {
+    "MYD11C3": "006"
+  },
+  {
+    "MYD13Q1": "006"
+  },
+  {
+    "MYD15A2H": "006"
+  },
+  {
+    "MYD17A2H": "006"
+  },
+  {
+    "MYD29": "6NRT"
+  },
+  {
+    "MYD29": "5"
+  },
+  {
+    "MYD29": "6"
+  },
+  {
+    "MYD29P1D": "5"
+  },
+  {
+    "MYD29P1D": "6"
+  },
+  {
+    "MYD29P1N": "5"
+  },
+  {
+    "MYD29P1N": "6"
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_8DAY_4KM_DAYTIME_V2014.0": "2014.0"
+  },
+  {
+    "MODIS_AQUA_L3_SST_MID-IR_8DAY_4KM_NIGHTTIME_V2014.0": "2014.0"
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_8DAY_4KM_NIGHTTIME_V2014.0": "2014.0"
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_ANNUAL_4KM_DAYTIME_V2014.0": "2014.0"
+  },
+  {
+    "MODIS_AQUA_L3_SST_MID-IR_ANNUAL_4KM_NIGHTTIME_V2014.0": "2014.0"
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_ANNUAL_4KM_NIGHTTIME_V2014.0": "2014.0"
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_DAILY_4KM_DAYTIME_V2014.0": "2014.0"
+  },
+  {
+    "MODIS_AQUA_L3_SST_MID-IR_DAILY_4KM_NIGHTTIME_V2014.0": "2014.0"
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_DAILY_4KM_NIGHTTIME_V2014.0": "2014.0"
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_MONTHLY_4KM_DAYTIME_V2014.0": "2014.0"
+  },
+  {
+    "MODIS_AQUA_L3_SST_MID-IR_MONTHLY_4KM_NIGHTTIME_V2014.0": "2014.0"
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_MONTHLY_4KM_NIGHTTIME_V2014.0": "2014.0"
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_8DAY_9KM_DAYTIME_V2014.0": "2014.0"
+  },
+  {
+    "MODIS_AQUA_L3_SST_MID-IR_8DAY_9KM_NIGHTTIME_V2014.0": "2014.0"
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_8DAY_9KM_NIGHTTIME_V2014.0": "2014.0"
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_ANNUAL_9KM_DAYTIME_V2014.0": "2014.0"
+  },
+  {
+    "MODIS_AQUA_L3_SST_MID-IR_ANNUAL_9KM_NIGHTTIME_V2014.0": "2014.0"
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_ANNUAL_9KM_NIGHTTIME_V2014.0": "2014.0"
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_DAILY_9KM_DAYTIME_V2014.0": "2014.0"
+  },
+  {
+    "MODIS_AQUA_L3_SST_MID-IR_DAILY_9KM_NIGHTTIME_V2014.0": "2014.0"
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_DAILY_9KM_NIGHTTIME_V2014.0": "2014.0"
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_MONTHLY_9KM_DAYTIME_V2014.0": "2014.0"
+  },
+  {
+    "MODIS_AQUA_L3_SST_MID-IR_MONTHLY_9KM_NIGHTTIME_V2014.0": "2014.0"
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_MONTHLY_9KM_NIGHTTIME_V2014.0": "2014.0"
+  },
+  {
+    "NLDAS_FORA0125_M": "002"
+  },
+  {
+    "NLDAS_FORB0125_M": "002"
+  },
+  {
+    "NLDAS_MOS0125_M": "002"
+  },
+  {
+    "NLDAS_NOAH0125_M": "002"
+  },
+  {
+    "NLDAS_VIC0125_M": "002"
+  },
+  {
+    "OCO2_L2_Lite_SIF": "8r"
+  },
+  {
+    "OCO2_L2_Lite_FP": "9r"
+  },
+  {
+    "olsdig10": "1"
+  },
+  {
+    "olsdig12": "1"
+  },
+  {
+    "OMAERUVd": "003"
+  },
+  {
+    "OMAEROe": "003"
+  },
+  {
+    "OMAERUV": "003"
+  },
+  {
+    "OMAERUV": "003"
+  },
+  {
+    "OMCLDRR": "003"
+  },
+  {
+    "OMCLDRR": "003"
+  },
+  {
+    "OMNO2d": "003"
+  },
+  {
+    "OMDOAO3e": "003"
+  },
+  {
+    "OMTO3e": "003"
+  },
+  {
+    "OMTO3e": "003"
+  },
+  {
+    "OMSO2": "003"
+  },
+  {
+    "OMSO2": "003"
+  },
+  {
+    "OMSO2e": "003"
+  },
+  {
+    "OMUVBd": "003"
+  },
+  {
+    "OSCAR_L4_OC_third-deg": "1"
+  },
+  {
+    "otdlip": "1"
+  },
+  {
+    "rss1tpwnv7r01": "7R01"
+  },
+  {
+    "rss1windnv7r01": "7R01"
+  },
+  {
+    "CIESIN_SEDAC_AGLANDS_CROP2000": "1.0"
+  },
+  {
+    "CIESIN_SEDAC_AGLANDS_PAS2000": "1.0"
+  },
+  {
+    "CIESIN_SEDAC_SPECIES_AMP_RICH15": "2015.00"
+  },
+  {
+    "CIESIN_SEDAC_ANTHROMES_v1": "1.0"
+  },
+  {
+    "CIESIN_CHRR_NDH_CYCLONE_PELRD": "1.0"
+  },
+  {
+    "CIESIN_CHRR_NDH_CYCLONE_HFD": "1.0"
+  },
+  {
+    "CIESIN_CHRR_NDH_CYCLONE_MRD": "1.0"
+  },
+  {
+    "CIESIN_CHRR_NDH_DROUGHT_PELRD": "1.0"
+  },
+  {
+    "CIESIN_CHRR_NDH_DROUGHT_HFD": "1.0"
+  },
+  {
+    "CIESIN_CHRR_NDH_DROUGHT_MRD": "1.0"
+  },
+  {
+    "CIESIN_SEDAC_PD_NETMIG_1970_2000": "1.0"
+  },
+  {
+    "CIESIN_CHRR_NDH_FLOOD_PELRD": "1.0"
+  },
+  {
+    "CIESIN_CHRR_NDH_FLOOD_HFD": "1.0"
+  },
+  {
+    "CIESIN_CHRR_NDH_FLOOD_MRD": "1.0"
+  },
+  {
+    "CIESIN_SEDAC_ULANDSAT_GMIS_V1": "1.0"
+  },
+  {
+    "CIESIN_SEDAC_GPWv4_APDENS_WPP_2015": "4.0"
+  },
+  {
+    "CIESIN_SEDAC_GRUMPv1_EXT": "1.0"
+  },
+  {
+    "CIESIN_SEDAC_ULANDSAT_HBASE_V1": "1.0"
+  },
+  {
+    "CIESIN_SEDAC_LWP2_HF_GEOG": "2.0"
+  },
+  {
+    "CIESIN_CHRR_NDH_LSLIDE_HD": "1.0"
+  },
+  {
+    "CIESIN_SEDAC_LWP2_LW_GEOG": "2.0"
+  },
+  {
+    "CIESIN_SEDAC_SDEI_LST2013": "1.0"
+  },
+  {
+    "CIESIN_SEDAC_SPECIES_MAM_RICH15": "2015.00"
+  },
+  {
+    "CIESIN_SEDAC_LULC_MANGROVES_2000": "1.0"
+  },
+  {
+    "CIESIN_SEDAC_SDEI_NO2": "1.0"
+  },
+  {
+    "CIESIN_SEDAC_SDEI_PM25_MMSAOD": "1.0"
+  },
+  {
+    "CIESIN_SEDAC_SDEI_UHI2013": "1.0"
+  },
+  {
+    "CIESIN_SEDAC_LECZ_URPLAEv2": "2.0"
+  },
+  {
+    "CIESIN_SEDAC_LULC_PUEXPANS_2030": "1.0"
+  },
+  {
+    "CIESIN_CHRR_NDH_VOLCANO_PELRD": "1.0"
+  },
+  {
+    "CIESIN_CHRR_NDH_VOLCANO_HFD": "1.0"
+  },
+  {
+    "CIESIN_CHRR_NDH_VOLCANO_MRD": "1.0"
+  },
+  {
+    "SPL1BTB": "004"
+  },
+  {
+    "SPL1CTB_E": "002"
+  },
+  {
+    "SPL1CTB": "004"
+  },
+  {
+    "SPL2SMP": "006"
+  },
+  {
+    "SPL2SMP_E": "003"
+  },
+  {
+    "SPL2SMAP_S": "002"
+  },
+  {
+    "SPL3FTP": "002"
+  },
+  {
+    "SPL3FTP_E": "002"
+  },
+  {
+    "SPL3SMA": "003"
+  },
+  {
+    "SPL3SMAP": "003"
+  },
+  {
+    "SPL3SMP": "006"
+  },
+  {
+    "SMAP_JPL_L3_SSS_CAP_8DAY-RUNNINGMEAN_V42": "1"
+  },
+  {
+    "SMAP_JPL_L3_SSS_CAP_MONTHLY_V42": "1"
+  },
+  {
+    "SPL4SMAU": "004"
+  },
+  {
+    "SPL4CMDL": "004"
+  },
+  {
+    "SPL4SMGP": "004"
+  },
+  {
+    "SRTMGL1": "003"
+  },
+  {
+    "rssmif10d": "7"
+  },
+  {
+    "rssmif11d": "7"
+  },
+  {
+    "rssmif13d": "7"
+  },
+  {
+    "rssmif14d": "7"
+  },
+  {
+    "rssmif15d": "7"
+  },
+  {
+    "rssmif16d": "7"
+  },
+  {
+    "rssmif17d": "7"
+  },
+  {
+    "rssmif08d": "7"
+  },
+  {
+    "SWDB_L305": "004"
+  },
+  {
+    "SWDB_L3M05": "004"
+  },
+  {
+    "ALT_TIDE_GAUGE_L4_OST_SLA_US_WEST_COAST_DAILY": "1"
+  },
+  {
+    "MERGED_TP_J1_OSTM_OST_CYCLES_V4": "1"
+  },
+  {
+    "RECON_SEA_LEVEL_OST_L4_V1": "1"
+  },
+  {
+    "GPM_2AGPROFTRMMTMI_CLIM": "05"
+  },
+  {
+    "GPM_1CTRMMTMI": "05"
+  },
+  {
+    "VNP02IMG_NRT": "1"
+  },
+  {
+    "CLDMSK_L2_VIIRS_SNPP_NRT": "1"
+  },
+  {
+    "AERDB_L2_VIIRS_SNPP_NRT": "1"
+  },
+  {
+    "WELDAKYR": "001"
+  },
+  {
+    "WELDAKMO": "001"
+  },
+  {
+    "WELDAKSE": "001"
+  },
+  {
+    "WELDUSYR": "001"
+  },
+  {
+    "WELDUSMO": "001"
+  },
+  {
+    "WELDUSSE": "001"
+  },
+  {
+    "WELDLCLUC": "001"
+  },
+  {
+    "NSIDC-0484": "2"
+  },
+  {
+    "NISE": "2"
+  },
+  {
+    "NISE": "4"
+  },
+  {
+    "NISE": "5"
+  },
+  {
+    "NISE": "6"
+  },
+  {
+    "NSIDC-0478": "2"
+  },
+  {
+    "NSIDC-0534": "1"
+  },
+  {
+    "SPL3FTA": "003"
+  },
+  {
+    "MYD14": "6NRT"
+  },
+  {
+    "MYD14": "006"
+  },
+  {
+    "MOD14": "6NRT"
+  },
+  {
+    "MOD14": "006"
+  },
+  {
+    "CIESIN_SEDAC_GRUMPv1_STLMNT01": "1.01"
+  },
+  {
+    "VNP14IMGTDL_NRT": "1"
+  }
+]

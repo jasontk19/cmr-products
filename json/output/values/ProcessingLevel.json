@@ -1,1 +1,1833 @@
-[{"A2_RainOcn_NRT": {"Id": "2"}}, {"A2_RainOcn_NRT": {"Id": "2"}}, {"AE_Rain": {"ProcessingLevelDescription": "Derived geophysical variables", "Id": "Level 2B"}}, {"AE_SI12": {"ProcessingLevelDescription": "Geophysical variables mapped on a grid", "Id": "Level 3"}}, {"AE_SI25": {"ProcessingLevelDescription": "Geophysical variables mapped on a grid", "Id": "Level 3"}}, {"AE_SI6": {"ProcessingLevelDescription": "Geophysical variables mapped on a grid", "Id": "Level 3"}}, {"AIRS2RET": {"Id": "2"}}, {"AIRS2SUP": {"Id": "2"}}, {"AIRS3STD": {"Id": "3"}}, {"AIRS3STM": {"Id": "3"}}, {"AIRX3C2M": {"Id": "3"}}, {"AIRS3C2M": {"Id": "3"}}, {"amsua15sp": {"Id": "2"}}, {"amsua16sp": {"Id": "2"}}, {"amsua17sp": {"Id": "2"}}, {"AQ3_DYSM": {"ProcessingLevelDescription": "Geophysical variables mapped on a grid", "Id": "Level 3"}}, {"AQ3_WKSM": {"ProcessingLevelDescription": "Geophysical variables mapped on a grid", "Id": "Level 3"}}, {"AQUARIUS_L3_SSS_SMI_7DAY-RUNNINGMEAN_V5": {"Id": "3"}}, {"AQUARIUS_L3_SSS_SMI_7DAY_V5": {"Id": "3"}}, {"AQUARIUS_L3_SSS_SMI_DAILY_V5": {"Id": "3"}}, {"AQUARIUS_L3_SSS_SMI_MONTHLY-CLIMATOLOGY_V5": {"Id": "3"}}, {"AQUARIUS_L3_SSS_SMI_SEASONAL-CLIMATOLOGY_V5": {"Id": "3"}}, {"ASTGTM": {"ProcessingLevelDescription": "GRID", "Id": "3"}}, {"AU_5DSno": {"ProcessingLevelDescription": "Geophysical variables mapped on a grid", "Id": "Level 3"}}, {"AU_DySno": {"ProcessingLevelDescription": "Geophysical variables mapped on a grid", "Id": "Level 3"}}, {"AU_Land": {"ProcessingLevelDescription": "Derived geophysical variables", "Id": "Level 2B"}}, {"AU_MoSno": {"ProcessingLevelDescription": "Geophysical variables mapped on a grid", "Id": "Level 3"}}, {"AU_SI12": {"ProcessingLevelDescription": "Geophysical variables mapped on a grid", "Id": "Level 3"}}, {"AU_SI25": {"ProcessingLevelDescription": "Geophysical variables mapped on a grid", "Id": "Level 3"}}, {"AU_SI6": {"ProcessingLevelDescription": "Geophysical variables mapped on a grid", "Id": "Level 3"}}, {"AVISO_L4_DYN_TOPO_1DEG_1MO": {"Id": "4"}}, {"CCMP_MEASURES_ATLAS_L4_OW_L3_5A_MONTHLY_WIND_VECTORS_FLK": {"Id": "4"}}, {"CER_SYN1deg-Month_Terra-Aqua-MODIS": {"Id": "3"}}, {"CERES_EBAF-Surface": {"Id": "4"}}, {"CERES_EBAF-TOA": {"Id": "4"}}, {"CERES_EBAF-TOA": {"Id": "4"}}, {"CER_SYN1deg-Month_Terra-MODIS": {"Id": "3"}}, {"CYGNSS_L3_V2.1": {"Id": "3"}}, {"AVHRR_OI-NCEI-L4-GLOB-v2.0": {"Id": "4"}}, {"GPM_2AGPROFGPMGMI": {"Id": "2"}}, {"GPM_1CGPMGMI": {"Id": "1"}}, {"TELLUS_GRACE_MASCON_CRI_GRID_RL06_V1": {"Id": "3"}}, {"GPM_3IMERGDF": {"Id": "3"}}, {"GPM_3IMERGHHE": {"Id": "3"}}, {"lislip": {"Id": "2"}}, {"lisvhrac": {"Id": "3"}}, {"lisvhrfc": {"Id": "3"}}, {"lisvhrmc": {"Id": "3"}}, {"lisvhrsc": {"Id": "3"}}, {"lohrfc": {"Id": "3"}}, {"LPRM_AMSR2_DS_A_SOILM3": {"Id": "3"}}, {"LPRM_AMSR2_DS_D_SOILM3": {"Id": "3"}}, {"LPRM_AMSR2_D_SOILM3": {"Id": "3"}}, {"LPRM_AMSR2_A_SOILM3": {"Id": "3"}}, {"MCD12Q1": {"ProcessingLevelDescription": "Sensor Measurements", "Id": "3"}}, {"MCD15A2H": {"ProcessingLevelDescription": "model output or results from analyses of lower-level data (grid)", "Id": "4"}}, {"MCD15A3H": {"ProcessingLevelDescription": "GRID", "Id": "4"}}, {"MCD43A3": {"ProcessingLevelDescription": "Sensor Measurements", "Id": "3"}}, {"MCD43A4": {"ProcessingLevelDescription": "Sensor Measurements", "Id": "3"}}, {"MCDAODHD": {"Id": "3"}}, {"NSIDC-0477": {"ProcessingLevelDescription": "Geophysical variables mapped on a grid", "Id": "Level 3"}}, {"M2TMNXRAD": {"Id": "4"}}, {"M2IMNXGAS": {"Id": "4"}}, {"M2IMNPASM": {"Id": "4"}}, {"M2TMNXCHM": {"Id": "4"}}, {"M2TMNPMST": {"Id": "4"}}, {"M2TMNXADG": {"Id": "4"}}, {"M2TMNXAER": {"Id": "4"}}, {"M2TMNXOCN": {"Id": "4"}}, {"M2TMNXINT": {"Id": "4"}}, {"M2TMNXLND": {"Id": "4"}}, {"M2TMNXCSP": {"Id": "4"}}, {"M2IMNPANA": {"Id": "4"}}, {"M2TMNXFLX": {"Id": "4"}}, {"M2TMNPCLD": {"Id": "4"}}, {"M2TMNXGLC": {"Id": "4"}}, {"M2IMNXLFO": {"Id": "4"}}, {"M2TMNXSLV": {"Id": "4"}}, {"M2TMNXLFO": {"Id": "4"}}, {"M2IMNXASM": {"Id": "4"}}, {"M2IMNXINT": {"Id": "4"}}, {"MIL3MAE": {"Id": "3"}}, {"MIL3MCLD": {"Id": "3"}}, {"MIL3MLS": {"Id": "3"}}, {"MIL3MRD": {"Id": "3"}}, {"MIL3MAL": {"Id": "3"}}, {"ML2CO": {"Id": "2"}}, {"ML2CO": {"Id": "2"}}, {"ML2H2O": {"Id": "2"}}, {"ML2H2O": {"Id": "2"}}, {"ML2HNO3": {"Id": "2"}}, {"ML2HNO3": {"Id": "2"}}, {"ML2N2O": {"Id": "2"}}, {"ML2N2O": {"Id": "2"}}, {"ML2O3": {"Id": "2"}}, {"ML2O3": {"Id": "2"}}, {"ML2SO2": {"Id": "2"}}, {"ML2SO2": {"Id": "2"}}, {"ML2T": {"Id": "2"}}, {"ML2T": {"Id": "2"}}, {"MOD04_3K": {"Id": "2"}}, {"MOD04_3K": {"Id": "2"}}, {"MOD04_L2": {"Id": "2"}}, {"MOD04_L2": {"Id": "2"}}, {"MOD06_L2": {"Id": "2"}}, {"MOD06_L2": {"Id": "2"}}, {"MOD09GA": {"Id": "2G"}}, {"MOD09GA": {"ProcessingLevelDescription": "Sensor Measurements", "Id": "2G"}}, {"MOD09GQ": {"Id": "2G"}}, {"MOD09GQ": {"ProcessingLevelDescription": "Sensor Measurements", "Id": "2G"}}, {"MOD09A1": {"ProcessingLevelDescription": "Sensor Measurements", "Id": "3"}}, {"MOD09Q1": {"ProcessingLevelDescription": "Sensor Measurements", "Id": "3"}}, {"MOD10_L2": {"Id": "Not provided"}}, {"MOD10_L2": {"ProcessingLevelDescription": "Derived geophysical variables", "Id": "Level 2"}}, {"MOD10_L2": {"ProcessingLevelDescription": "Derived geophysical variables", "Id": "Level 2"}}, {"MOD10A1": {"ProcessingLevelDescription": "Geophysical variables mapped on a grid", "Id": "Level 3"}}, {"MOD10A1": {"ProcessingLevelDescription": "Geophysical variables mapped on a grid", "Id": "Level 3"}}, {"MOD10A2": {"ProcessingLevelDescription": "Geophysical variables mapped on a grid", "Id": "Level 3"}}, {"MOD10A2": {"ProcessingLevelDescription": "Geophysical variables mapped on a grid", "Id": "Level 3"}}, {"MOD10CM": {"ProcessingLevelDescription": "Geophysical variables mapped on a grid", "Id": "Level 3"}}, {"MOD10CM": {"ProcessingLevelDescription": "Geophysical variables mapped on a grid", "Id": "Level 3"}}, {"MOD11A1": {"ProcessingLevelDescription": "Sensor Measurements", "Id": "3"}}, {"MOD11A2": {"ProcessingLevelDescription": "Sensor Measurements", "Id": "3"}}, {"MOD11C3": {"ProcessingLevelDescription": "Sensor Measurements", "Id": "3"}}, {"MYD13A3": {"ProcessingLevelDescription": "Sensor Measurements", "Id": "3"}}, {"MOD13A3": {"ProcessingLevelDescription": "Sensor Measurements", "Id": "3"}}, {"MOD13Q1": {"ProcessingLevelDescription": "Sensor Measurements", "Id": "3"}}, {"MOD13Q4N": {"Id": "Not provided"}}, {"MOD15A2H": {"ProcessingLevelDescription": "GRID", "Id": "4"}}, {"MOD17A2H": {"ProcessingLevelDescription": "GRID", "Id": "4"}}, {"MOD29": {"Id": "Not provided"}}, {"MOD29": {"ProcessingLevelDescription": "Derived geophysical variables", "Id": "Level 2"}}, {"MOD29": {"ProcessingLevelDescription": "Derived geophysical variables", "Id": "Level 2"}}, {"MOD29P1D": {"ProcessingLevelDescription": "Geophysical variables mapped on a grid", "Id": "Level 3"}}, {"MOD29P1D": {"ProcessingLevelDescription": "Geophysical variables mapped on a grid", "Id": "Level 3"}}, {"MOD29P1N": {"ProcessingLevelDescription": "Geophysical variables mapped on a grid", "Id": "Level 3"}}, {"MOD29P1N": {"ProcessingLevelDescription": "Geophysical variables mapped on a grid", "Id": "Level 3"}}, {"MOD44W": {"ProcessingLevelDescription": "Sensor Measurements", "Id": "3"}}, {"MODIS_TERRA_L3_SST_THERMAL_8DAY_4KM_DAYTIME_V2014.0": {"Id": "3"}}, {"MODIS_TERRA_L3_SST_MID-IR_8DAY_4KM_NIGHTTIME_V2014.0": {"Id": "3"}}, {"MODIS_TERRA_L3_SST_THERMAL_8DAY_4KM_NIGHTTIME_V2014.0": {"Id": "3"}}, {"MODIS_TERRA_L3_SST_THERMAL_ANNUAL_4KM_DAYTIME_V2014.0": {"Id": "3"}}, {"MODIS_TERRA_L3_SST_MID-IR_ANNUAL_4KM_NIGHTTIME_V2014.0": {"Id": "3"}}, {"MODIS_TERRA_L3_SST_THERMAL_ANNUAL_4KM_NIGHTTIME_V2014.0": {"Id": "3"}}, {"MODIS_TERRA_L3_SST_THERMAL_DAILY_4KM_DAYTIME_V2014.0": {"Id": "3"}}, {"MODIS_TERRA_L3_SST_MID-IR_DAILY_4KM_NIGHTTIME_V2014.0": {"Id": "3"}}, {"MODIS_TERRA_L3_SST_THERMAL_DAILY_4KM_NIGHTTIME_V2014.0": {"Id": "3"}}, {"MODIS_TERRA_L3_SST_THERMAL_MONTHLY_4KM_DAYTIME_V2014.0": {"Id": "3"}}, {"MODIS_TERRA_L3_SST_MID-IR_MONTHLY_4KM_NIGHTTIME_V2014.0": {"Id": "3"}}, {"MODIS_TERRA_L3_SST_THERMAL_MONTHLY_4KM_NIGHTTIME_V2014.0": {"Id": "3"}}, {"MODIS_TERRA_L3_SST_THERMAL_8DAY_9KM_DAYTIME_V2014.0": {"Id": "3"}}, {"MODIS_TERRA_L3_SST_MID-IR_8DAY_9KM_NIGHTTIME_V2014.0": {"Id": "3"}}, {"MODIS_TERRA_L3_SST_THERMAL_8DAY_9KM_NIGHTTIME_V2014.0": {"Id": "3"}}, {"MODIS_TERRA_L3_SST_THERMAL_ANNUAL_9KM_DAYTIME_V2014.0": {"Id": "3"}}, {"MODIS_TERRA_L3_SST_MID-IR_ANNUAL_9KM_NIGHTTIME_V2014.0": {"Id": "3"}}, {"MODIS_TERRA_L3_SST_THERMAL_ANNUAL_9KM_NIGHTTIME_V2014.0": {"Id": "3"}}, {"MODIS_TERRA_L3_SST_THERMAL_DAILY_9KM_DAYTIME_V2014.0": {"Id": "3"}}, {"MODIS_TERRA_L3_SST_MID-IR_DAILY_9KM_NIGHTTIME_V2014.0": {"Id": "3"}}, {"MODIS_TERRA_L3_SST_THERMAL_DAILY_9KM_NIGHTTIME_V2014.0": {"Id": "3"}}, {"MODIS_TERRA_L3_SST_THERMAL_MONTHLY_9KM_DAYTIME_V2014.0": {"Id": "3"}}, {"MODIS_TERRA_L3_SST_MID-IR_MONTHLY_9KM_NIGHTTIME_V2014.0": {"Id": "3"}}, {"MODIS_TERRA_L3_SST_THERMAL_MONTHLY_9KM_NIGHTTIME_V2014.0": {"Id": "3"}}, {"MOP03J": {"ProcessingLevelDescription": "GRID", "Id": "3"}}, {"MOP03J": {"ProcessingLevelDescription": "Variables mapped on uniform space-time grid scales, usually with some completeness and consistency.", "Id": "3"}}, {"MOP03J": {"ProcessingLevelDescription": "GRID", "Id": "3"}}, {"MOP03J": {"ProcessingLevelDescription": "Variables mapped on uniform space-time grid scales, usually with some completeness and consistency.", "Id": "3"}}, {"MOP02R_NRT": {"ProcessingLevelDescription": "Geolocated CO Retrievals", "Id": "2"}}, {"MOP03JM": {"ProcessingLevelDescription": "GRID", "Id": "3"}}, {"MOP03JM": {"ProcessingLevelDescription": "Variables mapped on uniform space-time grid scales, usually with some completeness and consistency.", "Id": "3"}}, {"MOP03JM": {"ProcessingLevelDescription": "GRID", "Id": "3"}}, {"MOP03JM": {"ProcessingLevelDescription": "Variables mapped on uniform space-time grid scales, usually with some completeness and consistency.", "Id": "3"}}, {"MYD04_3K": {"Id": "2"}}, {"MYD04_3K": {"Id": "2"}}, {"MYD04_L2": {"Id": "2"}}, {"MYD04_L2": {"Id": "2"}}, {"MYD06_L2": {"Id": "2"}}, {"MYD06_L2": {"Id": "2"}}, {"MYD09GA": {"Id": "2G"}}, {"MYD09GA": {"ProcessingLevelDescription": "Sensor Measurements", "Id": "2G"}}, {"MYD09GQ": {"Id": "2G"}}, {"MYD09GQ": {"ProcessingLevelDescription": "Sensor Measurements", "Id": "2G"}}, {"MYD09A1": {"ProcessingLevelDescription": "Sensor Measurements", "Id": "3"}}, {"MYD09Q1": {"ProcessingLevelDescription": "Sensor Measurements", "Id": "3"}}, {"MYD10_L2": {"Id": "Not provided"}}, {"MYD10_L2": {"ProcessingLevelDescription": "Derived geophysical variables", "Id": "Level 2"}}, {"MYD10_L2": {"ProcessingLevelDescription": "Derived geophysical variables", "Id": "Level 2"}}, {"MYD10A1": {"ProcessingLevelDescription": "Geophysical variables mapped on a grid", "Id": "Level 3"}}, {"MYD10A1": {"ProcessingLevelDescription": "Geophysical variables mapped on a grid", "Id": "Level 3"}}, {"MYD10A2": {"ProcessingLevelDescription": "Geophysical variables mapped on a grid", "Id": "Level 3"}}, {"MYD10A2": {"ProcessingLevelDescription": "Geophysical variables mapped on a grid", "Id": "Level 3"}}, {"MYD10CM": {"ProcessingLevelDescription": "Geophysical variables mapped on a grid", "Id": "Level 3"}}, {"MYD10CM": {"ProcessingLevelDescription": "Geophysical variables mapped on a grid", "Id": "Level 3"}}, {"MYD11A1": {"ProcessingLevelDescription": "Sensor Measurements", "Id": "3"}}, {"MYD11A2": {"ProcessingLevelDescription": "Sensor Measurements", "Id": "3"}}, {"MYD11C3": {"ProcessingLevelDescription": "Sensor Measurements", "Id": "3"}}, {"MYD13Q1": {"ProcessingLevelDescription": "Sensor Measurements", "Id": "3"}}, {"MYD15A2H": {"ProcessingLevelDescription": "GRID", "Id": "4"}}, {"MYD17A2H": {"ProcessingLevelDescription": "GRID", "Id": "4"}}, {"MYD29": {"Id": "Not provided"}}, {"MYD29": {"ProcessingLevelDescription": "Derived geophysical variables", "Id": "Level 2"}}, {"MYD29": {"ProcessingLevelDescription": "Derived geophysical variables", "Id": "Level 2"}}, {"MYD29P1D": {"ProcessingLevelDescription": "Geophysical variables mapped on a grid", "Id": "Level 3"}}, {"MYD29P1D": {"ProcessingLevelDescription": "Geophysical variables mapped on a grid", "Id": "Level 3"}}, {"MYD29P1N": {"ProcessingLevelDescription": "Geophysical variables mapped on a grid", "Id": "Level 3"}}, {"MYD29P1N": {"ProcessingLevelDescription": "Geophysical variables mapped on a grid", "Id": "Level 3"}}, {"MODIS_AQUA_L3_SST_THERMAL_8DAY_4KM_DAYTIME_V2014.0": {"Id": "3"}}, {"MODIS_AQUA_L3_SST_MID-IR_8DAY_4KM_NIGHTTIME_V2014.0": {"Id": "3"}}, {"MODIS_AQUA_L3_SST_THERMAL_8DAY_4KM_NIGHTTIME_V2014.0": {"Id": "3"}}, {"MODIS_AQUA_L3_SST_THERMAL_ANNUAL_4KM_DAYTIME_V2014.0": {"Id": "3"}}, {"MODIS_AQUA_L3_SST_MID-IR_ANNUAL_4KM_NIGHTTIME_V2014.0": {"Id": "3"}}, {"MODIS_AQUA_L3_SST_THERMAL_ANNUAL_4KM_NIGHTTIME_V2014.0": {"Id": "3"}}, {"MODIS_AQUA_L3_SST_THERMAL_DAILY_4KM_DAYTIME_V2014.0": {"Id": "3"}}, {"MODIS_AQUA_L3_SST_MID-IR_DAILY_4KM_NIGHTTIME_V2014.0": {"Id": "3"}}, {"MODIS_AQUA_L3_SST_THERMAL_DAILY_4KM_NIGHTTIME_V2014.0": {"Id": "3"}}, {"MODIS_AQUA_L3_SST_THERMAL_MONTHLY_4KM_DAYTIME_V2014.0": {"Id": "3"}}, {"MODIS_AQUA_L3_SST_MID-IR_MONTHLY_4KM_NIGHTTIME_V2014.0": {"Id": "3"}}, {"MODIS_AQUA_L3_SST_THERMAL_MONTHLY_4KM_NIGHTTIME_V2014.0": {"Id": "3"}}, {"MODIS_AQUA_L3_SST_THERMAL_8DAY_9KM_DAYTIME_V2014.0": {"Id": "3"}}, {"MODIS_AQUA_L3_SST_MID-IR_8DAY_9KM_NIGHTTIME_V2014.0": {"Id": "3"}}, {"MODIS_AQUA_L3_SST_THERMAL_8DAY_9KM_NIGHTTIME_V2014.0": {"Id": "3"}}, {"MODIS_AQUA_L3_SST_THERMAL_ANNUAL_9KM_DAYTIME_V2014.0": {"Id": "3"}}, {"MODIS_AQUA_L3_SST_MID-IR_ANNUAL_9KM_NIGHTTIME_V2014.0": {"Id": "3"}}, {"MODIS_AQUA_L3_SST_THERMAL_ANNUAL_9KM_NIGHTTIME_V2014.0": {"Id": "3"}}, {"MODIS_AQUA_L3_SST_THERMAL_DAILY_9KM_DAYTIME_V2014.0": {"Id": "3"}}, {"MODIS_AQUA_L3_SST_MID-IR_DAILY_9KM_NIGHTTIME_V2014.0": {"Id": "3"}}, {"MODIS_AQUA_L3_SST_THERMAL_DAILY_9KM_NIGHTTIME_V2014.0": {"Id": "3"}}, {"MODIS_AQUA_L3_SST_THERMAL_MONTHLY_9KM_DAYTIME_V2014.0": {"Id": "3"}}, {"MODIS_AQUA_L3_SST_MID-IR_MONTHLY_9KM_NIGHTTIME_V2014.0": {"Id": "3"}}, {"MODIS_AQUA_L3_SST_THERMAL_MONTHLY_9KM_NIGHTTIME_V2014.0": {"Id": "3"}}, {"NLDAS_FORA0125_M": {"Id": "4"}}, {"NLDAS_FORB0125_M": {"Id": "4"}}, {"NLDAS_MOS0125_M": {"Id": "4"}}, {"NLDAS_NOAH0125_M": {"Id": "4"}}, {"NLDAS_VIC0125_M": {"Id": "4"}}, {"OCO2_L2_Lite_SIF": {"Id": "2"}}, {"OCO2_L2_Lite_FP": {"Id": "2"}}, {"olsdig10": {"Id": "3"}}, {"olsdig12": {"Id": "3"}}, {"OMAERUVd": {"Id": "3"}}, {"OMAEROe": {"Id": "3"}}, {"OMAERUV": {"Id": "2"}}, {"OMAERUV": {"Id": "Not provided"}}, {"OMCLDRR": {"Id": "Not provided"}}, {"OMCLDRR": {"Id": "2"}}, {"OMNO2d": {"Id": "3"}}, {"OMDOAO3e": {"Id": "3"}}, {"OMTO3e": {"Id": "Not provided"}}, {"OMTO3e": {"Id": "3"}}, {"OMSO2": {"Id": "2"}}, {"OMSO2": {"Id": "Not provided"}}, {"OMSO2e": {"Id": "3"}}, {"OMUVBd": {"Id": "3"}}, {"OSCAR_L4_OC_third-deg": {"Id": "4"}}, {"otdlip": {"Id": "1B"}}, {"rss1tpwnv7r01": {"Id": "3"}}, {"rss1windnv7r01": {"Id": "3"}}, {"CIESIN_SEDAC_AGLANDS_CROP2000": {"Id": "3"}}, {"CIESIN_SEDAC_AGLANDS_PAS2000": {"Id": "3"}}, {"CIESIN_SEDAC_SPECIES_AMP_RICH15": {"Id": "3"}}, {"CIESIN_SEDAC_ANTHROMES_v1": {"Id": "4"}}, {"CIESIN_CHRR_NDH_CYCLONE_PELRD": {"Id": "3"}}, {"CIESIN_CHRR_NDH_CYCLONE_HFD": {"Id": "3"}}, {"CIESIN_CHRR_NDH_CYCLONE_MRD": {"Id": "3"}}, {"CIESIN_CHRR_NDH_DROUGHT_PELRD": {"Id": "3"}}, {"CIESIN_CHRR_NDH_DROUGHT_HFD": {"Id": "3"}}, {"CIESIN_CHRR_NDH_DROUGHT_MRD": {"Id": "3"}}, {"CIESIN_SEDAC_PD_NETMIG_1970_2000": {"Id": "4"}}, {"CIESIN_CHRR_NDH_FLOOD_PELRD": {"Id": "3"}}, {"CIESIN_CHRR_NDH_FLOOD_HFD": {"Id": "3"}}, {"CIESIN_CHRR_NDH_FLOOD_MRD": {"Id": "3"}}, {"CIESIN_SEDAC_ULANDSAT_GMIS_V1": {"Id": "3"}}, {"CIESIN_SEDAC_GPWv4_APDENS_WPP_2015": {"Id": "3"}}, {"CIESIN_SEDAC_GRUMPv1_EXT": {"Id": "4"}}, {"CIESIN_SEDAC_ULANDSAT_HBASE_V1": {"Id": "3"}}, {"CIESIN_SEDAC_LWP2_HF_GEOG": {"Id": "3"}}, {"CIESIN_CHRR_NDH_LSLIDE_HD": {"Id": "3"}}, {"CIESIN_SEDAC_LWP2_LW_GEOG": {"Id": "3"}}, {"CIESIN_SEDAC_SDEI_LST2013": {"Id": "4"}}, {"CIESIN_SEDAC_SPECIES_MAM_RICH15": {"Id": "3"}}, {"CIESIN_SEDAC_LULC_MANGROVES_2000": {"Id": "3"}}, {"CIESIN_SEDAC_SDEI_NO2": {"Id": "4"}}, {"CIESIN_SEDAC_SDEI_PM25_MMSAOD": {"Id": "3"}}, {"CIESIN_SEDAC_SDEI_UHI2013": {"Id": "2"}}, {"CIESIN_SEDAC_LECZ_URPLAEv2": {"Id": "3"}}, {"CIESIN_SEDAC_LULC_PUEXPANS_2030": {"Id": "3"}}, {"CIESIN_CHRR_NDH_VOLCANO_PELRD": {"Id": "3"}}, {"CIESIN_CHRR_NDH_VOLCANO_HFD": {"Id": "3"}}, {"CIESIN_CHRR_NDH_VOLCANO_MRD": {"Id": "3"}}, {"SPL1BTB": {"ProcessingLevelDescription": "Sensor units", "Id": "Level 1B"}}, {"SPL1CTB_E": {"ProcessingLevelDescription": "Sensor units with georeferencing parameters", "Id": "Level 1C"}}, {"SPL1CTB": {"ProcessingLevelDescription": "Sensor units with georeferencing parameters", "Id": "Level 1C"}}, {"SPL2SMP": {"ProcessingLevelDescription": "Derived geophysical variables", "Id": "Level 2"}}, {"SPL2SMP_E": {"ProcessingLevelDescription": "Derived geophysical variables", "Id": "Level 2"}}, {"SPL2SMAP_S": {"ProcessingLevelDescription": "Derived geophysical variables", "Id": "Level 2"}}, {"SPL3FTP": {"ProcessingLevelDescription": "Geophysical variables mapped on a grid", "Id": "Level 3"}}, {"SPL3FTP_E": {"ProcessingLevelDescription": "Geophysical variables mapped on a grid", "Id": "Level 3"}}, {"SPL3SMA": {"ProcessingLevelDescription": "Geophysical variables mapped on a grid", "Id": "Level 3"}}, {"SPL3SMAP": {"ProcessingLevelDescription": "Geophysical variables mapped on a grid", "Id": "Level 3"}}, {"SPL3SMP": {"ProcessingLevelDescription": "Geophysical variables mapped on a grid", "Id": "Level 3"}}, {"SMAP_JPL_L3_SSS_CAP_8DAY-RUNNINGMEAN_V42": {"Id": "3"}}, {"SMAP_JPL_L3_SSS_CAP_MONTHLY_V42": {"Id": "3"}}, {"SPL4SMAU": {"ProcessingLevelDescription": "Modeled output or geophysical variables derived from multiple measurements", "Id": "Level 4"}}, {"SPL4CMDL": {"ProcessingLevelDescription": "Modeled output or geophysical variables derived from multiple measurements", "Id": "Level 4"}}, {"SPL4SMGP": {"ProcessingLevelDescription": "Modeled output or geophysical variables derived from multiple measurements", "Id": "Level 4"}}, {"SRTMGL1": {"ProcessingLevelDescription": "GRID", "Id": "3"}}, {"rssmif10d": {"Id": "3"}}, {"rssmif11d": {"Id": "3"}}, {"rssmif13d": {"Id": "3"}}, {"rssmif14d": {"Id": "3"}}, {"rssmif15d": {"Id": "3"}}, {"rssmif16d": {"Id": "3"}}, {"rssmif17d": {"Id": "3"}}, {"rssmif08d": {"Id": "3"}}, {"SWDB_L305": {"Id": "3"}}, {"SWDB_L3M05": {"Id": "3"}}, {"ALT_TIDE_GAUGE_L4_OST_SLA_US_WEST_COAST_DAILY": {"Id": "4"}}, {"MERGED_TP_J1_OSTM_OST_CYCLES_V4": {"Id": "2"}}, {"RECON_SEA_LEVEL_OST_L4_V1": {"Id": "4"}}, {"GPM_2AGPROFTRMMTMI_CLIM": {"Id": "2"}}, {"GPM_1CTRMMTMI": {"Id": "1"}}, {"VNP02IMG_NRT": {"Id": "1B"}}, {"CLDMSK_L2_VIIRS_SNPP_NRT": {"Id": "2"}}, {"AERDB_L2_VIIRS_SNPP_NRT": {"Id": "2"}}, {"WELDAKYR": {"ProcessingLevelDescription": "Geophysical Quantities at the sensor resolution or geolocated", "Id": "1T"}}, {"WELDAKMO": {"ProcessingLevelDescription": "Geophysical Quantities at the sensor resolution or geolocated", "Id": "1T"}}, {"WELDAKSE": {"ProcessingLevelDescription": "Geophysical Quantities at the sensor resolution or geolocated", "Id": "1T"}}, {"WELDUSYR": {"ProcessingLevelDescription": "Geophysical Quantities at the sensor resolution or geolocated", "Id": "1T"}}, {"WELDUSMO": {"ProcessingLevelDescription": "Geophysical Quantities at the sensor resolution or geolocated", "Id": "1T"}}, {"WELDUSSE": {"ProcessingLevelDescription": "Geophysical Quantities at the sensor resolution or geolocated", "Id": "1T"}}, {"WELDLCLUC": {"ProcessingLevelDescription": "Geophysical Quantities at the sensor resolution or geolocated", "Id": "1T"}}, {"NSIDC-0484": {"ProcessingLevelDescription": "Geophysical variables mapped on a grid", "Id": "Level 3"}}, {"NISE": {"ProcessingLevelDescription": "Geophysical variables mapped on a grid", "Id": "Level 3"}}, {"NISE": {"ProcessingLevelDescription": "Geophysical variables mapped on a grid", "Id": "Level 3"}}, {"NISE": {"ProcessingLevelDescription": "Geophysical variables mapped on a grid", "Id": "Level 3"}}, {"NISE": {"Id": "Not provided"}}, {"NSIDC-0478": {"ProcessingLevelDescription": "Geophysical variables mapped on a grid", "Id": "Level 3"}}, {"NSIDC-0534": {"ProcessingLevelDescription": "Geophysical variables mapped on a grid", "Id": "Level 3"}}, {"SPL3FTA": {"ProcessingLevelDescription": "Geophysical variables mapped on a grid", "Id": "Level 3"}}, {"MYD14": {"Id": "Not provided"}}, {"MYD14": {"ProcessingLevelDescription": "Geophysical Quantities at the sensor resolution or geolocated", "Id": "2"}}, {"MOD14": {"Id": "Not provided"}}, {"MOD14": {"ProcessingLevelDescription": "Geophysical Quantities at the sensor resolution or geolocated", "Id": "2"}}, {"CIESIN_SEDAC_GRUMPv1_STLMNT01": {"Id": "2"}}, {"VNP14IMGTDL_NRT": {"Id": "Not provided"}}]
+[
+  {
+    "A2_RainOcn_NRT": {
+      "Id": "2"
+    }
+  },
+  {
+    "A2_RainOcn_NRT": {
+      "Id": "2"
+    }
+  },
+  {
+    "AE_Rain": {
+      "ProcessingLevelDescription": "Derived geophysical variables",
+      "Id": "Level 2B"
+    }
+  },
+  {
+    "AE_SI12": {
+      "ProcessingLevelDescription": "Geophysical variables mapped on a grid",
+      "Id": "Level 3"
+    }
+  },
+  {
+    "AE_SI25": {
+      "ProcessingLevelDescription": "Geophysical variables mapped on a grid",
+      "Id": "Level 3"
+    }
+  },
+  {
+    "AE_SI6": {
+      "ProcessingLevelDescription": "Geophysical variables mapped on a grid",
+      "Id": "Level 3"
+    }
+  },
+  {
+    "AIRS2RET": {
+      "Id": "2"
+    }
+  },
+  {
+    "AIRS2SUP": {
+      "Id": "2"
+    }
+  },
+  {
+    "AIRS3STD": {
+      "Id": "3"
+    }
+  },
+  {
+    "AIRS3STM": {
+      "Id": "3"
+    }
+  },
+  {
+    "AIRX3C2M": {
+      "Id": "3"
+    }
+  },
+  {
+    "AIRS3C2M": {
+      "Id": "3"
+    }
+  },
+  {
+    "amsua15sp": {
+      "Id": "2"
+    }
+  },
+  {
+    "amsua16sp": {
+      "Id": "2"
+    }
+  },
+  {
+    "amsua17sp": {
+      "Id": "2"
+    }
+  },
+  {
+    "AQ3_DYSM": {
+      "ProcessingLevelDescription": "Geophysical variables mapped on a grid",
+      "Id": "Level 3"
+    }
+  },
+  {
+    "AQ3_WKSM": {
+      "ProcessingLevelDescription": "Geophysical variables mapped on a grid",
+      "Id": "Level 3"
+    }
+  },
+  {
+    "AQUARIUS_L3_SSS_SMI_7DAY-RUNNINGMEAN_V5": {
+      "Id": "3"
+    }
+  },
+  {
+    "AQUARIUS_L3_SSS_SMI_7DAY_V5": {
+      "Id": "3"
+    }
+  },
+  {
+    "AQUARIUS_L3_SSS_SMI_DAILY_V5": {
+      "Id": "3"
+    }
+  },
+  {
+    "AQUARIUS_L3_SSS_SMI_MONTHLY-CLIMATOLOGY_V5": {
+      "Id": "3"
+    }
+  },
+  {
+    "AQUARIUS_L3_SSS_SMI_SEASONAL-CLIMATOLOGY_V5": {
+      "Id": "3"
+    }
+  },
+  {
+    "ASTGTM": {
+      "ProcessingLevelDescription": "GRID",
+      "Id": "3"
+    }
+  },
+  {
+    "AU_5DSno": {
+      "ProcessingLevelDescription": "Geophysical variables mapped on a grid",
+      "Id": "Level 3"
+    }
+  },
+  {
+    "AU_DySno": {
+      "ProcessingLevelDescription": "Geophysical variables mapped on a grid",
+      "Id": "Level 3"
+    }
+  },
+  {
+    "AU_Land": {
+      "ProcessingLevelDescription": "Derived geophysical variables",
+      "Id": "Level 2B"
+    }
+  },
+  {
+    "AU_MoSno": {
+      "ProcessingLevelDescription": "Geophysical variables mapped on a grid",
+      "Id": "Level 3"
+    }
+  },
+  {
+    "AU_SI12": {
+      "ProcessingLevelDescription": "Geophysical variables mapped on a grid",
+      "Id": "Level 3"
+    }
+  },
+  {
+    "AU_SI25": {
+      "ProcessingLevelDescription": "Geophysical variables mapped on a grid",
+      "Id": "Level 3"
+    }
+  },
+  {
+    "AU_SI6": {
+      "ProcessingLevelDescription": "Geophysical variables mapped on a grid",
+      "Id": "Level 3"
+    }
+  },
+  {
+    "AVISO_L4_DYN_TOPO_1DEG_1MO": {
+      "Id": "4"
+    }
+  },
+  {
+    "CCMP_MEASURES_ATLAS_L4_OW_L3_5A_MONTHLY_WIND_VECTORS_FLK": {
+      "Id": "4"
+    }
+  },
+  {
+    "CER_SYN1deg-Month_Terra-Aqua-MODIS": {
+      "Id": "3"
+    }
+  },
+  {
+    "CERES_EBAF-Surface": {
+      "Id": "4"
+    }
+  },
+  {
+    "CERES_EBAF-TOA": {
+      "Id": "4"
+    }
+  },
+  {
+    "CERES_EBAF-TOA": {
+      "Id": "4"
+    }
+  },
+  {
+    "CER_SYN1deg-Month_Terra-MODIS": {
+      "Id": "3"
+    }
+  },
+  {
+    "CYGNSS_L3_V2.1": {
+      "Id": "3"
+    }
+  },
+  {
+    "AVHRR_OI-NCEI-L4-GLOB-v2.0": {
+      "Id": "4"
+    }
+  },
+  {
+    "GPM_2AGPROFGPMGMI": {
+      "Id": "2"
+    }
+  },
+  {
+    "GPM_1CGPMGMI": {
+      "Id": "1"
+    }
+  },
+  {
+    "TELLUS_GRACE_MASCON_CRI_GRID_RL06_V1": {
+      "Id": "3"
+    }
+  },
+  {
+    "GPM_3IMERGDF": {
+      "Id": "3"
+    }
+  },
+  {
+    "GPM_3IMERGHHE": {
+      "Id": "3"
+    }
+  },
+  {
+    "lislip": {
+      "Id": "2"
+    }
+  },
+  {
+    "lisvhrac": {
+      "Id": "3"
+    }
+  },
+  {
+    "lisvhrfc": {
+      "Id": "3"
+    }
+  },
+  {
+    "lisvhrmc": {
+      "Id": "3"
+    }
+  },
+  {
+    "lisvhrsc": {
+      "Id": "3"
+    }
+  },
+  {
+    "lohrfc": {
+      "Id": "3"
+    }
+  },
+  {
+    "LPRM_AMSR2_DS_A_SOILM3": {
+      "Id": "3"
+    }
+  },
+  {
+    "LPRM_AMSR2_DS_D_SOILM3": {
+      "Id": "3"
+    }
+  },
+  {
+    "LPRM_AMSR2_D_SOILM3": {
+      "Id": "3"
+    }
+  },
+  {
+    "LPRM_AMSR2_A_SOILM3": {
+      "Id": "3"
+    }
+  },
+  {
+    "MCD12Q1": {
+      "ProcessingLevelDescription": "Sensor Measurements",
+      "Id": "3"
+    }
+  },
+  {
+    "MCD15A2H": {
+      "ProcessingLevelDescription": "model output or results from analyses of lower-level data (grid)",
+      "Id": "4"
+    }
+  },
+  {
+    "MCD15A3H": {
+      "ProcessingLevelDescription": "GRID",
+      "Id": "4"
+    }
+  },
+  {
+    "MCD43A3": {
+      "ProcessingLevelDescription": "Sensor Measurements",
+      "Id": "3"
+    }
+  },
+  {
+    "MCD43A4": {
+      "ProcessingLevelDescription": "Sensor Measurements",
+      "Id": "3"
+    }
+  },
+  {
+    "MCDAODHD": {
+      "Id": "3"
+    }
+  },
+  {
+    "NSIDC-0477": {
+      "ProcessingLevelDescription": "Geophysical variables mapped on a grid",
+      "Id": "Level 3"
+    }
+  },
+  {
+    "M2TMNXRAD": {
+      "Id": "4"
+    }
+  },
+  {
+    "M2IMNXGAS": {
+      "Id": "4"
+    }
+  },
+  {
+    "M2IMNPASM": {
+      "Id": "4"
+    }
+  },
+  {
+    "M2TMNXCHM": {
+      "Id": "4"
+    }
+  },
+  {
+    "M2TMNPMST": {
+      "Id": "4"
+    }
+  },
+  {
+    "M2TMNXADG": {
+      "Id": "4"
+    }
+  },
+  {
+    "M2TMNXAER": {
+      "Id": "4"
+    }
+  },
+  {
+    "M2TMNXOCN": {
+      "Id": "4"
+    }
+  },
+  {
+    "M2TMNXINT": {
+      "Id": "4"
+    }
+  },
+  {
+    "M2TMNXLND": {
+      "Id": "4"
+    }
+  },
+  {
+    "M2TMNXCSP": {
+      "Id": "4"
+    }
+  },
+  {
+    "M2IMNPANA": {
+      "Id": "4"
+    }
+  },
+  {
+    "M2TMNXFLX": {
+      "Id": "4"
+    }
+  },
+  {
+    "M2TMNPCLD": {
+      "Id": "4"
+    }
+  },
+  {
+    "M2TMNXGLC": {
+      "Id": "4"
+    }
+  },
+  {
+    "M2IMNXLFO": {
+      "Id": "4"
+    }
+  },
+  {
+    "M2TMNXSLV": {
+      "Id": "4"
+    }
+  },
+  {
+    "M2TMNXLFO": {
+      "Id": "4"
+    }
+  },
+  {
+    "M2IMNXASM": {
+      "Id": "4"
+    }
+  },
+  {
+    "M2IMNXINT": {
+      "Id": "4"
+    }
+  },
+  {
+    "MIL3MAE": {
+      "Id": "3"
+    }
+  },
+  {
+    "MIL3MCLD": {
+      "Id": "3"
+    }
+  },
+  {
+    "MIL3MLS": {
+      "Id": "3"
+    }
+  },
+  {
+    "MIL3MRD": {
+      "Id": "3"
+    }
+  },
+  {
+    "MIL3MAL": {
+      "Id": "3"
+    }
+  },
+  {
+    "ML2CO": {
+      "Id": "2"
+    }
+  },
+  {
+    "ML2CO": {
+      "Id": "2"
+    }
+  },
+  {
+    "ML2H2O": {
+      "Id": "2"
+    }
+  },
+  {
+    "ML2H2O": {
+      "Id": "2"
+    }
+  },
+  {
+    "ML2HNO3": {
+      "Id": "2"
+    }
+  },
+  {
+    "ML2HNO3": {
+      "Id": "2"
+    }
+  },
+  {
+    "ML2N2O": {
+      "Id": "2"
+    }
+  },
+  {
+    "ML2N2O": {
+      "Id": "2"
+    }
+  },
+  {
+    "ML2O3": {
+      "Id": "2"
+    }
+  },
+  {
+    "ML2O3": {
+      "Id": "2"
+    }
+  },
+  {
+    "ML2SO2": {
+      "Id": "2"
+    }
+  },
+  {
+    "ML2SO2": {
+      "Id": "2"
+    }
+  },
+  {
+    "ML2T": {
+      "Id": "2"
+    }
+  },
+  {
+    "ML2T": {
+      "Id": "2"
+    }
+  },
+  {
+    "MOD04_3K": {
+      "Id": "2"
+    }
+  },
+  {
+    "MOD04_3K": {
+      "Id": "2"
+    }
+  },
+  {
+    "MOD04_L2": {
+      "Id": "2"
+    }
+  },
+  {
+    "MOD04_L2": {
+      "Id": "2"
+    }
+  },
+  {
+    "MOD06_L2": {
+      "Id": "2"
+    }
+  },
+  {
+    "MOD06_L2": {
+      "Id": "2"
+    }
+  },
+  {
+    "MOD09GA": {
+      "Id": "2G"
+    }
+  },
+  {
+    "MOD09GA": {
+      "ProcessingLevelDescription": "Sensor Measurements",
+      "Id": "2G"
+    }
+  },
+  {
+    "MOD09GQ": {
+      "Id": "2G"
+    }
+  },
+  {
+    "MOD09GQ": {
+      "ProcessingLevelDescription": "Sensor Measurements",
+      "Id": "2G"
+    }
+  },
+  {
+    "MOD09A1": {
+      "ProcessingLevelDescription": "Sensor Measurements",
+      "Id": "3"
+    }
+  },
+  {
+    "MOD09Q1": {
+      "ProcessingLevelDescription": "Sensor Measurements",
+      "Id": "3"
+    }
+  },
+  {
+    "MOD10_L2": {
+      "Id": "Not provided"
+    }
+  },
+  {
+    "MOD10_L2": {
+      "ProcessingLevelDescription": "Derived geophysical variables",
+      "Id": "Level 2"
+    }
+  },
+  {
+    "MOD10_L2": {
+      "ProcessingLevelDescription": "Derived geophysical variables",
+      "Id": "Level 2"
+    }
+  },
+  {
+    "MOD10A1": {
+      "ProcessingLevelDescription": "Geophysical variables mapped on a grid",
+      "Id": "Level 3"
+    }
+  },
+  {
+    "MOD10A1": {
+      "ProcessingLevelDescription": "Geophysical variables mapped on a grid",
+      "Id": "Level 3"
+    }
+  },
+  {
+    "MOD10A2": {
+      "ProcessingLevelDescription": "Geophysical variables mapped on a grid",
+      "Id": "Level 3"
+    }
+  },
+  {
+    "MOD10A2": {
+      "ProcessingLevelDescription": "Geophysical variables mapped on a grid",
+      "Id": "Level 3"
+    }
+  },
+  {
+    "MOD10CM": {
+      "ProcessingLevelDescription": "Geophysical variables mapped on a grid",
+      "Id": "Level 3"
+    }
+  },
+  {
+    "MOD10CM": {
+      "ProcessingLevelDescription": "Geophysical variables mapped on a grid",
+      "Id": "Level 3"
+    }
+  },
+  {
+    "MOD11A1": {
+      "ProcessingLevelDescription": "Sensor Measurements",
+      "Id": "3"
+    }
+  },
+  {
+    "MOD11A2": {
+      "ProcessingLevelDescription": "Sensor Measurements",
+      "Id": "3"
+    }
+  },
+  {
+    "MOD11C3": {
+      "ProcessingLevelDescription": "Sensor Measurements",
+      "Id": "3"
+    }
+  },
+  {
+    "MYD13A3": {
+      "ProcessingLevelDescription": "Sensor Measurements",
+      "Id": "3"
+    }
+  },
+  {
+    "MOD13A3": {
+      "ProcessingLevelDescription": "Sensor Measurements",
+      "Id": "3"
+    }
+  },
+  {
+    "MOD13Q1": {
+      "ProcessingLevelDescription": "Sensor Measurements",
+      "Id": "3"
+    }
+  },
+  {
+    "MOD13Q4N": {
+      "Id": "Not provided"
+    }
+  },
+  {
+    "MOD15A2H": {
+      "ProcessingLevelDescription": "GRID",
+      "Id": "4"
+    }
+  },
+  {
+    "MOD17A2H": {
+      "ProcessingLevelDescription": "GRID",
+      "Id": "4"
+    }
+  },
+  {
+    "MOD29": {
+      "Id": "Not provided"
+    }
+  },
+  {
+    "MOD29": {
+      "ProcessingLevelDescription": "Derived geophysical variables",
+      "Id": "Level 2"
+    }
+  },
+  {
+    "MOD29": {
+      "ProcessingLevelDescription": "Derived geophysical variables",
+      "Id": "Level 2"
+    }
+  },
+  {
+    "MOD29P1D": {
+      "ProcessingLevelDescription": "Geophysical variables mapped on a grid",
+      "Id": "Level 3"
+    }
+  },
+  {
+    "MOD29P1D": {
+      "ProcessingLevelDescription": "Geophysical variables mapped on a grid",
+      "Id": "Level 3"
+    }
+  },
+  {
+    "MOD29P1N": {
+      "ProcessingLevelDescription": "Geophysical variables mapped on a grid",
+      "Id": "Level 3"
+    }
+  },
+  {
+    "MOD29P1N": {
+      "ProcessingLevelDescription": "Geophysical variables mapped on a grid",
+      "Id": "Level 3"
+    }
+  },
+  {
+    "MOD44W": {
+      "ProcessingLevelDescription": "Sensor Measurements",
+      "Id": "3"
+    }
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_8DAY_4KM_DAYTIME_V2014.0": {
+      "Id": "3"
+    }
+  },
+  {
+    "MODIS_TERRA_L3_SST_MID-IR_8DAY_4KM_NIGHTTIME_V2014.0": {
+      "Id": "3"
+    }
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_8DAY_4KM_NIGHTTIME_V2014.0": {
+      "Id": "3"
+    }
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_ANNUAL_4KM_DAYTIME_V2014.0": {
+      "Id": "3"
+    }
+  },
+  {
+    "MODIS_TERRA_L3_SST_MID-IR_ANNUAL_4KM_NIGHTTIME_V2014.0": {
+      "Id": "3"
+    }
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_ANNUAL_4KM_NIGHTTIME_V2014.0": {
+      "Id": "3"
+    }
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_DAILY_4KM_DAYTIME_V2014.0": {
+      "Id": "3"
+    }
+  },
+  {
+    "MODIS_TERRA_L3_SST_MID-IR_DAILY_4KM_NIGHTTIME_V2014.0": {
+      "Id": "3"
+    }
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_DAILY_4KM_NIGHTTIME_V2014.0": {
+      "Id": "3"
+    }
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_MONTHLY_4KM_DAYTIME_V2014.0": {
+      "Id": "3"
+    }
+  },
+  {
+    "MODIS_TERRA_L3_SST_MID-IR_MONTHLY_4KM_NIGHTTIME_V2014.0": {
+      "Id": "3"
+    }
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_MONTHLY_4KM_NIGHTTIME_V2014.0": {
+      "Id": "3"
+    }
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_8DAY_9KM_DAYTIME_V2014.0": {
+      "Id": "3"
+    }
+  },
+  {
+    "MODIS_TERRA_L3_SST_MID-IR_8DAY_9KM_NIGHTTIME_V2014.0": {
+      "Id": "3"
+    }
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_8DAY_9KM_NIGHTTIME_V2014.0": {
+      "Id": "3"
+    }
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_ANNUAL_9KM_DAYTIME_V2014.0": {
+      "Id": "3"
+    }
+  },
+  {
+    "MODIS_TERRA_L3_SST_MID-IR_ANNUAL_9KM_NIGHTTIME_V2014.0": {
+      "Id": "3"
+    }
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_ANNUAL_9KM_NIGHTTIME_V2014.0": {
+      "Id": "3"
+    }
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_DAILY_9KM_DAYTIME_V2014.0": {
+      "Id": "3"
+    }
+  },
+  {
+    "MODIS_TERRA_L3_SST_MID-IR_DAILY_9KM_NIGHTTIME_V2014.0": {
+      "Id": "3"
+    }
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_DAILY_9KM_NIGHTTIME_V2014.0": {
+      "Id": "3"
+    }
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_MONTHLY_9KM_DAYTIME_V2014.0": {
+      "Id": "3"
+    }
+  },
+  {
+    "MODIS_TERRA_L3_SST_MID-IR_MONTHLY_9KM_NIGHTTIME_V2014.0": {
+      "Id": "3"
+    }
+  },
+  {
+    "MODIS_TERRA_L3_SST_THERMAL_MONTHLY_9KM_NIGHTTIME_V2014.0": {
+      "Id": "3"
+    }
+  },
+  {
+    "MOP03J": {
+      "ProcessingLevelDescription": "GRID",
+      "Id": "3"
+    }
+  },
+  {
+    "MOP03J": {
+      "ProcessingLevelDescription": "Variables mapped on uniform space-time grid scales, usually with some completeness and consistency.",
+      "Id": "3"
+    }
+  },
+  {
+    "MOP03J": {
+      "ProcessingLevelDescription": "GRID",
+      "Id": "3"
+    }
+  },
+  {
+    "MOP03J": {
+      "ProcessingLevelDescription": "Variables mapped on uniform space-time grid scales, usually with some completeness and consistency.",
+      "Id": "3"
+    }
+  },
+  {
+    "MOP02R_NRT": {
+      "ProcessingLevelDescription": "Geolocated CO Retrievals",
+      "Id": "2"
+    }
+  },
+  {
+    "MOP03JM": {
+      "ProcessingLevelDescription": "GRID",
+      "Id": "3"
+    }
+  },
+  {
+    "MOP03JM": {
+      "ProcessingLevelDescription": "Variables mapped on uniform space-time grid scales, usually with some completeness and consistency.",
+      "Id": "3"
+    }
+  },
+  {
+    "MOP03JM": {
+      "ProcessingLevelDescription": "GRID",
+      "Id": "3"
+    }
+  },
+  {
+    "MOP03JM": {
+      "ProcessingLevelDescription": "Variables mapped on uniform space-time grid scales, usually with some completeness and consistency.",
+      "Id": "3"
+    }
+  },
+  {
+    "MYD04_3K": {
+      "Id": "2"
+    }
+  },
+  {
+    "MYD04_3K": {
+      "Id": "2"
+    }
+  },
+  {
+    "MYD04_L2": {
+      "Id": "2"
+    }
+  },
+  {
+    "MYD04_L2": {
+      "Id": "2"
+    }
+  },
+  {
+    "MYD06_L2": {
+      "Id": "2"
+    }
+  },
+  {
+    "MYD06_L2": {
+      "Id": "2"
+    }
+  },
+  {
+    "MYD09GA": {
+      "Id": "2G"
+    }
+  },
+  {
+    "MYD09GA": {
+      "ProcessingLevelDescription": "Sensor Measurements",
+      "Id": "2G"
+    }
+  },
+  {
+    "MYD09GQ": {
+      "Id": "2G"
+    }
+  },
+  {
+    "MYD09GQ": {
+      "ProcessingLevelDescription": "Sensor Measurements",
+      "Id": "2G"
+    }
+  },
+  {
+    "MYD09A1": {
+      "ProcessingLevelDescription": "Sensor Measurements",
+      "Id": "3"
+    }
+  },
+  {
+    "MYD09Q1": {
+      "ProcessingLevelDescription": "Sensor Measurements",
+      "Id": "3"
+    }
+  },
+  {
+    "MYD10_L2": {
+      "Id": "Not provided"
+    }
+  },
+  {
+    "MYD10_L2": {
+      "ProcessingLevelDescription": "Derived geophysical variables",
+      "Id": "Level 2"
+    }
+  },
+  {
+    "MYD10_L2": {
+      "ProcessingLevelDescription": "Derived geophysical variables",
+      "Id": "Level 2"
+    }
+  },
+  {
+    "MYD10A1": {
+      "ProcessingLevelDescription": "Geophysical variables mapped on a grid",
+      "Id": "Level 3"
+    }
+  },
+  {
+    "MYD10A1": {
+      "ProcessingLevelDescription": "Geophysical variables mapped on a grid",
+      "Id": "Level 3"
+    }
+  },
+  {
+    "MYD10A2": {
+      "ProcessingLevelDescription": "Geophysical variables mapped on a grid",
+      "Id": "Level 3"
+    }
+  },
+  {
+    "MYD10A2": {
+      "ProcessingLevelDescription": "Geophysical variables mapped on a grid",
+      "Id": "Level 3"
+    }
+  },
+  {
+    "MYD10CM": {
+      "ProcessingLevelDescription": "Geophysical variables mapped on a grid",
+      "Id": "Level 3"
+    }
+  },
+  {
+    "MYD10CM": {
+      "ProcessingLevelDescription": "Geophysical variables mapped on a grid",
+      "Id": "Level 3"
+    }
+  },
+  {
+    "MYD11A1": {
+      "ProcessingLevelDescription": "Sensor Measurements",
+      "Id": "3"
+    }
+  },
+  {
+    "MYD11A2": {
+      "ProcessingLevelDescription": "Sensor Measurements",
+      "Id": "3"
+    }
+  },
+  {
+    "MYD11C3": {
+      "ProcessingLevelDescription": "Sensor Measurements",
+      "Id": "3"
+    }
+  },
+  {
+    "MYD13Q1": {
+      "ProcessingLevelDescription": "Sensor Measurements",
+      "Id": "3"
+    }
+  },
+  {
+    "MYD15A2H": {
+      "ProcessingLevelDescription": "GRID",
+      "Id": "4"
+    }
+  },
+  {
+    "MYD17A2H": {
+      "ProcessingLevelDescription": "GRID",
+      "Id": "4"
+    }
+  },
+  {
+    "MYD29": {
+      "Id": "Not provided"
+    }
+  },
+  {
+    "MYD29": {
+      "ProcessingLevelDescription": "Derived geophysical variables",
+      "Id": "Level 2"
+    }
+  },
+  {
+    "MYD29": {
+      "ProcessingLevelDescription": "Derived geophysical variables",
+      "Id": "Level 2"
+    }
+  },
+  {
+    "MYD29P1D": {
+      "ProcessingLevelDescription": "Geophysical variables mapped on a grid",
+      "Id": "Level 3"
+    }
+  },
+  {
+    "MYD29P1D": {
+      "ProcessingLevelDescription": "Geophysical variables mapped on a grid",
+      "Id": "Level 3"
+    }
+  },
+  {
+    "MYD29P1N": {
+      "ProcessingLevelDescription": "Geophysical variables mapped on a grid",
+      "Id": "Level 3"
+    }
+  },
+  {
+    "MYD29P1N": {
+      "ProcessingLevelDescription": "Geophysical variables mapped on a grid",
+      "Id": "Level 3"
+    }
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_8DAY_4KM_DAYTIME_V2014.0": {
+      "Id": "3"
+    }
+  },
+  {
+    "MODIS_AQUA_L3_SST_MID-IR_8DAY_4KM_NIGHTTIME_V2014.0": {
+      "Id": "3"
+    }
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_8DAY_4KM_NIGHTTIME_V2014.0": {
+      "Id": "3"
+    }
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_ANNUAL_4KM_DAYTIME_V2014.0": {
+      "Id": "3"
+    }
+  },
+  {
+    "MODIS_AQUA_L3_SST_MID-IR_ANNUAL_4KM_NIGHTTIME_V2014.0": {
+      "Id": "3"
+    }
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_ANNUAL_4KM_NIGHTTIME_V2014.0": {
+      "Id": "3"
+    }
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_DAILY_4KM_DAYTIME_V2014.0": {
+      "Id": "3"
+    }
+  },
+  {
+    "MODIS_AQUA_L3_SST_MID-IR_DAILY_4KM_NIGHTTIME_V2014.0": {
+      "Id": "3"
+    }
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_DAILY_4KM_NIGHTTIME_V2014.0": {
+      "Id": "3"
+    }
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_MONTHLY_4KM_DAYTIME_V2014.0": {
+      "Id": "3"
+    }
+  },
+  {
+    "MODIS_AQUA_L3_SST_MID-IR_MONTHLY_4KM_NIGHTTIME_V2014.0": {
+      "Id": "3"
+    }
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_MONTHLY_4KM_NIGHTTIME_V2014.0": {
+      "Id": "3"
+    }
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_8DAY_9KM_DAYTIME_V2014.0": {
+      "Id": "3"
+    }
+  },
+  {
+    "MODIS_AQUA_L3_SST_MID-IR_8DAY_9KM_NIGHTTIME_V2014.0": {
+      "Id": "3"
+    }
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_8DAY_9KM_NIGHTTIME_V2014.0": {
+      "Id": "3"
+    }
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_ANNUAL_9KM_DAYTIME_V2014.0": {
+      "Id": "3"
+    }
+  },
+  {
+    "MODIS_AQUA_L3_SST_MID-IR_ANNUAL_9KM_NIGHTTIME_V2014.0": {
+      "Id": "3"
+    }
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_ANNUAL_9KM_NIGHTTIME_V2014.0": {
+      "Id": "3"
+    }
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_DAILY_9KM_DAYTIME_V2014.0": {
+      "Id": "3"
+    }
+  },
+  {
+    "MODIS_AQUA_L3_SST_MID-IR_DAILY_9KM_NIGHTTIME_V2014.0": {
+      "Id": "3"
+    }
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_DAILY_9KM_NIGHTTIME_V2014.0": {
+      "Id": "3"
+    }
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_MONTHLY_9KM_DAYTIME_V2014.0": {
+      "Id": "3"
+    }
+  },
+  {
+    "MODIS_AQUA_L3_SST_MID-IR_MONTHLY_9KM_NIGHTTIME_V2014.0": {
+      "Id": "3"
+    }
+  },
+  {
+    "MODIS_AQUA_L3_SST_THERMAL_MONTHLY_9KM_NIGHTTIME_V2014.0": {
+      "Id": "3"
+    }
+  },
+  {
+    "NLDAS_FORA0125_M": {
+      "Id": "4"
+    }
+  },
+  {
+    "NLDAS_FORB0125_M": {
+      "Id": "4"
+    }
+  },
+  {
+    "NLDAS_MOS0125_M": {
+      "Id": "4"
+    }
+  },
+  {
+    "NLDAS_NOAH0125_M": {
+      "Id": "4"
+    }
+  },
+  {
+    "NLDAS_VIC0125_M": {
+      "Id": "4"
+    }
+  },
+  {
+    "OCO2_L2_Lite_SIF": {
+      "Id": "2"
+    }
+  },
+  {
+    "OCO2_L2_Lite_FP": {
+      "Id": "2"
+    }
+  },
+  {
+    "olsdig10": {
+      "Id": "3"
+    }
+  },
+  {
+    "olsdig12": {
+      "Id": "3"
+    }
+  },
+  {
+    "OMAERUVd": {
+      "Id": "3"
+    }
+  },
+  {
+    "OMAEROe": {
+      "Id": "3"
+    }
+  },
+  {
+    "OMAERUV": {
+      "Id": "2"
+    }
+  },
+  {
+    "OMAERUV": {
+      "Id": "Not provided"
+    }
+  },
+  {
+    "OMCLDRR": {
+      "Id": "Not provided"
+    }
+  },
+  {
+    "OMCLDRR": {
+      "Id": "2"
+    }
+  },
+  {
+    "OMNO2d": {
+      "Id": "3"
+    }
+  },
+  {
+    "OMDOAO3e": {
+      "Id": "3"
+    }
+  },
+  {
+    "OMTO3e": {
+      "Id": "Not provided"
+    }
+  },
+  {
+    "OMTO3e": {
+      "Id": "3"
+    }
+  },
+  {
+    "OMSO2": {
+      "Id": "2"
+    }
+  },
+  {
+    "OMSO2": {
+      "Id": "Not provided"
+    }
+  },
+  {
+    "OMSO2e": {
+      "Id": "3"
+    }
+  },
+  {
+    "OMUVBd": {
+      "Id": "3"
+    }
+  },
+  {
+    "OSCAR_L4_OC_third-deg": {
+      "Id": "4"
+    }
+  },
+  {
+    "otdlip": {
+      "Id": "1B"
+    }
+  },
+  {
+    "rss1tpwnv7r01": {
+      "Id": "3"
+    }
+  },
+  {
+    "rss1windnv7r01": {
+      "Id": "3"
+    }
+  },
+  {
+    "CIESIN_SEDAC_AGLANDS_CROP2000": {
+      "Id": "3"
+    }
+  },
+  {
+    "CIESIN_SEDAC_AGLANDS_PAS2000": {
+      "Id": "3"
+    }
+  },
+  {
+    "CIESIN_SEDAC_SPECIES_AMP_RICH15": {
+      "Id": "3"
+    }
+  },
+  {
+    "CIESIN_SEDAC_ANTHROMES_v1": {
+      "Id": "4"
+    }
+  },
+  {
+    "CIESIN_CHRR_NDH_CYCLONE_PELRD": {
+      "Id": "3"
+    }
+  },
+  {
+    "CIESIN_CHRR_NDH_CYCLONE_HFD": {
+      "Id": "3"
+    }
+  },
+  {
+    "CIESIN_CHRR_NDH_CYCLONE_MRD": {
+      "Id": "3"
+    }
+  },
+  {
+    "CIESIN_CHRR_NDH_DROUGHT_PELRD": {
+      "Id": "3"
+    }
+  },
+  {
+    "CIESIN_CHRR_NDH_DROUGHT_HFD": {
+      "Id": "3"
+    }
+  },
+  {
+    "CIESIN_CHRR_NDH_DROUGHT_MRD": {
+      "Id": "3"
+    }
+  },
+  {
+    "CIESIN_SEDAC_PD_NETMIG_1970_2000": {
+      "Id": "4"
+    }
+  },
+  {
+    "CIESIN_CHRR_NDH_FLOOD_PELRD": {
+      "Id": "3"
+    }
+  },
+  {
+    "CIESIN_CHRR_NDH_FLOOD_HFD": {
+      "Id": "3"
+    }
+  },
+  {
+    "CIESIN_CHRR_NDH_FLOOD_MRD": {
+      "Id": "3"
+    }
+  },
+  {
+    "CIESIN_SEDAC_ULANDSAT_GMIS_V1": {
+      "Id": "3"
+    }
+  },
+  {
+    "CIESIN_SEDAC_GPWv4_APDENS_WPP_2015": {
+      "Id": "3"
+    }
+  },
+  {
+    "CIESIN_SEDAC_GRUMPv1_EXT": {
+      "Id": "4"
+    }
+  },
+  {
+    "CIESIN_SEDAC_ULANDSAT_HBASE_V1": {
+      "Id": "3"
+    }
+  },
+  {
+    "CIESIN_SEDAC_LWP2_HF_GEOG": {
+      "Id": "3"
+    }
+  },
+  {
+    "CIESIN_CHRR_NDH_LSLIDE_HD": {
+      "Id": "3"
+    }
+  },
+  {
+    "CIESIN_SEDAC_LWP2_LW_GEOG": {
+      "Id": "3"
+    }
+  },
+  {
+    "CIESIN_SEDAC_SDEI_LST2013": {
+      "Id": "4"
+    }
+  },
+  {
+    "CIESIN_SEDAC_SPECIES_MAM_RICH15": {
+      "Id": "3"
+    }
+  },
+  {
+    "CIESIN_SEDAC_LULC_MANGROVES_2000": {
+      "Id": "3"
+    }
+  },
+  {
+    "CIESIN_SEDAC_SDEI_NO2": {
+      "Id": "4"
+    }
+  },
+  {
+    "CIESIN_SEDAC_SDEI_PM25_MMSAOD": {
+      "Id": "3"
+    }
+  },
+  {
+    "CIESIN_SEDAC_SDEI_UHI2013": {
+      "Id": "2"
+    }
+  },
+  {
+    "CIESIN_SEDAC_LECZ_URPLAEv2": {
+      "Id": "3"
+    }
+  },
+  {
+    "CIESIN_SEDAC_LULC_PUEXPANS_2030": {
+      "Id": "3"
+    }
+  },
+  {
+    "CIESIN_CHRR_NDH_VOLCANO_PELRD": {
+      "Id": "3"
+    }
+  },
+  {
+    "CIESIN_CHRR_NDH_VOLCANO_HFD": {
+      "Id": "3"
+    }
+  },
+  {
+    "CIESIN_CHRR_NDH_VOLCANO_MRD": {
+      "Id": "3"
+    }
+  },
+  {
+    "SPL1BTB": {
+      "ProcessingLevelDescription": "Sensor units",
+      "Id": "Level 1B"
+    }
+  },
+  {
+    "SPL1CTB_E": {
+      "ProcessingLevelDescription": "Sensor units with georeferencing parameters",
+      "Id": "Level 1C"
+    }
+  },
+  {
+    "SPL1CTB": {
+      "ProcessingLevelDescription": "Sensor units with georeferencing parameters",
+      "Id": "Level 1C"
+    }
+  },
+  {
+    "SPL2SMP": {
+      "ProcessingLevelDescription": "Derived geophysical variables",
+      "Id": "Level 2"
+    }
+  },
+  {
+    "SPL2SMP_E": {
+      "ProcessingLevelDescription": "Derived geophysical variables",
+      "Id": "Level 2"
+    }
+  },
+  {
+    "SPL2SMAP_S": {
+      "ProcessingLevelDescription": "Derived geophysical variables",
+      "Id": "Level 2"
+    }
+  },
+  {
+    "SPL3FTP": {
+      "ProcessingLevelDescription": "Geophysical variables mapped on a grid",
+      "Id": "Level 3"
+    }
+  },
+  {
+    "SPL3FTP_E": {
+      "ProcessingLevelDescription": "Geophysical variables mapped on a grid",
+      "Id": "Level 3"
+    }
+  },
+  {
+    "SPL3SMA": {
+      "ProcessingLevelDescription": "Geophysical variables mapped on a grid",
+      "Id": "Level 3"
+    }
+  },
+  {
+    "SPL3SMAP": {
+      "ProcessingLevelDescription": "Geophysical variables mapped on a grid",
+      "Id": "Level 3"
+    }
+  },
+  {
+    "SPL3SMP": {
+      "ProcessingLevelDescription": "Geophysical variables mapped on a grid",
+      "Id": "Level 3"
+    }
+  },
+  {
+    "SMAP_JPL_L3_SSS_CAP_8DAY-RUNNINGMEAN_V42": {
+      "Id": "3"
+    }
+  },
+  {
+    "SMAP_JPL_L3_SSS_CAP_MONTHLY_V42": {
+      "Id": "3"
+    }
+  },
+  {
+    "SPL4SMAU": {
+      "ProcessingLevelDescription": "Modeled output or geophysical variables derived from multiple measurements",
+      "Id": "Level 4"
+    }
+  },
+  {
+    "SPL4CMDL": {
+      "ProcessingLevelDescription": "Modeled output or geophysical variables derived from multiple measurements",
+      "Id": "Level 4"
+    }
+  },
+  {
+    "SPL4SMGP": {
+      "ProcessingLevelDescription": "Modeled output or geophysical variables derived from multiple measurements",
+      "Id": "Level 4"
+    }
+  },
+  {
+    "SRTMGL1": {
+      "ProcessingLevelDescription": "GRID",
+      "Id": "3"
+    }
+  },
+  {
+    "rssmif10d": {
+      "Id": "3"
+    }
+  },
+  {
+    "rssmif11d": {
+      "Id": "3"
+    }
+  },
+  {
+    "rssmif13d": {
+      "Id": "3"
+    }
+  },
+  {
+    "rssmif14d": {
+      "Id": "3"
+    }
+  },
+  {
+    "rssmif15d": {
+      "Id": "3"
+    }
+  },
+  {
+    "rssmif16d": {
+      "Id": "3"
+    }
+  },
+  {
+    "rssmif17d": {
+      "Id": "3"
+    }
+  },
+  {
+    "rssmif08d": {
+      "Id": "3"
+    }
+  },
+  {
+    "SWDB_L305": {
+      "Id": "3"
+    }
+  },
+  {
+    "SWDB_L3M05": {
+      "Id": "3"
+    }
+  },
+  {
+    "ALT_TIDE_GAUGE_L4_OST_SLA_US_WEST_COAST_DAILY": {
+      "Id": "4"
+    }
+  },
+  {
+    "MERGED_TP_J1_OSTM_OST_CYCLES_V4": {
+      "Id": "2"
+    }
+  },
+  {
+    "RECON_SEA_LEVEL_OST_L4_V1": {
+      "Id": "4"
+    }
+  },
+  {
+    "GPM_2AGPROFTRMMTMI_CLIM": {
+      "Id": "2"
+    }
+  },
+  {
+    "GPM_1CTRMMTMI": {
+      "Id": "1"
+    }
+  },
+  {
+    "VNP02IMG_NRT": {
+      "Id": "1B"
+    }
+  },
+  {
+    "CLDMSK_L2_VIIRS_SNPP_NRT": {
+      "Id": "2"
+    }
+  },
+  {
+    "AERDB_L2_VIIRS_SNPP_NRT": {
+      "Id": "2"
+    }
+  },
+  {
+    "WELDAKYR": {
+      "ProcessingLevelDescription": "Geophysical Quantities at the sensor resolution or geolocated",
+      "Id": "1T"
+    }
+  },
+  {
+    "WELDAKMO": {
+      "ProcessingLevelDescription": "Geophysical Quantities at the sensor resolution or geolocated",
+      "Id": "1T"
+    }
+  },
+  {
+    "WELDAKSE": {
+      "ProcessingLevelDescription": "Geophysical Quantities at the sensor resolution or geolocated",
+      "Id": "1T"
+    }
+  },
+  {
+    "WELDUSYR": {
+      "ProcessingLevelDescription": "Geophysical Quantities at the sensor resolution or geolocated",
+      "Id": "1T"
+    }
+  },
+  {
+    "WELDUSMO": {
+      "ProcessingLevelDescription": "Geophysical Quantities at the sensor resolution or geolocated",
+      "Id": "1T"
+    }
+  },
+  {
+    "WELDUSSE": {
+      "ProcessingLevelDescription": "Geophysical Quantities at the sensor resolution or geolocated",
+      "Id": "1T"
+    }
+  },
+  {
+    "WELDLCLUC": {
+      "ProcessingLevelDescription": "Geophysical Quantities at the sensor resolution or geolocated",
+      "Id": "1T"
+    }
+  },
+  {
+    "NSIDC-0484": {
+      "ProcessingLevelDescription": "Geophysical variables mapped on a grid",
+      "Id": "Level 3"
+    }
+  },
+  {
+    "NISE": {
+      "ProcessingLevelDescription": "Geophysical variables mapped on a grid",
+      "Id": "Level 3"
+    }
+  },
+  {
+    "NISE": {
+      "ProcessingLevelDescription": "Geophysical variables mapped on a grid",
+      "Id": "Level 3"
+    }
+  },
+  {
+    "NISE": {
+      "ProcessingLevelDescription": "Geophysical variables mapped on a grid",
+      "Id": "Level 3"
+    }
+  },
+  {
+    "NISE": {
+      "Id": "Not provided"
+    }
+  },
+  {
+    "NSIDC-0478": {
+      "ProcessingLevelDescription": "Geophysical variables mapped on a grid",
+      "Id": "Level 3"
+    }
+  },
+  {
+    "NSIDC-0534": {
+      "ProcessingLevelDescription": "Geophysical variables mapped on a grid",
+      "Id": "Level 3"
+    }
+  },
+  {
+    "SPL3FTA": {
+      "ProcessingLevelDescription": "Geophysical variables mapped on a grid",
+      "Id": "Level 3"
+    }
+  },
+  {
+    "MYD14": {
+      "Id": "Not provided"
+    }
+  },
+  {
+    "MYD14": {
+      "ProcessingLevelDescription": "Geophysical Quantities at the sensor resolution or geolocated",
+      "Id": "2"
+    }
+  },
+  {
+    "MOD14": {
+      "Id": "Not provided"
+    }
+  },
+  {
+    "MOD14": {
+      "ProcessingLevelDescription": "Geophysical Quantities at the sensor resolution or geolocated",
+      "Id": "2"
+    }
+  },
+  {
+    "CIESIN_SEDAC_GRUMPv1_STLMNT01": {
+      "Id": "2"
+    }
+  },
+  {
+    "VNP14IMGTDL_NRT": {
+      "Id": "Not provided"
+    }
+  }
+]
